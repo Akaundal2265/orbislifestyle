@@ -1,0 +1,123 @@
+{{ 'pdp-ugc.css' | asset_url | stylesheet_tag }}
+
+{% liquid
+  assign ugc_title = section.settings.ugc_title
+  
+    assign ugcImgDeskLine = section.settings.ugc_line_desk
+    assign ugcImgMobLine = section.settings.ugc_line_mob
+  
+  
+  %}  
+<section class="pdp-ugc pdp-bg--blue">
+  <div class="l">
+
+        {% if ugc_title != '' %}
+          <h2 class="pdp-ugc__title pdp-title pdp-text--center pdp-text--black">
+            {{ ugc_title }}
+          </h2>
+        {% endif %}
+
+        {% if section.blocks.size > 0 %}
+          <div class="swiper-mobile swiper">
+            <div class="pdp-ugc__videos swiper-wrapper">
+              {% for block in section.blocks %}
+              
+                  {% liquid
+                      assign pdpUgcVideo = block.settings.pdp_ugc_video
+                      assign pdpUgcPoster = block.settings.pdp_ugc_poster | img_url: 'master'
+
+                  %}
+                  <div class="swiper-slide pdp-ugc__video">
+                    {{ pdpUgcVideo | video_tag: autoplay: false, loop: true, muted: false, controls: true, poster:pdpUgcPoster   }}
+                    </div>
+              {% endfor %}
+            </div>
+            <div class="slider-navigation">
+              <div class="swiper-button-prev-mob">
+                <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <rect width="40" height="40" rx="20" transform="matrix(-1 0 0 1 40 0)" fill="white"/>
+                  <path d="M18.75 13.75L12.5 20M12.5 20L18.75 26.25M12.5 20H27.5" stroke="#101123" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
+                  </svg>
+                
+              </div>
+
+              <div class="swiper-pagination-mob swiper-pagination"></div>
+
+              <div class="swiper-button-next-mob">
+                <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <rect width="40" height="40" rx="20" fill="white"/>
+                  <path d="M21.2501 13.7501L27.5001 20.0001M27.5001 20.0001L21.2501 26.2501M27.5001 20.0001H12.5001" stroke="#101123" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
+                  </svg>
+                  
+              </div>
+            </div>
+          </div>
+
+        {% endif %}
+
+        
+
+  </div>
+  {% if ugcImgDeskLine %}
+
+  <div class='pdp-ugc_desktop-line'>
+    {{ ugcImgDeskLine | image_url: width: auto | image_tag: class: 'pdp-image' }}
+
+  </div>
+  {% endif %}
+  {% if ugcImgMobLine %}
+
+  <div class='pdp-ugc_mob-line'>
+    {{ ugcImgMobLine | image_url: width: auto | image_tag: class: 'pdp-image' }}
+
+  </div>
+  {% endif %}
+</section>
+
+<script src="{{ 'pdp-swiper-mob.js' | asset_url }}" defer="defer"></script>
+
+{% schema %}
+  {
+    "name": "Pdp UGC",
+    "settings": [
+      {
+        "type": "text",
+        "id": "ugc_title",
+        "label": "Title"
+},
+    {
+      "type": "image_picker",
+      "id": "ugc_line_desk",
+      "label": "ugc shape desktop"
+    },
+    {
+      "type": "image_picker",
+      "id": "ugc_line_mob",
+      "label": "ugc shape mobile"
+    }
+    ],
+    "blocks": [
+      {
+        "type": "video",
+        "name": "Video",
+        "settings": [
+          {
+            "type": "video",
+            "id": "pdp_ugc_video",
+            "label": "A Shopify-hosted video"
+          },
+          {
+            "type": "image_picker",
+            "id": "pdp_ugc_poster",
+            "label": "A Shopify-hosted poster"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Pdp Ugc"
+      }
+    ]
+  }
+{% endschema %}

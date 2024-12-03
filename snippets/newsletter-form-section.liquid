@@ -1,0 +1,37 @@
+<div class="newsletter-form_hl">
+
+  {%- assign newsletter_form_id = 'newsletter-' | append: section_id -%}
+{% form 'customer', id: newsletter_form_id %}
+  {%- if form.posted_successfully? -%}
+    <div class="note note--success">
+        Thank you for subscribing! 
+    </div>
+  {%- endif -%}
+  {%- if form.errors and form.context == snippet_context -%}
+         Something went wrong.
+  {%- endif -%}
+
+  {%- unless form.posted_successfully? -%}
+    <label for="FirstName-{{ section_id }}" class="hidden-label">{{ 'Nome'  }}</label>
+    <input type="text" name="contact[first_name]" id="FirstName-{{ section_id }}" placeholder="{{ 'Nome' }}" class="input-group-field newsletter__input" autocorrect="off" autocapitalize="off" required>
+
+    <label for="Email-{{ section_id }}" class="hidden-label">{{ 'general.newsletter_form.newsletter_email' }}</label>
+    <label for="newsletter-form-submit-{{ section_id }}" class="hidden-label">{{ 'general.newsletter_form.submit' }}</label>
+    <input type="hidden" name="contact[tags]" value="prospect,newsletter">
+    <input type="hidden" name="contact[context]" value="{{ snippet_context }}">
+    <div class="input-group newsletter__input-group">
+      <input type="email" value="{% if customer %}{{ customer.email }}{% endif %}" placeholder="{{ 'Email' }}" name="contact[email]" id="Email-{{ section_id }}" class="input-group-field newsletter__input" autocorrect="off" autocapitalize="off" required>
+      <div class="input-group-btn">
+        <button type="submit" id="newsletter-form-submit-{{ section_id }}" class="btn" name="commit" aria-label="{{ 'general.newsletter_form.submit'  }}">
+          <span class="form__submit--large">{{ 'Submit'  }}</span>
+          <span class="form__submit--small">
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-arrow-right" viewBox="0 0 50 15"><title>icon-right-arrow</title><path d="M0 9.63V5.38h35V0l15 7.5L35 15V9.63Z"/></svg>
+          </span>
+        </button>
+      </div>
+    </div>
+  {%- endunless -%}
+{% endform %}
+
+
+</div>

@@ -1,0 +1,70 @@
+{%- liquid
+  assign hide_icon_labels = true
+  if nav_position == 'below'
+    assign hide_icon_labels = false
+  endif
+-%}
+
+<div class="site-nav">
+  <div class="site-nav__icons">
+    <a href="{{ routes.search_url }}" class="site-nav__link site-nav__link--icon js-search-header{% if nav_position == 'below' %} medium-up--hide{% endif %} js-no-transition">
+      <svg  aria-hidden="true" focusable="false" role="presentation" class="" width="23" height="22" viewBox="0 0 23 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M21.5398 21L16.058 15.5455M18.4307 9.44545C18.4307 11.1158 17.9354 12.7487 17.0074 14.1375C16.0794 15.5263 14.7604 16.6088 13.2172 17.248C11.674 17.8873 9.97588 18.0545 8.33763 17.7286C6.69937 17.4028 5.19453 16.5984 4.01341 15.4173C2.8323 14.2362 2.02795 12.7313 1.70208 11.0931C1.37621 9.45482 1.54345 7.75672 2.18267 6.21352C2.82189 4.67031 3.90436 3.35131 5.29321 2.42332C6.68206 1.49532 8.3149 1 9.98525 1C11.0943 1 12.1925 1.21845 13.2172 1.64287C14.2418 2.0673 15.1729 2.68938 15.9571 3.47362C16.7413 4.25785 17.3634 5.18887 17.7878 6.21352C18.2123 7.23817 18.4307 8.33638 18.4307 9.44545Z" stroke="black" stroke-width="2" stroke-miterlimit="10"/>
+        </svg>
+        
+      <span class="icon__fallback-text">{{ 'general.search.title' | t }}</span>
+    </a>
+
+    {%- if shop.customer_accounts_enabled -%}
+      <a class="site-nav__link site-nav__link--icon small--hide" href="{{ routes.account_url }}">
+
+        <svg aria-hidden="true" focusable="false" role="presentation" class=""  width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M10.8257 14.3333C7.30335 14.3333 4.17098 16.034 2.17676 18.6733C1.74755 19.2413 1.53294 19.5254 1.53996 19.9092C1.54539 20.2058 1.73161 20.5799 1.96495 20.763C2.26697 21 2.68551 21 3.52258 21H18.1287C18.9658 21 19.3843 21 19.6864 20.763C19.9197 20.5799 20.1059 20.2058 20.1113 19.9092C20.1184 19.5254 19.9038 19.2413 19.4746 18.6733C17.4803 16.034 14.348 14.3333 10.8257 14.3333Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M10.8257 11C13.5871 11 15.8257 8.76142 15.8257 6C15.8257 3.23858 13.5871 1 10.8257 1C8.06423 1 5.82565 3.23858 5.82565 6C5.82565 8.76142 8.06423 11 10.8257 11Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          
+        <span class="site-nav__icon-label small--hide{% if hide_icon_labels %} icon__fallback-text{% endif %}">
+          {{ 'layout.customer.account' | t }}
+        </span>
+      </a>
+    {%- endif -%}
+
+    <a href="{{ routes.cart_url }}"
+      id="HeaderCartTrigger"
+      aria-controls="HeaderCart"
+      class="site-nav__link site-nav__link--icon js-no-transition"
+      data-icon="{{ settings.cart_icon }}"
+      aria-label="{{ 'layout.cart.title' | t }}"
+    >
+      <span class="cart-link">
+        {%- if settings.cart_icon == 'cart' -%}
+          <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-cart" viewBox="0 0 64 64"><path style="stroke-miterlimit:10" d="M14 17.44h46.79l-7.94 25.61H20.96l-9.65-35.1H3"/><circle cx="27" cy="53" r="2"/><circle cx="47" cy="53" r="2"/></svg>
+        {%- elsif settings.cart_icon == 'bag-minimal' -%}
+          <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-bag-minimal" viewBox="0 0 64 64"><path data-name="svg 2" d="M22.53 16.61c0-7.1 4.35-9 9.75-9s9.75 1.9 9.75 9"/><path data-name="svg 4" d="M11.66 16.65h41.25V53.4H11.66z"/></svg>
+        {%- else -%}
+          <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-bag" viewBox="0 0 64 64"><path d="M24.23 18c0-7.75 3.92-14 8.75-14s8.74 6.29 8.74 14m-26.98 0h36.51l3.59 36.73h-43.7Z"/></svg>
+        {%- endif -%}
+        <span class="cart-link__bubble{% if cart.item_count > 0 %} cart-link__bubble--visible{% endif %}">
+          <span class="cart-link__bubble-num">{{ cart.item_count }}</span>
+        </span>
+      </span>
+      <span class="site-nav__icon-label small--hide{% if hide_icon_labels %} icon__fallback-text{% endif %}">
+        {{ 'layout.cart.title' | t }}
+      </span>
+    </a>
+
+    <button type="button"
+      aria-controls="MobileNav"
+      class="site-nav__link site-nav__link--icon medium-up--hide mobile-nav-trigger">
+      <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-hamburger" viewBox="0 0 64 64"><path d="M7 15h51">.</path><path d="M7 32h43">.</path><path d="M7 49h51">.</path></svg>
+      <span class="icon__fallback-text">{{ 'general.drawers.navigation' | t }}</span>
+    </button>
+  </div>
+
+  <div class="site-nav__close-cart">
+    <button type="button" class="site-nav__link site-nav__link--icon js-close-header-cart">
+      <span>{{ 'general.accessibility.close' | t }}</span>
+      <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 64 64"><path d="m19 17.61 27.12 27.13m0-27.13L19 44.74" style="stroke-miterlimit:10"/></svg>
+    </button>
+  </div>
+</div>

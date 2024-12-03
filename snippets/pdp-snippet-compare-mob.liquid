@@ -1,0 +1,236 @@
+<section class="pdp-compare pdp-compare--mob">
+  <div class="pdp-wrapper pdp-wrapper__position">
+    <div class="pdp-compare__content">
+      <header class="pdp-compare__header">
+        <h2 class="pdp-compare__title  pdp-title pdp-text--center">
+          {{pdpComparisonTitle}}
+        </h2>
+      </header>
+      <div class="pdp-compare__table">
+        <div class="pdp-compare__table-wrapper">
+          <div class="pdp-compare__col--first">
+            {% for table in tables %}
+            {% if table.type == 'row' %}
+            {% assign rowTitle = table.settings.table_row_text %}
+            <div class="pdp-compare__cell">
+              <p>{{ rowTitle }}</p>
+            </div>
+            {% assign rowLength = rowLength | plus: 1 %}
+            {% endif %}
+            {% endfor %}
+          </div>
+          <div class="pdp-compare__col pdp-compare__col--primary">
+            {%- if section.settings.logo != blank -%}
+            <div class="pdp-compare__cell logo-compare-cell">
+              <div class="logo">
+                {% if logo %}
+                {{ logo | image_url: width: auto | image_tag: class: 'pdp-image' }}
+                {% endif %}
+              </div>
+              <p>{{ colPrimaryTitle }}</p>
+            </div>
+            {% endif %}
+
+            {%- if rowLength > 0 -%}
+            {%- if colPrimaryRowOne != blank -%}
+            <div class="pdp-compare__cell"><span class='circle'>{{ colPrimaryRowOne }}</span></div>
+            {% else %}
+            <div class="pdp-compare__cell"><span class='circle'>{% render 'snippet-icon-tick-only' %}</span></div>
+            {%- endif -%}
+            {%- endif -%}
+
+            {%- if rowLength > 1 -%}
+            {%- if colPrimaryRowTwo != blank -%}
+            <div class="pdp-compare__cell"><span class='circle'>{{ colPrimaryRowTwo }}</span></div>
+            {% else %}
+            <div class="pdp-compare__cell"><span class='circle'>{% render 'snippet-icon-tick-only' %}</span></div>
+            {%- endif -%}
+            {%- endif -%}
+
+            {%- if rowLength > 2 -%}
+            {%- if colPrimaryRowTree != blank -%}
+            <div class="pdp-compare__cell"><span class='circle'>{{ colPrimaryRowTree }}</span></div>
+            {% else %}
+            <div class="pdp-compare__cell"><span class='circle'>{% render 'snippet-icon-tick-only' %}</span></div>
+            {%- endif -%}
+            {%- endif -%}
+
+            {%- if rowLength > 3 -%}
+            {%- if colPrimaryRowFour != blank -%}
+            <div class="pdp-compare__cell"><span class='circle'>{{ colPrimaryRowFour }}</span></div>
+            {% else %}
+            <div class="pdp-compare__cell"><span class='circle'>{% render 'snippet-icon-tick-only' %}</span></div>
+            {%- endif -%}
+            {%- endif -%}
+
+            {%- if rowLength > 4 -%}
+            {%- if colPrimaryRowFive != blank -%}
+            <div class="pdp-compare__cell"><span class='circle'>{{ colPrimaryRowFive }}</span></div>
+            {% else %}
+            <div class="pdp-compare__cell"><span class='circle'>{% render 'snippet-icon-tick-only' %}</span></div>
+            {%- endif -%}
+            {%- endif -%}
+
+            {%- if rowLength > 5 -%}
+            {%- if colPrimaryRowSix != blank -%}
+            <div class="pdp-compare__cell"><span class='circle'>{{ colPrimaryRowSix }}</span></div>
+            {% else %}
+            <div class="pdp-compare__cell"><span class='circle'>{% render 'snippet-icon-tick-only' %}</span></div>
+            {%- endif -%}
+            {%- endif -%}
+            {%- if rowLength > 6 -%}
+            {%- if colPrimaryRowSeven != blank -%}
+            <div class="pdp-compare__cell"><span class='circle'>{{ colPrimaryRowSeven }}</span></div>
+            {% else %}
+            <div class="pdp-compare__cell"><span class='circle'>{% render 'snippet-icon-tick-only' %}</span></div>
+            {%- endif -%}
+            {%- endif -%}
+            {%- if rowLength > 7 -%}
+            {%- if colPrimaryRowEight != blank -%}
+            <div class="pdp-compare__cell"><span class='circle'>{{ colPrimaryRowEight }}</span></div>
+            {% else %}
+            <div class="pdp-compare__cell"><span class='circle'>{% render 'snippet-icon-tick-only' %}</span></div>
+            {%- endif -%}
+            {%- endif -%}
+
+          </div>
+          <div class="swiper swiper-table">
+            <div class="swiper-wrapper">
+              {% for table in tables %}
+              {% if table.type == 'col' %}
+              {%liquid
+              assign colTitle = table.settings.table_col_text
+              assign rowOneText = table.settings.table_col_row_one_text
+              assign rowTwoText = table.settings.table_col_row_two_text
+              assign rowTreeText = table.settings.table_col_row_tree_text
+              assign rowFourText = table.settings.table_col_row_four_text
+              assign rowFiveText = table.settings.table_col_row_five_text
+              assign rowSixText = table.settings.table_col_row_six_text
+              assign rowSevenText = table.settings.table_col_row_seven_text
+              assign rowEightText = table.settings.table_col_row_eight_text
+              assign rowNineText = table.settings.table_col_row_nine_text
+              assign rowTenText = table.settings.table_col_row_ten_text
+
+              %}
+
+              <div class="swiper-slide">
+                <div class="pdp-compare__col">
+                  <div class="pdp-compare__cell">
+                    <p>{{ colTitle }}</p>
+                  </div>
+                  {%- if rowLength > 0 -%}
+                  {%- if rowOneText != blank -%}
+                  <div class="pdp-compare__cell"> {{ rowOneText }}</div>
+                  {%- elsif table.settings.table_col_row_one -%}
+                  <div class="pdp-compare__cell"><span class='circle black'>{% render 'snippet-icon-tick-only' %}</span>
+                  </div>
+                  {%- else -%}
+                  <div class="pdp-compare__cell">{% render 'snippet-icon-x-bold' %}</div>
+                  {%- endif -%}
+                  {%- endif -%}
+
+                  {%- if rowLength > 1 -%}
+                  {%- if rowTwoText != blank -%}
+                  <div class="pdp-compare__cell"> {{ rowTwoText }}</div>
+                  {%- elsif table.settings.table_col_row_two -%}
+                  <div class="pdp-compare__cell"><span class='circle black'>{% render 'snippet-icon-tick-only' %}</span>
+                  </div>
+                  {%- else -%}
+                  <div class="pdp-compare__cell">{% render 'snippet-icon-x-bold' %}</div>
+                  {%- endif -%}
+                  {%- endif -%}
+
+                  {%- if rowLength > 2 -%}
+                  {%- if rowTreeText != blank -%}
+                  <div class="pdp-compare__cell"> {{ rowTreeText }}</div>
+                  {%- elsif table.settings.table_col_row_tree -%}
+                  <div class="pdp-compare__cell"><span class='circle black'>{% render 'snippet-icon-tick-only' %}</span>
+                  </div>
+                  {%- else -%}
+                  <div class="pdp-compare__cell">{% render 'snippet-icon-x-bold' %}</div>
+                  {%- endif -%}
+                  {%- endif -%}
+
+                  {%- if rowLength > 3 -%}
+                  {%- if rowFourText != blank -%}
+                  <div class="pdp-compare__cell"> {{ rowFourText }}</div>
+                  {%- elsif table.settings.table_col_row_four -%}
+                  <div class="pdp-compare__cell"><span class='circle black'>{% render 'snippet-icon-tick-only' %}</span>
+                  </div>
+                  {%- else -%}
+                  <div class="pdp-compare__cell">{% render 'snippet-icon-x-bold' %}</div>
+                  {%- endif -%}
+                  {%- endif -%}
+
+                  {%- if rowLength > 4 -%}
+                  {%- if rowFiveText != blank -%}
+                  <div class="pdp-compare__cell"> {{ rowFiveText }}</div>
+                  {%- elsif table.settings.table_col_row_five-%}
+                  <div class="pdp-compare__cell"><span class='circle black'>{% render 'snippet-icon-tick-only' %}</span>
+                  </div>
+                  {%- else -%}
+                  <div class="pdp-compare__cell">{% render 'snippet-icon-x-bold' %}</div>
+                  {%- endif -%}
+                  {%- endif -%}
+
+                  {%- if rowLength > 5 -%}
+                  {%- if rowSixText != blank -%}
+                  <div class="pdp-compare__cell"> {{ rowSixText }}</div>
+                  {%- elsif table.settings.table_col_row_six-%}
+                  <div class="pdp-compare__cell"><span class='circle black'>{% render 'snippet-icon-tick-only' %}</span>
+                  </div>
+                  {%- else -%}
+                  <div class="pdp-compare__cell">{% render 'snippet-icon-x-bold' %}</div>
+                  {%- endif -%}
+                  {%- endif -%}
+                  {%- if rowLength > 6 -%}
+                  {%- if rowSevenText != blank -%}
+                  <div class="pdp-compare__cell"> {{ rowSevenText }}</div>
+                  {%- elsif table.settings.table_col_row_seven-%}
+                  <div class="pdp-compare__cell"><span class='circle black'>{% render 'snippet-icon-tick-only' %}</span>
+                  </div>
+                  {%- else -%}
+                  <div class="pdp-compare__cell">{% render 'snippet-icon-x-bold' %}</div>
+                  {%- endif -%}
+                  {%- endif -%}
+                  {%- if rowLength > 7 -%}
+                  {%- if rowEightText != blank -%}
+                  <div class="pdp-compare__cell"> {{ rowEightText }}</div>
+                  {%- elsif table.settings.table_col_row_eight-%}
+                  <div class="pdp-compare__cell"><span class='circle black'>{% render 'snippet-icon-tick-only' %}</span>
+                  </div>
+                  {%- else -%}
+                  <div class="pdp-compare__cell">{% render 'snippet-icon-x-bold' %}</div>
+                  {%- endif -%}
+                  {%- endif -%}
+
+                </div>
+              </div>
+              {% endif %}
+              {% endfor %}
+            </div>
+            <div class="slider-navigation">
+              <div class="swiper-button-prev-compare">
+                <svg width="40" height="41" viewBox="0 0 40 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <rect width="40" height="40" rx="20" transform="matrix(-1 0 0 1 40 0.73584)" fill="#101123" />
+                  <path d="M18.75 14.4858L12.5 20.7358M12.5 20.7358L18.75 26.9858M12.5 20.7358H27.5" stroke="white"
+                    stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" />
+                </svg>
+              </div>
+
+              <div class="swiper-pagination swiper-pagination-compare"></div>
+
+              <div class="swiper-button-next-compare">
+                <svg width="40" height="41" viewBox="0 0 40 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <rect y="0.73584" width="40" height="40" rx="20" fill="#101123" />
+                  <path d="M21.2501 14.486L27.5001 20.736M27.5001 20.736L21.2501 26.986M27.5001 20.736H12.5001"
+                    stroke="white" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

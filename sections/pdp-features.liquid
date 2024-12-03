@@ -1,0 +1,93 @@
+{{ 'pdp-features.css' | asset_url | stylesheet_tag }}
+
+{% liquid
+  assign features_title = section.settings.features_title
+  assign featuresImgDesktop = section.settings.features_image
+%}
+
+<section class='pdp-features pdp-bg--white'>
+  <div class="l">
+
+        {% if features_title != '' %}
+          <h2 class="pdp-features__title pdp-title pdp-text--center pdp-text--black">
+            {{ features_title }}
+          </h2>
+        {% endif %}    
+        <div class="pdp-features__content">
+            <div class="pdp-features__image">
+                {% if featuresImgDesktop %}
+                  {{ featuresImgDesktop | image_url: width: auto | image_tag: class: 'pdp-image' }}
+                {% endif %}
+              </div>
+              {% for info in section.blocks %}
+    
+                {% liquid  
+                assign featuresText = info.settings.features_text
+                assign featuresHeading = info.settings.features_heading
+    
+                assign featuresImg = info.settings.features_img
+    
+               %}
+                <div class="pdp-features__item">
+                    <div class="pdp-features__icon">
+                        <svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <rect x="0.416656" y="0.73584" width="24" height="24" rx="12" fill="#C3E6F9"/>
+                        </svg>         
+                    </div>
+                    <div class="pdp-features__box">
+                      <p class="features__item-heading">
+                        {{ featuresHeading }}
+                    </p>
+                    <p class="features__item-text">
+                        {{ featuresText }}
+                    </p>
+                    </div>
+                    
+                </div>
+            {% endfor %} 
+            
+      </div>
+
+  </div>
+</section>
+
+{% schema %}
+  {
+    "name": "PDP Features",
+    "settings": [
+      {
+        "type": "text",
+        "id": "features_title",
+        "label": "Section Title"
+      },
+      {
+          "type": "image_picker",
+          "id": "features_image",
+          "label": "Features Image"
+        }
+    ],
+    "blocks": [
+      {
+        "type": "content",
+        "name": "Features content",
+        "settings": [
+        {
+          "type": "text",
+          "id": "features_heading",
+          "label": "props Heading"
+        },
+        {
+          "type": "text",
+          "id": "features_text",
+          "label": "props Text"
+        }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "PDP Features"
+      }
+    ]
+  }
+{% endschema %}

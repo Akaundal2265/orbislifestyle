@@ -1,0 +1,76 @@
+{{ 'pdp-polise.css' | asset_url | stylesheet_tag }}
+
+<section class="b-polise pdp-bg--white">
+    <div class="l">
+    <div class="b-polise__wrapper">
+
+        {% for info in section.blocks %}
+
+            {% liquid  
+            assign poliseText = info.settings.polise_text
+            assign poliseImg = info.settings.polise_img
+
+           %}
+            <div class="b-polise__item">
+                <div class="b-polise__image">
+                    {% if poliseImg %}
+                      {{ poliseImg | image_url: width: auto | image_tag: class: 'pdp-image' }}
+                    {% endif %}
+                </div>
+
+                <p class="polise__item-text">
+                    {{ poliseText }}
+                </p>
+    
+            </div>
+        {% endfor %} 
+      </div>
+    
+      </div>
+   
+</section>
+
+
+
+
+    
+{% schema %}
+    {
+      "name": "PDP Polise",
+      "settings": [
+        {
+      "type": "header",
+      "content": "Layout"
+    }
+      ],
+      "blocks": [
+        {
+      "type": "info-icon",
+      "name": "Information Icons",
+      "settings": [
+         {
+          "type": "header",
+          "content": "Enter content for information icons"
+        },
+
+        {
+          "type": "image_picker",
+          "id": "polise_img",
+          "label": "Polise icon"
+        },
+        {
+          "type": "text",
+          "id": "polise_text",
+          "label": "Polise Text"
+        }
+
+      ] 
+    }
+      ],
+      "presets": [
+        {
+            "name": "PDP Polise"
+        }
+      ]
+    }
+  {% endschema %}

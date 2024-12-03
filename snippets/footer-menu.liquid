@@ -1,0 +1,29 @@
+<h2 class="footer__title h4">
+  {%- if block.settings.title == blank -%}
+    {%- if block.settings.heading_link != blank -%}
+      <a href="{{ block.settings.heading_link }}">  
+        {{ linklists[block.settings.menu].title }}
+      </a>
+    {%- else -%}
+      {{ linklists[block.settings.menu].title }}
+    {%- endif -%}
+
+  {%- else -%}
+    {%- if block.settings.heading_link != blank -%}
+    <a href="{{ block.settings.heading_link }}">
+      {{ block.settings.title }}
+    </a>
+    {%- else -%}
+      {{ block.settings.title }}
+    {%- endif -%}
+  {%- endif -%}
+</h2>
+
+<ul class="footer__menu">
+  {%- for link in linklists[block.settings.menu].links -%}
+    <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {%- endfor -%}
+  {%- if block.settings.enable_account_link -%}
+    <li><a href="{{ routes.account_url }}">{{ 'customer.account.title' | t }}</a></li>
+  {%- endif -%}
+</ul>

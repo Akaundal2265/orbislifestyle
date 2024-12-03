@@ -1,0 +1,125 @@
+{{ 'pdp-props.css' | asset_url | stylesheet_tag }}
+
+{% liquid
+  assign bg_box_color = section.settings.bg_box_color
+
+  assign propImgDeskLine = section.settings.prop_line_desk
+  assign propImgMobLine = section.settings.prop_line_mob
+
+  assign pdpPropsPadding = section.settings.pdp_props_padding
+
+
+%}
+
+
+<section class="pdp-props pdp-bg--white {% if pdpPropsPadding %} pdp-props__padding {% endif %}">
+  <div class="l">
+    <div class="pdp-props__wrapper">
+      {% for info in section.blocks %}
+        {% liquid  
+          assign propsText = info.settings.props_text
+          assign propsHeading = info.settings.props_heading
+          assign propsImg = info.settings.props_img
+        %}
+
+        <div class="pdp-props__item" style="background-color: {{ bg_box_color }} !important;">
+          <div class="pdp-props__image">
+            {% if propsImg %}
+              <img  data-class="LazyLoad"  data-src="{{ propsImg |  img_url :'master' }}" src="{{ propsImg |  img_url :'40x' }}" class='pdp-image' >
+            {% endif %}
+          </div>
+
+          <p class="props__item-heading">
+            {{ propsHeading }}
+          </p>
+          <div class="props__item-text">
+            {{ propsText }}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  {% if propImgDeskLine %}
+    <div class="pdp-ugc_desktop-line">
+        <img  data-class="LazyLoad"  data-src="{{ propImgDeskLine |  img_url :'master' }}" src="{{ propImgDeskLine |  img_url :'40x' }}" class='pdp-image' >
+    </div>
+  {% endif %}
+
+  {% if propImgMobLine %}
+    <div class="pdp-ugc_mob-line">
+  
+           <img  data-class="LazyLoad"   data-src="{{ propImgMobLine |  img_url :'master' }}" src="{{ propImgMobLine |  img_url :'40x' }}" class='pdp-image' >
+    </div>
+  {% endif %}
+</section>
+
+
+    
+{% schema %}
+    {
+      "name": "PDP props",
+      "class": "prop-section-parent",
+
+      "settings": [
+        
+        {
+          "type": "color",
+          "id": "bg_box_color",
+          "label": "Box background color"
+        },
+
+        {
+            "type": "checkbox",
+            "id": "pdp_props_padding",
+            "label": "Check for bigger padding bottom"
+          },
+
+          {
+            "type": "image_picker",
+            "id": "prop_line_desk",
+            "label": "props shape desktop"
+          },
+          {
+            "type": "image_picker",
+            "id": "prop_line_mob",
+            "label": "props shape mobile"
+          }
+          
+            ],
+      "blocks": [
+        {
+      "type": "info-icon",
+      "name": "Information Icons",
+      "settings": [
+         {
+          "type": "header",
+          "content": "Enter content for information icons"
+        },
+
+        {
+          "type": "image_picker",
+          "id": "props_img",
+          "label": "props icon"
+        },
+        {
+          "type": "text",
+          "id": "props_heading",
+          "label": "props Heading"
+        },
+        {
+          "type": "richtext",
+          "id": "props_text",
+          "label": "props Text"
+        }
+
+      ] 
+    }
+      ],
+      "presets": [
+        {
+            "name": "PDP props"
+        }
+      ]
+    }
+  {% endschema %}

@@ -1,0 +1,172 @@
+{{ 'b-collection-list.css' | asset_url | stylesheet_tag }}
+
+{% liquid
+  assign section_target = section.settings.section_target
+  assign bg_color = section.settings.bg_color
+  assign bg_gradient_1 = section.settings.bg_gradient_1
+  assign bg_gradient_2 = section.settings.bg_gradient_2
+  assign padding_top = section.settings.padding_top
+  assign padding_bottom = section.settings.padding_bottom
+  assign padding_top_desk = section.settings.padding_top_desk
+  assign padding_bottom_desk = section.settings.padding_bottom_desk
+%}
+
+{% style %}
+  .{{ section.id }} {
+    position: relative;
+    background-color: {{ bg_color }};
+    background-image: linear-gradient(to top, {{ bg_gradient_1 }} 0%, {{ bg_gradient_2 }} 100%);
+    padding-top: {{ padding_top }}px;
+    padding-bottom: {{ padding_bottom }}px;
+  }
+  @media (min-width: 768px) {
+    .{{ section.id }} {
+      padding-top: {{ padding_top_desk }}px;
+      padding-bottom: {{ padding_bottom_desk }}px;
+    }
+  }
+{% endstyle %}
+
+<section class="{{ section.id }} b-collection-list" id="{{ section_target }}">
+  <h2 class="b-collection-list__title">{{ section.settings.section_title }}</h2>
+  <div class="l">
+
+
+    <div class="c-collection-list__filter-sticky">
+      <div class="c-collection-list__filter w3_bg">
+        <button class="filter-toggle">
+          <img
+            src=""
+            alt="Selected Icon"
+            class="selected-filter-icon"
+            style="display: none;">
+          <span class="filter-toggle-text">Select Filter</span>
+          <span class="arrow">
+            <svg
+              width="13"
+              height="7"
+              viewBox="0 0 13 7"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg">
+              <path d="M0.769532 0.841921C0.76952 0.675411 0.818888 0.512631 0.911391 0.374181C1.0039 0.235721 1.13538 0.127811 1.28922 0.0640911C1.44306 0.00036113 1.61233 -0.0163088 1.77565 0.0161812C1.93896 0.0486712 2.08897 0.128861 2.20671 0.246611L6.77055 4.81045L11.3344 0.246611C11.4925 0.0896311 11.7063 0.00171111 11.9291 0.00210111C12.1519 0.00249111 12.3654 0.091161 12.5229 0.248691C12.6805 0.406211 12.7691 0.619751 12.7695 0.842531C12.7699 1.06531 12.682 1.27916 12.525 1.43724L7.36586 6.59639C7.28769 6.67458 7.19488 6.73659 7.09273 6.77891C6.99059 6.82122 6.88111 6.843 6.77055 6.843C6.65999 6.843 6.55051 6.82122 6.44836 6.77891C6.34622 6.73659 6.25341 6.67458 6.17523 6.59639L1.01608 1.43724C0.937787 1.35914 0.875704 1.26635 0.833393 1.16418C0.791082 1.06202 0.76938 0.952501 0.769532 0.841921Z" fill="#27304D" />
+            </svg>
+          </span>
+        </button>
+        <div class="filter-items">
+          {% for tab in section.blocks %}
+            <div class="c-collection-list__filter-item tab-filter-{{ forloop.index }} w3_bg" onclick="selectFilter(this, {{ forloop.index }})">
+              {% if tab.settings.collection_icon != blank %}
+                <img
+                  data-class="LazyLoad"
+                  data-src="{{ tab.settings.collection_icon | img_url: 'master' }}"
+                  src="{{ tab.settings.collection_icon | img_url: '40x' }}"
+                  class="filter-icon">
+                <p class="b-collection-list__title">{{ tab.settings.collection_title }}</p>
+              {% endif %}
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+
+    <div class="c-collection-list__items">
+      {% for collection in section.blocks %}
+        <div class="c-collection-list__items-container tab-container-{{ forloop.index }} 
+          {% if forloop.first %}active{% else %}hidden{% endif %}">
+          {% for item in collection.settings.collection.products %}
+            <div class="c-collection-list__item">
+              {%- if item.object_type == 'product' -%}
+                {% render 'collection-product-card' product: item %}
+              {% endif %}
+            </div>
+          {% endfor %}
+        </div>
+      {% endfor %}
+    </div>
+
+
+  </div>
+</section>
+
+<script src='{{ 'b-collection-list.js' | asset_url }}' defer='defer'></script>
+
+
+{% schema %}
+  {
+    "name": "Collection Tab Filter",
+
+    "settings": [
+      {
+        "type": "header",
+        "content": "Section Settings"
+      },
+      {
+        "type": "text",
+        "id": "section_target",
+        "label": "Section Target"
+      },
+      {
+        "type": "color",
+        "id": "bg_color",
+        "label": "Section background color"
+      },
+      {
+        "type": "color",
+        "id": "bg_gradient_1",
+        "label": "Section gradient color first"
+      }, {
+        "type": "color",
+        "id": "bg_gradient_2",
+        "label": "Section gradient color second"
+      }, {
+        "type": "text",
+        "id": "padding_top",
+        "label": "Section padding top - small screens"
+      }, {
+        "type": "text",
+        "id": "padding_bottom",
+        "label": "Section padding top - small screens"
+      }, {
+        "type": "text",
+        "id": "padding_top_desk",
+        "label": "Section padding top - large screens"
+      }, {
+        "type": "text",
+        "id": "padding_bottom_desk",
+        "label": "Section padding top - large screens"
+      }, {
+        "type": "text",
+        "id": "section_title",
+        "label": "Enter title",
+        "default": "Abbinalo con"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "collection",
+        "name": "Collection tab",
+        "settings": [
+          {
+            "type": "collection",
+            "id": "collection",
+            "label": "Chose collection in tab"
+          }, {
+            "type": "text",
+            "id": "collection_title",
+            "label": "Enter alternate title"
+
+          }, {
+            "type": "image_picker",
+            "id": "collection_icon",
+            "label": "Upload icon"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Collection Tab Filter"
+      }
+    ]
+  }
+{% endschema %}

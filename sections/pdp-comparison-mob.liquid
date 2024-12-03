@@ -1,0 +1,260 @@
+{{ 'pdp-comparison.css' | asset_url | stylesheet_tag }}
+
+{% liquid
+  
+  assign rowLength = 0
+  assign tableSectionContent = section.settings.table_content
+  assign logo = section.settings.table_image
+
+  assign colPrimaryTitle = section.settings.table_col_primary_text
+  assign colPrimaryImage = section.settings.table_image
+  assign colPrimaryRowOne = section.settings.table_col_primary_text_one
+  assign colPrimaryRowTwo = section.settings.table_col_primary_text_two
+  assign colPrimaryRowTree = section.settings.table_col_primary_text_tree
+  assign colPrimaryRowFour = section.settings.table_col_primary_text_four
+  assign colPrimaryRowFive = section.settings.table_col_primary_text_five
+  assign colPrimaryRowSix = section.settings.table_col_primary_text_six
+  assign colPrimaryRowSeven = section.settings.table_col_primary_text_seven
+  assign colPrimaryRowEight = section.settings.table_col_primary_text_eight
+  assign colPrimaryRowNine = section.settings.table_col_primary_text_nine
+  assign colPrimaryRowNineCheck = section.settings.table_col_primary_text_nine_checkbox
+
+  assign pdpComparisonTitle = section.settings.table_title
+  render 'pdp-snippet-compare-mob', logo: logo, pdpComparisonTitle: pdpComparisonTitle, rowLength: rowLength, imageTable: colPrimaryImage, tableSectionTitle: tableSectionTitle, tableSectionContent: tableSectionContent, colPrimaryTitle: colPrimaryTitle, colPrimaryRowOne: colPrimaryRowOne, colPrimaryRowTwo: colPrimaryRowTwo, colPrimaryRowTree: colPrimaryRowTree, colPrimaryRowFour: colPrimaryRowFour, colPrimaryRowFive: colPrimaryRowFive, colPrimaryRowSix: colPrimaryRowSix, colPrimaryRowSeven: colPrimaryRowSeven, colPrimaryRowEight: colPrimaryRowEight, colPrimaryRowNine: colPrimaryRowNine, colPrimaryRowNineCheck: colPrimaryRowNineCheck, tables: section.blocks
+%}
+<script src="{{ 'pdp-swiper-table.js' | asset_url }}" defer="defer"></script>
+
+{% schema %}
+{
+  "name": "PDP Comparison mob",
+  "settings": [
+    {
+      "type": "text",
+      "id": "table_title",
+      "label": "Table Title"
+    },
+    {
+      "type": "header",
+      "content": "header"
+    },
+    {
+      "type": "checkbox",
+      "id": "logo",
+      "label": "LOGO",
+      "default": false
+    },
+    {
+      "type": "image_picker",
+      "id": "table_image",
+      "label": "Upload image"
+    },
+    {
+      "type": "text",
+      "id": "table_col_primary_text",
+      "label": "Column text"
+    },
+    {
+      "type": "header",
+      "content": "header"
+    },
+    {
+      "type": "text",
+      "id": "table_col_primary_text_one",
+      "label": "Column text"
+    },
+    {
+      "type": "header",
+      "content": "header two"
+    },
+    {
+      "type": "text",
+      "id": "table_col_primary_text_two",
+      "label": "Column text"
+    },
+    {
+      "type": "header",
+      "content": "header tree"
+    },
+    {
+      "type": "text",
+      "id": "table_col_primary_text_tree",
+      "label": "Column text"
+    },
+    {
+      "type": "header",
+      "content": "header four"
+    },
+    {
+      "type": "text",
+      "id": "table_col_primary_text_four",
+      "label": "Column text"
+    },
+    {
+      "type": "header",
+      "content": "header five"
+    },
+    {
+      "type": "text",
+      "id": "table_col_primary_text_five",
+      "label": "Column text"
+    },
+    {
+      "type": "header",
+      "content": "header six"
+    },
+    {
+      "type": "text",
+      "id": "table_col_primary_text_six",
+      "label": "Column text"
+    },
+    {
+      "type": "header",
+      "content": "header seven"
+    },
+    {
+      "type": "text",
+      "id": "table_col_primary_text_seven",
+      "label": "Column text"
+    },
+    {
+      "type": "header",
+      "content": "header eight"
+    },
+    {
+      "type": "text",
+      "id": "table_col_primary_text_eight",
+      "label": "Column text"
+    },
+    {
+      "type": "header",
+      "content": "header nine"
+    },
+    {
+      "type": "text",
+      "id": "table_col_primary_text_nine",
+      "label": "Column text"
+    },
+    {
+      "type": "checkbox",
+      "id": "table_col_primary_text_nine_checkbox",
+      "label": "Column checkbox"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "row",
+      "limit": 10,
+      "name": "Row name",
+      "settings": [
+        {
+          "type": "text",
+          "id": "table_row_text",
+          "label": "Row title"
+        }
+      ]
+    },
+    {
+      "type": "col",
+      "limit": 3,
+      "name": "Column name",
+      "settings": [
+        {
+          "type": "header",
+          "content": "Title row label"
+        },
+        {
+          "type": "text",
+          "id": "table_col_text",
+          "label": "Title column label"
+        },
+        {
+          "type": "header",
+          "content": "Check for icon tick"
+        },
+        {
+          "type": "checkbox",
+          "id": "table_col_row_one",
+          "label": "Column one"
+        },
+        {
+          "type": "header",
+          "content": "Check for icon tick"
+        },
+        {
+          "type": "checkbox",
+          "id": "table_col_row_two",
+          "label": "Column two"
+        },
+        {
+          "type": "header",
+          "content": "Check for icon tick"
+        },
+        {
+          "type": "checkbox",
+          "id": "table_col_row_tree",
+          "label": "Column three"
+        },
+        {
+          "type": "header",
+          "content": "Check for icon tick"
+        },
+        {
+          "type": "checkbox",
+          "id": "table_col_row_four",
+          "label": "Column four"
+        },
+        {
+          "type": "header",
+          "content": "Check for icon tick"
+        },
+        {
+          "type": "checkbox",
+          "id": "table_col_row_five",
+          "label": "Column five"
+        },
+        {
+          "type": "header",
+          "content": "Check for icon tick"
+        },
+        {
+          "type": "checkbox",
+          "id": "table_col_row_six",
+          "label": "Column six"
+        },
+        {
+          "type": "header",
+          "content": "Check for icon tick"
+        },
+        {
+          "type": "checkbox",
+          "id": "table_col_row_seven",
+          "label": "Column seven"
+        },
+        {
+          "type": "header",
+          "content": "Check for icon tick"
+        },
+        {
+          "type": "checkbox",
+          "id": "table_col_row_eight",
+          "label": "Column eight"
+        },
+        {
+          "type": "header",
+          "content": "Check for icon tick"
+        },
+        {
+          "type": "checkbox",
+          "id": "table_col_row_nine",
+          "label": "Column nine"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "PDP Comparison Mobile"
+    }
+  ]
+}
+{% endschema %}

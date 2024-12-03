@@ -1,0 +1,298 @@
+.site-footer-new .footer-section__bottom-box {
+    display: flex;
+    gap: 16px;
+    flex-direction: column;
+}
+.site-footer-new .footer__blocks {
+    justify-content: space-between;
+    flex: 1;
+    gap: 20px 0;
+}
+
+.site-footer-new .footer__mobile-section {
+    border: unset;
+    padding: 0;
+    margin: 0;
+}
+.site-footer-new .footer__section {
+    border-top-color: var(--colorFooterBorder);
+    border: unset;
+}
+.site-footer-new .footer__section__logo{
+    max-width: 129px;
+    max-height: 36px;
+}
+
+.site-footer-new .footer-wrapper{
+    max-width: 1200px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+.site-footer-new .footer__block {
+    max-width: 250px
+}
+
+
+.site-footer-new .footer-section__bottom-text {
+    line-height: 18px;
+    font-size: 12px;
+}
+
+
+.site-footer-new .footer__title {
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 500;
+}
+
+.site-footer-new .footer__block--contact .footer__title,
+.site-footer-new .footer__block--payment .footer__title{
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.site-footer-new .footer__block--payment{
+    font-weight:400;
+
+}
+
+.site-footer-new .footer-section__bottom {
+    border-top:1px solid rgba(0,0,0,0.3) !important;
+}
+
+.site-footer-new .footer__block--payment{
+    font-weight:400;
+
+}
+
+.site-footer-new .footer__block {
+    max-width: 50% !important;
+}
+
+.site-footer-new .footer__block--contact {
+    max-width: 100% !important;
+}
+
+/*NEWSLETTER FORM*/
+.site-footer-new .footer__block-newsletter {
+    padding: 0;
+    flex-direction: column;
+    justify-content: left;
+    min-width: 100%;
+    align-items: flex-start;
+
+}
+
+.site-footer-new .footer__block-newsletter {
+    padding: 0;
+}
+.site-footer-new .footer__newsletter>* {
+    padding: 0;
+}
+
+.site-footer-new .input-group-field {
+    background: #fff;
+    border-radius: 24px;
+    max-height: 36px;
+    font-size: 13px;
+}
+
+.site-footer-new .form__submit--large {
+    display: block
+}
+
+.site-footer-new .form__submit--small {
+   display: none;
+}
+.site-footer-new .newsletter__input-group button {
+    background: #E10B17;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 13px;
+    max-width: 110px;
+    line-height: 13px;
+    height: 36px;
+}
+.site-footer-new .footer__block--payment .footer__blocks--mobile {
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+}
+.site-footer-new .footer__block--payment .footer__blocks--mobile  .footer-payments-childdiv{
+    max-width:50%;
+}
+
+.site-footer-new .footer__block--payment {
+    font-weight: 400;
+    min-width: 100%;
+}
+.site-footer-new .footer__block.footer__block--contact.w3_bg {
+    min-width: 100%;
+}
+.site-footer-new .footer__block--contact .footer__block--mobile {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+
+
+.site-footer-new .footer__block--contact .footer__block--mobile .footer__social-wrapp,
+.site-footer-new .footer__block--contact .footer__block--mobile .footer__menu{
+    width: 50%;
+}
+
+
+.site-footer-new .faux-select.disclosure__toggle {
+    border-radius: 8px;
+    width: 100%;
+    font-size: 12px;
+    padding: 3px 14px;
+}
+
+.site-footer-new .multi-selectors__item {
+    width: 100%;
+}
+
+.site-footer-new .site-footer .faux-select {
+    width: 100%;
+    border-radius: 8px;
+}
+.site-footer-new ul.no-bullets.social-icons.footer__social {
+    display: flex;
+}
+
+.site-footer-new .site-footer .footer__section {
+    border: unset;
+}
+
+.site-footer-new .footer__subscribe.rte.rte--nomargin{
+    font-size: 16px;
+}
+
+.site-footer-new .footer__menu {
+    font-size: 14px;
+        letter-spacing: 0;
+        text-wrap: nowrap;
+}
+
+.site-footer-new .footer__menu.footer__menu--underline {
+    font-size: 12px;
+}
+
+.site-footer-new .footer__text-after-form p {
+    font-size: 11px;
+    line-height: 18px;
+    text-align: left;
+    max-width: 250px;
+    margin-top: 12px;
+}
+
+.site-footer-new #Email-footer-new::placeholder {
+    font-size: 13px;
+}
+
+@media only screen and (min-width: 600px) {
+    .site-footer-new {
+        padding: 6px 0 18px 0;
+    }
+
+    .site-footer-new .footer__blocks {
+        flex-wrap: nowrap;
+        gap: 55px;
+    }
+    .site-footer-new .footer-section__bottom-text {
+        line-height: 24px;
+        font-size: 16px;
+    }
+
+    .site-footer-new .footer-wrapper{
+        padding: 0;
+    }
+
+    .site-footer-new .footer__title {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .site-footer-new .footer-section__bottom-box {
+        gap: 28px;
+        flex-direction: row;
+    }
+    
+    .site-footer-new .footer__block.footer__block--contact.w3_bg {
+        min-width: unset;
+    }
+    .site-footer-new .footer__block--payment {
+        min-width: unset;
+    }
+    .site-footer-new .footer__block-newsletter {
+        min-width: unset;
+    }
+    .site-footer-new .footer__block--payment .footer__blocks--mobile  .footer-payments-childdiv{
+        max-width:unset;
+    }
+    .site-footer-new .footer__block--contact .footer__block--mobile {
+        flex-direction: column;
+    }
+
+    .site-footer-new .footer__block--contact .footer__block--mobile .footer__social-wrapp,
+    .site-footer-new .footer__block--contact .footer__block--mobile .footer__menu
+    {
+        width: 100%;
+    }
+
+    .site-footer-new .footer__block {
+    max-width: unset !important;
+}
+
+/*NEWSLETTER FORM*/
+.site-footer-new .footer__block-newsletter {
+    gap: 15px;
+    min-width: none;
+}
+
+.site-footer-new .input-group-field {
+    max-width: 170px;
+}
+    
+/*LANGUAGE BAR*/
+
+.site-footer-new .disclosure {
+    width: 250px;
+}
+
+.site-footer-new .faux-select.disclosure__toggle {
+    width: 250px;
+    border-radius: 8px;
+        font-size: 16px;
+        padding: 4px 14px;
+    }
+.site-footer-new .disclosure-list {
+    width: 250px;
+}
+
+.site-footer-new .footer__block--payment .footer__blocks--mobile.w3_bg {
+    flex-direction: row;
+}
+
+.site-footer-new .footer__subscribe.rte.rte--nomargin {
+    font-size: 18px;
+}
+
+.site-footer-new .footer__menu {
+    font-size: 16px;
+}
+
+.site-footer-new .footer__menu.footer__menu--underline {
+    font-size: 13px;
+}
+.site-footer-new .footer__text-after-form p {
+    margin-top: 0;
+}
+.site-footer-new .footer__block.footer__block--contact .footer__title,
+.site-footer-new .footer__block--payment .footer__title{
+    font-size: 18px;
+    line-height: 24px;
+}
+
+}

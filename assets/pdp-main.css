@@ -1,0 +1,352 @@
+.product-section-heylander .page-content--product {
+    padding-bottom: 32px;
+    padding-top: 32px;
+    background: #fff;
+}
+.product-section-heylander .page-width {
+    padding: 0;
+    max-width: 1180px;
+    padding: 0 20px;
+}
+.product-section-heylander .product-single__meta {
+    padding: 0;
+}
+
+.product-section-heylander .product__policies,
+.product-section-heylander .kaching-bundles__block-title {
+    display: none !important;
+}
+
+.product-section-heylander .kaching-bundles__bar-title {
+    font-size: 16px !important;
+}
+
+.product-section-heylander .notranslate.ht-money {
+    font-size: 16px;
+}
+
+.product-section-heylander .kaching-bundles__bar-full-price.w3_bg .notranslate.ht-money {
+    font-size: 12px;
+}
+
+.product-section-heylander .kaching-bundles .kaching-bundles__bar :checked+.kaching-bundles__bar-container .kaching-bundles__bar-radio {
+
+    box-shadow: 0 0 0 1px var(--bar-selected-border-color, #000);
+}
+.product-section-heylander .kaching-bundles .kaching-bundles__bar-radio {
+    width: 18px;
+    height: 18px;
+}
+
+.product-section-heylander .add-to-cart.btn--secondary {
+    border: unset;
+    background: #E10B17;
+    color: #fff;
+    font-size: 16px !important;
+    text-transform: uppercase;
+}
+
+.product-section-heylander  .shopify-cleanslate {
+    border-radius: 50px !important;
+    overflow: hidden;
+}
+.pdp-shop__badge {
+    background-color: #101123;
+    color: #fff;
+    font-weight: 600;
+    font-size: 14px;
+    display: none;
+    border-radius: 50px;
+    z-index: 5;
+    padding: 8px 12px;
+    position: absolute;
+    right: 8px;
+    top: 24px;
+    letter-spacing: 0;
+    line-height: 14px;
+}
+
+.pdp-text-above-btn{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 24px 0 16px 0;
+}
+.product-block:has(> .pdp-text-above-btn) { 
+    margin-bottom: 0;
+ }
+recharge-subscription-widget {
+    margin-top: 16px;
+    margin-bottom: 32px;
+}
+.product-section-heylander .js-qty__adjust:hover {
+    background-color: transparent;
+}
+.product-section-heylander .js-qty__adjust .icon {
+    height: 16px;
+    width: 16px;
+}
+.product-section-heylander .js-qty__num {
+    height: 100%;
+    border-radius: 100px;
+    border: 1px solid #232323;
+}
+.product-section-heylander .js-qty__wrapper {
+    height: 100%;
+}
+.product-section-heylander .product__quantity.w3_bg label {
+    display: none;
+}
+.product-section-heylander .product-buy-wrapper.w3_bg {
+    display: flex;
+    position: relative;
+    padding-bottom: 80px;
+    gap: 10px;
+}
+.product-section-heylander .product-buy-wrapper .btn.btn--full.add-to-cart {
+    background: #E10B17;
+    color: white;
+    height: 48px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.product-section-heylander .product__quantity.w3_bg {
+    height: 48px;
+}
+.product-section-heylander .product-buy-wrapper form {
+  width: 100%;
+}
+.product-section-heylander .js-qty__wrapper {
+    background-color: transparent;
+    max-width: 70px;
+    min-width: 138px;
+}
+.product-section-heylander .htusb-ui-prod-boost-trust-wrapper {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.product-section-heylander .rc-purchase-option[rc-selected] {
+    border: 2px solid transparent;
+    background: linear-gradient(to right, white, white), linear-gradient(to right, #A3DEFF 0%, #E9FFE7 50%, #FFD5C6 100%);
+    background-clip: padding-box, border-box;
+    background-origin: padding-box, border-box;
+}
+.product-section-heylander .htusb-payment-badges--medium img.htusb-payment-badges--multicolor__badge {
+    height: 18px !important;
+}
+@media (min-width: 768px) {
+    .product-section-heylander .kaching-bundles__bar-title {
+        font-size: 18px !important;
+    }
+    .pdp-shop__badge{
+        display: block;
+     }
+     .product-single__sticky {
+        top: 90px;
+    }
+    .pdp-text-above-btn{
+        margin: 32px 0 16px 0;
+    }
+}
+
+/*slider*/
+
+.product__thumbs.product__thumbs--beside {
+    max-width: 53px !important;
+}
+.product__thumb-item {
+    border-radius: 4px;
+    overflow: hidden;
+    width: 53px;
+}
+
+
+.product-section-heylander .product__thumbs--scroller.w3_bg {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.product-section-heylander .product__thumb-item a.is-active:before, .product__thumb-item a:focus:before {
+    border-radius: 4px;
+    box-shadow: inset 0 0 0 1px var(--colorTextBody);
+
+}
+
+.product-section-heylander .product-single__title{
+font-size: 18px;
+line-height: 24px;
+}
+.product-section-heylander .product-block--header{
+    margin-bottom: 8px;
+}
+.product-section-heylander .product-custom-description.w3_bg {
+    font-size: 14px;
+    line-height: 21px;
+    max-width: 395px;
+    margin-bottom: 22px;
+}
+.product-section-heylander .pdp-products__rev-star.w3_bg{
+    margin-bottom: 22px;
+}
+.product-section-heylander .pdp-products__price.pdp-text {
+    font-weight: 400;
+    font-size: 14px;
+}
+.product-section-heylander .product-block--additional-info {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-weight: 500;
+}
+.product-section-heylander .bullet-icon {
+    display: flex;
+}
+
+.product-section-heylander .collapsible-trigger-btn {
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.product-section-heylander .collapsible-content__inner {
+    font-size: 14px;
+}
+.product-section-heylander .htusb-payment-badges--multicolor__list {
+    justify-content: center;
+}
+.product-section-heylander .htusb-payment-badges__msg {
+    text-align: center;
+}
+.product-section-heylander .collapsible-content__inner {
+    padding: 0;
+    padding-bottom: 16px;
+}
+.product-section-heylander .product-single__meta {
+    margin: 0;
+}
+
+.b-shop__ingredient-popup{
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 14px;
+    text-decoration: underline;
+}
+.pdp-video__wrapp{
+    display: flex;
+    gap: 8px;
+    justify-content: space-between;
+    margin-bottom: 22px;
+}
+.pdp-video__wrapp .b-shop__ingredient-popup.pdp-video__thumb {
+    width: 75px;
+    margin: 0;
+    padding: 0;
+}
+.pdp-video__wrapp video {
+    width: 255px;
+    border-radius: 4px;
+}
+@media (min-width: 768px) {
+    .product-section-heylander  .product-single__title{
+        font-size: 20px;
+        line-height: 26px;
+        }
+        .product-section-heylander .product__main-photos {
+            border-radius: 16px;
+            overflow: hidden;
+        }
+        .product-section-heylander  .product-custom-description.w3_bg {
+            font-size: 15px;
+            line-height: 25px;
+        }
+        .product-section-heylander  .page-content--product {
+            padding-bottom: 54px;
+            padding-top: 54px;
+        }
+        .product-section-heylander .product-grid__content.product--description {
+            padding: 0;
+            padding-left: 80px;
+            padding-top: 10px;
+        }
+        .b-shop__ingredient-popup{
+            font-size: 16px;
+            margin-left: 65px;
+            padding-top: 24px;
+            cursor: pointer;
+        }
+        .product-single__sticky {
+            z-index: 5;
+        }
+
+        .pdp-video__wrapp .b-shop__ingredient-popup.pdp-video__thumb {
+            width: 105px;
+        }
+        .pdp-video__wrapp video {
+            width: 255px;
+            border-radius: 8px;
+        }
+}
+
+/*POPUP*/
+
+.b-shop__ingredient-popup-content {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.2);
+    z-index: 1001; /* Adjust z-index to be above other elements */
+    text-align: center; /* Center align the content */
+    overflow-y: auto; /* Enable scrolling within the popup if needed */
+
+    justify-content: center;
+    align-items: center;
+}
+
+.popup-flex{
+    display: flex;
+}
+
+.popup-inner {
+    display: inline-block;
+    max-width: 551px; /* Adjust for desktop */
+    width: 90%; /* Fallback width for smaller screens */
+}
+
+.b-shop__ingredient-popup-content img {
+    max-width: 100%;
+    height: auto;
+    width: 551px; /* Maximum width for desktop */
+}
+
+@media (max-width: 767px) {
+    .b-shop__ingredient-popup-content img {
+        max-width: 320px; /* Adjust for mobile */
+    }
+  button.btn.btn--full.add-to-cart {
+    background: #E10B17;
+    color: white;
+    min-height: 48px;
+}
+}
+
+/* Style to disable scrolling on the body */
+body.popup-open {
+    overflow: hidden;
+}
+
+.pdp-popup-x{
+    position: absolute;
+    right: -16px;
+    top: -16px;
+    cursor: pointer;
+}
+
+.pdp-shop-popup-wrapp{
+    position: relative;
+}

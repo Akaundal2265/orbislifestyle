@@ -1,0 +1,125 @@
+{{ 'pdp-zig-zag.css' | asset_url | stylesheet_tag }}
+
+
+<section class="pdp-zig-zag pdp-bg--blue">
+  <div class="l">
+
+    <div class="pdp-zig-zag__wrapper">
+      
+        {% liquid
+        assign zigZagTitle = section.settings.zig_zag_title
+        assign zigZagText = section.settings.zig_zag_text
+        assign zigZagImg = section.settings.zig_zag_image
+        assign zigZagImgMob = section.settings.zig_zag_image_mob
+
+        assign zigZagBadge = section.settings.zig_zag_badge
+        assign zigImgDeskLine = section.settings.zig_line_desk
+        assign zigImgMobLine = section.settings.zig_line_mob
+        %}
+
+        <div class="pdp-zig-zag__inner-section">
+
+
+        <div class="pdp-zig-zag__inner-content">
+            {% if zigZagBadge %}
+                <div class="pdp-zig-zag__inner-img pdp-img--wrapper">
+ 
+                         <img  data-class="LazyLoad"  data-src="{{ zigZagBadge |  img_url :'master' }}" src="{{ zigZagBadge |  img_url :'40x' }}" class='pdp-image' >
+  
+                </div>
+            {% endif %}
+            <h3 class="pdp-zig-zag__title ">
+                {{zigZagTitle}}
+            </h3>
+            <p class="pdp-zig-zag__text ">
+                {{zigZagText}}
+            </p>
+        </div>  
+        {% if zigZagImg %}
+        <div class="pdp-zig-zag__left-img pdp-img--wrapper pdp-zig-zag__left-img--desk">
+ 
+                 <img  data-class="LazyLoad"  data-src="{{ zigZagImg |  img_url :'master' }}" src="{{ zigZagImg |  img_url :'40x' }}" class='pdp-image' >
+  
+        </div>
+    {% endif %}          
+    {% if zigZagImgMob %}
+    <div class="pdp-zig-zag__left-img pdp-img--wrapper pdp-zig-zag__left-img--mob">
+ 
+             <img  data-class="LazyLoad"  data-src="{{ zigZagImgMob |  img_url :'master' }}" src="{{ zigZagImgMob |  img_url :'40x' }}" class='pdp-image' >
+  
+    </div>
+{% endif %}   
+        </div>                  
+    </div>
+        
+  </div>
+  {% if zigImgDeskLine %}
+
+  <div class='pdp-ugc_desktop-line'>
+ 
+           <img  data-class="LazyLoad"  data-src="{{ zigImgDeskLine |  img_url :'master' }}" src="{{ zigImgDeskLine |  img_url :'40x' }}" class='pdp-image' >
+  
+
+  </div>
+  {% endif %}
+  {% if zigImgMobLine %}
+
+  <div class='pdp-ugc_mob-line'>
+ 
+           <img  data-class="LazyLoad"  data-src="{{ zigImgMobLine |  img_url :'master' }}" src="{{ zigImgMobLine |  img_url :'40x' }}" class='pdp-image' >
+  
+
+  </div>
+  {% endif %}
+</section>
+
+
+{% schema %}
+  {
+    "name": "Pdp ZigZag Section",
+    "settings": [
+      {
+                "type": "text",
+                "id": "zig_zag_title",
+                "label": "Inner Section Title"
+            },
+            {
+              "type": "image_picker",
+              "id": "zig_zag_image",
+              "label": "Inner Section Image"
+          },
+          {
+            "type": "image_picker",
+            "id": "zig_zag_image_mob",
+            "label": "Inner Section Image"
+        },
+            {
+                "type": "image_picker",
+                "id": "zig_zag_badge",
+                "label": "Inner Badge Image"
+            },
+            {
+                "type": "text",
+                "id": "zig_zag_text",
+                "label": "Inner Section Text"
+            },
+            {
+              "type": "image_picker",
+              "id": "zig_line_desk",
+              "label": "ugc shape desktop"
+            },
+            {
+              "type": "image_picker",
+              "id": "zig_line_mob",
+              "label": "ugc shape mobile"
+            }
+    ],
+ 
+    
+    "presets": [
+      {
+        "name": "Pdp Zig-zag"
+      }
+    ]
+  }
+{% endschema %}

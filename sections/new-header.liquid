@@ -1,0 +1,323 @@
+{{ 'pdp-header.css' | asset_url | stylesheet_tag }}
+
+{% liquid
+assign lsgHeaderLogo = section.settings.lsg_header_logo
+assign lsgProductMenuBox = section.blocks | where: 'type', 'megamenu_product'
+assign lsgMegamenuTitle = section.settings.lsg_header_product_additional_title
+assign lsgMegamenuDesc = section.settings.lsg_header_product_additional_desc
+%}
+
+
+<header class="lsg-header h site-header" data-section-type="header" id="SiteHeader">
+  <div class="lsg-wrapper l">
+    <div class="lsg-header__wrapper"> 
+      <div class="hamburger-menu">
+        <button type="button" class="hamburger-btn">
+          <div class="top-line hamburger-line"></div>
+          <div class="middle-line hamburger-line"></div>
+          <div class="bottom-line hamburger-line"></div>
+            
+          <span class="icon__fallback-text">{{ 'general.drawers.navigation' | t }}</span>
+        </button>
+      </div>
+
+      <div class="lsg-header__logo">
+        {%- if lsgHeaderLogo -%}
+        <a href="/" itemprop="url">
+          <figure class="lsg-header__logo">
+ 
+               <img  data-class="LazyLoad"  data-src="{{ lsgHeaderLogo |  img_url :'300x' }}" src="{{ lsgHeaderLogo |  img_url :'40x' }}" class='load_instant' >
+  
+          </figure>
+        </a>
+        {%- endif -%}
+      </div>
+
+      <div class="lsg-header__menu-mobile">
+        <div class="lsg-header__megamenu">
+          <div class="lsg-header__megamenu-wrapper">
+            <div class="lsg-header__megamenu-products">
+              {%- for block in lsgProductMenuBox -%}
+                {% assign lsgProductMenuImage = block.settings.lsg_header_product.featured_image %}
+                {% assign lsgProductMenuImageCustom = block.settings.lsg_header_product_image %}
+  
+                {% assign lsgProductMenuTitle = block.settings.lsg_header_product.title %}
+                {% assign lsgProductMenuCustomTitle = block.settings.lsg_header_product_title %}
+  
+                {% assign lsgProductMenuBadgeImg = block.settings.lsg_header_product_badge_img %}
+                {% assign lsgProductMenuBadgeText = block.settings.lsg_header_product_badge_text%}
+
+              {% if block.settings.lsg_header_product != blank %}
+                <a href="{{ block.settings.lsg_header_product.url }}">
+                  <div class="lsg-header__product-box">
+                    <figure class="lsg-header__product-media">
+                      {% if lsgProductMenuImageCustom %}
+ 
+                      <img  data-class="LazyLoad"  data-src="{{ lsgProductMenuImageCustom |  img_url :'200x' }}" src="{{ lsgProductMenuImageCustom |  img_url :'40x' }}" class='load_instant' >
+       
+                      {% else %}
+ 
+                           <img  data-class="LazyLoad"  data-src="{{ lsgProductMenuImage |  img_url :'master' }}" src="{{ lsgProductMenuImage |  img_url :'200x' }}" class='load_instant' >
+  
+                      {% endif %}
+                    </figure>
+                    <div class="lsg-header__product-content-right">
+                      {% if lsgProductMenuBadgeImg %}
+                        <div class="lsg-header__product-badge badge-img">
+ 
+                             <img  data-class="LazyLoad"  data-src="{{ lsgProductMenuBadgeImg |  img_url :'200x' }}" src="{{ lsgProductMenuBadgeImg |  img_url :'40x' }}" class='load_instant' >
+  
+                        </div>
+                      {% else %}
+                      {% if lsgProductMenuBadgeText != blank %}
+                        <p class="lsg-header__product-badge badge-text">{{ lsgProductMenuBadgeText }}</p>
+                      {% endif %}
+                      {% endif %}
+                      <div class="lsg-header__product-content">
+                        {% if lsgProductMenuCustomTitle %}
+                        <h2 class="lsg-header__product-title">{{ lsgProductMenuCustomTitle }}</h2>
+                        {% else %}
+                        <h2 class="lsg-header__product-title">{{ lsgProductMenuTitle }}</h2>
+                        {% endif %}
+                      </div>
+                    </div>
+                   
+                    <!--{% render 'lsg-product-badge', badge: lsgProductBadge %}-->
+                  </div>
+                </a>
+              {% endif %}
+
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+        <nav class="lsg-header__navigation">
+          {% for link in section.settings.lsg_header_menu.links %}
+          <li class="lsg-header__menu-link">
+            <a href="{{ link.url }}" >
+              {{ link.title }} 
+            </a>
+          </li>
+          {% endfor %}
+        </nav>
+
+      </div>     
+
+      <nav class="lsg-header__navigation lsg-header__menu-desk">
+        {% for link in section.settings.lsg_header_menu.links %} 
+          <li class="lsg-header__menu-link{% if forloop.index == 3 %} lsg-header__menu-link-megamenu{% endif %}">
+            {% if forloop.index !=3 %}
+              <a href="{{ link.url }}">{{ link.title }} {% if forloop.index == 3 %}
+                  <span class="lsg-header__menu-icon"><svg width="13" height="8" viewBox="0 0 13 8" fill="none"
+                      xmlns="http://www.w3.org/2000/svg">
+                      <path
+                        d="M0.518067 1.42053C0.518055 1.25402 0.567423 1.09124 0.659926 0.95279C0.752431 0.814335 0.883916 0.706423 1.03775 0.642699C1.19159 0.578976 1.36087 0.562304 1.52418 0.594793C1.6875 0.627281 1.83751 0.70747 1.95524 0.825219L6.51908 5.38906L11.0829 0.825219C11.241 0.668244 11.4549 0.580321 11.6776 0.580711C11.9004 0.581101 12.1139 0.669771 12.2715 0.827299C12.429 0.984826 12.5177 1.19837 12.5181 1.42114C12.5185 1.64392 12.4305 1.85777 12.2736 2.01585L7.1144 7.17501C7.03622 7.25319 6.94341 7.31521 6.84127 7.35752C6.73912 7.39983 6.62965 7.42161 6.51908 7.42161C6.40852 7.42161 6.29904 7.39983 6.1969 7.35752C6.09475 7.31521 6.00194 7.25319 5.92377 7.17501L0.764611 2.01585C0.686322 1.93776 0.624239 1.84496 0.581928 1.7428C0.539617 1.64063 0.517915 1.53111 0.518067 1.42053Z"
+                        fill="black" />
+                    </svg>
+                  </span>
+                  {% endif %}
+              </a>
+            
+            {% else %}
+
+            <a href="{{ link.url }}">{{ link.title }} {% if forloop.index == 3 %}
+              <span class="lsg-header__menu-icon"><svg width="13" height="8" viewBox="0 0 13 8" fill="none"
+                  xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M0.518067 1.42053C0.518055 1.25402 0.567423 1.09124 0.659926 0.95279C0.752431 0.814335 0.883916 0.706423 1.03775 0.642699C1.19159 0.578976 1.36087 0.562304 1.52418 0.594793C1.6875 0.627281 1.83751 0.70747 1.95524 0.825219L6.51908 5.38906L11.0829 0.825219C11.241 0.668244 11.4549 0.580321 11.6776 0.580711C11.9004 0.581101 12.1139 0.669771 12.2715 0.827299C12.429 0.984826 12.5177 1.19837 12.5181 1.42114C12.5185 1.64392 12.4305 1.85777 12.2736 2.01585L7.1144 7.17501C7.03622 7.25319 6.94341 7.31521 6.84127 7.35752C6.73912 7.39983 6.62965 7.42161 6.51908 7.42161C6.40852 7.42161 6.29904 7.39983 6.1969 7.35752C6.09475 7.31521 6.00194 7.25319 5.92377 7.17501L0.764611 2.01585C0.686322 1.93776 0.624239 1.84496 0.581928 1.7428C0.539617 1.64063 0.517915 1.53111 0.518067 1.42053Z"
+                    fill="black" />
+                </svg>
+              </span>
+              {% endif %}
+          </a>
+
+            {% endif %}
+            {% if section.blocks.size > 0 %}
+            {% if forloop.index == 3 %}
+              <div class="lsg-header__megamenu">
+                <div class="lsg-header__megamenu-wrapper">
+                  <div class="lsg-header__megamenu-products">
+              <div class="lsg-header__product-wrapper">
+                    
+                    {%- for block in lsgProductMenuBox -%}
+                      {% assign lsgProductMenuImage = block.settings.lsg_header_product.featured_image %}
+                      {% assign lsgProductMenuImageCustom = block.settings.lsg_header_product_image %}
+        
+                      {% assign lsgProductMenuTitle = block.settings.lsg_header_product.title %}
+                      {% assign lsgProductMenuCustomTitle = block.settings.lsg_header_product_title %}
+        
+                      {% assign lsgProductMenuBadgeImg = block.settings.lsg_header_product_badge_img %}
+                      {% assign lsgProductMenuBadgeText = block.settings.lsg_header_product_badge_text%}
+                      
+                      
+                      {% if block.settings.lsg_header_product != blank %}
+
+                      <a href="{{ block.settings.lsg_header_product.url }}">
+                        <div class="lsg-header__product-box">
+
+                          <figure class="lsg-header__product-media">
+                            {% if lsgProductMenuImageCustom %}
+ 
+                                 <img  data-class="LazyLoad"  data-src="{{ lsgProductMenuImageCustom |  img_url :'master' }}" src="{{ lsgProductMenuImageCustom |  img_url :'40x' }}" class='load_instant' >
+  
+                            {% else %}
+ 
+                                 <img  data-class="LazyLoad"  data-src="{{ lsgProductMenuImage |  img_url :'master' }}" src="{{ lsgProductMenuImage |  img_url :'40x' }}" class='load_instant' >
+
+                              
+                            {% endif %}
+                          </figure>
+                          <div class="lsg-header__product-content">
+                            {% if lsgProductMenuBadgeImg %}
+                              <div class="lsg-header__product-badge badge-img">
+ 
+                                   <img  data-class="LazyLoad"  data-src="{{ lsgProductMenuBadgeImg |  img_url :'master' }}" src="{{ lsgProductMenuBadgeImg |  img_url :'40x' }}" class='load_instant' >
+  
+                              </div>
+                            {% else %}
+                              {% if lsgProductMenuBadgeText != blank %}
+                                <p class="lsg-header__product-badge badge-text">{{ lsgProductMenuBadgeText }}</p>
+                              {% endif %}
+
+                            {% endif %}
+                            {% if lsgProductMenuCustomTitle %}
+                              <h2 class="lsg-header__product-title">{{ lsgProductMenuCustomTitle }}</h2>
+                              {% else %}
+                              <h2 class="lsg-header__product-title">{{ lsgProductMenuTitle }}</h2>
+                              {% endif %}
+                             
+                          </div>
+                          <!--{% render 'lsg-product-badge', badge: lsgProductBadge %}-->
+                        </div>
+                      </a>
+                      {% endif %}
+
+                    {% endfor %}
+              </div>
+                  <div class="lsg-header__megamenu-additional">
+                    <div class="lsg-header__megamenu-content">
+                      {% if lsgMegamenuTitle %}
+                        <h3>{{ lsgMegamenuTitle }}</h3>
+                      {% endif %}
+                      
+                      {% if lsgMegamenuDesc %}
+                        <p>{{ lsgMegamenuDesc }}</p>
+                      {% endif %}
+                    </div>
+                    <a class='pdp-header__shop-all pdp-btn' href="https://orbislifestyle.com/collections/all">
+                      <span>Scopri di più</span>
+                    </a>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+              <div class="lsg-header__megamenu-outside"></div>
+            {% endif %}
+            {% endif %}
+            
+
+          </li>
+        {% endfor %}
+      </nav>
+
+      <div class="lsg-header__icons">
+        <div class="lsg-header__icons-wrapper">
+          <div class="header-item header-item--icons">
+            {%- render 'header-icons', section: section, nav_position: nav_position -%}
+          </div>
+        </div>
+      </div>
+      
+    </div>
+                    <div class="site-header__search-container">
+    <div class="page-width">
+      <div class="site-header__search">
+        {%- render 'predictive-search', context: 'header' -%}
+        <button type="button" class="text-link site-header__search-btn site-header__search-btn--cancel">
+          <span class="medium-up--hide"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 64 64"><path d="m19 17.61 27.12 27.13m0-27.13L19 44.74" style="stroke-miterlimit:10"/></svg></span>
+          <span class="small--hide">{{ 'general.search.cancel' | t }}</span>
+        </button>
+      </div>
+    </div>
+  </div>
+  </div>
+  
+</header>
+{%- if settings.cart_type == "notification" -%}
+{%- render 'cart-notification', color_scheme: section.settings.color_scheme -%}
+{%- endif -%}
+
+<script src='{{ 'header-new.js' | asset_url }}' defer='defer'></script>
+
+{% schema %}
+{
+"name": "LSG Header",
+"class": "header-section-new",
+"settings": [
+
+{
+"type": "image_picker",
+"id": "lsg_header_logo",
+"label": "Header Logo"
+},
+
+{
+"type": "link_list",
+"id": "lsg_header_menu",
+"default": "main-menu",
+"label": "Choose Menu"
+},
+  {
+"type": "text",
+"id": "lsg_header_product_additional_title",
+"label": "Megamenu Title"
+},
+{
+"type": "inline_richtext",
+"id": "lsg_header_product_additional_desc",
+"label": "Megamenu Desc"
+},
+],
+"blocks": [
+{
+"type": "megamenu_product",
+"name": "Megamenu Product",
+"settings": [
+{
+"type": "product",
+"id": "lsg_header_product",
+"label": "Megamenu Product"
+},
+{
+"type": "image_picker",
+"id": "lsg_header_product_image",
+"label": "Megamenu Product Image"
+},
+
+{
+"type": "text",
+"id": "lsg_header_product_title",
+"label": "Megamenu Product description"
+},
+{
+"type": "text",
+"id": "lsg_header_product_badge_text",
+"label": "Megamenu Product badge text"
+},
+{
+"type": "image_picker",
+"id": "lsg_header_product_badge_img",
+"label": "Megamenu Product badge image"
+}
+]
+}
+],
+"presets": [
+{
+"name": "new header"
+
+}
+]
+}
+{% endschema %}

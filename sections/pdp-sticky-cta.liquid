@@ -1,0 +1,35 @@
+{{ 'pdp-sticky-cta.css' | asset_url | stylesheet_tag }}
+
+{% liquid
+  assign button_title = section.settings.button_title
+  assign button_url = section.settings.button_url
+%}
+
+<div class="pdp-sticky-cta-wrapper">
+  <a href="{{ button_url }}" class='pdp-sticky-cta pdp-btn'>{{ button_title }}</a>
+</div>
+
+<script src='{{ 'pdp-sticky-cta.js' | asset_url }}' defer='defer'></script>
+
+{% schema %}
+  {
+    "name": "pdp Sticky CTA",
+    "settings": [
+      {
+        "type": "text",
+        "id": "button_title",
+        "label": "Button Text"
+      }, {
+        "type": "url",
+        "id": "button_url",
+        "label": "Button Url/Anchor",
+        "info": "Use # and ID of a section to anchor button to the section."
+      }
+    ],
+    "presets": [
+      {
+        "name": "pdp Sticky CTA"
+      }
+    ]
+  }
+{% endschema %}

@@ -1,0 +1,133 @@
+{{ 'pdp-faq.css' | asset_url | stylesheet_tag }}
+
+{% liquid
+  assign faq_title = section.settings.faq_title
+  assign textBeforeButton = section.settings.text_before_btn
+  assign textAfterButton = section.settings.text_after_btn
+  assign textSecondAfterButton = section.settings.text_after_second_btn
+
+  assign btnText = section.settings.btn_text
+  assign btnLink = section.settings.btn_link
+
+  assign bg_color = section.settings.bg_color
+%}
+
+{% style %}
+  .pdp-faq {
+    background-color: {{ bg_color }};
+  }
+
+{% endstyle %}
+
+
+<section class="pdp-faq pdp-bg--white">
+  <div class="l">
+    {% if faq_title != '' %}
+      <h2 class="pdp-faq__title pdp-text--center pdp-text--black pdp-title">
+        {{ faq_title }}
+      </h2>
+    {% endif %}
+
+    {% if section.blocks.size > 0 %}
+      <div class="pdp-faq__items pdp-js-accordions">
+        {% for block in section.blocks %}
+          {% liquid
+            assign faq_question = block.settings.faq_question
+            assign faq_answer = block.settings.faq_answer
+          %}
+          {% render 'pdp-accordion'
+            , faq_question: faq_question
+            , faq_answer: faq_answer %}
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    <div class="pdp-btn--wrapper pdp-btn-accordion">
+      <p class="pdp-faq__text-before-btn">
+        {{textBeforeButton}}
+      </p>
+
+      {% if btnText != blank %}
+      <a class="pdp-btn pdp-faq-btn" href="{{btnLink}}">
+          <span class="lsg-card-product__btn-text-desk">
+            {{btnText}}
+          </span>
+        </a>
+      {% endif %}
+      <p class="pdp-faq__text-after-btn">
+        {{textAfterButton}}
+      </p>
+      <p class="pdp-faq__text-after-btn">
+        {{textSecondAfterButton}}
+      </p>
+
+    </div>
+  </div>
+</section>
+
+<script src="{{ 'pdp-faq.js' | asset_url }}" defer="defer"></script>
+
+{% schema %}
+  {
+    "name": "Pdp Faq",
+    "settings": [
+    {
+      "type": "color",
+      "id": "bg_color",
+      "label": "Section background color"
+    },
+      {
+        "type": "text",
+        "id": "faq_title",
+        "label": "Title"
+      },
+      {
+        "type": "text",
+        "id": "text_before_btn",
+        "label": "text before btn"
+      },
+      {
+        "type": "text",
+        "id": "text_after_btn",
+        "label": "text after btn"
+      },
+      {
+        "type": "text",
+        "id": "text_after_second_btn",
+        "label": "text after btn"
+      },
+      {
+        "type": "text",
+        "id": "btn_text",
+        "label": "Button text"
+      },
+      {
+        "type": "url",
+        "id": "btn_link",
+        "label": "Button link"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "faq",
+        "name": "Faq Questions",
+        "settings": [
+          {
+            "type": "text",
+            "id": "faq_question",
+            "label": "Question"
+          }, {
+            "type": "richtext",
+            "id": "faq_answer",
+            "label": "Answer"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Pdp Faq"
+      }
+    ]
+  }
+{% endschema %}

@@ -1,0 +1,217 @@
+{{ 'pdp-products-section.css' | asset_url | stylesheet_tag }}
+
+{% liquid
+
+assign pdp_products_title = section.settings.pdp_products_title
+assign productBox = section.blocks | where: 'type', 'product'
+assign bg_color = section.settings.bg_color
+
+%}
+
+{% style %}
+.pdp-products {
+background-color: {{ bg_color }};
+}
+
+{% endstyle %}
+
+
+<section id="homepage-shop" class="pdp-products pdp-bg--gray">
+  <div class="l">
+
+    {% if pdp_products_title != '' %}
+    <h2 class="pdp-products__title pdp-title pdp-text--center pdp-text--black">
+      {{ pdp_products_title }}
+    </h2>
+    {% endif %}
+
+    {% if section.blocks.size > 0 %}
+    <div class="pdp-products__wrapper">
+      {% for block in productBox %}
+
+      {% liquid
+      assign productTitle = block.settings.pdp_product.title
+      assign productImg = block.settings.pdp_product.featured_image
+
+      assign productImgCustom = block.settings.product_img_custom
+
+      assign revText = block.settings.rev_text
+
+      assign productPdp = all_products[block.settings.pdp_product]
+
+      assign productImgBadge = block.settings.product_img_badge
+      assign productImgBadgeSecond = block.settings.product_img_badge_second
+
+
+      %}
+
+      <div class="pdp-products__box">
+        {% if productImgBadge %}
+        <div class="pdp-products__badge-img {% if productImgBadgeSecond %} product_badge-first {%- endif -%}">
+             <img  data-class="LazyLoad"  data-src="{{ productImgBadge |  img_url :'master' }}" src="{{ productImgBadge |  img_url :'40x' }}"   data-class="LazyLoad"  >
+        </div>
+        {%- endif -%}
+
+        {% if productImgBadgeSecond %}
+        <div class="pdp-products__badge-img product_badge-second">
+          <img  data-class="LazyLoad"  data-src="{{ productImgBadgeSecond |  img_url :'master' }}" src="{{ productImgBadgeSecond |  img_url :'40x' }}"   data-class="LazyLoad"  >
+         </div>
+        {%- endif -%}
+
+        {% if productImgCustom %}
+         <div class="pdp-products__media">
+          <a title= "{{ productTitle }}" href="{{ productPdp.url }}"><img  data-class="LazyLoad"  data-src="{{ productImgCustom |  img_url :'master' }}" src="{{ productImgCustom |  img_url :'40x' }}"   data-class="LazyLoad"  ></a>
+         </div>
+        {%- else -%}
+         <div class="pdp-products__media">
+         <a title= "{{ productTitle }}" href="{{ productPdp.url }}"><img  data-class="LazyLoad"  data-src="{{ productImg |  img_url :'master' }}" src="{{ productImg |  img_url :'40x' }}"   data-class="LazyLoad"  ></a>
+        </div>
+        {%- endif -%}
+
+
+        <div class="pdp-products__rev-star">
+          <svg class="pdp-products__stars" width="86" height="16" viewBox="0 0 86 16" fill="none"
+            xmlns="http://www.w3.org/2000/svg">
+            <path d="M16.5 0H0.5V16H16.5V0Z" fill="#00B67A" />
+            <path d="M33.668 0H17.668V16H33.668V0Z" fill="#00B67A" />
+            <path d="M51 0H35V16H51V0Z" fill="#00B67A" />
+            <path d="M68.168 0H52.168V16H68.168V0Z" fill="#00B67A" />
+            <path d="M85.5 0H69.5V16H85.5V0Z" fill="#DCDCE6" />
+            <path d="M69.5 0H77.5V15.8333H69.5V0Z" fill="#00B67A" />
+            <path
+              d="M8.33203 10.6667L10.832 10.0001L11.832 13.1667L8.33203 10.6667ZM13.9987 6.66675H9.66537L8.33203 2.66675L6.9987 6.66675H2.83203L6.33203 9.16674L4.9987 13.1667L8.4987 10.6667L10.6654 9.16674L13.9987 6.66675Z"
+              fill="white" />
+            <path
+              d="M25.6654 10.6667L28.1654 10.0001L29.1654 13.1667L25.6654 10.6667ZM31.1654 6.66675H26.832L25.4987 2.66675L24.1654 6.66675H19.832L23.332 9.16674L21.9987 13.1667L25.4987 10.6667L27.6654 9.16674L31.1654 6.66675Z"
+              fill="white" />
+            <path
+              d="M43.0013 10.6667L45.5013 10.0001L46.5013 13.1667L43.0013 10.6667ZM48.5013 6.66675H44.168L42.8346 2.66675L41.5013 6.66675H37.168L40.668 9.16674L39.5013 13.1667L43.0013 10.6667L45.168 9.16674L48.5013 6.66675Z"
+              fill="white" />
+            <path
+              d="M60.1667 10.6667L62.6667 10.0001L63.6667 13.1667L60.1667 10.6667ZM65.8333 6.66675H61.5L60.1667 2.66675L58.8333 6.66675H54.5L58 9.16674L56.6667 13.1667L60.1667 10.6667L62.3333 9.16674L65.8333 6.66675Z"
+              fill="white" />
+            <path
+              d="M77.4987 10.6667L79.9987 10.0001L80.9987 13.1667L77.4987 10.6667ZM82.9987 6.66675H78.6654L77.332 2.66675L76.1654 6.66675H71.832L75.332 9.16674L73.9987 13.1667L77.4987 10.6667L79.6654 9.16674L82.9987 6.66675Z"
+              fill="white" />
+          </svg>
+
+          {% if revText != blank %}
+          <p class="pdp-products__rev pdp-text">
+            {{ revText }}
+          </p>
+          {%- endif -%}
+
+        </div>
+
+        <a title= "{{ productTitle }}" href="{{ productPdp.url }}"><h4 class="pdp-products__product-title">{{ productTitle }}</h4></a>
+        {% assign price = productPdp.selected_or_first_available_variant.price %}
+        {% assign compare_at_price = productPdp.selected_or_first_available_variant.compare_at_price %}
+        {% assign discount_percentage = compare_at_price
+        | minus: price
+        | times: 100.0
+        | divided_by: compare_at_price
+        %}
+        <div class="pdp-products__price-wrapp">
+          <p class="pdp-products__price pdp-text">
+            {{ price | money_with_currency }}
+          </p>
+          <p class="pdp-products__compare-at-price pdp-text">
+            <s>
+              {{ compare_at_price | money_with_currency }}
+            </s>
+          </p>
+
+        </div>
+
+        {% if compare_at_price != blank %}
+        <div class="pdp-products__badge">
+          <span class="percent-count">Risparmia {{ discount_percentage | round: 0 }}%</span>
+        </div>
+        {%- endif -%}
+
+  
+
+        <div class="pdp-btn--wrapper">
+
+
+
+        <button data-product-id="{{ product.id }}" data-add-to-cart type="submit" name="add" pid='{{ productPdp.selected_or_first_available_variant.id }}' id="addToCart QuickShopModal-{{ product.id }}" class="pdp-btn pdp-btn--products  modal--quick-shop" {% if
+              productPdp.available %}{% else %} disabled{% endif %}>
+              {% if productPdp.available %}
+              <span class="lsg-card-product__btn-text-desk" id="QuickShopHolder-{{ product.handle }}">
+                Aggiungi al carrello
+              </span>
+              {% else %}
+              Out Of Stock
+              {%- endif -%}
+            </button>
+
+          <a class="pdp-products__view-more" title= "{{ productTitle }}" href="{{ productPdp.url }}">Vedi prodotto</a>
+
+        </div>
+ 
+
+      </div>
+      {% endfor %}
+    </div>
+
+    {% endif %}
+
+  </div>
+</section>
+
+{% schema %}
+{
+"name": "pdp product section",
+"settings": [
+{
+"type": "color",
+"id": "bg_color",
+"label": "Section background color"
+},
+{
+"type": "text",
+"id": "pdp_products_title",
+"label": "Section Title"
+}
+],
+"blocks": [
+{
+"type": "product",
+"name": "product",
+"settings": [
+{
+"type": "product",
+"id": "pdp_product",
+"label":"Chose product"
+},
+{
+"type": "text",
+"id": "rev_text",
+"label":"Type review text"
+},
+{
+"label": "Chose Product Image",
+"id": "product_img_custom",
+"type": "image_picker"
+},
+{
+"label": "Chose Product Badge",
+"id": "product_img_badge",
+"type": "image_picker"
+},
+{
+"label": "Chose Product Badge Second",
+"id": "product_img_badge_second",
+"type": "image_picker"
+}
+]
+}
+],
+"presets": [
+{
+"name": "Pdp Products"
+}
+]
+}
+{% endschema %}

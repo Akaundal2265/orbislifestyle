@@ -1,0 +1,145 @@
+.pdp-faq {
+  padding: 48px 0 36px 0;
+  overflow: visible;
+}
+
+.pdp-faq .l {
+  position: relative;
+}
+
+.pdp-faq__title {
+  margin-bottom: 16px !important;
+}
+
+.pdp-accordion {
+  border-top: 1px solid #F6F6F6;
+}
+
+
+.pdp-faq__items .pdp-accordion:first-child {
+  border-top: unset;
+}
+
+.pdp-accordion__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: normal;
+  gap: 16px;
+  cursor: pointer;
+  padding: 16px 0;
+}
+
+.pdp-accordion__title {
+  font-size: 18px;
+  line-height: 140%;
+  font-weight: 600;
+  margin: 0;
+}
+
+.pdp-accordion .pdp-accordion__button svg {
+  transition: all 0.3s ease;
+}
+
+.pdp-accordion.show-text .pdp-accordion__button svg {
+  transform: rotate(180deg);
+}
+
+.pdp-accordion__button {
+  background: none;
+  border: none;
+  flex-shrink: 0;
+  height: 24px;
+  width: 24px;
+  padding: unset;
+  display: grid;
+  place-items: center;
+}
+
+.pdp-accordion__panel {
+  max-height: 0;
+  visibility: hidden;
+  opacity: 0;
+  transition: all 0.3s ease;
+}
+
+.pdp-faq__items .pdp-accordion:last-child .pdp-accordion__panel {
+  padding-bottom: 0;
+}
+
+.pdp-accordion.show-text .pdp-accordion__panel {
+  visibility: visible;
+  opacity: 1;
+  padding: 0 0 16px 0;
+  max-height: 500px !important;
+}
+
+.pdp-accordion__panel p {
+  font-size: 16px;
+  line-height: 150%;
+  margin: 0;
+}
+
+.pdp-faq__btn-wrapper {
+  margin-top: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  align-items: center;
+}
+
+.pdp-faq__btn-text {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  line-height: 130%;
+  text-transform: uppercase;
+}
+
+.pdp-accordion:first-child{
+    border-top: unset;
+    padding-top: 0;
+}
+
+
+.pdp-faq__text-before-btn,
+.pdp-faq__text-after-btn{
+  font-size: 14px;
+  line-height: 16px;
+  margin-bottom: 12px;
+  text-align: center;
+}
+.pdp-faq-btn{
+  margin-bottom: 12px;
+}
+
+.pdp-faq__items{
+  margin-bottom: 20px;
+}
+
+@media (min-width: 768px) {
+  .pdp-faq {
+    padding: 80px 0 68px 0;
+    overflow: hidden;
+  }
+
+  .pdp-faq__title {
+    margin-bottom: 32px !important;
+  }
+
+  .pdp-btn-accordion{
+    max-width: 280px;
+    margin:0 auto;
+  }
+
+  .pdp-faq__items {
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  .pdp-faq__items{
+    margin-bottom: 32px;
+  }
+}
+
+

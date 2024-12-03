@@ -1,0 +1,107 @@
+{{ 'pdp-marque.css' | asset_url | stylesheet_tag }}
+
+<section class="pdp-marquee pdp-bg--blue ">
+  {% liquid
+  
+    assign marqueeImgDeskLine = section.settings.marquee_line_desk
+    assign marqueeImgMobLine = section.settings.marquee_line_mob
+  
+  
+  %}  
+    <div class="marquee">
+    {% for i in (1..3) %}
+
+      <div class="marquee__group">
+        {% for info in section.blocks %}
+
+            {% liquid  
+            assign marqueeText = info.settings.marquee_text
+            assign marqueeImg = info.settings.marquee_img
+
+           %}
+            <div class="marquee__item">
+                <div class="pdp-marquee__image">
+                    {% if marqueeImg %}
+                      {{ marqueeImg | image_url: width: auto | image_tag: class: 'pdp-image' }}
+                    {% endif %}
+                </div>
+                <p class="marquee__item-text">
+                    {{ marqueeText }}
+                </p>
+    
+            </div>
+        {% endfor %} 
+    
+      </div>
+    {% endfor %} 
+
+    </div>
+    {% if marqueeImgDeskLine %}
+
+  <div class='pdp-marquee_desktop-line'>
+    {{ marqueeImgDeskLine | image_url: width: auto | image_tag: class: 'pdp-image' }}
+
+  </div>
+  {% endif %}
+  {% if marqueeImgMobLine %}
+
+  <div class='pdp-marquee_mob-line'>
+    {{ marqueeImgMobLine | image_url: width: auto | image_tag: class: 'pdp-image' }}
+
+  </div>
+  {% endif %}
+    
+</section>
+
+
+
+    
+{% schema %}
+    {
+      "name": "Pdp Marquee",
+      "settings": [
+        {
+      "type": "header",
+      "content": "Layout"
+    },
+    {
+      "type": "image_picker",
+      "id": "marquee_line_desk",
+      "label": "marquee shape desktop"
+    },
+    {
+      "type": "image_picker",
+      "id": "marquee_line_mob",
+      "label": "marquee shape mobile"
+    }
+      ],
+      "blocks": [
+        {
+      "type": "info-icon",
+      "name": "Information Icons",
+      "settings": [
+         {
+          "type": "header",
+          "content": "Enter content for information icons"
+        },
+        {
+          "type": "image_picker",
+          "id": "marquee_img",
+          "label": "marquee icon"
+        },
+        {
+          "type": "text",
+          "id": "marquee_text",
+          "label": "Additional Info Text"
+        }
+
+      ] 
+    }
+      ],
+      "presets": [
+        {
+          "name": "Pdp Marquee"
+        }
+      ]
+    }
+  {% endschema %}

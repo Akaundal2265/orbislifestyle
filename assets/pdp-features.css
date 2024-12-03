@@ -1,0 +1,109 @@
+.pdp-features {
+    padding: 48px 0;
+}
+.pdp-features__title{
+    text-align: center;
+}
+.pdp-features__content {
+    display: flex;
+    gap: 16px;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+.pdp-features__item{
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}
+
+.features__item-heading {
+    margin-bottom: 8px;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 600;
+}
+
+.features__item-text {
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.pdp-features__image {
+    width: 100px;
+    height: 200px;
+    margin-bottom:24px;
+}
+.pdp-features__title {
+    font-size: 25px;
+}
+@media only screen and (min-width: 600px) {
+    .pdp-features {
+        padding: 80px 0;
+        min-height: 736px;
+    }
+    .pdp-features__title {
+        font-size: 30px;
+    }
+    .pdp-features__image {
+        width: 170px;
+        height: 340px;
+    margin-bottom:0;
+    }
+    .pdp-features__item{
+        position: absolute;
+        left: 0;
+        max-width: 414px;
+        top: 14px;
+
+    }
+    .pdp-features__item:nth-child(2){
+        flex-direction: row-reverse;
+        text-align: right;
+    }
+    .pdp-features__item:nth-child(3){
+        top: 131px;
+        flex-direction: row-reverse;
+        text-align: right;
+
+    }
+    .pdp-features__item:nth-child(4){
+        top: 248px;
+        flex-direction: row-reverse;
+        text-align: right;
+    }
+
+    .pdp-features__item:nth-child(5){
+        right: 0;
+        left: unset;
+        top: 14px;
+    }
+    .pdp-features__item:nth-child(6){
+        top: 131px;
+        left: unset;
+        right: 0;
+
+    }
+    .pdp-features__item:nth-child(7){
+        top: 248px;
+        left: unset;
+        right: 0;
+
+    }
+    .pdp-features__item:nth-child(8){
+        bottom: 0;
+        top: unset;
+        left: 50%;
+        transform: translate(-50%,120%);
+        flex-direction: column;
+        text-align: center;
+        svg{
+            display: block;
+            margin: 0 auto;
+        }
+    }
+    .features__item-heading {
+        font-size: 18px;
+        line-height: 18px;
+    }
+  }

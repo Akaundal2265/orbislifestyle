@@ -1,0 +1,251 @@
+.b-hero{
+    background-color: #fff;
+    position: relative;
+
+}
+
+.b-hero .l{
+    max-width: 1331px;
+}
+
+.b-hero__wrapper{
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 24px;
+    padding-top: 48px;
+}
+.b-hero__image{
+    img {
+        height: 100%!important;
+        MAX-WIDTH: 543px;
+        margin-left: auto;
+        width: 100%;
+    }
+}
+
+.b-hero__bg-img{
+    display: none;
+}
+
+.b-hero__left-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 180px;
+}
+
+.b-hero__bullets-container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    order:4;
+}
+
+.b-hero__trustreview-stars {
+    display: flex;
+    align-items: center;
+}
+
+.underline-text{
+    text-decoration: underline;
+    font-size: 13px;
+}
+
+.b-hero__title{
+    text-align: center;
+    font-size: 23px;
+    line-height: 27px;
+    margin-bottom: 16px;
+    max-width: 300px;
+    text-transform: uppercase;
+}
+
+.b-hero__subtitle{
+    font-weight: 300;
+    font-size: 20px;
+    font-weight: 23px;
+    text-align: center;
+    margin-bottom: 32px;
+
+}
+
+.b-hero__trustreview{
+    display: flex;
+    gap: 8px;
+    font-size: 14px;
+    margin-bottom: 24px;
+}
+
+.b-hero__right-container{
+    position: relative;
+}
+.b-hero__badge {
+    position: absolute;
+    left: -10px;
+    top: -20px;
+    max-width: 100px;
+    height: 100px;
+}
+
+.b-hero__bullet-container{
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.b-hero__bullet-icon.w3_bg {
+    flex-shrink: 0;
+}
+
+.b-hero__bullet-text{
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.b-hero-review__box-container {
+    padding: 20px;
+    box-sizing: border-box;
+    background: #F4F5F7;
+    position: absolute;
+    bottom:-70px;
+    border-radius: 12px;
+    z-index: 5;
+    max-width: 90%;
+}
+
+.b-review__author-img{
+    max-width: 32px;
+    height: 32px;
+}
+
+.b-review__author{
+    display: flex;
+    gap:12px;
+    align-items: center;
+    font-size: 10px;
+}
+
+.b-hero-review__author-name {
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.b-hero-reviews__box-header-bottom, .b-hero-reviews__box-header-bottom span {
+    display: flex;
+    align-items: center;
+}
+
+.b-hero-review__box-container-body-title {
+    font-size: 12px;
+    text-transform: uppercase;
+    max-width: 310px;
+    font-weight: 600;
+}
+
+.b-hero-review__box-container-body-content{
+    font-size: 12px;
+    font-weight: 300;   
+    line-height: 17px;
+}
+
+.b-hero-review__box-container-body-experiance{
+    font-size: 12px;
+}
+
+.b-hero-review__box-container-body {
+    border-top: 1px solid #E7E7E7;
+    padding: 8px 0px;
+    margin: 8px 0px;
+    border-bottom: 1px solid #E7E7E7;
+}
+
+.b-hero-review__box-stars{
+    display: flex;
+    justify-content: space-between;
+    font-size: 10px;
+}
+
+.b-hero-btn{
+    margin-bottom: 32px;
+}
+
+.share-link-desk{
+    display: none;
+}
+
+@media only screen and (min-width: 600px) {
+
+.b-hero__wrapper{
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 30px;
+}
+
+.b-hero__badge {
+    max-width: 120px;
+    height: 120px;
+}
+.b-hero__left-container{
+    padding: 40px 0;
+}
+
+.b-hero__image{
+    width: 600px;
+    height: 640px;
+}
+.b-hero__badge {
+    position: absolute;
+    left: 80px;
+    top: 50px;
+}
+
+.b-hero__trustreview{
+    margin-bottom: 16px;
+}
+
+.b-hero__title{
+    margin-bottom: 8px;
+    max-width: 480px;
+    font-size: 36px;
+    line-height: 43px;
+}
+
+.b-hero__subtitle{
+    margin-bottom: 24px;
+    font-size: 24px;
+    font-weight: 28px;
+
+}
+
+.underline-text{
+    font-size: 14px;
+}
+
+.b-hero__bullets-container{
+    margin-bottom: 24px;
+    order:unset;
+}
+
+.b-hero-review__box-container {
+
+    max-width: 507px;
+}
+.b-hero-btn{
+    max-width: 280px;
+    margin: 0 auto;
+}
+.share-link-desk{
+    display: block;
+}
+.share-link-mob{
+    display: none;
+}
+
+.b-hero__bg-img{
+    display: block;
+}
+.b-hero__bg-mob-img, .b-hero__image-mob{
+    display: none;
+}
+}
