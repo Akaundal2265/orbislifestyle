@@ -207,16 +207,22 @@
 			return new Promise(e => requestAnimationFrame(e))
 		}
 		static execute() {
+                    {% if product.handle != 'testowit-regolazione-ormonale-120-cps' %}
+
 			let e = new w3_loadscripts(["keydown", "mousemove", "touchmove", "touchstart", "touchend", "wheel"]);
 			e.load_fonts(e.w3_fonts), e.user_events_add(e), e.excluded_js || e.hold_jquery(e), e.w3_lazy_load_js || (e.scripts_load_fire = 1, e.triggerListener_on_load());
 			let t = setInterval(function e(s) {
 				null != document.body && (document.body.getBoundingClientRect().top < -30 && s.triggerListener(), clearInterval(t))
 			}, 500, e)
+                      {% endif %}
 		}
         static run() {
+
+          {% if product.handle != 'testowit-regolazione-ormonale-120-cps' %}
             let e = new w3_loadscripts(["keydown", "mousemove", "touchmove", "touchstart", "touchend", "wheel"]);
             e.load_fonts(e.w3_fonts), e.user_events_add(e), e.excluded_js || e.hold_jquery(e), e.w3_lazy_load_js || (e.scripts_load_fire = 1, e.triggerListener_on_load());
             e.triggerListener();
+            {% endif %}
         }
 		wnwAnalytics() {
 			document.querySelectorAll(".analytics").forEach(function(e) {

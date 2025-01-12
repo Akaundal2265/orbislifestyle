@@ -74,11 +74,25 @@
         <div class="c-collection-list__items-container tab-container-{{ forloop.index }} 
           {% if forloop.first %}active{% else %}hidden{% endif %}">
           {% for item in collection.settings.collection.products %}
+            {% assign showpr = true %}
+            {%- if item.object_type == 'product' -%}
+
+            {% assign product_tags_string = item.tags | join: ' ' %}
+{% if product_tags_string contains 'hide_product' %}
+   {% assign showpr = false %}
+{% endif %}
+              {% endif %}
+
+{% if showpr == true %}
+  
             <div class="c-collection-list__item">
               {%- if item.object_type == 'product' -%}
                 {% render 'collection-product-card' product: item %}
               {% endif %}
             </div>
+
+{% endif %}
+            
           {% endfor %}
         </div>
       {% endfor %}
