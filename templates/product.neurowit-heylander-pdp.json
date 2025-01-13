@@ -122,7 +122,7 @@
           "type": "tab",
           "settings": {
             "title": "Ingredienti",
-            "content": "<p>Muira puama (Ptychopetalum olacoides Benth.) corteccia e.s. (D/E: 4/1); RedNite™ [Barbabietola Rossa (Beta vulgaris L.) radice succo polvere tit. all’1,5% in nitrati]; Maca (Lepidium meyenii Walp.) radice e.s. tit. allo 0,5% in beta-ecdysterone; Fieno Greco (Trigonella foenum-graecum L.) semi e.s. tit. al 50% in protodioscina; gluconato di zinco; KSM-66® [Ashwagandha (Withania somnifera (L.) Dunal.) radice e.s. tit. al 5% in withanolidi]; agente di carica: cellulosa; Oligopin® [Pino Marittimo Francese (Pinus pinaster Ait.) corteccia e.s. tit. al 65% in procianidine oligomeriche (OPCs)]; agente antiagglomerante: sali di magnesio degli acidi grassi; Uva rossa (Vitis vinifera L.) semi e.s. tit. al 95% in proantocianidine; colecalciferolo; acetato di D-alfa-tocoferile; acido borico; gluconato di rame; cloridrato di piridossina; Piperina da Pepe nero (Piper nigrum L.) frutti.</p>",
+            "content": "<p>Bacopa (<em>Bacopa monnieri</em> (L.) Wettst.) erba e.s. tit. al 20% in bacosidi; agente di rivestimento: idrossi-propil-metilcellulosa (involucro capsula); KSM-66® [Ashwagandha (<em>Withania somnifera</em> (L.) Dunal.) radice e.s. tit. al 5% in withanolidi]; Citicolina; L-teanina; Eleuterococco (<em>Eleutherococcus senticosus</em> (Rupr. et Maxim.) Maxim) radice e.s. tit. allo 0,8% in eleuterosidi; gluconato di zinco; agente di carica: cellulosa; nicotinamide (Niacina); cloridrato di tiamina (Vit. B1); cloridrato di piridossina (Vit.  B6); agente antiagglomerante: sali di magnesio degli acidi grassi; riboflavina (Vit. B2); L-metilfolato di calcio (Acido Folico); D-biotina (Vit. H).</p>",
             "page": ""
           }
         },
@@ -237,15 +237,15 @@
         "content_eUCHEt": {
           "type": "content",
           "settings": {
-            "features_heading": "RedNite®",
-            "features_text": "Fornisce nitrati naturali per migliorare la circolazione sanguigna e la salute cardiovascolare."
+            "features_heading": "Citicolina",
+            "features_text": "Stimola la produzione di neurotrasmettitori essenziali, migliorando la memoria, l'attenzione e la chiarezza mentale."
           }
         },
         "content_WCANKH": {
           "type": "content",
           "settings": {
-            "features_heading": "Maca",
-            "features_text": "Aumenta i livelli di energia e di forza, favorendo vitalità e resistenza."
+            "features_heading": "L-Teanina",
+            "features_text": "Promuove uno stato di rilassamento senza sonnolenza, migliorando la concentrazione e riducendo lo stress."
           }
         },
         "content_xxCepE": {
@@ -258,22 +258,22 @@
         "content_HHKa8d": {
           "type": "content",
           "settings": {
-            "features_heading": "Fieno greco",
-            "features_text": "Favorisce l'equilibrio ormonale e migliora la salute riproduttiva degli uomini.."
+            "features_heading": "Eleuterococco",
+            "features_text": "Aumenta la resistenza allo stress fisico e mentale, supportando il sistema immunitario e il benessere generale."
           }
         },
         "content_4aPeWP": {
           "type": "content",
           "settings": {
-            "features_heading": "Oligopin®",
-            "features_text": "Contrasta lo stress ossidativo con potenti proprietà antiossidanti."
+            "features_heading": "Zinco",
+            "features_text": "Contribuisce al normale funzionamento cognitivo e supporta il sistema nervoso per una mente più performante."
           }
         },
         "content_FGFrwt": {
           "type": "content",
           "settings": {
-            "features_heading": "Vitamine D, E, B6",
-            "features_text": "Nutrienti essenziali che supportano varie funzioni corporee, tra cui la regolazione ormonale, la salute immunitaria e le difese antiossidanti."
+            "features_heading": "Vitamine del gruppo B",
+            "features_text": "Sostengono il sistema nervoso, riducono la stanchezza e migliorano le funzioni psicologiche per una maggiore vitalità."
           }
         }
       },
@@ -305,7 +305,7 @@
         "product_hFCn6L": {
           "type": "product",
           "settings": {
-            "pdp_product": "neurowit-memoria-e-funzioni-cognitive-90-cps",
+            "pdp_product": "testowit-regolazione-ormonale-120-cps",
             "rev_text": "4.7/5.0",
             "product_img_custom": "shopify://shop_images/Neurowit_20Bottle_20Front_20PNG.png"
           }
