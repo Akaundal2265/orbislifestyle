@@ -61,7 +61,7 @@
         "description_fmb8fU": {
           "type": "description",
           "settings": {
-            "custom_descritpion": "<p><strong>L'integratore essenziale </strong>per gli uomini che vogliono\t<strong>aumentare naturalmente</strong> i livelli di testosterone.</p>",
+            "custom_descritpion": "<p>Il <strong>supporto naturale</strong> per una mente più lucida, <strong>produttiva</strong> e <strong>concentrata</strong> ogni giorno.</p>",
             "is_tab": false
           }
         },
@@ -230,8 +230,8 @@
         "content_4yJjzU": {
           "type": "content",
           "settings": {
-            "features_heading": "Muira Puama",
-            "features_text": "Migliora la vitalità fisica e mentale, combattendo la stanchezza e favorendo il benessere generale."
+            "features_heading": "Bacopa Monneri",
+            "features_text": "Favorisce la memoria e la concentrazione, migliorando le funzioni cognitive e riducendo lo stress mentale."
           }
         },
         "content_eUCHEt": {
@@ -287,7 +287,7 @@
         "content_FGFrwt"
       ],
       "settings": {
-        "features_title": "Cosa Contiene Testowit?",
+        "features_title": "Cosa Contiene Neurowit?",
         "features_image": "shopify://shop_images/Neurowit_20Bottle_20Front_20PNG_1.png"
       }
     },
