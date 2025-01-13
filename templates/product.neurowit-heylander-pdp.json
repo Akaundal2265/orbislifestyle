@@ -114,7 +114,7 @@
           "type": "tab",
           "settings": {
             "title": "Dose e modalità di utilizzo",
-            "content": "<p>Si consiglia di assumere da 2 a 4 capsule al giorno con abbondante acqua.</p>",
+            "content": "<p>Si consiglia di assumere 2 capsule al giorno con abbondante acqua.</p>",
             "page": ""
           }
         },
@@ -150,7 +150,7 @@
       ],
       "settings": {
         "popuptext_product": "Vedi Composizione",
-        "popupimage_product": "shopify://shop_images/popu_ingrediants.png",
+        "popupimage_product": "shopify://shop_images/Frame_1000005306_a94de6e8-66c8-4f30-aabf-dd911476fdd3.jpg",
         "sku_enable": false,
         "image_position": "left",
         "image_container_size": "medium",
