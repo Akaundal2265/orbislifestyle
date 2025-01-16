@@ -196,6 +196,9 @@
           "megamenu_product_PNBN9p",
           "megamenu_product_xB6GNf"
         ],
+        "custom_css": [
+          "header {position: relative; z-index: 1000; /* Lower than announcement bar */}"
+        ],
         "settings": {
           "lsg_header_logo": "shopify://shop_images/Logo_Orbis_2023_tinta_unita_1_47b991f2-891e-4c7f-b898-0b465bd20ce0.png",
           "lsg_header_menu": "main-menu",
@@ -297,7 +300,7 @@
           "announcement_8mqgpz"
         ],
         "custom_css": [
-          ".announcement-bar {position: fixed; top: 0; width: 100%; z-index: 9999;}"
+          ".announcement-bar {position: fixed; top: 0; width: 100%; z-index: 99999; /* Increase z-index */ background-color: #fff; /* Ensure visibility */ padding: 10px 0;}"
         ],
         "settings": {
           "announcement_center": true,
@@ -355,15 +358,25 @@
         "disabled": false,
         "settings": {}
       },
+      "6987625696575125306": {
+        "type": "shopify://apps/weglot-translate-your-store/blocks/weglot/3097482a-fafe-42ff-bc33-ea19e35c4a20",
+        "disabled": true,
+        "settings": {}
+      },
+      "1877152918344802950": {
+        "type": "shopify://apps/intelligems-a-b-testing/blocks/intelligems-script/fa83b64c-0c77-4c0c-b4b2-b94b42f5ef19",
+        "disabled": true,
+        "settings": {}
+      },
       "2296928500563504527": {
         "type": "shopify://apps/abra-promotions/blocks/abra/daa1493a-23b5-48bb-8cb5-7ab1267b4642",
-        "disabled": false,
+        "disabled": true,
         "settings": {
           "popup_preview": true,
-          "popup_background_color": "#119D52",
-          "popup_border_color": "#119D52",
-          "popup_color": "#FFFFFF",
-          "popup_icon_color": "#FFFFFF",
+          "popup_background_color": "#119d52",
+          "popup_border_color": "#119d52",
+          "popup_color": "#ffffff",
+          "popup_icon_color": "#ffffff",
           "popup_border_radius": 4,
           "popup_border_width": 1,
           "popup_font_size": 14,
@@ -374,27 +387,17 @@
           "popup_dismiss": "manual",
           "popup_dismiss_delay": 5,
           "announcement_bar_enabled": true,
-          "announcement_bar_background_color": "#119D52",
-          "announcement_bar_border_color": "#119D52",
-          "announcement_bar_color": "#FFFFFF",
-          "announcement_bar_icon_color": "#FFFFFF",
+          "announcement_bar_background_color": "#119d52",
+          "announcement_bar_border_color": "#119d52",
+          "announcement_bar_color": "#ffffff",
+          "announcement_bar_icon_color": "#ffffff",
           "announcement_bar_border_radius": 0,
           "announcement_bar_font_size": 14,
           "announcement_bar_icon_size": 16,
           "announcement_bar_padding_y": 10,
           "announcement_bar_padding_x": 10,
-          "sale_price_color": "#FF0000"
+          "sale_price_color": "#ff0000"
         }
-      },
-      "6987625696575125306": {
-        "type": "shopify://apps/weglot-translate-your-store/blocks/weglot/3097482a-fafe-42ff-bc33-ea19e35c4a20",
-        "disabled": true,
-        "settings": {}
-      },
-      "1877152918344802950": {
-        "type": "shopify://apps/intelligems-a-b-testing/blocks/intelligems-script/fa83b64c-0c77-4c0c-b4b2-b94b42f5ef19",
-        "disabled": true,
-        "settings": {}
       }
     }
   },
