@@ -196,10 +196,7 @@
           "megamenu_product_PNBN9p",
           "megamenu_product_xB6GNf"
         ],
-        "custom_css": [
-          ".site-header {position: sticky; top: 40px; /* Adjust this based on the height of your announcement bar */ z-index: 9998; /* Lower than the announcement bar */}",
-          "body {padding-top: 80px; /* Announcement bar + header height */}"
-        ],
+        "custom_css": [],
         "settings": {
           "lsg_header_logo": "shopify://shop_images/Logo_Orbis_2023_tinta_unita_1_47b991f2-891e-4c7f-b898-0b465bd20ce0.png",
           "lsg_header_menu": "main-menu",
@@ -300,10 +297,7 @@
           "toolbar-1",
           "announcement_8mqgpz"
         ],
-        "custom_css": [
-          ".announcement-bar {position: fixed; top: 0; width: 100%; z-index: 9999; /* Higher than the header */ background-color: #fff;}",
-          "body {padding-top: 80px; /* Announcement bar + header height */}"
-        ],
+        "custom_css": [],
         "settings": {
           "announcement_center": true,
           "toolbar_social": false,
