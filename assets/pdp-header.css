@@ -1,6 +1,6 @@
 .header-section-new{
   position: sticky;
-  top: 0;
+  top: 34px;
   margin: 0;
   z-index: 9999;
 }
