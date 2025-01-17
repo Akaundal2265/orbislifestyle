@@ -923,7 +923,7 @@
       "type": "pdp-sticky-cta",
       "settings": {
         "button_title": "risparmia fino al 25%",
-        "button_url": "#ProductSection-template--21801004007753__pdp_main_H9NRxa-8822286942537"
+        "button_url": "#product-anchor"
       }
     }
   },
