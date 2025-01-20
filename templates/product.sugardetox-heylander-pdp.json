@@ -61,42 +61,26 @@
         "description_fmb8fU": {
           "type": "description",
           "settings": {
-            "custom_descritpion": "<p><strong>L'integratore essenziale </strong>per gli uomini che vogliono\t<strong>aumentare naturalmente</strong> i livelli di testosterone.</p>",
+            "custom_descritpion": "<p>Bilancia gli <strong>zuccheri</strong>, brucia i <strong>grassi</strong>, senti <strong>più energia </strong>ogni giorno.</p>",
             "is_tab": false
-          }
-        },
-        "abra_promotions_banner_nqjWz8": {
-          "type": "shopify://apps/abra-promotions/blocks/banner/daa1493a-23b5-48bb-8cb5-7ab1267b4642",
-          "settings": {
-            "name": "Default",
-            "banner_background_color": "#119d52",
-            "banner_border_color": "#119d52",
-            "banner_color": "#ffffff",
-            "banner_icon_color": "#ffffff",
-            "banner_border_radius": 0,
-            "banner_font_size": 16,
-            "banner_icon_size": 16,
-            "banner_padding_y": 10,
-            "banner_padding_x": 10,
-            "text_align": "left"
           }
         },
         "additional_info_dP9zHP": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta l'energia"
+            "bullet_text": "Stabilizza la glicemia"
           }
         },
         "additional_info_nMn76h": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta la resistenza fisica"
+            "bullet_text": "Accelera il metabolismo"
           }
         },
         "additional_info_BkmQkF": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Migliora il benessere mentale"
+            "bullet_text": "Riduce gli attacchi di fame"
           }
         },
         "custom_UebbjN": {
@@ -130,7 +114,7 @@
           "type": "tab",
           "settings": {
             "title": "Dose e modalità di utilizzo",
-            "content": "<p>Si consiglia di assumere da 2 a 4 capsule al giorno con abbondante acqua.</p>",
+            "content": "<p>Si consiglia di assumere 2 capsule 3 volte al giorno, preferibilmente ai pasti principali, da deglutire con un bicchiere d’acqua.</p>",
             "page": ""
           }
         },
@@ -138,7 +122,7 @@
           "type": "tab",
           "settings": {
             "title": "Ingredienti",
-            "content": "<p>Muira puama (Ptychopetalum olacoides Benth.) corteccia e.s. (D/E: 4/1); RedNite™ [Barbabietola Rossa (Beta vulgaris L.) radice succo polvere tit. all’1,5% in nitrati]; Maca (Lepidium meyenii Walp.) radice e.s. tit. allo 0,5% in beta-ecdysterone; Fieno Greco (Trigonella foenum-graecum L.) semi e.s. tit. al 50% in protodioscina; gluconato di zinco; KSM-66® [Ashwagandha (Withania somnifera (L.) Dunal.) radice e.s. tit. al 5% in withanolidi]; agente di carica: cellulosa; Oligopin® [Pino Marittimo Francese (Pinus pinaster Ait.) corteccia e.s. tit. al 65% in procianidine oligomeriche (OPCs)]; agente antiagglomerante: sali di magnesio degli acidi grassi; Uva rossa (Vitis vinifera L.) semi e.s. tit. al 95% in proantocianidine; colecalciferolo; acetato di D-alfa-tocoferile; acido borico; gluconato di rame; cloridrato di piridossina; Piperina da Pepe nero (Piper nigrum L.) frutti.</p>",
+            "content": "<p>Garcinia cambogia (<em>Garcinia cambogia</em> (Gaernt) Desr.) frutti estratto secco tit. al 60% in acido idrossi-citrico (HCA); Berberina HCl (da <em>Berberis aristata</em> DC., corteccia dei rami); agente di rivestimento: idrossi-propil-metilcellulosa (involucro capsula); Acido Lipoico; ID-alG™ [Alga Bruna (<em>Ascophyllum nodosum</em> (L.) Le Jolis, pianta intera), Uva Rossa (<em>Vitis vinifera</em> L., semi)] estratto secco tit. al 35% in tannini totali e allo 0,02% in iodio (contiene <strong>solfiti)</strong>; Cardo Mariano (<em>Silybum marianum</em> (L.) Gaertn.) frutti estratto secco tit. all’80% in silimarina; agente di carica: cellulosa; Zinco L-pidolato; agente antiagglomerante: sali di magnesio degli acidi grassi; cloridrato di piridossina (Vitamina B6); L-selenometionina; picolinato di cromo.</p>",
             "page": ""
           }
         },
@@ -154,7 +138,6 @@
       "block_order": [
         "trust_review_mcjMPe",
         "description_fmb8fU",
-        "abra_promotions_banner_nqjWz8",
         "additional_info_dP9zHP",
         "additional_info_nMn76h",
         "additional_info_BkmQkF",
