@@ -150,7 +150,7 @@
       ],
       "settings": {
         "popuptext_product": "Vedi Composizione",
-        "popupimage_product": "shopify://shop_images/popu_ingrediants.png",
+        "popupimage_product": "shopify://shop_images/sugar_detox_nutrition_facts.png",
         "sku_enable": false,
         "image_position": "left",
         "image_container_size": "medium",
@@ -227,64 +227,64 @@
     "pdp_features_eCYtpC": {
       "type": "pdp-features",
       "blocks": {
+        "content_HHKa8d": {
+          "type": "content",
+          "settings": {
+            "features_heading": "Garcinia Cambogia (60% HCA)",
+            "features_text": "Riduce la fame nervosa e aiuta a limitare l’accumulo di grasso."
+          }
+        },
         "content_4yJjzU": {
           "type": "content",
           "settings": {
-            "features_heading": "Muira Puama",
-            "features_text": "Migliora la vitalità fisica e mentale, combattendo la stanchezza e favorendo il benessere generale."
+            "features_heading": "Berberina",
+            "features_text": "Supporta il metabolismo dei carboidrati e favorisce il controllo della glicemia."
+          }
+        },
+        "content_6HcxPy": {
+          "type": "content",
+          "settings": {
+            "features_heading": "Acido Lipoico",
+            "features_text": "Aiuta a regolare i livelli di zucchero nel sangue e migliora l’energia cellulare."
           }
         },
         "content_eUCHEt": {
           "type": "content",
           "settings": {
-            "features_heading": "RedNite®",
-            "features_text": "Fornisce nitrati naturali per migliorare la circolazione sanguigna e la salute cardiovascolare."
+            "features_heading": "ID-alG™ (Alga Bruna + Uva Rossa)",
+            "features_text": "Favorisce il metabolismo dei grassi e contrasta l’accumulo di zuccheri."
           }
         },
         "content_WCANKH": {
           "type": "content",
           "settings": {
-            "features_heading": "Maca",
-            "features_text": "Aumenta i livelli di energia e di forza, favorendo vitalità e resistenza."
+            "features_heading": "Cardo Mariano",
+            "features_text": "Protegge il fegato e aiuta a eliminare tossine e zuccheri in eccesso."
           }
         },
         "content_xxCepE": {
           "type": "content",
           "settings": {
-            "features_heading": "KSM-66®",
-            "features_text": "Aiuta a gestire lo stress, favorendo il rilassamento e la concentrazione mentale."
-          }
-        },
-        "content_HHKa8d": {
-          "type": "content",
-          "settings": {
-            "features_heading": "Fieno greco",
-            "features_text": "Favorisce l'equilibrio ormonale e migliora la salute riproduttiva degli uomini.."
+            "features_heading": "Cromo Pietro Pelizzariicolinato",
+            "features_text": "Stabilizza i livelli di zucchero nel sangue e riduce il desiderio di dolci."
           }
         },
         "content_4aPeWP": {
           "type": "content",
           "settings": {
-            "features_heading": "Oligopin®",
-            "features_text": "Contrasta lo stress ossidativo con potenti proprietà antiossidanti."
-          }
-        },
-        "content_FGFrwt": {
-          "type": "content",
-          "settings": {
-            "features_heading": "Vitamine D, E, B6",
-            "features_text": "Nutrienti essenziali che supportano varie funzioni corporee, tra cui la regolazione ormonale, la salute immunitaria e le difese antiossidanti."
+            "features_heading": "Zinco + Vitamina B6",
+            "features_text": "Contribuiscono al normale metabolismo energetico e alla regolazione degli zuccheri."
           }
         }
       },
       "block_order": [
+        "content_HHKa8d",
         "content_4yJjzU",
+        "content_6HcxPy",
         "content_eUCHEt",
         "content_WCANKH",
         "content_xxCepE",
-        "content_HHKa8d",
-        "content_4aPeWP",
-        "content_FGFrwt"
+        "content_4aPeWP"
       ],
       "settings": {
         "features_title": "Cosa Contiene Sugar Detox?",
@@ -321,7 +321,7 @@
         "product_Pt7ATg": {
           "type": "product",
           "settings": {
-            "pdp_product": "memowit-ashwagandha-ksm-66-e-vitamina-b12-30-capsule",
+            "pdp_product": "testowit-regolazione-ormonale-120-cps",
             "rev_text": "4.7/5.0",
             "product_img_custom": "shopify://shop_images/1706176371766_1_4.jpg"
           }
