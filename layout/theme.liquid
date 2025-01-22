@@ -53,8 +53,10 @@ if (targetElement) {
     if (targetElement.classList.contains('active')) {
        console.log('already _class')
     } else {
+          clearInterval(interval);
            targetElement.click();
       console.log('clicked oon 2nd')
+       document.body.classList.remove('wait_process');
     }
 }
    },2500)
