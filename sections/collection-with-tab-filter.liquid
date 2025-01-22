@@ -54,7 +54,7 @@
         </button>
         <div class="filter-items">
           {% for tab in section.blocks %}
-            <div class="c-collection-list__filter-item tab-filter-{{ forloop.index }} w3_bg" onclick="selectFilter(this, {{ forloop.index }})">
+            <div class="c-collection-list__filter-item tab-filter-{{ forloop.index }} w3_bg" hit="{{ tab.settings.collection_url  | downcase  | replace: ' & ','-' | replace: ' ','-' }}"  tbname="{{ tab.settings.collection_title | downcase  | replace: ' & ','-' | replace: ' ','-'}}"  onclick="selectFilter(this, {{ forloop.index }})">
               {% if tab.settings.collection_icon != blank %}
                 <img
                   data-class="LazyLoad"
@@ -85,7 +85,7 @@
 
 {% if showpr == true %}
   
-            <div class="c-collection-list__item">
+            <div class="c-collection-list__item  {% if item.handle == 'energia-e-motivazione-2x-testowit-2x-neurowit-2x-glutadetox' %} number_1{% endif %}">
               {%- if item.object_type == 'product' -%}
                 {% render 'collection-product-card' product: item %}
               {% endif %}
@@ -168,6 +168,11 @@
             "type": "text",
             "id": "collection_title",
             "label": "Enter alternate title"
+
+          }, {
+            "type": "text",
+            "id": "collection_url",
+            "label": "URL name"
 
           }, {
             "type": "image_picker",
