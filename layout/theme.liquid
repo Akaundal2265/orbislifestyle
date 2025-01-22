@@ -42,10 +42,23 @@
       
 
              
-    }
+    
+   
    setTimeout(function(){
-     console.log('test43223')
+     
+     // Check if the element exists
+const targetElement = document.querySelector(`.c-collection-list__filter-item[hit="${myVar}"]`);
+
+if (targetElement) { 
+    if (targetElement.classList.contains('active')) {
+       console.log('already _class')
+    } else {
+           targetElement.click();
+      console.log('clicked oon 2nd')
+    }
+}
    },2500)
+    }
  </script>
  
 {% endif %}
