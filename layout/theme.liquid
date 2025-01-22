@@ -15,7 +15,7 @@
 
     {% if collection.handle == 'best-seller' %}
  <script>
- 
+ function check(){
  const url = window.location.pathname + window.location.search;
     const queryString = url.includes('?') ? url.split('?')[1] : ''; // Handle missing query strings
 
@@ -47,8 +47,14 @@
              
     }
  
+ }
+   check()
 
-  
+
+   setTImeout(function(){
+     console.log('another')
+      check()
+   },1500)
  
 
  </script>
