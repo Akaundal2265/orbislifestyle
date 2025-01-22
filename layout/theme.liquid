@@ -183,7 +183,27 @@ main#MainContent .shopify-section,.shopify-section.shopify-section-group-footer-
     })(window, document, "clarity", "script", "k0jwg86xet");
 </script>
  
+  {% if collection.handle == 'best-seller' %}
+ <script>
  
+ const url = window.location.pathname + window.location.search; 
+const queryString = url.split('?')[1];  
+ const decodedValue = decodeURIComponent(queryString);
+const myVar = decodedValue;
+document.body.classList.add('wait_process');
+
+      setTimeout(function(){
+   document.querySelector(`.c-collection-list__filter-item[hit="${myVar}"]`)?.click();
+    
+document.body.classList.remove('wait_process');
+
+      },1000)
+
+
+
+ </script>
+ 
+{% endif %}
 
 {% render 'gp-head' %}
   <!-- Google tag (gtag.js) -->
