@@ -388,7 +388,19 @@ uid:"__INSERT_EMAIL_HERE__"
         api_key: 'wg_2fe38f76cca985d3e33319b65b5d52a26'
     });
 </script>
-<script id="script" async src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+  
+  </body>
+{% if page.handle == 'orbis-testosteroon-shop'%}{% else %}
+  <gptflow-chat chatbot="dde99abf-b4a4-42d0-8b69-8ba633f8e5d9" /> <script  type="lazyload_int"  data-src="https://bundle.gptflow.app/min.js" defer></script>
+    {% endif %}
+    {%- if product.template_suffix == 'testowit-heylander-pdp' %}
+       {% section 'footer-new' %}
+       {% else %}
+     
+    {% endif %}  
+     {% render 'sp_footer' %}
+    <script id="script" async src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <script>
   if(navigator.platform =="Linux x86_64"){
   console.log('344test23');
@@ -404,18 +416,6 @@ uid:"__INSERT_EMAIL_HERE__"
     $('.shopify-section.shopify-section-group-footer-group.index-section--footer').css('display','block')
   }
 </script>
-
-  
-  </body>
-{% if page.handle == 'orbis-testosteroon-shop'%}{% else %}
-  <gptflow-chat chatbot="dde99abf-b4a4-42d0-8b69-8ba633f8e5d9" /> <script  type="lazyload_int"  data-src="https://bundle.gptflow.app/min.js" defer></script>
-    {% endif %}
-    {%- if product.template_suffix == 'testowit-heylander-pdp' %}
-       {% section 'footer-new' %}
-       {% else %}
-     
-    {% endif %}  
-     {% render 'sp_footer' %}
      <script>
        document.getElementById('script')
     .addEventListener('load', function() {
