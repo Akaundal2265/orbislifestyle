@@ -247,47 +247,48 @@
         "content_4yJjzU": {
           "type": "content",
           "settings": {
-            "features_heading": "Muira Puama",
-            "features_text": "Migliora la vitalità fisica e mentale, combattendo la stanchezza e favorendo il benessere generale."
+            "features_heading": "Nattochinasi",
+            "features_text": "Enzima derivato dalla soia fermentata, utile per la salute cardiovascolare e il benessere del sangue."
           }
         },
         "content_eUCHEt": {
           "type": "content",
           "settings": {
-            "features_heading": "RedNite®",
-            "features_text": "Fornisce nitrati naturali per migliorare la circolazione sanguigna e la salute cardiovascolare."
+            "features_heading": "Curcumina complessata a fosfolipidi",
+            "features_text": "Una forma altamente biodisponibile di curcumina che migliora l’assorbimento e potenzia l’azione antinfiammatoria e antiossidante."
           }
         },
         "content_WCANKH": {
           "type": "content",
           "settings": {
-            "features_heading": "Maca",
-            "features_text": "Aumenta i livelli di energia e di forza, favorendo vitalità e resistenza."
+            "features_heading": "Bromelina",
+            "features_text": "Un potente enzima naturale che aiuta a ridurre l’infiammazione e supporta la digestione."
           }
         },
         "content_xxCepE": {
           "type": "content",
           "settings": {
-            "features_heading": "KSM-66®",
-            "features_text": "Aiuta a gestire lo stress, favorendo il rilassamento e la concentrazione mentale."
+            "features_heading": "Boswellia Serrata",
+            "features_text": "Favorisce la funzionalità articolare e aiuta a contrastare stati di tensione e rigidità."
           }
         },
         "content_HHKa8d": {
           "type": "content",
           "settings": {
-            "features_heading": "Fieno greco",
-            "features_text": "Favorisce l'equilibrio ormonale e migliora la salute riproduttiva degli uomini.."
+            "features_heading": "Pino Marittimo",
+            "features_text": "Protegge i vasi sanguigni e favorisce la circolazione grazie alla sua azione antiossidante."
           }
         },
         "content_4aPeWP": {
           "type": "content",
           "settings": {
-            "features_heading": "Oligopin®",
-            "features_text": "Contrasta lo stress ossidativo con potenti proprietà antiossidanti."
+            "features_heading": "Vitamina B1 (Tiamina)",
+            "features_text": "Contribuisce al normale metabolismo energetico e al corretto funzionamento del sistema nervoso."
           }
         },
         "content_FGFrwt": {
           "type": "content",
+          "disabled": true,
           "settings": {
             "features_heading": "Vitamine D, E, B6",
             "features_text": "Nutrienti essenziali che supportano varie funzioni corporee, tra cui la regolazione ormonale, la salute immunitaria e le difese antiossidanti."
