@@ -437,17 +437,8 @@ if (targetElement) {
     </script>
     <script async id="script" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script type="text/javascript">
-    // document.getElementById('script').addEventListener('load', function() {
-    //   console.log(typeof jQuery)
-    // });
-      // if(navigator.platform =="Linux x86_64"){
-      // console.log('344test23');
-      //   // console.log(jQuery);
-      // }else{
-
-
-
-        var src=$('.load').attr('data-src');
+    document.getElementById('script').addEventListener('load', function() {
+      var src=$('.load').attr('data-src');
          $('.load').attr('src',src)
 
         $('main#MainContent .shopify-section').css('display','block')
@@ -473,6 +464,15 @@ if (targetElement) {
 
 
           });
+    });
+      // if(navigator.platform =="Linux x86_64"){
+      // console.log('344test23');
+      //   // console.log(jQuery);
+      // }else{
+
+
+
+        
       // }
   </script>
   </body>
