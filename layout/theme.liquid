@@ -396,7 +396,11 @@ uid:"__INSERT_EMAIL_HERE__"
     while(!window.hasOwnProperty("jQuery")) {
         await new Promise(resolve => setTimeout(resolve, 100));
     }
-       
+    var src=$('.load').attr('data-src');
+     $('.load').attr('src',src)
+   
+    $('main#MainContent .shopify-section').css('display','block')
+    $('.shopify-section.shopify-section-group-footer-group.index-section--footer').css('display','block')
     console.log("jQuery is loaded.");
 })();
 </script>
