@@ -396,7 +396,26 @@ uid:"__INSERT_EMAIL_HERE__"
     while(!window.hasOwnProperty("jQuery")) {
         await new Promise(resolve => setTimeout(resolve, 100));
     }
-       
+    $('button.pdp-btn.pdp-btn--products').click(function(){
+        
+          
+var variant_id=$(this).attr('pid')
+        data = {
+      "id": variant_id,
+      "quantity": 1
+    }
+    jQuery.ajax({
+      type: 'POST',
+      url: '/cart/add.js',
+      data: data,
+      dataType: 'json',
+      success: function() { 
+     
+      }
+    });
+          
+  
+      })
     console.log("jQuery is loaded.");
 })();
 </script>
@@ -428,26 +447,26 @@ uid:"__INSERT_EMAIL_HERE__"
     {% endif %}  
      {% render 'sp_footer' %}
      <script>
-      $('button.pdp-btn.pdp-btn--products').click(function(){
+//       $('button.pdp-btn.pdp-btn--products').click(function(){
         
           
-var variant_id=$(this).attr('pid')
-        data = {
-      "id": variant_id,
-      "quantity": 1
-    }
-    jQuery.ajax({
-      type: 'POST',
-      url: '/cart/add.js',
-      data: data,
-      dataType: 'json',
-      success: function() { 
+// var variant_id=$(this).attr('pid')
+//         data = {
+//       "id": variant_id,
+//       "quantity": 1
+//     }
+//     jQuery.ajax({
+//       type: 'POST',
+//       url: '/cart/add.js',
+//       data: data,
+//       dataType: 'json',
+//       success: function() { 
      
-      }
-    });
+//       }
+//     });
           
   
-      })
+//       })
     </script>
      {% if collection.handle =='all' %}
   <script>
