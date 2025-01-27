@@ -391,6 +391,15 @@ uid:"__INSERT_EMAIL_HERE__"
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
   <script async >
+    window.onload = function() {
+    if (window.jQuery) {  
+        // jQuery is loaded  
+        alert("Yeah!");
+    } else {
+        // jQuery is not loaded
+        alert("Doesn't Work");
+    }
+}
   if(navigator.platform =="Linux x86_64"){
   console.log('344test23');
     console.log(jQuery);
