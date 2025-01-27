@@ -354,11 +354,6 @@
         "disabled": false,
         "settings": {}
       },
-      "6987625696575125306": {
-        "type": "shopify://apps/weglot-translate-your-store/blocks/weglot/3097482a-fafe-42ff-bc33-ea19e35c4a20",
-        "disabled": true,
-        "settings": {}
-      },
       "1877152918344802950": {
         "type": "shopify://apps/intelligems-a-b-testing/blocks/intelligems-script/fa83b64c-0c77-4c0c-b4b2-b94b42f5ef19",
         "disabled": true,
@@ -394,6 +389,11 @@
           "announcement_bar_padding_x": 10,
           "sale_price_color": "#ff0000"
         }
+      },
+      "6987625696575125306": {
+        "type": "shopify://apps/weglot-translate-your-store/blocks/weglot/3097482a-fafe-42ff-bc33-ea19e35c4a20",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
