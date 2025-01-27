@@ -389,17 +389,6 @@ uid:"__INSERT_EMAIL_HERE__"
     });
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-<script>
-  (async() => {
-    console.log("waiting for jQuery");
-
-    while(!window.hasOwnProperty("jQuery")) {
-        await new Promise(resolve => setTimeout(resolve, 100));
-    }
-       
-    console.log("jQuery is loaded.");
-})();
-</script>
   <script>
   if(navigator.platform =="Linux x86_64"){
   console.log('344test23');
