@@ -1150,7 +1150,7 @@ if (console && console.log) {
         this.setAsLoaded()
   
         // pause when out of view
-        let observer = new IntersectionObserver((entries, observer) => {
+        const observer = new IntersectionObserver((entries, observer) => {
           entries.forEach(entry => {
             if (entry.isIntersecting) {
               this.play()
@@ -3861,7 +3861,7 @@ if (console && console.log) {
   
       // listen for class change of 'modal--is-active on this.SearchModal
       if (this.SearchModal) {
-        let observer = new MutationObserver((mutations) => {
+        const observer = new MutationObserver((mutations) => {
           mutations.forEach((mutation) => {
             if (mutation.attributeName === 'class') {
               const modalClass = mutation.target.className;
