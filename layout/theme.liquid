@@ -1,13 +1,17 @@
- <!doctype html>
+<!doctype html>
 <html class="no-js" lang="{{ request.locale.iso_code }}" dir="{{ settings.text_direction }}">
-<head>
-  {% render 'sp_header' %}
-   <!-- <script type="text/javascript">var flspdx = new Worker("data:text/javascript;base64," + btoa('onmessage=function(e){var t=new Request("https://raw.githubusercontent.com/gospeedify/files/main/speedreq.js",{redirect:"follow"});fetch(t).then(e=>e.text()).then(e=>{postMessage(e)})};'));flspdx.onmessage = function (t) {var e = document.createElement("script");e.type = "text/javascript", e.textContent = t.data, document.head.appendChild(e)}, flspdx.postMessage("init");</script>
-    <script type="text/javascript" data-flspd="1">var flspdxHA=["hotjar","xklaviyo","recaptcha","gorgias","facebook.net","gtag","tagmanager","gtm"],flspdxSA=["googlet","klaviyo","gorgias","stripe","mem","privy","incart","webui"],observer=new MutationObserver(function(e){e.forEach(function(e){e.addedNodes.forEach(function(e){if("SCRIPT"===e.tagName&&1===e.nodeType)if(e.innerHTML.includes("asyncLoad")||"analytics"===e.className)e.type="text/flspdscript";else{for(var t=0;t<flspdxSA.length;t++)if(e.src.includes(flspdxSA[t]))return void(e.type="text/flspdscript");for(var r=0;r<flspdxHA.length;r++)if(e.innerHTML.includes(flspdxHA[r]))return void(e.type="text/flspdscript")}})})}),ua=navigator.userAgent.toLowerCase();ua.match(new RegExp("chrome|firefox"))&&-1===window.location.href.indexOf("no-optimization")&&observer.observe(document.documentElement,{childList:!0,subtree:!0});</script> -->
-    <!-- <div style="position:absolute;font-size:1200px;line-height:1;word-wrap:break-word;top:0;left:0;width:50vw;height:50vh;max-width:50vw;max-height:50vh;pointer-events:none;z-index:99999999999;color:transparent;overflow:hidden;" data-optimizer="SP: Store-js">□</div><script src="{{ 'speedmin.js' | asset_url  }}"></script> -->
+  <head>
+    {% render 'sp_header' %}
+    <!--
+      <script type="text/javascript">var flspdx = new Worker("data:text/javascript;base64," + btoa('onmessage=function(e){var t=new Request("https://raw.githubusercontent.com/gospeedify/files/main/speedreq.js",{redirect:"follow"});fetch(t).then(e=>e.text()).then(e=>{postMessage(e)})};'));flspdx.onmessage = function (t) {var e = document.createElement("script");e.type = "text/javascript", e.textContent = t.data, document.head.appendChild(e)}, flspdx.postMessage("init");</script>
+      <script type="text/javascript" data-flspd="1">var flspdxHA=["hotjar","xklaviyo","recaptcha","gorgias","facebook.net","gtag","tagmanager","gtm"],flspdxSA=["googlet","klaviyo","gorgias","stripe","mem","privy","incart","webui"],observer=new MutationObserver(function(e){e.forEach(function(e){e.addedNodes.forEach(function(e){if("SCRIPT"===e.tagName&&1===e.nodeType)if(e.innerHTML.includes("asyncLoad")||"analytics"===e.className)e.type="text/flspdscript";else{for(var t=0;t<flspdxSA.length;t++)if(e.src.includes(flspdxSA[t]))return void(e.type="text/flspdscript");for(var r=0;r<flspdxHA.length;r++)if(e.innerHTML.includes(flspdxHA[r]))return void(e.type="text/flspdscript")}})})}),ua=navigator.userAgent.toLowerCase();ua.match(new RegExp("chrome|firefox"))&&-1===window.location.href.indexOf("no-optimization")&&observer.observe(document.documentElement,{childList:!0,subtree:!0});</script>
+    -->
+    <!--
+      <div style="position:absolute;font-size:1200px;line-height:1;word-wrap:break-word;top:0;left:0;width:50vw;height:50vh;max-width:50vw;max-height:50vh;pointer-events:none;z-index:99999999999;color:transparent;overflow:hidden;" data-optimizer="SP: Store-js">□</div><script src="{{ 'speedmin.js' | asset_url  }}"></script>
+    -->
 
     {% if collection.handle == 'best-seller' %}
- <script>
+      <script>
  
  const url = window.location.pathname + window.location.search;
     const queryString = url.includes('?') ? url.split('?')[1] : ''; // Handle missing query strings
@@ -60,280 +64,324 @@ if (targetElement) {
      console.log('Loaded_doc')
 
    })
- </script>
- 
-{% endif %}
-{% include 'booster-seo' %}
-{% render 'replo-head' %}
+      </script>
+    {% endif %}
+    {% include 'booster-seo' %}
+    {% render 'replo-head' %}
 
- <style>
-main#MainContent .shopify-section,.shopify-section.shopify-section-group-footer-group.index-section--footer{
-  display:none;
-}
- 
-@media only screen and (max-width:768px){
-   footer.site-footer {
-    min-height: 600px;
-}
-}   </style>
-  <link  rel="preload" as="image" href="https://cdn.shopify.com/s/files/1/0782/8593/0825/files/shop-01.webp">
-   <link rel="preload"  as="style" href="{{ 'theme.css' | asset_url }}">
-        <meta name="viewport" content="width=device-width,initial-scale=1"> 
-  <link rel="preload" href="{{ request.origin }}/cdn/fonts/poppins/poppins_n6.e2fdd168541a5add2d1a8d6f2b89b09c9c9e690d.woff2" as="font" type="font/woff2" crossorigin>
-  
-  <link rel="preload" href="{{ request.origin }}/cdn/fonts/poppins/poppins_n6.e2fdd168541a5add2d1a8d6f2b89b09c9c9e690d.woff1" as="font" type="font/woff1" crossorigin>
-   <link rel="preload" href="{{ request.origin }}/cdn/fonts/poppins/poppins_n4.934accbf9f5987aa89334210e6c1e9151f37d3b6.woff2" as="font" type="font/woff2" crossorigin>
+    <style>
+      main#MainContent .shopify-section,.shopify-section.shopify-section-group-footer-group.index-section--footer{
+        display:none;
+      }
 
-  <link rel="preload" href="{{ request.origin }}/cdn/fonts/poppins/poppins_n4.934accbf9f5987aa89334210e6c1e9151f37d3b6.woff1" as="font" type="font/woff1" crossorigin>
- 
-<link rel="preload"  as="font"  href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&display=swap">
+      @media only screen and (max-width:768px){
+         footer.site-footer {
+          min-height: 600px;
+      }
+      }
+    </style>
+    <link rel="preload" as="image" href="https://cdn.shopify.com/s/files/1/0782/8593/0825/files/shop-01.webp">
+    <link rel="preload" as="style" href="{{ 'theme.css' | asset_url }}">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link
+      rel="preload"
+      href="{{ request.origin }}/cdn/fonts/poppins/poppins_n6.e2fdd168541a5add2d1a8d6f2b89b09c9c9e690d.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    >
 
- {% if page.handle contains 'orbis-testosteroon-shop'  %} {% else %} {% render 'css1' %}{% render 'css2' %}{% render 'css3' %}{% render 'css4' %}{% render 'css5' %}{% render 'css6' %}{% endif %}
-   
-  {% render 'replo-head' →%} 
-  <meta charset="utf-8">
-  
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  
-  <meta name="theme-color" content="{{ settings.color_button }}">
-  <link rel="canonical" href="{{ canonical_url }}">
-  <link rel="preload" as="script" href="{{ 'theme.js' | asset_url }}">
-  <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
-  <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
-  <link rel="dns-prefetch" href="https://productreviews.shopifycdn.com">
-  <link rel="dns-prefetch" href="https://ajax.googleapis.com">
-  <link rel="dns-prefetch" href="https://maps.googleapis.com">
-  <link rel="dns-prefetch" href="https://maps.gstatic.com">
+    <link
+      rel="preload"
+      href="{{ request.origin }}/cdn/fonts/poppins/poppins_n6.e2fdd168541a5add2d1a8d6f2b89b09c9c9e690d.woff1"
+      as="font"
+      type="font/woff1"
+      crossorigin
+    >
+    <link
+      rel="preload"
+      href="{{ request.origin }}/cdn/fonts/poppins/poppins_n4.934accbf9f5987aa89334210e6c1e9151f37d3b6.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    >
 
-  {%- if settings.favicon != blank -%}
-    <link rel="shortcut icon" href="{{ settings.favicon | img_url: '32x32' }}" type="image/png" />
-  {%- endif -%}
+    <link
+      rel="preload"
+      href="{{ request.origin }}/cdn/fonts/poppins/poppins_n4.934accbf9f5987aa89334210e6c1e9151f37d3b6.woff1"
+      as="font"
+      type="font/woff1"
+      crossorigin
+    >
 
-  {% comment %}{%- render 'seo-title' -%}{% endcomment %}
+    <link
+      rel="preload"
+      as="font"
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&display=swap"
+    >
 
-  {%- if page_description -%}
-  {% comment %}<meta name="description" content="{{ page_description | escape }}">{% endcomment %}
-  {%- endif -%}
+    {% if page.handle contains 'orbis-testosteroon-shop' %}
+    {% else %}
+      {% render 'css1' -%}
+      {%- render 'css2' -%}
+      {%- render 'css3' -%}
+      {%- render 'css4' -%}
+      {%- render 'css5' -%}
+      {%- render 'css6' -%}
+    {%- endif %}
 
-  {%- render 'social-meta-tags' -%}
+    {% render 'replo-head' → %}
+    <meta charset="utf-8">
 
-  {%- if shop.enabled_currencies.size > 1 -%}
-    <link rel="stylesheet" href="{{ 'country-flags.css' | asset_url | split: '?' | first }}">
-  {%- endif -%}
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-  {%- render 'font-face' -%}
-  {{ 'theme.css' | asset_url | stylesheet_tag: preload: true }}
-  {%- render 'css-variables' -%}
+    <meta name="theme-color" content="{{ settings.color_button }}">
+    <link rel="canonical" href="{{ canonical_url }}">
+    <link rel="preload" as="script" href="{{ 'theme.js' | asset_url }}">
+    <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
+    <link rel="dns-prefetch" href="https://productreviews.shopifycdn.com">
+    <link rel="dns-prefetch" href="https://ajax.googleapis.com">
+    <link rel="dns-prefetch" href="https://maps.googleapis.com">
+    <link rel="dns-prefetch" href="https://maps.gstatic.com">
 
-  {%- liquid
-    assign enableSuperScript = false
-    unless shop.money_format contains 'money' or shop.money_format contains '.'
-      if settings.superscript_decimals
-        if shop.money_format contains '{{amount}}' or shop.money_format contains '{{ amount }}'
-          assign enableSuperScript = true
-        elsif shop.money_format contains '{{amount_with_comma_separator}}' or shop.money_format contains '{{ amount_with_comma_separator }}'
-          assign enableSuperScript = true
+    {%- if settings.favicon != blank -%}
+      <link rel="shortcut icon" href="{{ settings.favicon | img_url: '32x32' }}" type="image/png">
+    {%- endif -%}
+
+    {% comment %}{%- render 'seo-title' -%}{% endcomment %}
+
+    {%- if page_description -%}
+      {% comment %}<meta name="description" content="{{ page_description | escape }}">{% endcomment %}
+    {%- endif -%}
+
+    {%- render 'social-meta-tags' -%}
+
+    {%- if shop.enabled_currencies.size > 1 -%}
+      <link rel="stylesheet" href="{{ 'country-flags.css' | asset_url | split: '?' | first }}">
+    {%- endif -%}
+
+    {%- render 'font-face' -%}
+    {{ 'theme.css' | asset_url | stylesheet_tag: preload: true }}
+    {%- render 'css-variables' -%}
+
+    {%- liquid
+      assign enableSuperScript = false
+      unless shop.money_format contains 'money' or shop.money_format contains '.'
+        if settings.superscript_decimals
+          if shop.money_format contains '{{amount}}' or shop.money_format contains '{{ amount }}'
+            assign enableSuperScript = true
+          elsif shop.money_format contains '{{amount_with_comma_separator}}' or shop.money_format contains '{{ amount_with_comma_separator }}'
+            assign enableSuperScript = true
+          endif
         endif
-      endif
-    endunless
-  -%}
+      endunless
+    -%}
 
-  <script>
-    document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+    <script>
+      document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
 
-    window.theme = window.theme || {};
-    theme.routes = {
-      home: "{{ routes.root_url }}",
-      collections: "{{ routes.collections_url }}",
-      cart: "{{ routes.cart_url | append: '.js' }}",
-      cartPage: "{{ routes.cart_url }}",
-      cartAdd: "{{ routes.cart_add_url | append: '.js' }}",
-      cartChange: "{{ routes.cart_change_url | append: '.js' }}",
-      search: "{{ routes.search_url }}",
-      predictiveSearch: "{{ routes.predictive_search_url }}"
-    };
+      window.theme = window.theme || {};
+      theme.routes = {
+        home: "{{ routes.root_url }}",
+        collections: "{{ routes.collections_url }}",
+        cart: "{{ routes.cart_url | append: '.js' }}",
+        cartPage: "{{ routes.cart_url }}",
+        cartAdd: "{{ routes.cart_add_url | append: '.js' }}",
+        cartChange: "{{ routes.cart_change_url | append: '.js' }}",
+        search: "{{ routes.search_url }}",
+        predictiveSearch: "{{ routes.predictive_search_url }}"
+      };
 
-    theme.strings = {
-      soldOut: {{ 'products.product.sold_out' | t | json }},
-      unavailable: {{ 'products.product.unavailable' | t | json }},
-      inStockLabel: {{ 'products.product.in_stock_label' | t | json }},
-      oneStockLabel: {{ 'products.product.stock_label.one' | t: count: '[count]' | json }},
-      otherStockLabel: {{ 'products.product.stock_label.other' | t: count: '[count]' | json }},
-      willNotShipUntil: {{ 'products.product.will_not_ship_until' | t: date: '[date]' | json }},
-      willBeInStockAfter: {{ 'products.product.will_be_in_stock_after' | t: date: '[date]' | json }},
-      waitingForStock: {{ 'products.product.waiting_for_stock' | t | json }},
-      savePrice: {{ 'products.general.save_html' | t: saved_amount: '[saved_amount]' | json }},
-      cartEmpty: {{ 'cart.general.empty' | t | json }},
-      cartTermsConfirmation: {{ 'cart.general.terms_confirm' | t | json }},
-      searchCollections: {{ 'general.search.collections' | t | json }},
-      searchPages: {{ 'general.search.pages' | t | json }},
-      searchArticles: {{ 'general.search.articles' | t | json }},
-      maxQuantity: {{ 'cart.general.max_quantity' | t: quantity: '[quantity]', title: '[title]' | json }}
-    };
-    theme.settings = {
-      cartType: {{ settings.cart_type | json }},
-      isCustomerTemplate: {% if request.page_type contains 'customers/' %}true{% else %}false{% endif %},
-      moneyFormat: {{ shop.money_format | json }},
-      saveType: {{ settings.product_save_type | json }},
-      productImageSize: {{ settings.product_grid_image_size | json }},
-      productImageCover: {{ settings.product_grid_image_fill }},
-      predictiveSearch: {{ settings.predictive_search_enabled }},
-      predictiveSearchType: {{ settings.search_type | json }},
-      superScriptSetting: {{ settings.superscript_decimals }},
-      superScriptPrice: {{ enableSuperScript }},
-      quickView: {{ settings.quick_shop_enable }},
-      quickAdd: {{ settings.quick_add_enable }},
-      themeName: 'Fetch',
-      themeVersion: "1.2.1",
-      imageBreathingRoom: {{ settings.product_grid_image_margin | json }}
-    };
+      theme.strings = {
+        soldOut: {{ 'products.product.sold_out' | t | json }},
+        unavailable: {{ 'products.product.unavailable' | t | json }},
+        inStockLabel: {{ 'products.product.in_stock_label' | t | json }},
+        oneStockLabel: {{ 'products.product.stock_label.one' | t: count: '[count]' | json }},
+        otherStockLabel: {{ 'products.product.stock_label.other' | t: count: '[count]' | json }},
+        willNotShipUntil: {{ 'products.product.will_not_ship_until' | t: date: '[date]' | json }},
+        willBeInStockAfter: {{ 'products.product.will_be_in_stock_after' | t: date: '[date]' | json }},
+        waitingForStock: {{ 'products.product.waiting_for_stock' | t | json }},
+        savePrice: {{ 'products.general.save_html' | t: saved_amount: '[saved_amount]' | json }},
+        cartEmpty: {{ 'cart.general.empty' | t | json }},
+        cartTermsConfirmation: {{ 'cart.general.terms_confirm' | t | json }},
+        searchCollections: {{ 'general.search.collections' | t | json }},
+        searchPages: {{ 'general.search.pages' | t | json }},
+        searchArticles: {{ 'general.search.articles' | t | json }},
+        maxQuantity: {{ 'cart.general.max_quantity' | t: quantity: '[quantity]', title: '[title]' | json }}
+      };
+      theme.settings = {
+        cartType: {{ settings.cart_type | json }},
+        isCustomerTemplate: {% if request.page_type contains 'customers/' %}true{% else %}false{% endif %},
+        moneyFormat: {{ shop.money_format | json }},
+        saveType: {{ settings.product_save_type | json }},
+        productImageSize: {{ settings.product_grid_image_size | json }},
+        productImageCover: {{ settings.product_grid_image_fill }},
+        predictiveSearch: {{ settings.predictive_search_enabled }},
+        predictiveSearchType: {{ settings.search_type | json }},
+        superScriptSetting: {{ settings.superscript_decimals }},
+        superScriptPrice: {{ enableSuperScript }},
+        quickView: {{ settings.quick_shop_enable }},
+        quickAdd: {{ settings.quick_add_enable }},
+        themeName: 'Fetch',
+        themeVersion: "1.2.1",
+        imageBreathingRoom: {{ settings.product_grid_image_margin | json }}
+      };
+    </script>
+    {% comment %} INTELLIGEMS {% endcomment %}
+    <script>
+      window.Shopify = window.Shopify || {theme: {id: {{ theme.id }}, role: '{{ theme.role }}' } };
+      window._template = {
+          directory: "{{ template.directory }}",
+          name: "{{ template.name }}",
+          suffix: "{{ template.suffix }}"
+      }
+    </script>
+    <script type="text/javascript" src="https://cdn.intelligems.io/825fe50038fd.js"></script>
 
-  </script>
- {% comment %} INTELLIGEMS {% endcomment %}
-<script>
-    window.Shopify = window.Shopify || {theme: {id: {{ theme.id }}, role: '{{ theme.role }}' } };
-    window._template = {
-        directory: "{{ template.directory }}",
-        name: "{{ template.name }}",
-        suffix: "{{ template.suffix }}"
+    {%- if request.design_mode or template contains 'cart' or template contains 'checkout' -%}
+      {{ content_for_header }}
+    {%- else -%}
+      {% capture content_for_header2 %}{{ content_for_header }}{% endcapture %}
+      {{
+        content_for_header2
+        | replace: ' defer="defer" ', ' type="lazyload_int" '
+        | replace: ' src=', ' data-src='
+        | replace: 'DOMContentLoaded', 'w3-DOMContentLoaded'
+        | replace: "window.addEventListener('load', asyncLoad, false);",
+          "window.addEventListener('w3-DOMContentLoaded', asyncLoad, false);"
+        | replace: "addEventListener('load', prefetchAssets);",
+          "addEventListener('w3-DOMContentLoaded', prefetchAssets);"
+      }}
+      <script>
+        var trekkie=[];trekkie.integrations=!0;window.BOOMR={},window.BOOMR.version=true;
+      </script>
+    {%- endif -%}
+    <style>
+                main#main{
+                  min-height:100vh;
+                }
+                       body.wait_process main#MainContent {
+          opacity: 0 !important;
+      }
+    </style>
+
+    <script src="{{ 'vendor-scripts-v2.js' | asset_url }}" defer="defer"></script>
+    <script src="{{ 'theme.js' | asset_url }}" defer="defer"></script>
+
+    {%- if request.page_type contains 'customers/' -%}
+      <script src="{{ 'shopify_common.js' | shopify_asset_url }}" defer="defer"></script>
+    {%- endif -%}
+
+    {% if request.design_mode %}
+      <script src="https://api.archetypethemes.co/design-mode.js" defer="defer"></script>
+    {% endif %}
+
+    <script type="lazyload_int">
+      (function(c,l,a,r,i,t,y){
+          c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+          t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+          y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+      })(window, document, "clarity", "script", "k0jwg86xet");
+    </script>
+
+    {% render 'gp-head' %}
+    <!-- Google tag (gtag.js) -->
+    <script async type="lazyload_int" data-src="https://www.googletagmanager.com/gtag/js?id=UA-187523659-1"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async type="lazyload_int" data-src="https://www.googletagmanager.com/gtag/js?id=G-6CPHLMF5F3"></script>
+    <script type="lazyload_int">
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-6CPHLMF5F3');
+    </script>
+
+    {% if product.handle == 'testowit-per-la-regolazione-ormonale' %}
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-187523659-1');
+      </script>
+    {% endif %}
+
+    {{ 'pdp-base.css' | asset_url | stylesheet_tag }}
+    {% render 'pdp-swiper-init' %}
+  </head>
+  <style>
+    .hide_chetbot gptflow-chat{
+      display:none !important;
     }
-  </script> 
-                            <script  type="text/javascript"  src="https://cdn.intelligems.io/825fe50038fd.js"></script>
+  </style>
+  <body
+    class="{% if template == 'index' %} homepage {% endif %} {% if template.name == 'page' %} homepage {% endif %} {% if template contains '.replo.' %} replopage {% endif %}{% if template contains '19801e19-a668-4d80-a499-0de9c4d72724' %}hide_chetbot{% endif %} template-{{ template | replace: '.', ' ' | truncatewords: 1, '' | handle }}{% if request.path == '/challenge' %} template-challange{% endif %}"
+    data-transitions="{{ settings.animate_page_transitions }}"
+    data-button_style="{{ settings.button_style }}"
+    data-edges="{{ settings.roundness }}"
+    data-type_header_capitalize="{{ settings.type_header_capitalize }}"
+    data-swatch_style="{{ settings.swatch_style }}"
+    data-grid-style="{{ settings.product_grid_style }}"
+  >
+    {% if settings.animate_page_transitions %}
+      <script type="text/javascript">
+        window.setTimeout(function() { document.body.className += " loaded"; }, 25);
+      </script>
+    {% endif %}
 
+    <a class="in-page-link visually-hidden skip-link" href="#MainContent">
+      {{- 'general.accessibility.skip_to_content' | t -}}
+    </a>
 
+    <div id="PageContainer" class="page-container">
+      <div class="transition-body">
+        {% section 'toolbar' %}
+        {% section 'new-header' %}
 
-  {%- if request.design_mode or template contains 'cart' or template contains 'checkout' -%}
-            {{ content_for_header }}
-        {%- else -%}
-            {% capture content_for_header2 %}{{ content_for_header }}{% endcapture %}
-            {{ content_for_header2 | replace: ' defer="defer" ', ' type="lazyload_int" ' | replace: " src=", " data-src="| replace: "DOMContentLoaded", "w3-DOMContentLoaded" | replace: "window.addEventListener('load', asyncLoad, false);", "window.addEventListener('w3-DOMContentLoaded', asyncLoad, false);" | replace: "addEventListener('load', prefetchAssets);", "addEventListener('w3-DOMContentLoaded', prefetchAssets);" }}
-            <script>var trekkie=[];trekkie.integrations=!0;window.BOOMR={},window.BOOMR.version=true;</script>
-        {%- endif -%}
-        <style>
-          main#main{
-            min-height:100vh;
-          }
-                 body.wait_process main#MainContent {
-    opacity: 0 !important;
-}
-        </style>
+        <main class="main-content" id="MainContent">
+          {{ content_for_layout }}
+        </main>
 
-  <script src="{{ 'vendor-scripts-v2.js' | asset_url }}" defer="defer"></script>
-  <script src="{{ 'theme.js' | asset_url }}" defer="defer"></script>
-
-  {%- if request.page_type contains 'customers/' -%}
-    <script src="{{ 'shopify_common.js' | shopify_asset_url }}" defer="defer"></script>
-  {%- endif -%}
-
-  {% if request.design_mode %}
-    <script src="https://api.archetypethemes.co/design-mode.js" defer="defer"></script>
-  {% endif %}
-
-<script type="lazyload_int"   >
-    (function(c,l,a,r,i,t,y){
-        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-    })(window, document, "clarity", "script", "k0jwg86xet");
-</script>
- 
-  
-
-{% render 'gp-head' %}
-  <!-- Google tag (gtag.js) -->
-<script async  type="lazyload_int"  data-src="https://www.googletagmanager.com/gtag/js?id=UA-187523659-1"></script>
-<!-- Google tag (gtag.js) -->
-<script async  type="lazyload_int"  data-src="https://www.googletagmanager.com/gtag/js?id=G-6CPHLMF5F3"></script>
-<script type="lazyload_int"  >
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-6CPHLMF5F3');
-</script>
-  
-  {% if product.handle == 'testowit-per-la-regolazione-ormonale' %}<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-187523659-1');
-</script>{% endif %}
-
-{{ 'pdp-base.css' | asset_url | stylesheet_tag }}
-{% render 'pdp-swiper-init' %}
-
-  
-</head>
-<style>
-  .hide_chetbot gptflow-chat{
-    display:none !important;
-  }
-</style>
-<body class="{% if template == 'index' %} homepage {% endif %} {% if template.name == 'page' %} homepage {% endif %} {% if template contains '.replo.' %} replopage {% endif %}{% if template contains '19801e19-a668-4d80-a499-0de9c4d72724' %}hide_chetbot{% endif %} template-{{ template | replace: '.', ' ' | truncatewords: 1, '' | handle }}{% if request.path == '/challenge' %} template-challange{% endif %}" data-transitions="{{ settings.animate_page_transitions }}" data-button_style="{{ settings.button_style }}" data-edges="{{ settings.roundness }}" data-type_header_capitalize="{{ settings.type_header_capitalize }}" data-swatch_style="{{ settings.swatch_style }}" data-grid-style="{{ settings.product_grid_style }}">
-
-  {% if settings.animate_page_transitions %}
-    <script type="text/javascript">window.setTimeout(function() { document.body.className += " loaded"; }, 25);</script>
-  {% endif %}
-
-  <a class="in-page-link visually-hidden skip-link" href="#MainContent">{{ 'general.accessibility.skip_to_content' | t }}</a>
-
-  <div id="PageContainer" class="page-container">
-    <div class="transition-body">
-   
-       {% section 'toolbar' %}
-       {% section 'new-header' %}
-       
-     
-
-      <main class="main-content" id="MainContent">
-        {{ content_for_layout }}
-      </main>
-      
-       {% section 'footer-new' %}
-     
+        {% section 'footer-new' %}
+      </div>
     </div>
-  </div>
 
-  {%- liquid
-    render 'video-modal'
-    render 'photoswipe-template'
-    if settings.quick_add_enable
-      render 'quick-add-modal'
-    endif
-    render 'tool-tip'
-  -%}
-  <div id="ProductModals"></div>
+    {%- liquid
+      render 'video-modal'
+      render 'photoswipe-template'
+      if settings.quick_add_enable
+        render 'quick-add-modal'
+      endif
+      render 'tool-tip'
+    -%}
+    <div id="ProductModals"></div>
 
+    <!-- QUANTCAST TAG -->
+    <!-- Quantcast Tag -->
+    <script type="lazyload_int">
+      window._qevents = window._qevents || [];
 
+      (function() {
+      var elem = document.createElement('script');
+      elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+      elem.async = true;
+      elem.type = "text/javascript";
+      var scpt = document.getElementsByTagName('script')[0];
+      scpt.parentNode.insertBefore(elem, scpt);
+      })();
 
-  <!-- QUANTCAST TAG -->  
-  <!-- Quantcast Tag -->
-<script  type="lazyload_int"  >
-window._qevents = window._qevents || [];
+      window._qevents.push({
+      qacct:"p-W-XpX2QVW2ZBf",
+      uid:"__INSERT_EMAIL_HERE__"
+      });
+    </script>
 
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
+    <!-- End Quantcast tag -->
 
-window._qevents.push({
-qacct:"p-W-XpX2QVW2ZBf",
-uid:"__INSERT_EMAIL_HERE__"
-});
-</script>
-
- 
-<!-- End Quantcast tag -->
-
-
-  
-{% if product %}
-<script>
+    {% if product %}
+      <script>
   window.addEventListener('load', function() {
   var _learnq = window._learnq || [];
   function addedToCart() {
@@ -378,74 +426,69 @@ uid:"__INSERT_EMAIL_HERE__"
     })
   }
   });
-</script>
-  {% endif %}
-  
-
-  <script async type="text/javascript" src="https://cdn.weglot.com/weglot.min.js"></script>
-<script type="text/javascript">
-    Weglot.initialize({
-        api_key: 'wg_2fe38f76cca985d3e33319b65b5d52a26'
-    });
-</script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-  <script>
-  if(navigator.platform =="Linux x86_64"){
-  console.log('344test23');
-    // console.log(jQuery);
-  }else{
-    
-  
-
-    var src=$('.load').attr('data-src');
-     $('.load').attr('src',src)
-   
-    $('main#MainContent .shopify-section').css('display','block')
-    $('.shopify-section.shopify-section-group-footer-group.index-section--footer').css('display','block')
-  }
-</script>
-
-  
-  </body>
-{% if page.handle == 'orbis-testosteroon-shop'%}{% else %}
-  <gptflow-chat chatbot="dde99abf-b4a4-42d0-8b69-8ba633f8e5d9" /> <script  type="lazyload_int"  data-src="https://bundle.gptflow.app/min.js" defer></script>
+      </script>
     {% endif %}
-    {%- if product.template_suffix == 'testowit-heylander-pdp' %}
-       {% section 'footer-new' %}
-       {% else %}
-     
-    {% endif %}  
-     {% render 'sp_footer' %}
-     <script>
-       $(document).ready( functionTobeLoaded() {
-         $('button.pdp-btn.pdp-btn--products').click(function(){
-        
-          
-var variant_id=$(this).attr('pid')
-        data = {
-      "id": variant_id,
-      "quantity": 1
-    }
-    jQuery.ajax({
-      type: 'POST',
-      url: '/cart/add.js',
-      data: data,
-      dataType: 'json',
-      success: function() { 
-     
-      }
-    });
-          
-  
-      });
-       } )
-      
-    </script>
-     {% if collection.handle =='all' %}
-  <script>
-  window.location.href = '/collections/best-seller';
-</script>
 
+    <script async type="text/javascript" src="https://cdn.weglot.com/weglot.min.js"></script>
+    <script type="text/javascript">
+      Weglot.initialize({
+          api_key: 'wg_2fe38f76cca985d3e33319b65b5d52a26'
+      });
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script>
+      if(navigator.platform =="Linux x86_64"){
+      console.log('344test23');
+        // console.log(jQuery);
+      }else{
+
+
+
+        var src=$('.load').attr('data-src');
+         $('.load').attr('src',src)
+
+        $('main#MainContent .shopify-section').css('display','block')
+        $('.shopify-section.shopify-section-group-footer-group.index-section--footer').css('display','block')
+      }
+    </script>
+  </body>
+  {% if page.handle == 'orbis-testosteroon-shop' -%}
+  {%- else %}
+    <gptflow-chat chatbot="dde99abf-b4a4-42d0-8b69-8ba633f8e5d9" />
+    <script type="lazyload_int" data-src="https://bundle.gptflow.app/min.js" defer></script>
+  {% endif %}
+  {%- if product.template_suffix == 'testowit-heylander-pdp' %}
+    {% section 'footer-new' %}
+  {% else %}
+
+  {% endif %}
+  {% render 'sp_footer' %}
+  <script>
+           $(document).ready( function () {
+             $('button.pdp-btn.pdp-btn--products').click(function(){
+
+
+    var variant_id=$(this).attr('pid')
+        jQuery.ajax({
+          type: 'POST',
+          url: '/cart/add.js',
+          data: {
+          "id": variant_id,
+          "quantity": 1
+        },
+          dataType: 'json',
+          success: function() {
+
+          }
+        });
+
+
+          });
+           });
+  </script>
+  {% if collection.handle == 'all' %}
+    <script>
+      window.location.href = '/collections/best-seller';
+    </script>
   {% endif %}
 </html>
-
