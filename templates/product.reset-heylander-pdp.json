@@ -61,7 +61,7 @@
         "description_fmb8fU": {
           "type": "description",
           "settings": {
-            "custom_descritpion": "<p><strong>L'integratore essenziale </strong>per gli uomini che vogliono\t<strong>aumentare naturalmente</strong> i livelli di testosterone.</p>",
+            "custom_descritpion": "<p>Riduci <strong>l’infiammazione</strong>, migliora la mobilità, senti il <strong>corpo più leggero</strong>.</p>",
             "is_tab": false
           }
         },
@@ -84,19 +84,19 @@
         "additional_info_dP9zHP": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta l'energia"
+            "bullet_text": "Riduce le infiammazioni"
           }
         },
         "additional_info_nMn76h": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta la resistenza fisica"
+            "bullet_text": "Favorisce la circolazione"
           }
         },
         "additional_info_BkmQkF": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Migliora il benessere mentale"
+            "bullet_text": "Combatte lo stress ossidativo"
           }
         },
         "custom_UebbjN": {
@@ -138,7 +138,7 @@
           "type": "tab",
           "settings": {
             "title": "Ingredienti",
-            "content": "<p>Muira puama (Ptychopetalum olacoides Benth.) corteccia e.s. (D/E: 4/1); RedNite™ [Barbabietola Rossa (Beta vulgaris L.) radice succo polvere tit. all’1,5% in nitrati]; Maca (Lepidium meyenii Walp.) radice e.s. tit. allo 0,5% in beta-ecdysterone; Fieno Greco (Trigonella foenum-graecum L.) semi e.s. tit. al 50% in protodioscina; gluconato di zinco; KSM-66® [Ashwagandha (Withania somnifera (L.) Dunal.) radice e.s. tit. al 5% in withanolidi]; agente di carica: cellulosa; Oligopin® [Pino Marittimo Francese (Pinus pinaster Ait.) corteccia e.s. tit. al 65% in procianidine oligomeriche (OPCs)]; agente antiagglomerante: sali di magnesio degli acidi grassi; Uva rossa (Vitis vinifera L.) semi e.s. tit. al 95% in proantocianidine; colecalciferolo; acetato di D-alfa-tocoferile; acido borico; gluconato di rame; cloridrato di piridossina; Piperina da Pepe nero (Piper nigrum L.) frutti.</p>",
+            "content": "<p>Bromelina (2500 GDU/g) da Gambo d’Ananas (Ananas comosus (L.) Merr.); agente di rivestimento: idrossi-propil-metilcellulosa (involucro capsula); Boswellia (Boswellia serrata Roxb. ex Colebr.) gommo-resina estratto secco tit. al 65% in acidi boswellici; Curcuminoidi (da Curcuma longa L.); emulsionante: lecitina di girasole; Pino (Pinus sylvestris L.) corteccia estratto secco tit. al 90% in proantocianidine; agente di carica: cellulosa; estratto di <strong>soia </strong>fermentata tit. in attività della nattochinasi (20.000-28.000 FU/g); agente antiagglomerante: sali di magnesio degli acidi grassi; cloridrato di tiamina (Vit. B1).</p>",
             "page": ""
           }
         },
@@ -146,7 +146,7 @@
           "type": "tab",
           "settings": {
             "title": "Avvertenze",
-            "content": "<p>Non superare la dose giornaliera consigliata. Gli integratori alimentari non vanno intesi come sostituti di una dieta varia ed equilibrata e di uno stile di vita sano. Tenere fuori dalla portata dei bambini di età inferiore a 3 anni.</p>",
+            "content": "<p><strong>Avvertenze importanti:</strong> il prodotto è destinato agli adulti. In caso di alterazioni della funzione epatica, biliare o di calcolosi delle vie biliari, l'uso del prodotto è sconsigliato. Non usare in gravidanza e allattamento. Non utilizzare per periodi prolungati senza consultare il medico. Il consumo del prodotto in combinazione con medicinali può avvenire soltanto sotto controllo medico. Non superare la dose giornaliera consigliata. Tenere fuori dalla portata dei bambini di età inferiore a 3 anni. Gli integratori alimentari non vanno intesi come sostituti di una dieta varia ed equilibrata e di uno stile di vita sano.  </p>",
             "page": ""
           }
         }
@@ -304,8 +304,8 @@
         "content_FGFrwt"
       ],
       "settings": {
-        "features_title": "Cosa Contiene Testowit?",
-        "features_image": "shopify://shop_images/ADS_TEMPLATES_ORBIS_POSTS_IGFACEBOOK_2023_1_1.png"
+        "features_title": "Cosa Contiene Reset?",
+        "features_image": "shopify://shop_images/bottle_20RESET_20Front_20PNG_2b94aff8-245e-4fb6-94ec-1eed4813779b.png"
       }
     },
     "pdp_products_PkNjPP": {
