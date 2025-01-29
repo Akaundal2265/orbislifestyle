@@ -64,7 +64,7 @@
   data-product-title="{{ product.title | escape }}"
   data-history="{{ enableHistory }}"
   data-modal="{{ isModal }}">{% render 'preorder-now-collection-item', product: product %}
-
+<span id="loopbrackets"></span>
   {%- render 'product-template-variables', product: product, current_variant: current_variant -%}
 
   {%- capture product_header -%}
