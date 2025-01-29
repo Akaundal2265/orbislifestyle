@@ -73,11 +73,11 @@
     {%- endif -%}
 
     {%- if isModal -%}
-      <p class="h2 product-single__title loopbrackets">
+      <p class="h2 product-single__title">
         {{ product.title }}
       </p>
     {%- else -%}
-      <h1 class="h2 product-single__title loopbrackets">
+      <h1 class="h2 product-single__title">
         {%- unless product.empty? -%}
           {{ product.title }}
         {%- else -%}
