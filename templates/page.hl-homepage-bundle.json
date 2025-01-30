@@ -47,7 +47,7 @@
         "hero_bg_image": "shopify://shop_images/Group_2.jpg",
         "hero_image": "shopify://shop_images/Frame_1000005368_1.jpg",
         "hero_button_text": "Shop Our Bestsellers",
-        "hero_button_url": "shopify://collections",
+        "hero_button_url": "shopify://collections/offerte-bundles",
         "hero_review_author": "Paolo Nuzzolillo",
         "hero_review_author_image": "shopify://shop_images/Frame_1000004096.png",
         "hero_review_number": "1",
@@ -123,7 +123,7 @@
         "product_QFJh4E": {
           "type": "product",
           "settings": {
-            "pdp_product": "testowit-regolazione-ormonale-120-cps",
+            "pdp_product": "libido-6-mesi-di-scorta-testowit-x-6",
             "rev_text": "4.7/5.0",
             "product_img_custom": "shopify://shop_images/1706176371766_1.jpg",
             "product_img_badge": "shopify://shop_images/Frame_1000005314.svg"
@@ -132,7 +132,7 @@
         "product_hFCn6L": {
           "type": "product",
           "settings": {
-            "pdp_product": "glutadetox-glutatione-setria-puro-con-nac-60-capsule",
+            "pdp_product": "kit-starter-glutadetox-memowit-ansiwit-fermentcarb",
             "rev_text": "4.7/5.0",
             "product_img_custom": "shopify://shop_images/1706176371766_2_ee4594c8-167a-4f01-89ad-9a336512cfbf.jpg",
             "product_img_badge": "shopify://shop_images/Frame_1000005314.svg",
@@ -142,7 +142,7 @@
         "product_9YijLF": {
           "type": "product",
           "settings": {
-            "pdp_product": "neurowit-memoria-e-funzioni-cognitive-90-cps",
+            "pdp_product": "cortisol-reset-advanced-2x-ansiwit-3x-memowit-2x-neurowit",
             "rev_text": "4.7/5.0",
             "product_img_custom": "shopify://shop_images/1706176371766_1-1.jpg",
             "product_img_badge": "shopify://shop_images/Frame_1000005314.svg",
@@ -152,7 +152,7 @@
         "product_Pt7ATg": {
           "type": "product",
           "settings": {
-            "pdp_product": "ansiwit-ashwagandha-ksm66-magnolia-giuggiolo-45-capsule",
+            "pdp_product": "energia-e-motivazione-2x-testowit-2x-neurowit-2x-glutadetox",
             "rev_text": "4.7/5.0",
             "product_img_custom": "shopify://shop_images/1706176371766_1-2.jpg",
             "product_img_badge": "shopify://shop_images/Frame_1000005314.svg",
@@ -395,22 +395,31 @@
         "replo_text_fc75ab9a-460e-444e-8e5c-7d32a341d4cc": "<p>To slow down the passage of time, regardless of age</p>",
         "replo_text_28fb5117-0e41-454f-bdc6-0ebd94e8fb0e": "<p>4.7/5.0</p>",
         "replo_text_e21ac012-ba0a-4710-af20-573ca7bfaabb": "<p>Quick add</p>",
+        "replo_text_a0e305d2-0a0a-42e1-98da-dde864b7210e": "<p>Vedi Prodotto</p>",
         "replo_text_3e132820-56d0-4724-b34a-908ad18cf58d": "<p>4.7/5.0</p>",
         "replo_text_d181b229-875f-4433-8b20-85987450282a": "<p><span>Quick add</span></p>",
+        "replo_text_4185cb8e-39d5-4ff8-89d3-caddf6a82f55": "<p>Vedi Prodotto</p>",
         "replo_text_8970fa6c-42cd-4780-9009-e948973f4a77": "<p>4.7/5.0</p>",
         "replo_text_ed7eba93-9d6f-4ed5-b1a9-ad8a0e43cca3": "<p><span>Quick add</span></p>",
+        "replo_text_0b6b78be-c49d-4de5-a514-ef02121af590": "<p>Vedi Prodotto</p>",
         "replo_text_50598afe-bd84-49fd-bcfe-90fa828ae593": "<p>4.7/5.0</p>",
         "replo_text_78413672-fe19-4551-a58d-ec522d988d4b": "<p>Quick add</p>",
+        "replo_text_2c9951dc-76bb-45f2-b9a0-f16c4488da90": "<p>Vedi Prodotto</p>",
         "replo_text_5646f335-8d00-4e7a-b56e-c2ba546a8cd0": "<p>4.7/5.0</p>",
         "replo_text_6ae82432-ffb4-47e6-a644-35c7c60c672d": "<p>Quick add</p>",
+        "replo_text_ab661a2b-0580-46d2-981b-40fd08fc4f43": "<p>Vedi Prodotto</p>",
         "replo_text_e48be983-5a15-43c1-91fc-7ac8fad0f38b": "<p>4.7/5.0</p>",
         "replo_text_7c4efc9d-2d55-4c01-a569-c7f04c6ee7e3": "<p>Quick add</p>",
+        "replo_text_3bd3c514-aa58-4349-853a-dfba40249132": "<p>Vedi Prodotto</p>",
         "replo_text_5e5fc033-b052-4df4-9b4f-f7b178feb8f6": "<p>4.7/5.0</p>",
         "replo_text_9c3ece85-03c7-41c5-b01a-e216bfa4bb7d": "<p>Quick add</p>",
+        "replo_text_a1ff742b-e74a-466e-9c09-b4b9a5674577": "<p>Vedi Prodotto</p>",
         "replo_text_b3e19c64-6afd-45be-aed0-55eec234e03a": "<p>4.7/5.0</p>",
         "replo_text_3c23d4d0-f85d-4aa0-9183-8150f43f5d94": "<p>Quick add</p>",
+        "replo_text_e248fed2-b4ea-4189-b992-d44d4b7fa282": "<p>Vedi Prodotto</p>",
         "replo_text_59f6ce53-dfdf-47d9-977d-31f7fdbbc492": "<p>4.7/5.0</p>",
-        "replo_text_ff50c04d-05ff-4c56-b70d-a7083849d3b2": "<p>Quick add</p>"
+        "replo_text_ff50c04d-05ff-4c56-b70d-a7083849d3b2": "<p>Quick add</p>",
+        "replo_text_b71277fc-9cbb-4130-9b2a-f40f9bb872ab": "<p>Vedi Prodotto</p>"
       }
     },
     "scrolling_text_rkqgP6": {
@@ -418,7 +427,7 @@
       "settings": {
         "padding_top": 14,
         "padding_bottom": 14,
-        "text": "✈️ Free Shipping From $59",
+        "text": "✈️ Free Shipping From $69",
         "link": "",
         "text_size": 14,
         "text_spacing": true,
