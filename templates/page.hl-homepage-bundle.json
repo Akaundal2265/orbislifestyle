@@ -40,13 +40,13 @@
         "text_a4DyUX"
       ],
       "settings": {
-        "trustpilot_text": "<p><a href=\"#reviews-section\" title=\"#reviews-section\">Rated <strong>“Excellent”</strong> on</a></p>",
-        "hero_title": "Natural Supplements for Body Mind & Spirit",
-        "hero_subtitle": "Backed by 100+ Industry Experts",
+        "trustpilot_text": "<p><a href=\"#reviews-section\" title=\"#reviews-section\">Valutato <strong>“Eccellente”</strong> su</a></p>",
+        "hero_title": "Integratori Naturali per Corpo, Mente e Spirito",
+        "hero_subtitle": "Sostenuto da oltre +100 esperti del settore",
         "hero_badge": "shopify://shop_images/Frame_1000005384.svg",
         "hero_bg_image": "shopify://shop_images/Group_2.jpg",
         "hero_image": "shopify://shop_images/Frame_1000005368_1.jpg",
-        "hero_button_text": "Shop Our Bestsellers",
+        "hero_button_text": "Scopri i Nostri Bundle Più Venduti",
         "hero_button_url": "shopify://collections/offerte-bundles",
         "hero_review_author": "Paolo Nuzzolillo",
         "hero_review_author_image": "shopify://shop_images/Frame_1000004096.png",
@@ -174,7 +174,7 @@
     "pdp_zig_zag_NT6Bit": {
       "type": "pdp-zig-zag",
       "settings": {
-        "zig_zag_title": "Not Satisfied? <br>We Guarantee Your Money Back No Questions Asked!",
+        "zig_zag_title": "Non sei soddisfatto? Ti rimborsiamo al 100%, senza fare domande!",
         "zig_zag_image": "shopify://shop_images/Frame_650665_2_1.jpg",
         "zig_zag_image_mob": "shopify://shop_images/Frame_650665_3_1.jpg",
         "zig_zag_badge": "shopify://shop_images/Frame_1000005248_1.svg",
@@ -313,24 +313,24 @@
           "type": "info-icon",
           "settings": {
             "props_img": "shopify://shop_images/Frame_1000004097_eae57c2c-23cb-46f4-8e9f-2de9c745d12d.svg",
-            "props_heading": "Targeted Natural Solutions",
-            "props_text": "<p>We believe in the power of personalized wellness.  Our extensive range of natural supplements allows you to target your specific needs, from stress management and digestion to anti-aging and beyond.</p>"
+            "props_heading": "Soluzioni naturali mirate",
+            "props_text": "<p>Crediamo nel potere del benessere personalizzato. La nostra ampia gamma di integratori naturali ti consente di mirare alle tue esigenze specifiche, dalla gestione dello stress e della digestione all'anti-invecchiamento e oltre.</p>"
           }
         },
         "info_icon_jaL8UE": {
           "type": "info-icon",
           "settings": {
             "props_img": "shopify://shop_images/Frame_1000005337.svg",
-            "props_heading": "Science-Backed Effectiveness",
-            "props_text": "<p>Our commitment goes beyond natural ingredients. Every ORBIS supplement is formulated by a team of over 100 industry experts, ensuring quality, safety, and scientific backing for noticeable improvements in your well-being.</p>"
+            "props_heading": "Efficacia supportata dalla scienza",
+            "props_text": "<p>Il nostro impegno va oltre gli ingredienti naturali. Ogni integratore ORBIS è formulato da un team di oltre 100 esperti del settore, garantendo qualità, sicurezza e supporto scientifico per miglioramenti visibili nel tuo benessere.</p>"
           }
         },
         "info_icon_YPxfVT": {
           "type": "info-icon",
           "settings": {
             "props_img": "shopify://shop_images/Frame_1000005335.svg",
-            "props_heading": "Convenient and Hassle-Free",
-            "props_text": "<p>We prioritize a smooth journey towards your holistic goals. Enjoy effortless online shopping with free shipping on qualifying orders, and a risk-free 30-day return policy to shop with confidence.</p>"
+            "props_heading": "Comodo e senza problemi",
+            "props_text": "<p>Poniamo la massima priorità a un percorso fluido verso i tuoi obiettivi olistici. Goditi un'esperienza di acquisto online senza sforzi con spedizione gratuita sugli ordini idonei e una politica di reso senza rischi di 30 giorni per acquistare con fiducia.</p>"
           }
         }
       },
@@ -388,11 +388,11 @@
       "type": "replo-tab-shop-section",
       "settings": {
         "replo_text_6eb11980-86c9-4504-8a4b-9403bdad05f9": "<p>🥵 Stress Management</p>",
-        "replo_text_ffd8e659-ed1f-4c14-a8d2-283a9092be07": "<p>To manage mood swings, insomnia and other pressures of modern life.</p>",
+        "replo_text_ffd8e659-ed1f-4c14-a8d2-283a9092be07": "<p>Per gestire sbalzi d’umore, insonnia e lo stress della vita moderna.</p>",
         "replo_text_1b5c7f85-1dda-4898-b2d5-08565a7be74c": "<p>🌿 Detox & Immunity</p>",
-        "replo_text_cdc989cf-2b77-4f4d-ae84-9c4a0f47f9bc": "<p>To help a complex network of organs break down food into nutrients</p>",
+        "replo_text_cdc989cf-2b77-4f4d-ae84-9c4a0f47f9bc": "<p>Per supportare il sistema digestivo nel trasformare il cibo in nutrienti essenziali.</p>",
         "replo_text_bcf475cb-0404-48a6-9a15-4dede2acd9a7": "<p>⚡️ Energy & Libido</p>",
-        "replo_text_fc75ab9a-460e-444e-8e5c-7d32a341d4cc": "<p>To slow down the passage of time, regardless of age</p>",
+        "replo_text_fc75ab9a-460e-444e-8e5c-7d32a341d4cc": "<p>Per contrastare i segni del tempo, a qualsiasi età.</p>",
         "replo_text_28fb5117-0e41-454f-bdc6-0ebd94e8fb0e": "<p>4.7/5.0</p>",
         "replo_text_e21ac012-ba0a-4710-af20-573ca7bfaabb": "<p>Quick add</p>",
         "replo_text_a0e305d2-0a0a-42e1-98da-dde864b7210e": "<p>Vedi Prodotto</p>",
