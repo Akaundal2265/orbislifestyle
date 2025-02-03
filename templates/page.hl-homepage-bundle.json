@@ -16,21 +16,21 @@
           "type": "text",
           "settings": {
             "hero_bullet_icon": "shopify://shop_images/Frame_1000005306_b0e38bcb-772a-4233-8b85-82b0e060cb78.svg",
-            "hero_bullet_text": "<p><strong>Target Your Needs: </strong>Natural supplements for stress, digestion, & more.</p>"
+            "hero_bullet_text": "<p><strong>Targetizza le tue esigenze</strong>: integratori naturali per stress, digestione e altro</p>"
           }
         },
         "text_zR6jnV": {
           "type": "text",
           "settings": {
             "hero_bullet_icon": "shopify://shop_images/Frame_1000005307.svg",
-            "hero_bullet_text": "<p><strong>Real Results: </strong>Science-backed for noticeable improvements.</p>"
+            "hero_bullet_text": "<p><strong>Risultati reali</strong>: supportati dalla scienza per miglioramenti visibili.</p>"
           }
         },
         "text_a4DyUX": {
           "type": "text",
           "settings": {
             "hero_bullet_icon": "shopify://shop_images/Frame_1000005308.svg",
-            "hero_bullet_text": "<p><strong>Shop Easy: </strong>Free shipping, returns, & online ordering.</p>"
+            "hero_bullet_text": "<p><strong>Acquista con facilità</strong>: spedizione gratuita, resi e ordini online.</p>"
           }
         }
       },
@@ -125,7 +125,7 @@
           "settings": {
             "pdp_product": "libido-6-mesi-di-scorta-testowit-x-6",
             "rev_text": "4.7/5.0",
-            "product_img_custom": "shopify://shop_images/1706176371766_1.jpg",
+            "product_img_custom": "shopify://shop_images/Libido_2.png",
             "product_img_badge": "shopify://shop_images/Frame_1000005314.svg"
           }
         },
@@ -134,7 +134,7 @@
           "settings": {
             "pdp_product": "kit-starter-glutadetox-memowit-ansiwit-fermentcarb",
             "rev_text": "4.7/5.0",
-            "product_img_custom": "shopify://shop_images/1706176371766_2_ee4594c8-167a-4f01-89ad-9a336512cfbf.jpg",
+            "product_img_custom": "shopify://shop_images/KitStarter.png",
             "product_img_badge": "shopify://shop_images/Frame_1000005314.svg",
             "product_img_badge_second": "shopify://shop_images/Frame_1000005317_1.svg"
           }
@@ -144,7 +144,7 @@
           "settings": {
             "pdp_product": "cortisol-reset-advanced-2x-ansiwit-3x-memowit-2x-neurowit",
             "rev_text": "4.7/5.0",
-            "product_img_custom": "shopify://shop_images/1706176371766_1-1.jpg",
+            "product_img_custom": "shopify://shop_images/CortisolReset-Advanced.png",
             "product_img_badge": "shopify://shop_images/Frame_1000005314.svg",
             "product_img_badge_second": "shopify://shop_images/Frame_1000005316_1.svg"
           }
@@ -154,7 +154,7 @@
           "settings": {
             "pdp_product": "energia-e-motivazione-2x-testowit-2x-neurowit-2x-glutadetox",
             "rev_text": "4.7/5.0",
-            "product_img_custom": "shopify://shop_images/1706176371766_1-2.jpg",
+            "product_img_custom": "shopify://shop_images/Energiaemotivazione.png",
             "product_img_badge": "shopify://shop_images/Frame_1000005314.svg",
             "product_img_badge_second": "shopify://shop_images/Frame_1000005317_1.svg"
           }
@@ -301,7 +301,7 @@
       ],
       "settings": {
         "bg_color": "#f4f5f7",
-        "reviews_title": "Thousands Of Happy Customers",
+        "reviews_title": "Migliaia di clienti soddisfatti",
         "rev_text": "4.7/5.0 Su Trustpilot",
         "bg_slide_color": "#ffffff"
       }
