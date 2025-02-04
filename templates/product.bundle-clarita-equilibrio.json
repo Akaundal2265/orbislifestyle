@@ -157,7 +157,7 @@
       ],
       "settings": {
         "popuptext_product": "Vedi Composizione",
-        "popupimage_product": "shopify://shop_images/popu_ingrediants.png",
+        "popupimage_product": "shopify://shop_images/nutritional_values_test_unica.png",
         "sku_enable": false,
         "image_position": "left",
         "image_container_size": "medium",
@@ -295,7 +295,7 @@
       ],
       "settings": {
         "features_title": "Cosa Contiene Il Bundle?",
-        "features_image": "shopify://shop_images/ADS_TEMPLATES_ORBIS_POSTS_IGFACEBOOK_2023_1_1.png"
+        "features_image": "shopify://shop_images/Clarita.png"
       }
     },
     "pdp_products_PkNjPP": {
