@@ -67,6 +67,7 @@
         },
         "text_VwkUbi": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "💡 Benefici principali:"
           }
