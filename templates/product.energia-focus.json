@@ -61,26 +61,32 @@
         "description_fmb8fU": {
           "type": "description",
           "settings": {
-            "custom_descritpion": "<p><strong>L'integratore essenziale </strong>per gli uomini che vogliono\t<strong>aumentare naturalmente</strong> i livelli di testosterone.</p>",
+            "custom_descritpion": "<p>Aumenta <strong>energia</strong>, <strong>concentrazione </strong>e <strong>ormoni </strong>con Testowit e Neurowit per prestazioni ottimali.</p>",
             "is_tab": false
+          }
+        },
+        "text_3gGKyq": {
+          "type": "text",
+          "settings": {
+            "text": "💡 Benefici principali:"
           }
         },
         "additional_info_dP9zHP": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta l'energia"
+            "bullet_text": "Aumenta i livelli di testosterone"
           }
         },
         "additional_info_nMn76h": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta la resistenza fisica"
+            "bullet_text": "Migliora le funzioni cognitive"
           }
         },
         "additional_info_BkmQkF": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Migliora il benessere mentale"
+            "bullet_text": "Supporta la resistenza allo stress"
           }
         },
         "custom_UebbjN": {
@@ -114,7 +120,7 @@
           "type": "tab",
           "settings": {
             "title": "Dose e modalità di utilizzo",
-            "content": "<p>Si consiglia di assumere da 2 a 4 capsule al giorno con abbondante acqua.</p>",
+            "content": "<p>Assumere <strong>2 capsule</strong> di <strong>Testowit</strong> e <strong>2 capsule</strong> di <strong>Neurowit</strong> al giorno, preferibilmente durante i pasti.</p>",
             "page": ""
           }
         },
@@ -122,7 +128,7 @@
           "type": "tab",
           "settings": {
             "title": "Ingredienti",
-            "content": "<p>Muira puama (Ptychopetalum olacoides Benth.) corteccia e.s. (D/E: 4/1); RedNite™ [Barbabietola Rossa (Beta vulgaris L.) radice succo polvere tit. all’1,5% in nitrati]; Maca (Lepidium meyenii Walp.) radice e.s. tit. allo 0,5% in beta-ecdysterone; Fieno Greco (Trigonella foenum-graecum L.) semi e.s. tit. al 50% in protodioscina; gluconato di zinco; KSM-66® [Ashwagandha (Withania somnifera (L.) Dunal.) radice e.s. tit. al 5% in withanolidi]; agente di carica: cellulosa; Oligopin® [Pino Marittimo Francese (Pinus pinaster Ait.) corteccia e.s. tit. al 65% in procianidine oligomeriche (OPCs)]; agente antiagglomerante: sali di magnesio degli acidi grassi; Uva rossa (Vitis vinifera L.) semi e.s. tit. al 95% in proantocianidine; colecalciferolo; acetato di D-alfa-tocoferile; acido borico; gluconato di rame; cloridrato di piridossina; Piperina da Pepe nero (Piper nigrum L.) frutti.</p>",
+            "content": "<p><strong>Testowit</strong>: Estratto di Muira Puama (4:1), RedNite™ (estratto di Barbabietola Rossa 1.5% nitrati), Estratto di Maca (0.5% beta-ecdysterone), Estratto di Fieno Greco (50% protodioscina), Gluconato di Zinco, KSM-66® Ashwagandha (5% withanolidi), Oligopin® (estratto di Pino Marittimo 65% OPCs), Estratto di Semi d'Uva Rossa (95% proantocianidine), Vitamina D3, Vitamina E, Acido Borico, Gluconato di Rame, Vitamina B6, Piperina (estratto di Pepe Nero).</p><p><strong>Neurowit</strong>: Estratto di Bacopa Monnieri (20% bacosidi), KSM-66® Ashwagandha (5% withanolidi), Citicolina, L-Teanina, Estratto di Eleuterococco (0.8% eleuterosidi), Gluconato di Zinco, Niacina (Vitamina B3), Tiamina (Vitamina B1), Vitamina B6, Riboflavina (Vitamina B2), Acido Folico, Biotina (Vitamina H).</p>",
             "page": ""
           }
         },
@@ -138,6 +144,7 @@
       "block_order": [
         "trust_review_mcjMPe",
         "description_fmb8fU",
+        "text_3gGKyq",
         "additional_info_dP9zHP",
         "additional_info_nMn76h",
         "additional_info_BkmQkF",
@@ -230,8 +237,8 @@
         "content_4yJjzU": {
           "type": "content",
           "settings": {
-            "features_heading": "Muira Puama",
-            "features_text": "Migliora la vitalità fisica e mentale, combattendo la stanchezza e favorendo il benessere generale."
+            "features_heading": "KSM-66® Ashwagandha",
+            "features_text": "Riduce il cortisolo, migliora la resilienza allo stress e supporta l’equilibrio ormonale."
           }
         },
         "content_eUCHEt": {
@@ -244,36 +251,36 @@
         "content_WCANKH": {
           "type": "content",
           "settings": {
-            "features_heading": "Maca",
-            "features_text": "Aumenta i livelli di energia e di forza, favorendo vitalità e resistenza."
+            "features_heading": "Citicolina",
+            "features_text": "Aumenta la produzione di acetilcolina, migliorando memoria e funzioni cognitive."
           }
         },
         "content_xxCepE": {
           "type": "content",
           "settings": {
-            "features_heading": "KSM-66®",
-            "features_text": "Aiuta a gestire lo stress, favorendo il rilassamento e la concentrazione mentale."
+            "features_heading": "Estratto di Fieno Greco",
+            "features_text": "Favorisce la produzione naturale di testosterone, migliorando motivazione e prestazioni"
           }
         },
         "content_HHKa8d": {
           "type": "content",
           "settings": {
-            "features_heading": "Fieno greco",
-            "features_text": "Favorisce l'equilibrio ormonale e migliora la salute riproduttiva degli uomini.."
+            "features_heading": "Bacopa Monnieri",
+            "features_text": "Migliora la trasmissione neuronale e la chiarezza mentale."
           }
         },
         "content_4aPeWP": {
           "type": "content",
           "settings": {
-            "features_heading": "Oligopin®",
-            "features_text": "Contrasta lo stress ossidativo con potenti proprietà antiossidanti."
+            "features_heading": "Estratto di Pino Marittimo",
+            "features_text": "Favorisce la vasodilatazione e migliora l’ossigenazione del cervello e dei muscoli."
           }
         },
         "content_FGFrwt": {
           "type": "content",
           "settings": {
             "features_heading": "Vitamine D, E, B6",
-            "features_text": "Nutrienti essenziali che supportano varie funzioni corporee, tra cui la regolazione ormonale, la salute immunitaria e le difese antiossidanti."
+            "features_text": "Essenziali per il metabolismo energetico e la funzione del sistema nervoso."
           }
         }
       },
