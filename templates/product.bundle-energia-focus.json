@@ -792,6 +792,29 @@
         "ugc_line_mob": "shopify://shop_images/Frame_2_4be99814-6966-4fb7-93f3-60b02d5adfb8.svg"
       }
     },
+    "17213206962c012cff": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_xnXkDe": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": true,
+            "aggregated": true,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_xnXkDe"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
     "pdp_faq_rYThaM": {
       "type": "pdp-faq",
       "blocks": {
@@ -846,29 +869,6 @@
         "text_after_second_btn": "Spedizione GRATIS per ordini sopra €59",
         "btn_text": "Risparmia fino al 25%",
         "btn_link": "#ProductSection-template--21801004007753__pdp_main_H9NRxa-8822286942537"
-      }
-    },
-    "17213206962c012cff": {
-      "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_xnXkDe": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 20,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_xnXkDe"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
       }
     },
     "pdp_props_CCWMNV": {
@@ -928,8 +928,8 @@
     "pdp_comparison_desk_pQzHiP",
     "pdp_comparison_mob_467ekL",
     "pdp_ugc_4KUncL",
-    "pdp_faq_rYThaM",
     "17213206962c012cff",
+    "pdp_faq_rYThaM",
     "pdp_props_CCWMNV",
     "pdp_sticky_cta_x4G3pU"
   ]
