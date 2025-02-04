@@ -293,6 +293,7 @@
         "content_4aPeWP",
         "content_FGFrwt"
       ],
+      "custom_css": [],
       "settings": {
         "features_title": "Cosa Contiene Il Bundle?",
         "features_image": "shopify://shop_images/Energiaemotivazione.png"
@@ -415,33 +416,33 @@
         "slide_fgBnaJ": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Forza e vigore già dopo 3 giorni di integrazione!!! Solo per i massimi e solo qualità gooooo💪🏼💪🏼💪🏼💪🏼",
-            "pdp_reviews_name": "Eugenio B.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Ho conosciuto il prodotto attraverso Ivan Martellato, e come ho ringraziato lui ringrazio voi per essere riusciti a creare una molecola cosi utile.Da quando uso Neurowit mi sono spariti molti fastidi tra questi le emicranie auree.Consiglio vivamente di provare questo integratore per chi lavora molto davanti al pc, e vive sempre sotto pressione lavorativa costante.Grazie per il lavoro fatto fino ad oggi.Un saluto",
+            "pdp_reviews_name": "Marco R.",
+            "pdp_product_image": "shopify://shop_images/Neurowit_20Bottle_20Front_20PNG_1.png"
           }
         },
         "slide_cAAXPW": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Aumento della performance a livello sessuale e maggiore forza fisica durante l allenamento. Per le prime due settimane effetti leggeri poi aumentano esponenzialmente. Superato le aspettative come semplice integratore.",
-            "pdp_reviews_name": "Nicola P.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Il prodotto mantiene le promesse, noto più lucidità anche a fine giornata, migliore concentrazione e conseguente meno stress",
+            "pdp_reviews_name": "Matteo P.",
+            "pdp_product_image": "shopify://shop_images/Neurowit_20Bottle_20Front_20PNG_1.png"
           }
         },
         "slide_GpgLDM": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Testowit è Favoloso! Ho sentito subito l'efficacia del prodotto a differenza di altri! Ho già provato altri prodotti: S23 della Biaxol, Turkesterone  della FutuNatura e Ultrabolan della NuviaLab, ma Testowit è il massimo!!!",
-            "pdp_reviews_name": "Vincenzo G.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Ottimi prodotti, ho risolto anche i miei problemi gastrointestinali",
+            "pdp_reviews_name": "Maurizia U.",
+            "pdp_product_image": "shopify://shop_images/Fronte1.png"
           }
         },
         "slide_yqpDTe": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Ottimo prodotto! Comincio a sentire gli effetti dopo 2 settimane e una leggera ricomposizione corporea! Vedremo a fine ciclo!",
-            "pdp_reviews_name": "Zordan A.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Per combattere lo stress ossidativo!!! Un prodotto ottimo!!!",
+            "pdp_reviews_name": "Alberto P.",
+            "pdp_product_image": "shopify://shop_images/Fronte1.png"
           }
         }
       },
