@@ -61,26 +61,32 @@
         "description_fmb8fU": {
           "type": "description",
           "settings": {
-            "custom_descritpion": "<p><strong>L'integratore essenziale </strong>per gli uomini che vogliono\t<strong>aumentare naturalmente</strong> i livelli di testosterone.</p>",
+            "custom_descritpion": "<p>Supporta la funzione <strong>cognitiva</strong>, la resistenza allo <strong>stress </strong>e l’equilibrio <strong>emotivo </strong>per prestazioni ottimali.</p>",
             "is_tab": false
+          }
+        },
+        "text_cFXBNm": {
+          "type": "text",
+          "settings": {
+            "text": "💡 Benefici principali:"
           }
         },
         "additional_info_dP9zHP": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta l'energia"
+            "bullet_text": "Migliora la Concentrazione"
           }
         },
         "additional_info_nMn76h": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta la resistenza fisica"
+            "bullet_text": "Riduce Stress & Ansia"
           }
         },
         "additional_info_BkmQkF": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Migliora il benessere mentale"
+            "bullet_text": "Supporta l’Equilibrio Emotivo"
           }
         },
         "custom_UebbjN": {
@@ -114,7 +120,7 @@
           "type": "tab",
           "settings": {
             "title": "Dose e modalità di utilizzo",
-            "content": "<p>Si consiglia di assumere da 2 a 4 capsule al giorno con abbondante acqua.</p>",
+            "content": "<p>Assumere 2 capsule di ciascuno al giorno, preferibilmente con i pasti.</p>",
             "page": ""
           }
         },
@@ -122,7 +128,7 @@
           "type": "tab",
           "settings": {
             "title": "Ingredienti",
-            "content": "<p>Muira puama (Ptychopetalum olacoides Benth.) corteccia e.s. (D/E: 4/1); RedNite™ [Barbabietola Rossa (Beta vulgaris L.) radice succo polvere tit. all’1,5% in nitrati]; Maca (Lepidium meyenii Walp.) radice e.s. tit. allo 0,5% in beta-ecdysterone; Fieno Greco (Trigonella foenum-graecum L.) semi e.s. tit. al 50% in protodioscina; gluconato di zinco; KSM-66® [Ashwagandha (Withania somnifera (L.) Dunal.) radice e.s. tit. al 5% in withanolidi]; agente di carica: cellulosa; Oligopin® [Pino Marittimo Francese (Pinus pinaster Ait.) corteccia e.s. tit. al 65% in procianidine oligomeriche (OPCs)]; agente antiagglomerante: sali di magnesio degli acidi grassi; Uva rossa (Vitis vinifera L.) semi e.s. tit. al 95% in proantocianidine; colecalciferolo; acetato di D-alfa-tocoferile; acido borico; gluconato di rame; cloridrato di piridossina; Piperina da Pepe nero (Piper nigrum L.) frutti.</p>",
+            "content": "<p>NEUROWIT combina estratto di Bacopa monnieri (20% bacosidi, 200 mg), noto per migliorare memoria e funzione cognitiva, con KSM-66® Ashwagandha (5% withanolidi, 150 mg) per supportare la resistenza allo stress. Contiene inoltre Citicolina (100 mg) per la sintesi dei neurotrasmettitori, L-Teanina (100 mg) per favorire il rilassamento e estratto di Eleuterococco (0.8% eleuterosidi, 100 mg) per la resistenza mentale. La formula è arricchita con gluconato di Zinco (10 mg) per la salute neurologica e un mix di vitamine del gruppo B per il metabolismo energetico e la funzione cerebrale.</p><p>UNICA contiene estratto di Griffonia simplicifolia (20% 5-HTP, 500 mg) per aumentare i livelli di serotonina e migliorare la stabilità dell’umore, insieme a estratto di Garcinia cambogia (60% HCA, 500 mg) per il controllo dell’appetito e il metabolismo. La formula include estratto di Ippocastano (20% Escina, 200 mg) per favorire la circolazione, estratto di Meliloto (1% Cumarine, 100 mg) per la salute vascolare e estratto di Agnocasto (0.5% Agnuside, 100 mg) per il supporto ormonale. Inoltre, estratto di Broccolo (0.3% Sulforafano, 80 mg) offre benefici antiossidanti, mentre estratto di Zafferano (0.3% Safranale, 30 mg) contribuisce alla regolazione dell’umore e al benessere emotivo.</p>",
             "page": ""
           }
         },
@@ -138,6 +144,7 @@
       "block_order": [
         "trust_review_mcjMPe",
         "description_fmb8fU",
+        "text_cFXBNm",
         "additional_info_dP9zHP",
         "additional_info_nMn76h",
         "additional_info_BkmQkF",
@@ -230,22 +237,22 @@
         "content_4yJjzU": {
           "type": "content",
           "settings": {
-            "features_heading": "Muira Puama",
-            "features_text": "Migliora la vitalità fisica e mentale, combattendo la stanchezza e favorendo il benessere generale."
+            "features_heading": "Bacopa Monnieri",
+            "features_text": "Migliora memoria e concentrazione."
           }
         },
         "content_eUCHEt": {
           "type": "content",
           "settings": {
-            "features_heading": "RedNite®",
-            "features_text": "Fornisce nitrati naturali per migliorare la circolazione sanguigna e la salute cardiovascolare."
+            "features_heading": "Citicolina",
+            "features_text": "Supporta i neurotrasmettitori e l’energia cerebrale."
           }
         },
         "content_WCANKH": {
           "type": "content",
           "settings": {
-            "features_heading": "Maca",
-            "features_text": "Aumenta i livelli di energia e di forza, favorendo vitalità e resistenza."
+            "features_heading": "L-Teanina",
+            "features_text": "Favorisce il rilassamento e la chiarezza mentale."
           }
         },
         "content_xxCepE": {
@@ -258,22 +265,22 @@
         "content_HHKa8d": {
           "type": "content",
           "settings": {
-            "features_heading": "Fieno greco",
-            "features_text": "Favorisce l'equilibrio ormonale e migliora la salute riproduttiva degli uomini.."
+            "features_heading": "Griffonia simplicifolia (5-HTP)",
+            "features_text": "Aumenta la serotonina per l’equilibrio dell’umore."
           }
         },
         "content_4aPeWP": {
           "type": "content",
           "settings": {
-            "features_heading": "Oligopin®",
-            "features_text": "Contrasta lo stress ossidativo con potenti proprietà antiossidanti."
+            "features_heading": "Garcinia cambogia (HCA)",
+            "features_text": "Supporta il controllo dell’appetito e il metabolismo"
           }
         },
         "content_FGFrwt": {
           "type": "content",
           "settings": {
-            "features_heading": "Vitamine D, E, B6",
-            "features_text": "Nutrienti essenziali che supportano varie funzioni corporee, tra cui la regolazione ormonale, la salute immunitaria e le difese antiossidanti."
+            "features_heading": "Estratto di Zafferano",
+            "features_text": "Migliora l’umore e il benessere emotivo."
           }
         }
       },
@@ -380,13 +387,13 @@
         "marquee_RcgJUR": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_7_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/UNICAbottleLeftPNG.png"
           }
         },
         "marquee_QVAXCP": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_4_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/UNICAbottleFrontPNG.png"
           }
         },
         "slide_ktCbMJ": {
