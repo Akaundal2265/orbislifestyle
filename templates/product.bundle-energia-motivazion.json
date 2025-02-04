@@ -101,7 +101,7 @@
           "settings": {
             "show_dynamic_checkout": true,
             "surface_pickup_enable": false,
-            "show_gift_card_recipient": true
+            "show_gift_card_recipient": false
           }
         },
         "video_jNRK4c": {
