@@ -157,7 +157,7 @@
       ],
       "settings": {
         "popuptext_product": "Vedi Composizione",
-        "popupimage_product": "shopify://shop_images/popu_ingrediants.png",
+        "popupimage_product": "shopify://shop_images/valori_nutrizionali_bundle_test_neu.png",
         "sku_enable": false,
         "image_position": "left",
         "image_container_size": "medium",
@@ -279,7 +279,7 @@
         "content_FGFrwt": {
           "type": "content",
           "settings": {
-            "features_heading": "Vitamine D, E, B6",
+            "features_heading": "Vitamine del Gruppo B",
             "features_text": "Essenziali per il metabolismo energetico e la funzione del sistema nervoso."
           }
         }
@@ -375,19 +375,19 @@
         "marquee_zDcbeF": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_6_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Neurowit_20Bottle_20Right_20PNG_1.png"
           }
         },
         "marquee_rJJh9e": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_3_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Neurowit_20Bottle_20Front_20PNG_1.png"
           }
         },
         "marquee_RcgJUR": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_7_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/OG_Neurowit.webp"
           }
         },
         "marquee_QVAXCP": {
