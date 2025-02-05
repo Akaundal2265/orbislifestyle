@@ -61,26 +61,32 @@
         "description_fmb8fU": {
           "type": "description",
           "settings": {
-            "custom_descritpion": "<p><strong>L'integratore essenziale </strong>per gli uomini che vogliono\t<strong>aumentare naturalmente</strong> i livelli di testosterone.</p>",
+            "custom_descritpion": "<p>Un bundle completo per il <strong>benessere mentale</strong>, la <strong>funzione cognitiva</strong>, la <strong>disintossicazione </strong>e la <strong>digestione</strong>.</p>",
             "is_tab": false
+          }
+        },
+        "text_dGPByK": {
+          "type": "text",
+          "settings": {
+            "text": "💡 Benefici principali:"
           }
         },
         "additional_info_dP9zHP": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta l'energia"
+            "bullet_text": "Supporta l’equilibrio fisico e mentale"
           }
         },
         "additional_info_nMn76h": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta la resistenza fisica"
+            "bullet_text": "Favorisce la disintossicazione e la salute epatica"
           }
         },
         "additional_info_BkmQkF": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Migliora il benessere mentale"
+            "bullet_text": "Aiuta la digestione e riduce il gonfiore"
           }
         },
         "custom_UebbjN": {
@@ -114,7 +120,7 @@
           "type": "tab",
           "settings": {
             "title": "Dose e modalità di utilizzo",
-            "content": "<p>Si consiglia di assumere da 2 a 4 capsule al giorno con abbondante acqua.</p>",
+            "content": "<p>Assumere 2-4 capsule di RESET, 2 capsule di GLUTADETOX, 10 ml di VITADETOX e 2-3 capsule di AVODOL al giorno con abbondante acqua.</p>",
             "page": ""
           }
         },
@@ -122,7 +128,7 @@
           "type": "tab",
           "settings": {
             "title": "Ingredienti",
-            "content": "<p>Muira puama (Ptychopetalum olacoides Benth.) corteccia e.s. (D/E: 4/1); RedNite™ [Barbabietola Rossa (Beta vulgaris L.) radice succo polvere tit. all’1,5% in nitrati]; Maca (Lepidium meyenii Walp.) radice e.s. tit. allo 0,5% in beta-ecdysterone; Fieno Greco (Trigonella foenum-graecum L.) semi e.s. tit. al 50% in protodioscina; gluconato di zinco; KSM-66® [Ashwagandha (Withania somnifera (L.) Dunal.) radice e.s. tit. al 5% in withanolidi]; agente di carica: cellulosa; Oligopin® [Pino Marittimo Francese (Pinus pinaster Ait.) corteccia e.s. tit. al 65% in procianidine oligomeriche (OPCs)]; agente antiagglomerante: sali di magnesio degli acidi grassi; Uva rossa (Vitis vinifera L.) semi e.s. tit. al 95% in proantocianidine; colecalciferolo; acetato di D-alfa-tocoferile; acido borico; gluconato di rame; cloridrato di piridossina; Piperina da Pepe nero (Piper nigrum L.) frutti.</p>",
+            "content": "<p>Kit Starter combina Ansiwit, Memowit, Glutadetox e Fermentcarb per supportare il benessere generale. Ansiwit contiene KSM-66® Ashwagandha (5% withanolidi) per alleviare lo stress, L-Teanina per il rilassamento e estratto di corteccia di Magnolia (50% magnololo) per la calma mentale. Memowit include KSM-66® Ashwagandha (5% withanolidi) per la funzione cognitiva, Bacopa Monnieri (20% bacosidi) per la memoria e Resveratrolo per la salute del cervello. Glutadetox offre Setria® Glutatione (250 mg) e NAC (200 mg) per la disintossicazione, insieme a Cardo Mariano (100 mg) e Acido Alfa Lipoico (50 mg) per il fegato. Fermentcarb contiene estratto di Finocchio (0,5% olio essenziale) per la digestione, carbone vegetale per il gonfiore e estratto di camomilla (0,3% apigenina) per il comfort intestinale.</p><p></p>",
             "page": ""
           }
         },
@@ -138,6 +144,7 @@
       "block_order": [
         "trust_review_mcjMPe",
         "description_fmb8fU",
+        "text_dGPByK",
         "additional_info_dP9zHP",
         "additional_info_nMn76h",
         "additional_info_BkmQkF",
@@ -344,97 +351,97 @@
         "marquee_FgNnPX": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_11.jpg"
+            "pdp_marquee_img": "shopify://shop_images/bottle_20RESET_20Front_20PNG_2b94aff8-245e-4fb6-94ec-1eed4813779b.png"
           }
         },
         "marquee_ic7LVi": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_2_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/image_5_b517958b-589c-4424-9fa8-a28b4e86546e.png"
           }
         },
         "marquee_NadBpP": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_5_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Fronte1.png"
           }
         },
         "marquee_RHaqJH": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_12.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Fronte1.png"
           }
         },
         "marquee_zDcbeF": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_6_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Combo1.png"
           }
         },
         "marquee_rJJh9e": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_3_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/DSCF100034_2520JPG.jpg"
           }
         },
         "marquee_RcgJUR": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_7_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Sugar_Detox_bottle_Front_PNG_3.png"
           }
         },
         "marquee_QVAXCP": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_4_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/SugarDetoxbottleLeftPNG_1.png"
           }
         },
         "slide_ktCbMJ": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Prendo tre capsule di Testowit al giorno. Già dopo una settimana un notevole aumento della forza. Al momento non percepisco aumenti della libido. Unico effetto indesiderato un leggero bruciore gastrico, ma facilmente risolvibile assumendo Testowit ai pasti. Personalmente lo ritengo un ottimo prodotto!",
-            "pdp_reviews_name": "Francesco V.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Ottimo prodotto ho sentito fin da subito i suoi benefici.Super consigliato",
+            "pdp_reviews_name": "Andrea G.",
+            "pdp_product_image": "shopify://shop_images/bottle_20RESET_20Front_20PNG_2b94aff8-245e-4fb6-94ec-1eed4813779b.png"
           }
         },
         "slide_xdThfn": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Il prodotto è arrivato molto in fretta e rispecchia quanto mi aspettavo. Notato incremento in energia focus e pump durante l’allenamento.",
-            "pdp_reviews_name": "Giacomontanari G.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Ottimo integratore creato da un grande professionista. In un mondo molto “etichettato”trovare integratori con materie prime veramente di qualità è difficile se non impossibile. Esistono persone che oltre giustamente a dover guadagnare hanno la mission di aiutare il prossimo ed Ivan è una di queste persone .",
+            "pdp_reviews_name": "Roberto B.",
+            "pdp_product_image": "shopify://shop_images/bottle_20RESET_20Front_20PNG_2b94aff8-245e-4fb6-94ec-1eed4813779b.png"
           }
         },
         "slide_fgBnaJ": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Forza e vigore già dopo 3 giorni di integrazione!!! Solo per i massimi e solo qualità gooooo💪🏼💪🏼💪🏼💪🏼",
-            "pdp_reviews_name": "Eugenio B.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Per combattere lo stress ossidativo!!! Un prodotto ottimo!!!",
+            "pdp_reviews_name": "Alberto P.",
+            "pdp_product_image": "shopify://shop_images/Fronte1.png"
           }
         },
         "slide_cAAXPW": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Aumento della performance a livello sessuale e maggiore forza fisica durante l allenamento. Per le prime due settimane effetti leggeri poi aumentano esponenzialmente. Superato le aspettative come semplice integratore.",
-            "pdp_reviews_name": "Nicola P.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Acquistato su indicazione dl mio nutrizionista, ben tollerato e di facile utilizzo.",
+            "pdp_reviews_name": "MICAELA ANGELA S.",
+            "pdp_product_image": "shopify://shop_images/Fronte1.png"
           }
         },
         "slide_GpgLDM": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Testowit è Favoloso! Ho sentito subito l'efficacia del prodotto a differenza di altri! Ho già provato altri prodotti: S23 della Biaxol, Turkesterone  della FutuNatura e Ultrabolan della NuviaLab, ma Testowit è il massimo!!!",
-            "pdp_reviews_name": "Vincenzo G.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Ogni mattina comincio la giornata con 10ml di vitadetox in un bicchiere d'acqua, aiuta a mantenere efficiente il mio sistema linfatico e il drenaggio dei liquidi corporei,così da sentirmi sempre pimpante e leggera anche prima del ciclo mestruale,non ho più quella sensazione di ritenzione idrica e anche la mia pelle è migliorata",
+            "pdp_reviews_name": "Floriana C.",
+            "pdp_product_image": "shopify://shop_images/Combo1.png"
           }
         },
         "slide_yqpDTe": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Ottimo prodotto! Comincio a sentire gli effetti dopo 2 settimane e una leggera ricomposizione corporea! Vedremo a fine ciclo!",
-            "pdp_reviews_name": "Zordan A.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Lo adoro e da quando l'ho provato e sperimentato nient'altro è al pari livello. L'unico integratore che davvero funziona!! Ovviamente associato ad un sano stile di vita, quindi alimentazione e attività fisica regolare, i primi risultati si cominciano a vedere già dopo la prima settimana: le gambe sono più sgonfie ed in generale i suli effetti sono visibili in tutto il corpo. Io lo assumo in modo ciclico, come tutti gli integratori: un mese poi lo interrompo 2 settimane per poi ricominciare. Grazie Orbis, siete i Numeri Uno <3",
+            "pdp_reviews_name": "Francesca B.",
+            "pdp_product_image": "shopify://shop_images/Combo1.png"
           }
         }
       },
@@ -847,8 +854,8 @@
         "loox_reviews_loox_dynamic_section_xnXkDe": {
           "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
-            "only_photos": false,
-            "aggregated": false,
+            "only_photos": true,
+            "aggregated": true,
             "limit": 20,
             "hide_thumbnails": false,
             "maxwidth": 1080,
