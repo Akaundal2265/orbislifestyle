@@ -157,7 +157,7 @@
       ],
       "settings": {
         "popuptext_product": "Vedi Composizione",
-        "popupimage_product": "shopify://shop_images/popu_ingrediants.png",
+        "popupimage_product": "shopify://shop_images/Kit_start_composition.png",
         "sku_enable": false,
         "image_position": "left",
         "image_container_size": "medium",
