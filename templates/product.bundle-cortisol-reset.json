@@ -61,26 +61,32 @@
         "description_fmb8fU": {
           "type": "description",
           "settings": {
-            "custom_descritpion": "<p><strong>L'integratore essenziale </strong>per gli uomini che vogliono\t<strong>aumentare naturalmente</strong> i livelli di testosterone.</p>",
+            "custom_descritpion": "<p>Un pacchetto potente progettato per bilanciare il cortisolo, ridurre lo stress e migliorare la funzione cognitiva.</p>",
             "is_tab": false
+          }
+        },
+        "text_Fkg3UD": {
+          "type": "text",
+          "settings": {
+            "text": "💡 Benefici principali:"
           }
         },
         "additional_info_dP9zHP": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta l'energia"
+            "bullet_text": "Riduce lo stress e l'ansia"
           }
         },
         "additional_info_nMn76h": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta la resistenza fisica"
+            "bullet_text": "Supporta memoria e concentrazione"
           }
         },
         "additional_info_BkmQkF": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Migliora il benessere mentale"
+            "bullet_text": "Favorisce il rilassamento mentale"
           }
         },
         "custom_UebbjN": {
@@ -114,7 +120,7 @@
           "type": "tab",
           "settings": {
             "title": "Dose e modalità di utilizzo",
-            "content": "<p>Si consiglia di assumere da 2 a 4 capsule al giorno con abbondante acqua.</p>",
+            "content": "<p>Assumere 2-3 capsule di ANSIWIT, 2 capsule di NEUROWIT e 2 capsule di MEMOWIT al giorno con acqua.</p>",
             "page": ""
           }
         },
@@ -122,7 +128,7 @@
           "type": "tab",
           "settings": {
             "title": "Ingredienti",
-            "content": "<p>Muira puama (Ptychopetalum olacoides Benth.) corteccia e.s. (D/E: 4/1); RedNite™ [Barbabietola Rossa (Beta vulgaris L.) radice succo polvere tit. all’1,5% in nitrati]; Maca (Lepidium meyenii Walp.) radice e.s. tit. allo 0,5% in beta-ecdysterone; Fieno Greco (Trigonella foenum-graecum L.) semi e.s. tit. al 50% in protodioscina; gluconato di zinco; KSM-66® [Ashwagandha (Withania somnifera (L.) Dunal.) radice e.s. tit. al 5% in withanolidi]; agente di carica: cellulosa; Oligopin® [Pino Marittimo Francese (Pinus pinaster Ait.) corteccia e.s. tit. al 65% in procianidine oligomeriche (OPCs)]; agente antiagglomerante: sali di magnesio degli acidi grassi; Uva rossa (Vitis vinifera L.) semi e.s. tit. al 95% in proantocianidine; colecalciferolo; acetato di D-alfa-tocoferile; acido borico; gluconato di rame; cloridrato di piridossina; Piperina da Pepe nero (Piper nigrum L.) frutti.</p>",
+            "content": "<p>Il pacchetto Cortisol Reset (Advanced) include ANSIWIT, NEUROWIT e MEMOWIT. ANSIWIT contiene KSM-66® Ashwagandha, L-teanina, Jujube, corteccia di Magnolia, olio di Lavanda e vitamina B6. NEUROWIT supporta la funzione cognitiva con Bacopa, KSM-66®, Citicolina ed Eleuterococco. MEMOWIT combina KSM-66® e vitamina B12 per aiutare contro l'affaticamento mentale e migliorare la memoria. Ogni ingrediente è selezionato per promuovere chiarezza mentale, ridurre lo stress e supportare il benessere cognitivo generale.</p><p></p>",
             "page": ""
           }
         },
@@ -138,6 +144,7 @@
       "block_order": [
         "trust_review_mcjMPe",
         "description_fmb8fU",
+        "text_Fkg3UD",
         "additional_info_dP9zHP",
         "additional_info_nMn76h",
         "additional_info_BkmQkF",
@@ -230,22 +237,22 @@
         "content_4yJjzU": {
           "type": "content",
           "settings": {
-            "features_heading": "Muira Puama",
-            "features_text": "Migliora la vitalità fisica e mentale, combattendo la stanchezza e favorendo il benessere generale."
+            "features_heading": "Bacopa",
+            "features_text": "Migliora la memoria e le funzioni cognitive."
           }
         },
         "content_eUCHEt": {
           "type": "content",
           "settings": {
-            "features_heading": "RedNite®",
-            "features_text": "Fornisce nitrati naturali per migliorare la circolazione sanguigna e la salute cardiovascolare."
+            "features_heading": "L-teanina",
+            "features_text": "Favorisce il rilassamento e la concentrazione."
           }
         },
         "content_WCANKH": {
           "type": "content",
           "settings": {
-            "features_heading": "Maca",
-            "features_text": "Aumenta i livelli di energia e di forza, favorendo vitalità e resistenza."
+            "features_heading": "Vitamina B12",
+            "features_text": "Supporta la memoria, l'energia e la funzione cognitiva"
           }
         },
         "content_xxCepE": {
@@ -258,22 +265,22 @@
         "content_HHKa8d": {
           "type": "content",
           "settings": {
-            "features_heading": "Fieno greco",
-            "features_text": "Favorisce l'equilibrio ormonale e migliora la salute riproduttiva degli uomini.."
+            "features_heading": "Citicolina",
+            "features_text": "Migliora la memoria e la chiarezza mentale."
           }
         },
         "content_4aPeWP": {
           "type": "content",
           "settings": {
-            "features_heading": "Oligopin®",
-            "features_text": "Contrasta lo stress ossidativo con potenti proprietà antiossidanti."
+            "features_heading": "Eleuterococco",
+            "features_text": "Riduce l'affaticamento, supporta la salute cognitiva."
           }
         },
         "content_FGFrwt": {
           "type": "content",
           "settings": {
-            "features_heading": "Vitamine D, E, B6",
-            "features_text": "Nutrienti essenziali che supportano varie funzioni corporee, tra cui la regolazione ormonale, la salute immunitaria e le difese antiossidanti."
+            "features_heading": "Corteccia di Magnolia",
+            "features_text": "Allevia lo stress, promuove il rilassamento mentale."
           }
         }
       },
@@ -344,97 +351,91 @@
         "marquee_FgNnPX": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_11.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Fronte_1.png"
           }
         },
         "marquee_ic7LVi": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_2_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Fronte_2.png"
           }
         },
         "marquee_NadBpP": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_5_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Neurowit_20Bottle_20Front_20PNG_1.png"
           }
         },
         "marquee_RHaqJH": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_12.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Neurowit_20Bottle_20Left_20PNG_1.png"
           }
         },
         "marquee_zDcbeF": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_6_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Neurowit_Bottle_Left.png"
           }
         },
         "marquee_rJJh9e": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_3_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Fronte_4.png"
           }
         },
         "marquee_RcgJUR": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_7_1.jpg"
-          }
-        },
-        "marquee_QVAXCP": {
-          "type": "marquee",
-          "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_4_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/1706176371766_1_4.jpg"
           }
         },
         "slide_ktCbMJ": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Prendo tre capsule di Testowit al giorno. Già dopo una settimana un notevole aumento della forza. Al momento non percepisco aumenti della libido. Unico effetto indesiderato un leggero bruciore gastrico, ma facilmente risolvibile assumendo Testowit ai pasti. Personalmente lo ritengo un ottimo prodotto!",
-            "pdp_reviews_name": "Francesco V.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Mi sono trovato benissimo con questo prodotto!!! Consigliato 👍🏻👍🏻👍🏻",
+            "pdp_reviews_name": "Umberto M.",
+            "pdp_product_image": "shopify://shop_images/1706176371766_1-2.jpg"
           }
         },
         "slide_xdThfn": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Il prodotto è arrivato molto in fretta e rispecchia quanto mi aspettavo. Notato incremento in energia focus e pump durante l’allenamento.",
-            "pdp_reviews_name": "Giacomontanari G.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Assumo Memowit e Ansiwit tutti i gg per darmi una sferzata di energia , per il mio benessere psicofisico e per combattere lo stress",
+            "pdp_reviews_name": "caterina p.",
+            "pdp_product_image": "shopify://shop_images/Fronte_2.png"
           }
         },
         "slide_fgBnaJ": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Forza e vigore già dopo 3 giorni di integrazione!!! Solo per i massimi e solo qualità gooooo💪🏼💪🏼💪🏼💪🏼",
-            "pdp_reviews_name": "Eugenio B.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Ottimo prodotto mi sento molto più concentrato e attivo da quando lo uso",
+            "pdp_reviews_name": "Giovanni S.",
+            "pdp_product_image": "shopify://shop_images/Neurowit_20Bottle_20Front_20PNG_1.png"
           }
         },
         "slide_cAAXPW": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Aumento della performance a livello sessuale e maggiore forza fisica durante l allenamento. Per le prime due settimane effetti leggeri poi aumentano esponenzialmente. Superato le aspettative come semplice integratore.",
-            "pdp_reviews_name": "Nicola P.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Il prodotto mantiene le promesse, noto più lucidità anche a fine giornata, migliore concentrazione e conseguente meno stress",
+            "pdp_reviews_name": "Matteo P.",
+            "pdp_product_image": "shopify://shop_images/Neurowit_20Bottle_20Front_20PNG_1.png"
           }
         },
         "slide_GpgLDM": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Testowit è Favoloso! Ho sentito subito l'efficacia del prodotto a differenza di altri! Ho già provato altri prodotti: S23 della Biaxol, Turkesterone  della FutuNatura e Ultrabolan della NuviaLab, ma Testowit è il massimo!!!",
-            "pdp_reviews_name": "Vincenzo G.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "È  un prodotto ottimo ed aiuta in situazioni di tensione lasciando la possibilità  di prendere decisioni con più  calma e serenità",
+            "pdp_reviews_name": "Gloriana B.",
+            "pdp_product_image": "shopify://shop_images/1706176371766_1_4.jpg"
           }
         },
         "slide_yqpDTe": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Ottimo prodotto! Comincio a sentire gli effetti dopo 2 settimane e una leggera ricomposizione corporea! Vedremo a fine ciclo!",
-            "pdp_reviews_name": "Zordan A.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Mia moglie si sente più rilassata con questi prodotti, e la qualità del sonno è migliore. Lì consiglio, sia Memowit che Ansiwit",
+            "pdp_reviews_name": "Guglielmo R.",
+            "pdp_product_image": "shopify://shop_images/1706176371766_1_4.jpg"
           }
         }
       },
@@ -446,7 +447,6 @@
         "marquee_zDcbeF",
         "marquee_rJJh9e",
         "marquee_RcgJUR",
-        "marquee_QVAXCP",
         "slide_ktCbMJ",
         "slide_xdThfn",
         "slide_fgBnaJ",
@@ -847,8 +847,8 @@
         "loox_reviews_loox_dynamic_section_xnXkDe": {
           "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
-            "only_photos": false,
-            "aggregated": false,
+            "only_photos": true,
+            "aggregated": true,
             "limit": 20,
             "hide_thumbnails": false,
             "maxwidth": 1080,
