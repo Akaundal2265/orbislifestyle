@@ -261,7 +261,7 @@
           "footer_logo": "shopify://shop_images/Logo_Orbis_2023_tinta_unita_1_1.png",
           "footer_bottom_text": "I nostri testi hanno scopo divulgativo, non vanno intesi come indicazione di diagnosi e cura di stati patologici e non vogliono sostituirsi in alcun modo al parere del Medico. Gli integratori non vanno intesi come sostituti di una dieta variata ed equilibrata e di uno stile di vita sano. Leggere le avvertenze in etichetta.",
           "footer_main_menu": true,
-          "show_copyright": false,
+          "show_copyright": true,
           "copyright_text": "",
           "policies_menu": "shop-footer",
           "show_wave": false
@@ -273,22 +273,22 @@
           "toolbar-0": {
             "type": "announcement",
             "settings": {
-              "richtext": "<p>4,6 ★★★★★ 2K 🌎 Spedizione gratis da €69 </p>",
-              "richtext_mobile": "<p>4,6 ★★★★★ 2K 🌎 Spedizione gratis da €69 </p>"
+              "richtext": "<p>4,6 ★★★★★ 2K 🌎 Reso gratuito</p>",
+              "richtext_mobile": "<p>4,6 ★★★★★ 2K 🌎 Reso gratuito</p>"
             }
           },
           "toolbar-1": {
             "type": "announcement",
             "settings": {
-              "richtext": "<p><strong>🔥 </strong>Febbraio<strong> Hot, </strong>Energia<strong> </strong>al<strong> Top!</strong></p>",
-              "richtext_mobile": "<p><strong>🔥 </strong>Febbraio<strong> Hot, </strong>Energia<strong> </strong>al<strong> Top!</strong></p>"
+              "richtext": "<p><strong>✈️ Spedizione gratis da 69€</strong></p>",
+              "richtext_mobile": "<p><strong>✈️ Spedizione gratis da 69€</strong></p>"
             }
           },
           "announcement_8mqgpz": {
             "type": "announcement",
             "settings": {
-              "richtext": "<p>🚚 Pagamento alla consegna con reso gratuito</p>",
-              "richtext_mobile": "<p>🚚 Pagamento alla consegna con reso gratuito</p>"
+              "richtext": "<p>🚚 Pagamento alla consegna </p>",
+              "richtext_mobile": "<p>🚚 Pagamento alla consegna </p>"
             }
           }
         },
