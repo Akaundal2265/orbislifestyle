@@ -61,26 +61,32 @@
         "description_fmb8fU": {
           "type": "description",
           "settings": {
-            "custom_descritpion": "<p><strong>L'integratore essenziale </strong>per gli uomini che vogliono\t<strong>aumentare naturalmente</strong> i livelli di testosterone.</p>",
+            "custom_descritpion": "<p>Il Biohacking & Anti-Aging Bundle ottimizza le prestazioni, aumenta l’energia e supporta la longevità con formule avanzate.</p>",
             "is_tab": false
+          }
+        },
+        "text_7mDB4J": {
+          "type": "text",
+          "settings": {
+            "text": "💡 Benefici principali:"
           }
         },
         "additional_info_dP9zHP": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta l'energia"
+            "bullet_text": "Migliora chiarezza mentale e concentrazione"
           }
         },
         "additional_info_nMn76h": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta la resistenza fisica"
+            "bullet_text": "Supporta testosterone e vitalità"
           }
         },
         "additional_info_BkmQkF": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Migliora il benessere mentale"
+            "bullet_text": "Riduce stress ossidativo e invecchiamento"
           }
         },
         "custom_UebbjN": {
@@ -114,7 +120,7 @@
           "type": "tab",
           "settings": {
             "title": "Dose e modalità di utilizzo",
-            "content": "<p>Si consiglia di assumere da 2 a 4 capsule al giorno con abbondante acqua.</p>",
+            "content": "<p>Assumere Testowit (2-4 capsule) e Sugar Detox (2 capsule, 3 volte al giorno durante i pasti) al mattino. Nel pomeriggio, assumere Neurowit (2 capsule) per la concentrazione e le prestazioni mentali. La sera, assumere Reset (2-4 capsule) per favorire il recupero e ridurre l’infiammazione. Ingerire sempre con abbondante acqua.</p>",
             "page": ""
           }
         },
@@ -122,7 +128,7 @@
           "type": "tab",
           "settings": {
             "title": "Ingredienti",
-            "content": "<p>Muira puama (Ptychopetalum olacoides Benth.) corteccia e.s. (D/E: 4/1); RedNite™ [Barbabietola Rossa (Beta vulgaris L.) radice succo polvere tit. all’1,5% in nitrati]; Maca (Lepidium meyenii Walp.) radice e.s. tit. allo 0,5% in beta-ecdysterone; Fieno Greco (Trigonella foenum-graecum L.) semi e.s. tit. al 50% in protodioscina; gluconato di zinco; KSM-66® [Ashwagandha (Withania somnifera (L.) Dunal.) radice e.s. tit. al 5% in withanolidi]; agente di carica: cellulosa; Oligopin® [Pino Marittimo Francese (Pinus pinaster Ait.) corteccia e.s. tit. al 65% in procianidine oligomeriche (OPCs)]; agente antiagglomerante: sali di magnesio degli acidi grassi; Uva rossa (Vitis vinifera L.) semi e.s. tit. al 95% in proantocianidine; colecalciferolo; acetato di D-alfa-tocoferile; acido borico; gluconato di rame; cloridrato di piridossina; Piperina da Pepe nero (Piper nigrum L.) frutti.</p>",
+            "content": "<p><strong>TESTOWIT</strong> contiene Muira Puama (Ptychopetalum olacoides Benth.) estratto di corteccia (D/E: 4/1), RedNite™ (succo di radice di Barbabietola rossa in polvere titolato all’1,5% in nitrati), Maca (Lepidium meyenii Walp.) estratto di radice titolato allo 0,5% in beta-ecdysterone, Fieno Greco (Trigonella foenum-graecum L.) estratto di semi titolato al 50% in protodioscina, gluconato di zinco, KSM-66® Ashwagandha (Withania somnifera) estratto di radice titolato al 5% in withanolidi, Oligopin® (estratto di corteccia di Pino Marittimo Francese titolato al 65% in procianidine oligomeriche), Estratto di semi d’Uva Rossa titolato al 95% in proantocianidine, acido borico, gluconato di rame, cloridrato di piridossina (Vitamina B6), colecalciferolo (Vitamina D3), D-alfa-tocoferil acetato (Vitamina E) e piperina da Pepe Nero (Piper nigrum L.).</p><p><strong>NEUROWIT </strong>contiene Bacopa (Bacopa monnieri) estratto di erba titolato al 20% in bacosidi, KSM-66® Ashwagandha estratto di radice titolato al 5% in withanolidi, Citicolina, L-Teanina, Eleuterococco (Eleutherococcus senticosus) estratto di radice titolato allo 0,8% in eleuterosidi, gluconato di zinco, nicotinamide (Niacina), cloridrato di tiamina (Vitamina B1), cloridrato di piridossina (Vitamina B6), riboflavina (Vitamina B2), L-Calcio Metilfolato (Acido Folico) e D-Biotina (Vitamina H).</p><p><strong>Sugar Detox</strong> contiene Garcinia cambogia (Garcinia cambogia (Gaernt) Desr.) frutto estratto secco tit. al 60% in acido idrossicitrico (HCA); Berberina HCl (da Berberis aristata DC., corteccia dei rami); agente di rivestimento: idrossipropilmetilcellulosa (involucro della capsula); Acido Lipoico; ID-alG™ [Alghe brune (Ascophyllum nodosum (L.) Le Jolis, pianta intera), Uva rossa (Vitis vinifera L., semi)] estratto secco tit. al 35% in tannini totali e allo 0,02% in iodio (contiene solfiti); Cardo mariano (Silybum marianum (L.) Gaertn.) frutto estratto secco tit. all'80% in silimarina; agente di carica: cellulosa; Zinco L-pidolato; agente antiagglomerante: sali di magnesio degli acidi grassi; piridossina cloridrato (vitamina B6); L-selenometionina; cromo picolinato.</p><p><strong>RESET </strong>contiene Bromelina (2500 GDU/g) da gambo di Ananas (Ananas comosus (L.) Merr.); agente di rivestimento: idrossi-propil-metilcellulosa (involucro della capsula); Boswellia (Boswellia serrata Roxb. ex Colebr.) estratto secco gommo-resina tit. al 65% in acidi boswellici; Curcuminoidi (da Curcuma longa L.); emulsionante: lecitina di girasole; estratto secco di corteccia di pino (Pinus sylvestris L.) tit. 90% in proantocianidine; agente di carica: cellulosa; estratto di soia fermentata tit. attività nattokinasica (20.000-28.000 FU/g); agente antiagglomerante: sali di magnesio degli acidi grassi; cloridrato di tiamina (Vit. B1).</p>",
             "page": ""
           }
         },
@@ -130,7 +136,7 @@
           "type": "tab",
           "settings": {
             "title": "Avvertenze",
-            "content": "<p>Non superare la dose giornaliera consigliata. Gli integratori alimentari non vanno intesi come sostituti di una dieta varia ed equilibrata e di uno stile di vita sano. Tenere fuori dalla portata dei bambini di età inferiore a 3 anni.</p>",
+            "content": "<p>Non superare la dose consigliata. Gli integratori non sostituiscono una dieta varia ed equilibrata e uno stile di vita sano. Tenere fuori dalla portata dei bambini sotto i 3 anni. Conservare in un luogo fresco e asciutto, ben chiuso e al riparo dalla luce. La data di scadenza si riferisce al prodotto integro e correttamente conservato.</p><p>Consultare un medico prima di usare Sugar Detox. In rari casi, l’acido lipoico può causare ipoglicemia. Se si verificano problemi al fegato o al sistema nervoso, interrompere l’assunzione e consultare un medico.</p><p>RESET è solo per adulti. Non usare in caso di problemi al fegato o alla cistifellea, inclusi i calcoli biliari. Evitare in gravidanza e allattamento. Non assumere per lunghi periodi senza consultare un medico. Usare con farmaci solo sotto supervisione medica.</p>",
             "page": ""
           }
         }
@@ -138,6 +144,7 @@
       "block_order": [
         "trust_review_mcjMPe",
         "description_fmb8fU",
+        "text_7mDB4J",
         "additional_info_dP9zHP",
         "additional_info_nMn76h",
         "additional_info_BkmQkF",
@@ -227,27 +234,6 @@
     "pdp_features_eCYtpC": {
       "type": "pdp-features",
       "blocks": {
-        "content_4yJjzU": {
-          "type": "content",
-          "settings": {
-            "features_heading": "Muira Puama",
-            "features_text": "Migliora la vitalità fisica e mentale, combattendo la stanchezza e favorendo il benessere generale."
-          }
-        },
-        "content_eUCHEt": {
-          "type": "content",
-          "settings": {
-            "features_heading": "RedNite®",
-            "features_text": "Fornisce nitrati naturali per migliorare la circolazione sanguigna e la salute cardiovascolare."
-          }
-        },
-        "content_WCANKH": {
-          "type": "content",
-          "settings": {
-            "features_heading": "Maca",
-            "features_text": "Aumenta i livelli di energia e di forza, favorendo vitalità e resistenza."
-          }
-        },
         "content_xxCepE": {
           "type": "content",
           "settings": {
@@ -255,33 +241,54 @@
             "features_text": "Aiuta a gestire lo stress, favorendo il rilassamento e la concentrazione mentale."
           }
         },
+        "content_4yJjzU": {
+          "type": "content",
+          "settings": {
+            "features_heading": "Fieno Greco",
+            "features_text": "Migliora l’equilibrio ormonale e l’energia"
+          }
+        },
+        "content_eUCHEt": {
+          "type": "content",
+          "settings": {
+            "features_heading": "Citicolina",
+            "features_text": "Potenzia la funzione cognitiva e la memoria"
+          }
+        },
+        "content_WCANKH": {
+          "type": "content",
+          "settings": {
+            "features_heading": "Bacopa Monnieri",
+            "features_text": "Aumenta la concentrazione e la funzione cerebrale"
+          }
+        },
         "content_HHKa8d": {
           "type": "content",
           "settings": {
-            "features_heading": "Fieno greco",
-            "features_text": "Favorisce l'equilibrio ormonale e migliora la salute riproduttiva degli uomini.."
+            "features_heading": "Berberina",
+            "features_text": "Regola la glicemia e il metabolismo"
           }
         },
         "content_4aPeWP": {
           "type": "content",
           "settings": {
-            "features_heading": "Oligopin®",
-            "features_text": "Contrasta lo stress ossidativo con potenti proprietà antiossidanti."
+            "features_heading": "Curcumina",
+            "features_text": "Riduce l’infiammazione e lo stress ossidativo"
           }
         },
         "content_FGFrwt": {
           "type": "content",
           "settings": {
-            "features_heading": "Vitamine D, E, B6",
-            "features_text": "Nutrienti essenziali che supportano varie funzioni corporee, tra cui la regolazione ormonale, la salute immunitaria e le difese antiossidanti."
+            "features_heading": "Coenzima Q10",
+            "features_text": "Supporta l’energia cellulare e la salute del cuore"
           }
         }
       },
       "block_order": [
+        "content_xxCepE",
         "content_4yJjzU",
         "content_eUCHEt",
         "content_WCANKH",
-        "content_xxCepE",
         "content_HHKa8d",
         "content_4aPeWP",
         "content_FGFrwt"
@@ -356,85 +363,85 @@
         "marquee_NadBpP": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_5_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Neurowit_20Bottle_20Front_20PNG_1.png"
           }
         },
         "marquee_RHaqJH": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_12.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Neurowit_20Bottle_20Left_20PNG_1.png"
           }
         },
         "marquee_zDcbeF": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_6_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Sugar_Detox_bottle_Front_PNG_3.png"
           }
         },
         "marquee_rJJh9e": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_3_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/SugarDetoxbottleLeftPNG_1.png"
           }
         },
         "marquee_RcgJUR": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_7_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/bottle_20RESET_20Front_20PNG_2b94aff8-245e-4fb6-94ec-1eed4813779b.png"
           }
         },
         "marquee_QVAXCP": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_4_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/image_5_b517958b-589c-4424-9fa8-a28b4e86546e.png"
           }
         },
         "slide_ktCbMJ": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Prendo tre capsule di Testowit al giorno. Già dopo una settimana un notevole aumento della forza. Al momento non percepisco aumenti della libido. Unico effetto indesiderato un leggero bruciore gastrico, ma facilmente risolvibile assumendo Testowit ai pasti. Personalmente lo ritengo un ottimo prodotto!",
-            "pdp_reviews_name": "Francesco V.",
+            "pdp_reviews_text": "Riscontro una discreta carica di energia dopo qualche giorno di assunzione del prodotto",
+            "pdp_reviews_name": "Calogero S.",
             "pdp_product_image": "shopify://shop_images/image_3.png"
           }
         },
         "slide_xdThfn": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Il prodotto è arrivato molto in fretta e rispecchia quanto mi aspettavo. Notato incremento in energia focus e pump durante l’allenamento.",
-            "pdp_reviews_name": "Giacomontanari G.",
+            "pdp_reviews_text": "Ottimo prodotto , si sente già dopo i primi 3 giorni di assunzione . Sicuramente consigliato 👍",
+            "pdp_reviews_name": "Italo G.",
             "pdp_product_image": "shopify://shop_images/image_3.png"
           }
         },
         "slide_fgBnaJ": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Forza e vigore già dopo 3 giorni di integrazione!!! Solo per i massimi e solo qualità gooooo💪🏼💪🏼💪🏼💪🏼",
-            "pdp_reviews_name": "Eugenio B.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Ho conosciuto il prodotto attraverso Ivan Martellato, e come ho ringraziato lui ringrazio voi per essere riusciti a creare una molecola cosi utile.Da quando uso Neurowit mi sono spariti molti fastidi tra questi le emicranie auree.Consiglio vivamente di provare questo integratore per chi lavora molto davanti al pc, e vive sempre sotto pressione lavorativa costante.Grazie per il lavoro fatto fino ad oggi.Un saluto",
+            "pdp_reviews_name": "Marco R.",
+            "pdp_product_image": "shopify://shop_images/Neurowit_20Bottle_20Front_20PNG_1.png"
           }
         },
         "slide_cAAXPW": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Aumento della performance a livello sessuale e maggiore forza fisica durante l allenamento. Per le prime due settimane effetti leggeri poi aumentano esponenzialmente. Superato le aspettative come semplice integratore.",
-            "pdp_reviews_name": "Nicola P.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Prodotto molto valido, mi è stato davvero utile a ritrovare il focus giusto!",
+            "pdp_reviews_name": "Daniele P.",
+            "pdp_product_image": "shopify://shop_images/Neurowit_20Bottle_20Front_20PNG_1.png"
           }
         },
         "slide_GpgLDM": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Testowit è Favoloso! Ho sentito subito l'efficacia del prodotto a differenza di altri! Ho già provato altri prodotti: S23 della Biaxol, Turkesterone  della FutuNatura e Ultrabolan della NuviaLab, ma Testowit è il massimo!!!",
-            "pdp_reviews_name": "Vincenzo G.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Prodotto topo come tutti quelli della linea Orbis del resto",
+            "pdp_reviews_name": "CAMERA E.",
+            "pdp_product_image": "shopify://shop_images/Sugar_Detox_bottle_Front_PNG_3.png"
           }
         },
         "slide_yqpDTe": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Ottimo prodotto! Comincio a sentire gli effetti dopo 2 settimane e una leggera ricomposizione corporea! Vedremo a fine ciclo!",
-            "pdp_reviews_name": "Zordan A.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Ottimo per disintossicarsi",
+            "pdp_reviews_name": "Federico P.",
+            "pdp_product_image": "shopify://shop_images/bottle_20RESET_20Front_20PNG_2b94aff8-245e-4fb6-94ec-1eed4813779b.png"
           }
         }
       },
@@ -847,8 +854,8 @@
         "loox_reviews_loox_dynamic_section_xnXkDe": {
           "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
-            "only_photos": false,
-            "aggregated": false,
+            "only_photos": true,
+            "aggregated": true,
             "limit": 20,
             "hide_thumbnails": false,
             "maxwidth": 1080,
