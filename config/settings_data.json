@@ -175,7 +175,7 @@
             "type": "megamenu_product",
             "settings": {
               "lsg_header_product": "energia-e-motivazione-2x-testowit-2x-neurowit-2x-glutadetox",
-              "lsg_header_product_image": "shopify://shop_images/1706176371766_1_e52ee358-ed94-41ee-adef-1b3a8d771d5b.png",
+              "lsg_header_product_image": "shopify://shop_images/Energiaemotivazione.png",
               "lsg_header_product_title": "⚡ ENERGIA E MOTIVAZIONE: 2x TESTOWIT + 2x NEUROWIT + 2x GLUTADETOX",
               "lsg_header_product_badge_text": "Risparmia 5%"
             }
@@ -273,8 +273,8 @@
           "toolbar-0": {
             "type": "announcement",
             "settings": {
-              "richtext": "<p>4,6 ★★★★★ 2K 🌎 Reso gratuita</p>",
-              "richtext_mobile": "<p>4,6 ★★★★★ 2K 🌎 Reso gratuito</p>"
+              "richtext": "<p>4,6 ★★★★★ 2K 🌎 Spedizione gratis da €69 </p>",
+              "richtext_mobile": "<p>4,6 ★★★★★ 2K 🌎 Spedizione gratis da €69 </p>"
             }
           },
           "toolbar-1": {
