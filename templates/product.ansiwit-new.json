@@ -401,49 +401,49 @@
         "slide_ktCbMJ": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Prendo tre capsule di Testowit al giorno. Già dopo una settimana un notevole aumento della forza. Al momento non percepisco aumenti della libido. Unico effetto indesiderato un leggero bruciore gastrico, ma facilmente risolvibile assumendo Testowit ai pasti. Personalmente lo ritengo un ottimo prodotto!",
-            "pdp_reviews_name": "Francesco V.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Mi sono trovato benissimo con questo prodotto!!! Consigliato 👍🏻👍🏻👍🏻",
+            "pdp_reviews_name": "Umberto M.",
+            "pdp_product_image": "shopify://shop_images/Fronte_1.png"
           }
         },
         "slide_xdThfn": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Il prodotto è arrivato molto in fretta e rispecchia quanto mi aspettavo. Notato incremento in energia focus e pump durante l’allenamento.",
-            "pdp_reviews_name": "Giacomontanari G.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Assumo Memowit e Ansiwit tutti i gg per darmi una sferzata di energia , per il mio benessere psicofisico e per combattere lo stress",
+            "pdp_reviews_name": "caterina p.",
+            "pdp_product_image": "shopify://shop_images/Fronte_1.png"
           }
         },
         "slide_fgBnaJ": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Forza e vigore già dopo 3 giorni di integrazione!!! Solo per i massimi e solo qualità gooooo💪🏼💪🏼💪🏼💪🏼",
-            "pdp_reviews_name": "Eugenio B.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Mia moglie si sente più rilassata con questi prodotti, e la qualità del sonno è migliore. Lì consiglio, sia Memowit che Ansiwit",
+            "pdp_reviews_name": "Guglielmo R.",
+            "pdp_product_image": "shopify://shop_images/Fronte_1.png"
           }
         },
         "slide_cAAXPW": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Aumento della performance a livello sessuale e maggiore forza fisica durante l allenamento. Per le prime due settimane effetti leggeri poi aumentano esponenzialmente. Superato le aspettative come semplice integratore.",
-            "pdp_reviews_name": "Nicola P.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Ottimo prodotto su di me che sono poco sensibile anche a certi farmaci ha un effetto blando Ma assolutamente apprezzabile. Sicuramente lo consiglio!!!",
+            "pdp_reviews_name": "Matteo P.",
+            "pdp_product_image": "shopify://shop_images/Fronte_1.png"
           }
         },
         "slide_GpgLDM": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Testowit è Favoloso! Ho sentito subito l'efficacia del prodotto a differenza di altri! Ho già provato altri prodotti: S23 della Biaxol, Turkesterone  della FutuNatura e Ultrabolan della NuviaLab, ma Testowit è il massimo!!!",
-            "pdp_reviews_name": "Vincenzo G.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Utilizzo Ansiwit Orbis da 2 anni ,è  un prodotto che mi è  stato consigliato come aiuto sia contro periodi di tensione , sia per gestire meglio l'ansia da voglia di carboidrati ,per questo lo assumo la sera ,quando il relax di fine lavoro mi apre l'appetito.Con Ansiwit riesco a controllare  la voglia  di mangiare tutto ciò che trovo al ritorno a casa e a gestire la cena gustando con calma senza abbuffarmi.",
+            "pdp_reviews_name": "Tiziana B.",
+            "pdp_product_image": "shopify://shop_images/Fronte_1.png"
           }
         },
         "slide_yqpDTe": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Ottimo prodotto! Comincio a sentire gli effetti dopo 2 settimane e una leggera ricomposizione corporea! Vedremo a fine ciclo!",
-            "pdp_reviews_name": "Zordan A.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Ho provato svariati prodotti Orbis e ne sono molto contento, non riponevo molta fiducia in delle semplici pastiglie ma già dopo una settimana noto grandi differenze!",
+            "pdp_reviews_name": "Stiven M.",
+            "pdp_product_image": "shopify://shop_images/Fronte_1.png"
           }
         }
       },
@@ -856,8 +856,8 @@
         "loox_reviews_loox_dynamic_section_xnXkDe": {
           "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
-            "only_photos": false,
-            "aggregated": false,
+            "only_photos": true,
+            "aggregated": true,
             "limit": 20,
             "hide_thumbnails": false,
             "maxwidth": 1080,
