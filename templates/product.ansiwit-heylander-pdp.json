@@ -65,22 +65,6 @@
             "is_tab": false
           }
         },
-        "abra_promotions_banner_nqjWz8": {
-          "type": "shopify://apps/abra-promotions/blocks/banner/daa1493a-23b5-48bb-8cb5-7ab1267b4642",
-          "settings": {
-            "name": "Default",
-            "banner_background_color": "#119d52",
-            "banner_border_color": "#119d52",
-            "banner_color": "#ffffff",
-            "banner_icon_color": "#ffffff",
-            "banner_border_radius": 0,
-            "banner_font_size": 16,
-            "banner_icon_size": 16,
-            "banner_padding_y": 10,
-            "banner_padding_x": 10,
-            "text_align": "left"
-          }
-        },
         "additional_info_dP9zHP": {
           "type": "additional_info",
           "settings": {
@@ -105,16 +89,17 @@
             "code": "<p class='pdp-text-above-btn'>Acquista di più e risparmia di più:</p>"
           }
         },
-        "buy_buttons_dAWG4b": {
+        "buy_buttons_BgEgdb": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true,
-            "surface_pickup_enable": false,
-            "show_gift_card_recipient": true
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
           }
         },
         "video_jNRK4c": {
           "type": "video",
+          "disabled": true,
           "settings": {
             "pdp_testimonial_video": "shopify://files/videos/🌟5-STAR REV (edited).mp4",
             "pdp_testimonial_thumb": "shopify://shop_images/1706176371766_1.png",
@@ -154,12 +139,11 @@
       "block_order": [
         "trust_review_mcjMPe",
         "description_fmb8fU",
-        "abra_promotions_banner_nqjWz8",
         "additional_info_dP9zHP",
         "additional_info_nMn76h",
         "additional_info_BkmQkF",
         "custom_UebbjN",
-        "buy_buttons_dAWG4b",
+        "buy_buttons_BgEgdb",
         "video_jNRK4c",
         "tab_xCxdCN",
         "tab_NRGAUB",
@@ -305,7 +289,7 @@
       ],
       "settings": {
         "features_title": "Cosa Contiene Testowit?",
-        "features_image": "shopify://shop_images/ADS_TEMPLATES_ORBIS_POSTS_IGFACEBOOK_2023_1_1.png"
+        "features_image": "shopify://shop_images/Fronte_1.png"
       }
     },
     "pdp_products_PkNjPP": {
