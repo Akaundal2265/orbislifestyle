@@ -71,12 +71,6 @@
             "text": "💡 Benefici principali:"
           }
         },
-        "additional_info_dP9zHP": {
-          "type": "additional_info",
-          "settings": {
-            "bullet_text": "Benessere articolare e antinfiammatorio"
-          }
-        },
         "additional_info_nMn76h": {
           "type": "additional_info",
           "settings": {
@@ -87,6 +81,12 @@
           "type": "additional_info",
           "settings": {
             "bullet_text": "Aiuta la digestione e riduce il gonfiore"
+          }
+        },
+        "additional_info_dP9zHP": {
+          "type": "additional_info",
+          "settings": {
+            "bullet_text": "Benessere articolare e antinfiammatorio"
           }
         },
         "custom_UebbjN": {
@@ -145,9 +145,9 @@
         "trust_review_mcjMPe",
         "description_fmb8fU",
         "text_dGPByK",
-        "additional_info_dP9zHP",
         "additional_info_nMn76h",
         "additional_info_BkmQkF",
+        "additional_info_dP9zHP",
         "custom_UebbjN",
         "buy_buttons_dAWG4b",
         "video_jNRK4c",
