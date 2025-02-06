@@ -65,6 +65,12 @@
             "is_tab": false
           }
         },
+        "text_9mzEAW": {
+          "type": "text",
+          "settings": {
+            "text": "💡 Benefici principali:"
+          }
+        },
         "additional_info_dP9zHP": {
           "type": "additional_info",
           "settings": {
@@ -138,6 +144,7 @@
       "block_order": [
         "trust_review_mcjMPe",
         "description_fmb8fU",
+        "text_9mzEAW",
         "additional_info_dP9zHP",
         "additional_info_nMn76h",
         "additional_info_BkmQkF",
