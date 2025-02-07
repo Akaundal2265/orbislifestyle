@@ -61,7 +61,7 @@
         "description_fmb8fU": {
           "type": "description",
           "settings": {
-            "custom_descritpion": "<p><strong>L'integratore essenziale </strong>per gli uomini che vogliono\t<strong>aumentare naturalmente</strong> i livelli di testosterone.</p>",
+            "custom_descritpion": "<p>ANSIWIT è un integratore naturale con Ashwagandha KSM-66® per ridurre lo stress e favorire il benessere mentale.</p>",
             "is_tab": false
           }
         },
@@ -81,22 +81,28 @@
             "text_align": "left"
           }
         },
+        "text_aNr77X": {
+          "type": "text",
+          "settings": {
+            "text": "💡 Benefici principali:"
+          }
+        },
         "additional_info_dP9zHP": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta l'energia"
+            "bullet_text": "Riduce stress e ansia"
           }
         },
         "additional_info_nMn76h": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta la resistenza fisica"
+            "bullet_text": "Favorisce il benessere mentale"
           }
         },
         "additional_info_BkmQkF": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Migliora il benessere mentale"
+            "bullet_text": "Promuove rilassamento ed equilibrio"
           }
         },
         "custom_UebbjN": {
@@ -130,7 +136,7 @@
           "type": "tab",
           "settings": {
             "title": "Dose e modalità di utilizzo",
-            "content": "<p>Si consiglia di assumere da 2 a 4 capsule al giorno con abbondante acqua.</p>",
+            "content": "<p>Assumere 2-3 capsule al giorno con acqua.</p>",
             "page": ""
           }
         },
@@ -138,7 +144,7 @@
           "type": "tab",
           "settings": {
             "title": "Ingredienti",
-            "content": "<p>Muira puama (Ptychopetalum olacoides Benth.) corteccia e.s. (D/E: 4/1); RedNite™ [Barbabietola Rossa (Beta vulgaris L.) radice succo polvere tit. all’1,5% in nitrati]; Maca (Lepidium meyenii Walp.) radice e.s. tit. allo 0,5% in beta-ecdysterone; Fieno Greco (Trigonella foenum-graecum L.) semi e.s. tit. al 50% in protodioscina; gluconato di zinco; KSM-66® [Ashwagandha (Withania somnifera (L.) Dunal.) radice e.s. tit. al 5% in withanolidi]; agente di carica: cellulosa; Oligopin® [Pino Marittimo Francese (Pinus pinaster Ait.) corteccia e.s. tit. al 65% in procianidine oligomeriche (OPCs)]; agente antiagglomerante: sali di magnesio degli acidi grassi; Uva rossa (Vitis vinifera L.) semi e.s. tit. al 95% in proantocianidine; colecalciferolo; acetato di D-alfa-tocoferile; acido borico; gluconato di rame; cloridrato di piridossina; Piperina da Pepe nero (Piper nigrum L.) frutti.</p>",
+            "content": "<p>ANSIWIT contiene KSM-66® Ashwagandha (estratto di radice, 5% withanolidi), L-Teanina, Estratto di Semi di Giuggiola (2% saponine triterpeniche), Estratto di Corteccia di Magnolia (50% magnololo), Vitamina B6 (cloridrato di piridossina) e Olio Essenziale di Lavanda. Questi ingredienti lavorano insieme per ridurre lo stress, favorire il rilassamento e supportare la funzione cognitiva. La formula è senza glutine e adatta ai vegani.</p>",
             "page": ""
           }
         },
@@ -146,7 +152,7 @@
           "type": "tab",
           "settings": {
             "title": "Avvertenze",
-            "content": "<p>Non superare la dose giornaliera consigliata. Gli integratori alimentari non vanno intesi come sostituti di una dieta varia ed equilibrata e di uno stile di vita sano. Tenere fuori dalla portata dei bambini di età inferiore a 3 anni.</p>",
+            "content": "<p>Non superare la dose consigliata. Gli integratori non sostituiscono una dieta varia ed equilibrata e uno stile di vita sano. Tenere fuori dalla portata dei bambini sotto i 3 anni. Conservare in un luogo fresco e asciutto, ben chiuso e al riparo dalla luce. La data di scadenza si riferisce al prodotto integro e correttamente conservato.</p>",
             "page": ""
           }
         }
@@ -155,6 +161,7 @@
         "trust_review_mcjMPe",
         "description_fmb8fU",
         "abra_promotions_banner_nqjWz8",
+        "text_aNr77X",
         "additional_info_dP9zHP",
         "additional_info_nMn76h",
         "additional_info_BkmQkF",
@@ -247,29 +254,29 @@
         "content_4yJjzU": {
           "type": "content",
           "settings": {
-            "features_heading": "Muira Puama",
-            "features_text": "Migliora la vitalità fisica e mentale, combattendo la stanchezza e favorendo il benessere generale."
+            "features_heading": "KSM-66® Ashwagandha",
+            "features_text": "Riduce lo stress e migliora la resilienza"
           }
         },
         "content_eUCHEt": {
           "type": "content",
           "settings": {
-            "features_heading": "RedNite®",
-            "features_text": "Fornisce nitrati naturali per migliorare la circolazione sanguigna e la salute cardiovascolare."
+            "features_heading": "L-Teanina",
+            "features_text": "Favorisce il rilassamento senza sonnolenza"
           }
         },
         "content_WCANKH": {
           "type": "content",
           "settings": {
-            "features_heading": "Maca",
-            "features_text": "Aumenta i livelli di energia e di forza, favorendo vitalità e resistenza."
+            "features_heading": "Estratto di Semi di Giuggiola",
+            "features_text": "Supporta il sonno e il rilassamento"
           }
         },
         "content_xxCepE": {
           "type": "content",
           "settings": {
-            "features_heading": "KSM-66®",
-            "features_text": "Aiuta a gestire lo stress, favorendo il rilassamento e la concentrazione mentale."
+            "features_heading": "Estratto di Corteccia di Magnolia",
+            "features_text": "Aiuta a ridurre ansia e stress"
           }
         },
         "content_HHKa8d": {
@@ -282,15 +289,15 @@
         "content_4aPeWP": {
           "type": "content",
           "settings": {
-            "features_heading": "Oligopin®",
-            "features_text": "Contrasta lo stress ossidativo con potenti proprietà antiossidanti."
+            "features_heading": "Olio Essenziale di Lavanda",
+            "features_text": "Calma il sistema nervoso e favorisce il rilassamento"
           }
         },
         "content_FGFrwt": {
           "type": "content",
           "settings": {
-            "features_heading": "Vitamine D, E, B6",
-            "features_text": "Nutrienti essenziali che supportano varie funzioni corporee, tra cui la regolazione ormonale, la salute immunitaria e le difese antiossidanti."
+            "features_heading": "Cellulosa (agente di carica)",
+            "features_text": "Garantisce la stabilità della capsula"
           }
         }
       },
