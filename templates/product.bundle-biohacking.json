@@ -239,64 +239,64 @@
     "pdp_features_eCYtpC": {
       "type": "pdp-features",
       "blocks": {
-        "content_xxCepE": {
+        "content_Qn8kYh": {
           "type": "content",
           "settings": {
             "features_heading": "KSM-66®",
             "features_text": "Aiuta a gestire lo stress, favorendo il rilassamento e la concentrazione mentale."
           }
         },
-        "content_4yJjzU": {
+        "content_njQiyy": {
           "type": "content",
           "settings": {
             "features_heading": "Fieno Greco",
             "features_text": "Migliora l’equilibrio ormonale e l’energia"
           }
         },
-        "content_eUCHEt": {
+        "content_JwePKx": {
           "type": "content",
           "settings": {
-            "features_heading": "Citicolina",
+            "features_heading": "Citicoline",
             "features_text": "Potenzia la funzione cognitiva e la memoria"
           }
         },
-        "content_WCANKH": {
+        "content_eYDpcK": {
+          "type": "content",
+          "settings": {
+            "features_heading": "Coenzima Q10",
+            "features_text": "Supporta l’energia cellulare e la salute del cuore"
+          }
+        },
+        "content_nErfgd": {
           "type": "content",
           "settings": {
             "features_heading": "Bacopa Monnieri",
             "features_text": "Aumenta la concentrazione e la funzione cerebrale"
           }
         },
-        "content_HHKa8d": {
+        "content_yA9rYL": {
           "type": "content",
           "settings": {
             "features_heading": "Berberina",
             "features_text": "Regola la glicemia e il metabolismo"
           }
         },
-        "content_4aPeWP": {
+        "content_rmKi8f": {
           "type": "content",
           "settings": {
             "features_heading": "Curcumina",
             "features_text": "Riduce l’infiammazione e lo stress ossidativo"
           }
-        },
-        "content_FGFrwt": {
-          "type": "content",
-          "settings": {
-            "features_heading": "Coenzima Q10",
-            "features_text": "Supporta l’energia cellulare e la salute del cuore"
-          }
         }
       },
       "block_order": [
-        "content_xxCepE",
-        "content_4yJjzU",
-        "content_eUCHEt",
-        "content_WCANKH",
-        "content_HHKa8d",
-        "content_4aPeWP",
-        "content_FGFrwt"
+        "content_Qn8kYh",
+        "content_njQiyy",
+        "content_JwePKx",
+        "content_eYDpcK",
+        "content_nErfgd",
+        "content_yA9rYL",
+        "content_rmKi8f"
       ],
       "settings": {
         "features_title": "Cosa Contiene Il Bundle?",
