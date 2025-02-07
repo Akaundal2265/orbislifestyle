@@ -96,6 +96,7 @@
         },
         "custom_UebbjN": {
           "type": "custom",
+          "disabled": true,
           "settings": {
             "code": "<p class='pdp-text-above-btn'>Acquista di più e risparmia di più:</p>"
           }
