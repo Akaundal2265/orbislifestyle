@@ -89,6 +89,10 @@
             "bullet_text": "Benessere articolare e antinfiammatorio"
           }
         },
+        "price_8KEikF": {
+          "type": "price",
+          "settings": {}
+        },
         "custom_UebbjN": {
           "type": "custom",
           "settings": {
@@ -148,6 +152,7 @@
         "additional_info_nMn76h",
         "additional_info_BkmQkF",
         "additional_info_dP9zHP",
+        "price_8KEikF",
         "custom_UebbjN",
         "buy_buttons_dAWG4b",
         "video_jNRK4c",
