@@ -61,7 +61,7 @@
         "description_fmb8fU": {
           "type": "description",
           "settings": {
-            "custom_descritpion": "<p><strong>L'integratore essenziale </strong>per gli uomini che vogliono\t<strong>aumentare naturalmente</strong> i livelli di testosterone.</p>",
+            "custom_descritpion": "<p>Una miscela unica di estratti vegetali per il benessere femminile, l’equilibrio dell’umore e la salute ormonale.</p>",
             "is_tab": false
           }
         },
@@ -81,22 +81,28 @@
             "text_align": "left"
           }
         },
+        "text_67AzJD": {
+          "type": "text",
+          "settings": {
+            "text": "💡 Benefici principali:"
+          }
+        },
         "additional_info_dP9zHP": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta l'energia"
+            "bullet_text": "Sostiene il benessere emotivo"
           }
         },
         "additional_info_nMn76h": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta la resistenza fisica"
+            "bullet_text": "Aiuta a regolare il ciclo"
           }
         },
         "additional_info_BkmQkF": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Migliora il benessere mentale"
+            "bullet_text": "Favorisce una sana circolazione"
           }
         },
         "custom_UebbjN": {
@@ -130,7 +136,7 @@
           "type": "tab",
           "settings": {
             "title": "Dose e modalità di utilizzo",
-            "content": "<p>Si consiglia di assumere da 2 a 4 capsule al giorno con abbondante acqua.</p>",
+            "content": "<p>Assumere 2 capsule due volte al giorno con abbondante acqua. Seguire un ciclo di 6-8 settimane con una pausa di 1-2 settimane.</p>",
             "page": ""
           }
         },
@@ -138,7 +144,7 @@
           "type": "tab",
           "settings": {
             "title": "Ingredienti",
-            "content": "<p>Muira puama (Ptychopetalum olacoides Benth.) corteccia e.s. (D/E: 4/1); RedNite™ [Barbabietola Rossa (Beta vulgaris L.) radice succo polvere tit. all’1,5% in nitrati]; Maca (Lepidium meyenii Walp.) radice e.s. tit. allo 0,5% in beta-ecdysterone; Fieno Greco (Trigonella foenum-graecum L.) semi e.s. tit. al 50% in protodioscina; gluconato di zinco; KSM-66® [Ashwagandha (Withania somnifera (L.) Dunal.) radice e.s. tit. al 5% in withanolidi]; agente di carica: cellulosa; Oligopin® [Pino Marittimo Francese (Pinus pinaster Ait.) corteccia e.s. tit. al 65% in procianidine oligomeriche (OPCs)]; agente antiagglomerante: sali di magnesio degli acidi grassi; Uva rossa (Vitis vinifera L.) semi e.s. tit. al 95% in proantocianidine; colecalciferolo; acetato di D-alfa-tocoferile; acido borico; gluconato di rame; cloridrato di piridossina; Piperina da Pepe nero (Piper nigrum L.) frutti.</p>",
+            "content": "<p><strong>UNICA </strong>combina estratti vegetali selezionati per favorire il benessere femminile. Contiene Griffonia simplicifolia (500 mg, 100 mg di 5-HTP) per supportare l'umore e il controllo dell'appetito. Garcinia cambogia (500 mg, 60% HCA) aiuta il metabolismo. Ippocastano (200 mg, 20% escina) e Meliloto (100 mg, 1% cumarine) favoriscono la circolazione. Agnocasto (100 mg, 0,5% agnusidi) e Zafferano (30 mg, 0,3% safranale) contribuiscono all'equilibrio ormonale. Estratto di Broccolo (80 mg, 0,3% sulforafano) offre benefici antiossidanti.</p><h4></h4>",
             "page": ""
           }
         },
@@ -155,6 +161,7 @@
         "trust_review_mcjMPe",
         "description_fmb8fU",
         "abra_promotions_banner_nqjWz8",
+        "text_67AzJD",
         "additional_info_dP9zHP",
         "additional_info_nMn76h",
         "additional_info_BkmQkF",
