@@ -174,7 +174,7 @@
       ],
       "settings": {
         "popuptext_product": "Vedi Composizione",
-        "popupimage_product": "shopify://shop_images/popu_ingrediants.png",
+        "popupimage_product": "shopify://shop_images/Composition_ansiwit_5059d221-651d-419b-803f-7de1f110786d.png",
         "sku_enable": false,
         "image_position": "left",
         "image_container_size": "medium",
@@ -311,8 +311,8 @@
         "content_FGFrwt"
       ],
       "settings": {
-        "features_title": "Cosa Contiene Testowit?",
-        "features_image": "shopify://shop_images/ADS_TEMPLATES_ORBIS_POSTS_IGFACEBOOK_2023_1_1.png"
+        "features_title": "Cosa contiene Ansiwit?",
+        "features_image": "shopify://shop_images/Prospettiva_0b17502b-2be4-4f32-83a3-0824bd45dca5.png"
       }
     },
     "pdp_products_PkNjPP": {
