@@ -248,6 +248,13 @@
             "features_text": "Migliora memoria e concentrazione."
           }
         },
+        "content_Dgxn8j": {
+          "type": "content",
+          "settings": {
+            "features_heading": "",
+            "features_text": ""
+          }
+        },
         "content_eUCHEt": {
           "type": "content",
           "settings": {
@@ -293,6 +300,7 @@
       },
       "block_order": [
         "content_4yJjzU",
+        "content_Dgxn8j",
         "content_eUCHEt",
         "content_WCANKH",
         "content_xxCepE",
@@ -313,7 +321,7 @@
           "settings": {
             "pdp_product": "glutadetox-glutatione-setria-puro-con-nac-60-capsule",
             "rev_text": "4.7/5.0",
-            "product_img_custom": "shopify://shop_images/1706176371766_1_2.jpg"
+            "product_img_custom": "shopify://shop_images/Fronte1.png"
           }
         },
         "product_hFCn6L": {
