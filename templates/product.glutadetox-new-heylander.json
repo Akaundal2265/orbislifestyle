@@ -174,7 +174,7 @@
       ],
       "settings": {
         "popuptext_product": "Vedi Composizione",
-        "popupimage_product": "shopify://shop_images/popu_ingrediants.png",
+        "popupimage_product": "shopify://shop_images/Composition_glutadetox_51ee3aa3-eac0-4d0f-a7b6-e415d54007a1.png",
         "sku_enable": false,
         "image_position": "left",
         "image_container_size": "medium",
@@ -311,8 +311,8 @@
         "content_FGFrwt"
       ],
       "settings": {
-        "features_title": "Cosa Contiene Testowit?",
-        "features_image": "shopify://shop_images/ADS_TEMPLATES_ORBIS_POSTS_IGFACEBOOK_2023_1_1.png"
+        "features_title": "Cosa contiene Glutadetox?",
+        "features_image": "shopify://shop_images/Fronte1.png"
       }
     },
     "pdp_products_PkNjPP": {
