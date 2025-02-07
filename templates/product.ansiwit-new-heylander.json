@@ -65,24 +65,9 @@
             "is_tab": false
           }
         },
-        "abra_promotions_banner_nqjWz8": {
-          "type": "shopify://apps/abra-promotions/blocks/banner/daa1493a-23b5-48bb-8cb5-7ab1267b4642",
-          "settings": {
-            "name": "Default",
-            "banner_background_color": "#119d52",
-            "banner_border_color": "#119d52",
-            "banner_color": "#ffffff",
-            "banner_icon_color": "#ffffff",
-            "banner_border_radius": 0,
-            "banner_font_size": 16,
-            "banner_icon_size": 16,
-            "banner_padding_y": 10,
-            "banner_padding_x": 10,
-            "text_align": "left"
-          }
-        },
         "text_aNr77X": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "💡 Benefici principali:"
           }
@@ -160,7 +145,6 @@
       "block_order": [
         "trust_review_mcjMPe",
         "description_fmb8fU",
-        "abra_promotions_banner_nqjWz8",
         "text_aNr77X",
         "additional_info_dP9zHP",
         "additional_info_nMn76h",

@@ -248,13 +248,6 @@
             "features_text": "Migliora memoria e concentrazione."
           }
         },
-        "content_Dgxn8j": {
-          "type": "content",
-          "settings": {
-            "features_heading": "",
-            "features_text": ""
-          }
-        },
         "content_eUCHEt": {
           "type": "content",
           "settings": {
@@ -300,7 +293,6 @@
       },
       "block_order": [
         "content_4yJjzU",
-        "content_Dgxn8j",
         "content_eUCHEt",
         "content_WCANKH",
         "content_xxCepE",
