@@ -298,6 +298,9 @@
         "content_4aPeWP",
         "content_FGFrwt"
       ],
+      "custom_css": [
+        "@media (max-width: 768px) {.pdp-features {display: block; padding-left: 10px;} .pdp-features__icon {display: inline-block; margin-right: 8px; vertical-align: middle;}.pdp-features__content{display: block; margin-left: 15px;}"
+      ],
       "settings": {
         "features_title": "Cosa Contiene Il Bundle?",
         "features_image": "shopify://shop_images/Cortisol_Reset_-_Advanced.png"
