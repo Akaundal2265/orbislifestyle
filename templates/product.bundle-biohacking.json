@@ -89,6 +89,10 @@
             "bullet_text": "Riduce stress ossidativo e invecchiamento"
           }
         },
+        "price_EXpNWk": {
+          "type": "price",
+          "settings": {}
+        },
         "custom_UebbjN": {
           "type": "custom",
           "settings": {
@@ -148,6 +152,7 @@
         "additional_info_dP9zHP",
         "additional_info_nMn76h",
         "additional_info_BkmQkF",
+        "price_EXpNWk",
         "custom_UebbjN",
         "buy_buttons_dAWG4b",
         "video_jNRK4c",
