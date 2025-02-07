@@ -174,7 +174,7 @@
       ],
       "settings": {
         "popuptext_product": "Vedi Composizione",
-        "popupimage_product": "shopify://shop_images/popu_ingrediants.png",
+        "popupimage_product": "shopify://shop_images/Composition_unica.png",
         "sku_enable": false,
         "image_position": "left",
         "image_container_size": "medium",
@@ -311,8 +311,8 @@
         "content_FGFrwt"
       ],
       "settings": {
-        "features_title": "Cosa Contiene Testowit?",
-        "features_image": "shopify://shop_images/ADS_TEMPLATES_ORBIS_POSTS_IGFACEBOOK_2023_1_1.png"
+        "features_title": "Cosa contiene UNICA?",
+        "features_image": "shopify://shop_images/UNICAbottleFrontPNG.png"
       }
     },
     "pdp_products_PkNjPP": {
