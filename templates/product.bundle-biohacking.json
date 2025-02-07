@@ -298,7 +298,9 @@
         "content_yA9rYL",
         "content_rmKi8f"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".pdp-features__icon{display: inline-block; margin-right: 10px; vertical-align: middle;}"
+      ],
       "settings": {
         "features_title": "Cosa Contiene Il Bundle?",
         "features_image": "shopify://shop_images/Energia_e_motivazione_8.png"
