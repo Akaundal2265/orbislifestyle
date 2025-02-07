@@ -61,7 +61,7 @@
         "description_fmb8fU": {
           "type": "description",
           "settings": {
-            "custom_descritpion": "<p><strong>L'integratore essenziale </strong>per gli uomini che vogliono\t<strong>aumentare naturalmente</strong> i livelli di testosterone.</p>",
+            "custom_descritpion": "<p>GLUTADETOX è un potente integratore antiossidante con Glutatione Setria® e NAC per la depurazione e la salute del fegato.</p>",
             "is_tab": false
           }
         },
@@ -81,22 +81,28 @@
             "text_align": "left"
           }
         },
+        "text_VqXd9d": {
+          "type": "text",
+          "settings": {
+            "text": "💡 Benefici principali:"
+          }
+        },
         "additional_info_dP9zHP": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta l'energia"
+            "bullet_text": "Supporta la disintossicazione e il fegato"
           }
         },
         "additional_info_nMn76h": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta la resistenza fisica"
+            "bullet_text": "Contrasta lo stress ossidativo e l’invecchiamento"
           }
         },
         "additional_info_BkmQkF": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Migliora il benessere mentale"
+            "bullet_text": "Rafforza il sistema immunitario"
           }
         },
         "custom_UebbjN": {
@@ -130,7 +136,7 @@
           "type": "tab",
           "settings": {
             "title": "Dose e modalità di utilizzo",
-            "content": "<p>Si consiglia di assumere da 2 a 4 capsule al giorno con abbondante acqua.</p>",
+            "content": "<p>Assumere 2 capsule al giorno con abbondante acqua.</p>",
             "page": ""
           }
         },
@@ -138,7 +144,7 @@
           "type": "tab",
           "settings": {
             "title": "Ingredienti",
-            "content": "<p>Muira puama (Ptychopetalum olacoides Benth.) corteccia e.s. (D/E: 4/1); RedNite™ [Barbabietola Rossa (Beta vulgaris L.) radice succo polvere tit. all’1,5% in nitrati]; Maca (Lepidium meyenii Walp.) radice e.s. tit. allo 0,5% in beta-ecdysterone; Fieno Greco (Trigonella foenum-graecum L.) semi e.s. tit. al 50% in protodioscina; gluconato di zinco; KSM-66® [Ashwagandha (Withania somnifera (L.) Dunal.) radice e.s. tit. al 5% in withanolidi]; agente di carica: cellulosa; Oligopin® [Pino Marittimo Francese (Pinus pinaster Ait.) corteccia e.s. tit. al 65% in procianidine oligomeriche (OPCs)]; agente antiagglomerante: sali di magnesio degli acidi grassi; Uva rossa (Vitis vinifera L.) semi e.s. tit. al 95% in proantocianidine; colecalciferolo; acetato di D-alfa-tocoferile; acido borico; gluconato di rame; cloridrato di piridossina; Piperina da Pepe nero (Piper nigrum L.) frutti.</p>",
+            "content": "<p><strong>GLUTADETOX </strong>contiene Glutatione Ridotto Setria®, N-Acetil-L-Cisteina (NAC), Estratto di Cardo Mariano (80% Silimarina), Vitamina C (Acido L-Ascorbico), Acido Lipoico, Vitamina E Naturale (D-Alpha-Tocoferil Acetato), L-Selenometionina e Vitamina B2 (Riboflavina). Questi ingredienti lavorano insieme per favorire la depurazione, proteggere dallo stress ossidativo e sostenere la salute cellulare. La formula è studiata per garantire il massimo assorbimento ed efficacia.</p><p></p>",
             "page": ""
           }
         },
@@ -146,7 +152,7 @@
           "type": "tab",
           "settings": {
             "title": "Avvertenze",
-            "content": "<p>Non superare la dose giornaliera consigliata. Gli integratori alimentari non vanno intesi come sostituti di una dieta varia ed equilibrata e di uno stile di vita sano. Tenere fuori dalla portata dei bambini di età inferiore a 3 anni.</p>",
+            "content": "<p>Non superare la dose consigliata. Gli integratori non sostituiscono una dieta equilibrata e uno stile di vita sano. In rari casi, l’acido lipoico può causare ipoglicemia. Tenere fuori dalla portata dei bambini sotto i 3 anni. Conservare in un luogo fresco e asciutto, ben chiuso e protetto dalla luce. La data di scadenza si riferisce al prodotto integro e correttamente conservato.</p>",
             "page": ""
           }
         }
@@ -155,6 +161,7 @@
         "trust_review_mcjMPe",
         "description_fmb8fU",
         "abra_promotions_banner_nqjWz8",
+        "text_VqXd9d",
         "additional_info_dP9zHP",
         "additional_info_nMn76h",
         "additional_info_BkmQkF",
@@ -247,50 +254,50 @@
         "content_4yJjzU": {
           "type": "content",
           "settings": {
-            "features_heading": "Muira Puama",
-            "features_text": "Migliora la vitalità fisica e mentale, combattendo la stanchezza e favorendo il benessere generale."
+            "features_heading": "Glutatione Ridotto Setria®",
+            "features_text": "Favorisce la disintossicazione e la difesa antiossidante"
           }
         },
         "content_eUCHEt": {
           "type": "content",
           "settings": {
-            "features_heading": "RedNite®",
-            "features_text": "Fornisce nitrati naturali per migliorare la circolazione sanguigna e la salute cardiovascolare."
+            "features_heading": "N-Acetil-L-Cisteina (NAC)",
+            "features_text": "Aumenta la produzione di glutatione e la depurazione"
           }
         },
         "content_WCANKH": {
           "type": "content",
           "settings": {
-            "features_heading": "Maca",
-            "features_text": "Aumenta i livelli di energia e di forza, favorendo vitalità e resistenza."
+            "features_heading": "Estratto di Cardo Mariano",
+            "features_text": "Protegge e sostiene la funzione epatica"
           }
         },
         "content_xxCepE": {
           "type": "content",
           "settings": {
-            "features_heading": "KSM-66®",
-            "features_text": "Aiuta a gestire lo stress, favorendo il rilassamento e la concentrazione mentale."
+            "features_heading": "Vitamina C",
+            "features_text": "Rafforza il sistema immunitario e combatte i radicali liberi"
           }
         },
         "content_HHKa8d": {
           "type": "content",
           "settings": {
-            "features_heading": "Fieno greco",
-            "features_text": "Favorisce l'equilibrio ormonale e migliora la salute riproduttiva degli uomini.."
+            "features_heading": "Acido Lipoico",
+            "features_text": "Migliora l’energia cellulare e l’effetto antiossidante"
           }
         },
         "content_4aPeWP": {
           "type": "content",
           "settings": {
-            "features_heading": "Oligopin®",
-            "features_text": "Contrasta lo stress ossidativo con potenti proprietà antiossidanti."
+            "features_heading": "Vitamina E",
+            "features_text": "Protegge le cellule dallo stress ossidativo"
           }
         },
         "content_FGFrwt": {
           "type": "content",
           "settings": {
-            "features_heading": "Vitamine D, E, B6",
-            "features_text": "Nutrienti essenziali che supportano varie funzioni corporee, tra cui la regolazione ormonale, la salute immunitaria e le difese antiossidanti."
+            "features_heading": "L-Selenometionina",
+            "features_text": "Supporta la salute immunitaria e la funzione antiossidante"
           }
         }
       },
@@ -361,47 +368,49 @@
         "marquee_FgNnPX": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_11.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Fronte1.png"
           }
         },
         "marquee_ic7LVi": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_2_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/DSF54537_38d6197e-9c54-43d8-840f-bc6e6c4000a8.jpg"
           }
         },
         "marquee_NadBpP": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_5_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Combo_1_a0c365b7-c0b7-4739-a0fa-41e818fe7dce.png"
           }
         },
         "marquee_RHaqJH": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_12.jpg"
+            "pdp_marquee_img": "shopify://shop_images/DSF54506_e84b73c6-00a5-4010-bc41-38eb545dd467.jpg"
           }
         },
         "marquee_zDcbeF": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_6_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/DSF54504_4fea3342-ac1d-4d8f-a931-b83241fdbd2a.jpg"
           }
         },
         "marquee_rJJh9e": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_3_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/DSF54501_234d0bc9-5a4c-4418-8eb8-c33e28ccc51c.jpg"
           }
         },
         "marquee_RcgJUR": {
           "type": "marquee",
+          "disabled": true,
           "settings": {
             "pdp_marquee_img": "shopify://shop_images/image0_2_1_7_1.jpg"
           }
         },
         "marquee_QVAXCP": {
           "type": "marquee",
+          "disabled": true,
           "settings": {
             "pdp_marquee_img": "shopify://shop_images/image0_2_1_4_1.jpg"
           }
@@ -409,49 +418,49 @@
         "slide_ktCbMJ": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Prendo tre capsule di Testowit al giorno. Già dopo una settimana un notevole aumento della forza. Al momento non percepisco aumenti della libido. Unico effetto indesiderato un leggero bruciore gastrico, ma facilmente risolvibile assumendo Testowit ai pasti. Personalmente lo ritengo un ottimo prodotto!",
-            "pdp_reviews_name": "Francesco V.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Sto provando il Glutadetox e mi trovo molto bene, completero' un ciclo almeno di tre mesi. Ottimo",
+            "pdp_reviews_name": "Stefania F.",
+            "pdp_product_image": "shopify://shop_images/Fronte1.png"
           }
         },
         "slide_xdThfn": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Il prodotto è arrivato molto in fretta e rispecchia quanto mi aspettavo. Notato incremento in energia focus e pump durante l’allenamento.",
-            "pdp_reviews_name": "Giacomontanari G.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Acquistato su indicazione dl mio nutrizionista, ben tollerato e di facile utilizzo.",
+            "pdp_reviews_name": "MICAELA ANGELA S.",
+            "pdp_product_image": "shopify://shop_images/Fronte1.png"
           }
         },
         "slide_fgBnaJ": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Forza e vigore già dopo 3 giorni di integrazione!!! Solo per i massimi e solo qualità gooooo💪🏼💪🏼💪🏼💪🏼",
-            "pdp_reviews_name": "Eugenio B.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Per combattere lo stress ossidativo!!! Un prodotto ottimo!!!",
+            "pdp_reviews_name": "Alberto P.",
+            "pdp_product_image": "shopify://shop_images/Fronte1.png"
           }
         },
         "slide_cAAXPW": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Aumento della performance a livello sessuale e maggiore forza fisica durante l allenamento. Per le prime due settimane effetti leggeri poi aumentano esponenzialmente. Superato le aspettative come semplice integratore.",
-            "pdp_reviews_name": "Nicola P.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Ottimi prodotti, ho risolto anche i miei problemi gastrointestinali",
+            "pdp_reviews_name": "Maurizia U.",
+            "pdp_product_image": "shopify://shop_images/Fronte1.png"
           }
         },
         "slide_GpgLDM": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Testowit è Favoloso! Ho sentito subito l'efficacia del prodotto a differenza di altri! Ho già provato altri prodotti: S23 della Biaxol, Turkesterone  della FutuNatura e Ultrabolan della NuviaLab, ma Testowit è il massimo!!!",
-            "pdp_reviews_name": "Vincenzo G.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "preso dopo un periodo di alimentazione sregolata mi dato una marcia in più!!!!",
+            "pdp_reviews_name": "vittorio s.",
+            "pdp_product_image": "shopify://shop_images/Fronte1.png"
           }
         },
         "slide_yqpDTe": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Ottimo prodotto! Comincio a sentire gli effetti dopo 2 settimane e una leggera ricomposizione corporea! Vedremo a fine ciclo!",
-            "pdp_reviews_name": "Zordan A.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Lo sto usando da qualche giorno e mi trovo molto bene",
+            "pdp_reviews_name": "Luca P.",
+            "pdp_product_image": "shopify://shop_images/Fronte1.png"
           }
         }
       },
@@ -864,8 +873,8 @@
         "loox_reviews_loox_dynamic_section_xnXkDe": {
           "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
-            "only_photos": false,
-            "aggregated": false,
+            "only_photos": true,
+            "aggregated": true,
             "limit": 20,
             "hide_thumbnails": false,
             "maxwidth": 1080,
