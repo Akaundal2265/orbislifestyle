@@ -298,12 +298,7 @@
         "content_yA9rYL",
         "content_rmKi8f"
       ],
-      "custom_css": [
-        ".pdp-features {display: flex; flex-direction: column; align-items: flex-start;}",
-        ".pdp-features_icon {display: inline-block; margin-right: 10px; vertical-align: middle;}",
-        ".pdp-features_content {display: flex; align-items: center;}",
-        "@media (max-width: 768px) {.pdp-features {display: block; padding-left: 0; } .pdp-features_icon {margin-right: 5px; vertical-align: middle; } .pdp-features_content {display: flex; align-items: center; }}"
-      ],
+      "custom_css": [],
       "settings": {
         "features_title": "Cosa Contiene Il Bundle?",
         "features_image": "shopify://shop_images/Energia_e_motivazione_8.png"
