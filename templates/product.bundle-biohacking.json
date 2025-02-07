@@ -299,7 +299,7 @@
         "content_rmKi8f"
       ],
       "custom_css": [
-        ".pdp-features__icon {text-align: left; /* align-self}"
+        ".pdp-features__icon {display: inline-block; margin-right: 10px; text-align: left;}"
       ],
       "settings": {
         "features_title": "Cosa Contiene Il Bundle?",
