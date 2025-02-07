@@ -89,6 +89,10 @@
             "bullet_text": "Favorisce detox e recupero"
           }
         },
+        "price_UyjV4W": {
+          "type": "price",
+          "settings": {}
+        },
         "custom_UebbjN": {
           "type": "custom",
           "disabled": true,
@@ -149,6 +153,7 @@
         "additional_info_dP9zHP",
         "additional_info_nMn76h",
         "additional_info_BkmQkF",
+        "price_UyjV4W",
         "custom_UebbjN",
         "buy_buttons_dAWG4b",
         "video_jNRK4c",
