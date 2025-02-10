@@ -61,27 +61,37 @@
         "description_fmb8fU": {
           "type": "description",
           "settings": {
-            "custom_descritpion": "<p><strong>L'integratore essenziale </strong>per gli uomini che vogliono\t<strong>aumentare naturalmente</strong> i livelli di testosterone.</p>",
+            "custom_descritpion": "<p>Un set di integratori per energia, memoria, gestione dello stress e disintossicazione.</p>",
             "is_tab": false
+          }
+        },
+        "text_bhi8fz": {
+          "type": "text",
+          "settings": {
+            "text": "💡 Benefici principali:"
           }
         },
         "additional_info_dP9zHP": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta l'energia"
+            "bullet_text": "Aumenta l'energia e la vitalità"
           }
         },
         "additional_info_nMn76h": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta la resistenza fisica"
+            "bullet_text": "Favorisce la chiarezza mentale"
           }
         },
         "additional_info_BkmQkF": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Migliora il benessere mentale"
+            "bullet_text": "Aiuta la depurazione del fegato"
           }
+        },
+        "price_DdaqzG": {
+          "type": "price",
+          "settings": {}
         },
         "custom_UebbjN": {
           "type": "custom",
@@ -114,7 +124,7 @@
           "type": "tab",
           "settings": {
             "title": "Dose e modalità di utilizzo",
-            "content": "<p>Si consiglia di assumere da 2 a 4 capsule al giorno con abbondante acqua.</p>",
+            "content": "<p>La dose consigliata è di 2-4 capsule di TESTOWIT, 2 capsule di NEUROWIT, 2-3 capsule di ANSIWIT e 2 capsule di GLUTADETOX al giorno, da assumere con abbondante acqua.</p>",
             "page": ""
           }
         },
@@ -122,7 +132,7 @@
           "type": "tab",
           "settings": {
             "title": "Ingredienti",
-            "content": "<p>Muira puama (Ptychopetalum olacoides Benth.) corteccia e.s. (D/E: 4/1); RedNite™ [Barbabietola Rossa (Beta vulgaris L.) radice succo polvere tit. all’1,5% in nitrati]; Maca (Lepidium meyenii Walp.) radice e.s. tit. allo 0,5% in beta-ecdysterone; Fieno Greco (Trigonella foenum-graecum L.) semi e.s. tit. al 50% in protodioscina; gluconato di zinco; KSM-66® [Ashwagandha (Withania somnifera (L.) Dunal.) radice e.s. tit. al 5% in withanolidi]; agente di carica: cellulosa; Oligopin® [Pino Marittimo Francese (Pinus pinaster Ait.) corteccia e.s. tit. al 65% in procianidine oligomeriche (OPCs)]; agente antiagglomerante: sali di magnesio degli acidi grassi; Uva rossa (Vitis vinifera L.) semi e.s. tit. al 95% in proantocianidine; colecalciferolo; acetato di D-alfa-tocoferile; acido borico; gluconato di rame; cloridrato di piridossina; Piperina da Pepe nero (Piper nigrum L.) frutti.</p>",
+            "content": "<p><strong>TESTOWIT</strong> contiene Muira Puama (Ptychopetalum olacoides Benth.) estratto di corteccia (D/E: 4/1), RedNite™ (succo di radice di Barbabietola rossa in polvere titolato all’1,5% in nitrati), Maca (Lepidium meyenii Walp.) estratto di radice titolato allo 0,5% in beta-ecdysterone, Fieno Greco (Trigonella foenum-graecum L.) estratto di semi titolato al 50% in protodioscina, gluconato di zinco, KSM-66® Ashwagandha (Withania somnifera) estratto di radice titolato al 5% in withanolidi, Oligopin® (estratto di corteccia di Pino Marittimo Francese titolato al 65% in procianidine oligomeriche), Estratto di semi d’Uva Rossa titolato al 95% in proantocianidine, acido borico, gluconato di rame, cloridrato di piridossina (Vitamina B6), colecalciferolo (Vitamina D3), D-alfa-tocoferil acetato (Vitamina E) e piperina da Pepe Nero (Piper nigrum L.).</p><p><strong>NEUROWIT </strong>contiene Bacopa (Bacopa monnieri) estratto di erba titolato al 20% in bacosidi, KSM-66® Ashwagandha estratto di radice titolato al 5% in withanolidi, Citicolina, L-Teanina, Eleuterococco (Eleutherococcus senticosus) estratto di radice titolato allo 0,8% in eleuterosidi, gluconato di zinco, nicotinamide (Niacina), cloridrato di tiamina (Vitamina B1), cloridrato di piridossina (Vitamina B6), riboflavina (Vitamina B2), L-Calcio Metilfolato (Acido Folico) e D-Biotina (Vitamina H).</p><p><strong>ANSIWIT </strong>contiene KSM-66® [Ashwagandha (Withania somnifera (L.) Dunal) radice estratto secco tit. al 5% in withanolidi]; L-teanina; agente di rivestimento: idrossi-propil-metilcellulosa (involucro della capsula); Giuggiola (Ziziphus jujuba Mill.) semi estratto secco tit. al 2% in saponine triterpeniche; Magnolia (Magnolia officinalis Rehder & Wilson) corteccia estratto secco tit. al 50% magnololo; agente di carica: cellulosa; agente antiagglomerante: sali di magnesio degli acidi grassi; piridossina cloridrato (Vitamina B6); Lavanda (Lavandula angustifolia Mill.) olio essenziale.</p><p><strong>GLUTADETOX </strong>fornisce SETRIA® Glutatione ridotto (250 mg), N-Acetil-L-Cisteina (200 mg), Cardo Mariano (Silybum marianum) estratto di frutto titolato all’80% in silimarina, Acido Alfa-Lipoico (50 mg), Vitamina C (80 mg – 100% NRV), Vitamina E (12 mg – 100% NRV), Vitamina B2 (1,4 mg – 100% NRV) e Selenio (100 mcg – 182% NRV).</p>",
             "page": ""
           }
         },
@@ -130,7 +140,7 @@
           "type": "tab",
           "settings": {
             "title": "Avvertenze",
-            "content": "<p>Non superare la dose giornaliera consigliata. Gli integratori alimentari non vanno intesi come sostituti di una dieta varia ed equilibrata e di uno stile di vita sano. Tenere fuori dalla portata dei bambini di età inferiore a 3 anni.</p>",
+            "content": "<p>Non superare la dose consigliata. Gli integratori non sostituiscono una dieta varia ed equilibrata e uno stile di vita sano. Tenere fuori dalla portata dei bambini sotto i 3 anni. Conservare in un luogo fresco e asciutto, ben chiuso e lontano dalla luce. La data di scadenza si riferisce al prodotto integro e correttamente conservato. In rari casi, l’acido lipoico può causare ipoglicemia.</p>",
             "page": ""
           }
         }
@@ -138,9 +148,11 @@
       "block_order": [
         "trust_review_mcjMPe",
         "description_fmb8fU",
+        "text_bhi8fz",
         "additional_info_dP9zHP",
         "additional_info_nMn76h",
         "additional_info_BkmQkF",
+        "price_DdaqzG",
         "custom_UebbjN",
         "buy_buttons_dAWG4b",
         "video_jNRK4c",
@@ -231,49 +243,49 @@
           "type": "content",
           "settings": {
             "features_heading": "Muira Puama",
-            "features_text": "Migliora la vitalità fisica e mentale, combattendo la stanchezza e favorendo il benessere generale."
+            "features_text": "Aumenta energia e resistenza"
           }
         },
         "content_eUCHEt": {
           "type": "content",
           "settings": {
             "features_heading": "RedNite®",
-            "features_text": "Fornisce nitrati naturali per migliorare la circolazione sanguigna e la salute cardiovascolare."
+            "features_text": "Migliora il flusso sanguigno e la resistenza"
           }
         },
         "content_WCANKH": {
           "type": "content",
           "settings": {
-            "features_heading": "Maca",
-            "features_text": "Aumenta i livelli di energia e di forza, favorendo vitalità e resistenza."
+            "features_heading": "Citicolina",
+            "features_text": "Favorisce memoria e concentrazione"
           }
         },
         "content_xxCepE": {
           "type": "content",
           "settings": {
             "features_heading": "KSM-66®",
-            "features_text": "Aiuta a gestire lo stress, favorendo il rilassamento e la concentrazione mentale."
+            "features_text": "Riduce lo stress e migliora la vitalità"
           }
         },
         "content_HHKa8d": {
           "type": "content",
           "settings": {
-            "features_heading": "Fieno greco",
-            "features_text": "Favorisce l'equilibrio ormonale e migliora la salute riproduttiva degli uomini.."
+            "features_heading": "Estratto di Magnolia",
+            "features_text": "Promuove il rilassamento e l’equilibrio dell’umore"
           }
         },
         "content_4aPeWP": {
           "type": "content",
           "settings": {
-            "features_heading": "Oligopin®",
-            "features_text": "Contrasta lo stress ossidativo con potenti proprietà antiossidanti."
+            "features_heading": "Setria® Glutatione",
+            "features_text": "Potente antiossidante per la depurazione"
           }
         },
         "content_FGFrwt": {
           "type": "content",
           "settings": {
-            "features_heading": "Vitamine D, E, B6",
-            "features_text": "Nutrienti essenziali che supportano varie funzioni corporee, tra cui la regolazione ormonale, la salute immunitaria e le difese antiossidanti."
+            "features_heading": "Estratto di Fieno Greco",
+            "features_text": "Supporta i livelli naturali di testosterone"
           }
         }
       },
@@ -356,85 +368,85 @@
         "marquee_NadBpP": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_5_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Neurowit_20Bottle_20Front_20PNG_1.png"
           }
         },
         "marquee_RHaqJH": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_12.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Neurowit_20Bottle_20Left_20PNG_1.png"
           }
         },
         "marquee_zDcbeF": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_6_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/DSF54542_5cd94a74-1fad-4ffd-8f32-6e911f84e678.jpg"
           }
         },
         "marquee_rJJh9e": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_3_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/DSF54496_5e7619f1-c7dd-44f6-81bc-8d9ac960e9fb.jpg"
           }
         },
         "marquee_RcgJUR": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_7_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Fronte_1_1.png"
           }
         },
         "marquee_QVAXCP": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_4_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Fronte_2_b88b6cb8-75b7-4346-9f76-306734238b41.png"
           }
         },
         "slide_ktCbMJ": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Prendo tre capsule di Testowit al giorno. Già dopo una settimana un notevole aumento della forza. Al momento non percepisco aumenti della libido. Unico effetto indesiderato un leggero bruciore gastrico, ma facilmente risolvibile assumendo Testowit ai pasti. Personalmente lo ritengo un ottimo prodotto!",
-            "pdp_reviews_name": "Francesco V.",
+            "pdp_reviews_text": "Ottimo prodotto risultati dopo poco più di una settimana ormai lo prendo con costanza",
+            "pdp_reviews_name": "simone c.",
             "pdp_product_image": "shopify://shop_images/image_3.png"
           }
         },
         "slide_xdThfn": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Il prodotto è arrivato molto in fretta e rispecchia quanto mi aspettavo. Notato incremento in energia focus e pump durante l’allenamento.",
-            "pdp_reviews_name": "Giacomontanari G.",
+            "pdp_reviews_text": "Prendo tre capsule di Testowit al giorno. Già dopo una settimana un notevole aumento della forza. Al momento non percepisco aumenti della libido (ma del resto non era carente).Unico effetto indesiderato un leggero bruciore gastrico, ma facilmente risolvibile assumendo Testowit ai pasti.Personalmente lo ritengo un ottimo prodotto!",
+            "pdp_reviews_name": "Francesco V.",
             "pdp_product_image": "shopify://shop_images/image_3.png"
           }
         },
         "slide_fgBnaJ": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Forza e vigore già dopo 3 giorni di integrazione!!! Solo per i massimi e solo qualità gooooo💪🏼💪🏼💪🏼💪🏼",
-            "pdp_reviews_name": "Eugenio B.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "funzionano alla grande",
+            "pdp_reviews_name": "Agostino C.",
+            "pdp_product_image": "shopify://shop_images/Neurowit_20Bottle_20Front_20PNG_1.png"
           }
         },
         "slide_cAAXPW": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Aumento della performance a livello sessuale e maggiore forza fisica durante l allenamento. Per le prime due settimane effetti leggeri poi aumentano esponenzialmente. Superato le aspettative come semplice integratore.",
-            "pdp_reviews_name": "Nicola P.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Prodotto molto valido, mi è stato davvero utile a ritrovare il focus giusto!",
+            "pdp_reviews_name": "Daniele P.",
+            "pdp_product_image": "shopify://shop_images/Neurowit_20Bottle_20Front_20PNG_1.png"
           }
         },
         "slide_GpgLDM": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Testowit è Favoloso! Ho sentito subito l'efficacia del prodotto a differenza di altri! Ho già provato altri prodotti: S23 della Biaxol, Turkesterone  della FutuNatura e Ultrabolan della NuviaLab, ma Testowit è il massimo!!!",
-            "pdp_reviews_name": "Vincenzo G.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Ottimo prodotto: riesco, finalmente, a dormire!Grazie",
+            "pdp_reviews_name": "Alessandra D.",
+            "pdp_product_image": "shopify://shop_images/Prospettiva_0b17502b-2be4-4f32-83a3-0824bd45dca5.png"
           }
         },
         "slide_yqpDTe": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Ottimo prodotto! Comincio a sentire gli effetti dopo 2 settimane e una leggera ricomposizione corporea! Vedremo a fine ciclo!",
-            "pdp_reviews_name": "Zordan A.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Lo sto usando da qualche giorno e mi trovo molto bene",
+            "pdp_reviews_name": "Luca P.",
+            "pdp_product_image": "shopify://shop_images/Fronte_2_b88b6cb8-75b7-4346-9f76-306734238b41.png"
           }
         }
       },
@@ -847,8 +859,8 @@
         "loox_reviews_loox_dynamic_section_xnXkDe": {
           "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
-            "only_photos": false,
-            "aggregated": false,
+            "only_photos": true,
+            "aggregated": true,
             "limit": 20,
             "hide_thumbnails": false,
             "maxwidth": 1080,
