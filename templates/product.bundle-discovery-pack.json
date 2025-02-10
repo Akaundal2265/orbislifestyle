@@ -162,7 +162,7 @@
       ],
       "settings": {
         "popuptext_product": "Vedi Composizione",
-        "popupimage_product": "shopify://shop_images/popu_ingrediants.png",
+        "popupimage_product": "shopify://shop_images/Composition_Orbis_Discovery.png",
         "sku_enable": false,
         "image_position": "left",
         "image_container_size": "medium",
