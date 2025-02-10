@@ -61,26 +61,26 @@
         "description_fmb8fU": {
           "type": "description",
           "settings": {
-            "custom_descritpion": "<p>L'<strong>integratore essenziale </strong>per chi vuole supportare la <strong>gestione dello stress</strong> in modo naturale.</p>",
+            "custom_descritpion": "<p>Il <strong>detox naturale </strong>per chi vuole sentirsi più leggero ogni giorno, con estratti vegetali ad azione drenante e depurativa per <strong>eliminare le tossine</strong>.</p>",
             "is_tab": false
           }
         },
         "additional_info_dP9zHP": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Riduce lo stress e l’ansia"
+            "bullet_text": "Drena i liquidi in eccesso"
           }
         },
         "additional_info_nMn76h": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Migliora il sonno"
+            "bullet_text": "Depura fegato e reni"
           }
         },
         "additional_info_BkmQkF": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Migliora il benessere mentale"
+            "bullet_text": "Supporta la circolazione e il microcircolo"
           }
         },
         "custom_UebbjN": {
@@ -115,7 +115,7 @@
           "type": "tab",
           "settings": {
             "title": "Dose e modalità di utilizzo",
-            "content": "<p>Si consiglia di assumere 2-3 capsule al giorno, da deglutire con abbondante acqua.</p>",
+            "content": "<p>Si consiglia di assumere 10 ml di prodotto diluiti in almeno 500 ml di acqua da bere nell'arco della giornata. In alternativa, prendere la stessa quantità in un bicchiere d'acqua la mattina a stomaco vuoto. Agitare prima dell'uso.</p>",
             "page": ""
           }
         },
@@ -123,7 +123,7 @@
           "type": "tab",
           "settings": {
             "title": "Ingredienti",
-            "content": "<p>KSM-66® [Ashwagandha (Withania somnifera (L.) Dunal) radice estratto secco tit. al 5% in withanolidi]; L-teanina; agente di rivestimento: idrossi-propil-metilcellulosa (involucro capsula); Giuggiolo (Ziziphus jujuba Mill.) semi estratto secco tit. al 2% in saponine triterpeniche; Magnolia (Magnolia officinalis Rehder & Wilson) corteccia estratto secco tit. al 50% in magnololo; agente di carica: cellulosa; agente antiagglomerante: sali di magnesio degli acidi grassi; cloridrato di piridossina (Vitamina B6); Lavanda (Lavandula angustifolia Mill.) olio essenziale.</p>",
+            "content": "<p>Acqua, succo di mirtillo; succo di sambuco; miele d’acacia; tarassaco ( taraxacum officinale web.) radice estratto secco tit. 2% in inclina; equiseto (equisetum arvense L.) parti aeree estratto secco tit 1% in silice; mais (zea mays L.) stammi estratto secco; tè verde (camellia sinensis (L.) kuntze) foglie estratto secco tit 50% in polifenoli; carciofo (Cynara scolymus L.) foglie estratto secco tit 2.5% in acido clorogenico;  Lespedeza (Lespedeza capitata mich.) parti aeree estratto secco tit 4% in tutina; betulla (betula pendula Roth., betula pubescente. Ehrh) foglie estratto secco tit 2,5% in iperoside; pilosella (hieracium pilosella L.) parti aeree estratto secco tit 0,4% in vitellina; centella (centella asiatica (L.) urb.) parte aerea estratto secco tit al 20% in asiaticoside; verga d’oro (solidago virgaurea L.) parti aeree con fiori estratto secco; addensante: carbossimetilcelluosa; aroma; acidificante: acido citrico; conservante: potassio sorbato; edulcorante: glucosidi steviolici.</p>",
             "page": ""
           }
         },
@@ -131,7 +131,7 @@
           "type": "tab",
           "settings": {
             "title": "Avvertenze",
-            "content": "<p>Non superare la dose giornaliera consigliata. Gli integratori alimentari non vanno intesi come sostituti di una dieta varia ed equilibrata e di uno stile di vita sano. Tenere fuori dalla portata dei bambini di età inferiore a 3 anni.</p>",
+            "content": "<p>Non superare la dose giornaliera consigliata. Tenere fuori dalla portata dei bambini di età inferiore a 3 anni. Gli integratori alimentari non vanno intesi come sostituti di una dieta varia ed equilibrata e di uno stile di vita sano. Conservare ben chiuso in luogo fresco e asciutto, al riparo dalla luce. La data di fine validità si riferisce al prodotto correttamente conservato, in confezione integra.</p>",
             "page": ""
           }
         }
@@ -288,8 +288,8 @@
         "content_FGFrwt"
       ],
       "settings": {
-        "features_title": "Cosa Contiene ANSIWIT?",
-        "features_image": "shopify://shop_images/Fronte_1.png"
+        "features_title": "Cosa Contiene VITADETOX?",
+        "features_image": "shopify://shop_images/Fronte_1_2.png"
       }
     },
     "pdp_products_PkNjPP": {
