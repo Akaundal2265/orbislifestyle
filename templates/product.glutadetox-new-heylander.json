@@ -65,24 +65,9 @@
             "is_tab": false
           }
         },
-        "abra_promotions_banner_nqjWz8": {
-          "type": "shopify://apps/abra-promotions/blocks/banner/daa1493a-23b5-48bb-8cb5-7ab1267b4642",
-          "settings": {
-            "name": "Default",
-            "banner_background_color": "#119d52",
-            "banner_border_color": "#119d52",
-            "banner_color": "#ffffff",
-            "banner_icon_color": "#ffffff",
-            "banner_border_radius": 0,
-            "banner_font_size": 16,
-            "banner_icon_size": 16,
-            "banner_padding_y": 10,
-            "banner_padding_x": 10,
-            "text_align": "left"
-          }
-        },
         "text_VqXd9d": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "💡 Benefici principali:"
           }
@@ -160,7 +145,6 @@
       "block_order": [
         "trust_review_mcjMPe",
         "description_fmb8fU",
-        "abra_promotions_banner_nqjWz8",
         "text_VqXd9d",
         "additional_info_dP9zHP",
         "additional_info_nMn76h",
@@ -312,7 +296,7 @@
       ],
       "settings": {
         "features_title": "Cosa contiene Glutadetox?",
-        "features_image": "shopify://shop_images/Fronte1.png"
+        "features_image": "shopify://shop_images/Fronte_2_b88b6cb8-75b7-4346-9f76-306734238b41.png"
       }
     },
     "pdp_products_PkNjPP": {
@@ -331,7 +315,7 @@
           "settings": {
             "pdp_product": "neurowit-memoria-e-funzioni-cognitive-90-cps",
             "rev_text": "4.7/5.0",
-            "product_img_custom": "shopify://shop_images/Neurowit_20Bottle_20Front_20PNG.png"
+            "product_img_custom": "shopify://shop_images/1706176371766_1-1.jpg"
           }
         },
         "product_9YijLF": {
