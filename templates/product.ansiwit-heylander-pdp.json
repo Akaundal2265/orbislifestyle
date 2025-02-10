@@ -61,20 +61,20 @@
         "description_fmb8fU": {
           "type": "description",
           "settings": {
-            "custom_descritpion": "<p><strong>L'integratore essenziale </strong>per gli uomini che vogliono\t<strong>aumentare naturalmente</strong> i livelli di testosterone.</p>",
+            "custom_descritpion": "<p>L'<strong>integratore essenziale </strong>per chi vuole supportare la <strong>gestione dello stress</strong> in modo naturale.</p>",
             "is_tab": false
           }
         },
         "additional_info_dP9zHP": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta l'energia"
+            "bullet_text": "Riduce lo stress e l’ansia"
           }
         },
         "additional_info_nMn76h": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta la resistenza fisica"
+            "bullet_text": "Migliora il sonno"
           }
         },
         "additional_info_BkmQkF": {
@@ -115,7 +115,7 @@
           "type": "tab",
           "settings": {
             "title": "Dose e modalità di utilizzo",
-            "content": "<p>Si consiglia di assumere da 2 a 4 capsule al giorno con abbondante acqua.</p>",
+            "content": "<p>Si consiglia di assumere 2-3 capsule al giorno, da deglutire con abbondante acqua.</p>",
             "page": ""
           }
         },
@@ -123,7 +123,7 @@
           "type": "tab",
           "settings": {
             "title": "Ingredienti",
-            "content": "<p>Muira puama (Ptychopetalum olacoides Benth.) corteccia e.s. (D/E: 4/1); RedNite™ [Barbabietola Rossa (Beta vulgaris L.) radice succo polvere tit. all’1,5% in nitrati]; Maca (Lepidium meyenii Walp.) radice e.s. tit. allo 0,5% in beta-ecdysterone; Fieno Greco (Trigonella foenum-graecum L.) semi e.s. tit. al 50% in protodioscina; gluconato di zinco; KSM-66® [Ashwagandha (Withania somnifera (L.) Dunal.) radice e.s. tit. al 5% in withanolidi]; agente di carica: cellulosa; Oligopin® [Pino Marittimo Francese (Pinus pinaster Ait.) corteccia e.s. tit. al 65% in procianidine oligomeriche (OPCs)]; agente antiagglomerante: sali di magnesio degli acidi grassi; Uva rossa (Vitis vinifera L.) semi e.s. tit. al 95% in proantocianidine; colecalciferolo; acetato di D-alfa-tocoferile; acido borico; gluconato di rame; cloridrato di piridossina; Piperina da Pepe nero (Piper nigrum L.) frutti.</p>",
+            "content": "<p>KSM-66® [Ashwagandha (Withania somnifera (L.) Dunal) radice estratto secco tit. al 5% in withanolidi]; L-teanina; agente di rivestimento: idrossi-propil-metilcellulosa (involucro capsula); Giuggiolo (Ziziphus jujuba Mill.) semi estratto secco tit. al 2% in saponine triterpeniche; Magnolia (Magnolia officinalis Rehder & Wilson) corteccia estratto secco tit. al 50% in magnololo; agente di carica: cellulosa; agente antiagglomerante: sali di magnesio degli acidi grassi; cloridrato di piridossina (Vitamina B6); Lavanda (Lavandula angustifolia Mill.) olio essenziale.</p>",
             "page": ""
           }
         },
@@ -288,7 +288,7 @@
         "content_FGFrwt"
       ],
       "settings": {
-        "features_title": "Cosa Contiene Testowit?",
+        "features_title": "Cosa Contiene ANSIWIT?",
         "features_image": "shopify://shop_images/Fronte_1.png"
       }
     },
@@ -308,7 +308,7 @@
           "settings": {
             "pdp_product": "neurowit-memoria-e-funzioni-cognitive-90-cps",
             "rev_text": "4.7/5.0",
-            "product_img_custom": "shopify://shop_images/Neurowit_20Bottle_20Front_20PNG.png"
+            "product_img_custom": "shopify://shop_images/1706176371766_1-1.jpg"
           }
         },
         "product_9YijLF": {
