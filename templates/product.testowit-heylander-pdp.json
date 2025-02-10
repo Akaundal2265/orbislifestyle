@@ -65,22 +65,6 @@
             "is_tab": false
           }
         },
-        "abra_promotions_banner_nqjWz8": {
-          "type": "shopify://apps/abra-promotions/blocks/banner/daa1493a-23b5-48bb-8cb5-7ab1267b4642",
-          "settings": {
-            "name": "Default",
-            "banner_background_color": "#119d52",
-            "banner_border_color": "#119d52",
-            "banner_color": "#ffffff",
-            "banner_icon_color": "#ffffff",
-            "banner_border_radius": 0,
-            "banner_font_size": 16,
-            "banner_icon_size": 16,
-            "banner_padding_y": 10,
-            "banner_padding_x": 10,
-            "text_align": "left"
-          }
-        },
         "additional_info_dP9zHP": {
           "type": "additional_info",
           "settings": {
@@ -154,7 +138,6 @@
       "block_order": [
         "trust_review_mcjMPe",
         "description_fmb8fU",
-        "abra_promotions_banner_nqjWz8",
         "additional_info_dP9zHP",
         "additional_info_nMn76h",
         "additional_info_BkmQkF",
@@ -324,7 +307,7 @@
           "settings": {
             "pdp_product": "neurowit-memoria-e-funzioni-cognitive-90-cps",
             "rev_text": "4.7/5.0",
-            "product_img_custom": "shopify://shop_images/Neurowit_20Bottle_20Front_20PNG.png"
+            "product_img_custom": "shopify://shop_images/1706176371766_1-1.jpg"
           }
         },
         "product_9YijLF": {
