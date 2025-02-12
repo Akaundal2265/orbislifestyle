@@ -91,6 +91,7 @@
         },
         "buy_buttons_dAWG4b": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": false,
             "surface_pickup_enable": false,
