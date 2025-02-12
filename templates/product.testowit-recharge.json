@@ -97,10 +97,6 @@
             "show_gift_card_recipient": false
           }
         },
-        "loop_subscriptions_loop_widget_kdRNUw": {
-          "type": "shopify://apps/loop-subscriptions/blocks/loop_widget/267a7c64-5cb3-4552-b817-5485165f0a0b",
-          "settings": {}
-        },
         "video_jNRK4c": {
           "type": "video",
           "settings": {
@@ -137,6 +133,10 @@
             "content": "<p>Non superare la dose giornaliera consigliata. Gli integratori alimentari non vanno intesi come sostituti di una dieta varia ed equilibrata e di uno stile di vita sano. Tenere fuori dalla portata dei bambini di età inferiore a 3 anni.</p>",
             "page": ""
           }
+        },
+        "loop_subscriptions_loop_widget_kdRNUw": {
+          "type": "shopify://apps/loop-subscriptions/blocks/loop_widget/267a7c64-5cb3-4552-b817-5485165f0a0b",
+          "settings": {}
         }
       },
       "block_order": [
@@ -147,11 +147,11 @@
         "additional_info_BkmQkF",
         "custom_UebbjN",
         "buy_buttons_dAWG4b",
-        "loop_subscriptions_loop_widget_kdRNUw",
         "video_jNRK4c",
         "tab_xCxdCN",
         "tab_NRGAUB",
-        "tab_crhVd7"
+        "tab_crhVd7",
+        "loop_subscriptions_loop_widget_kdRNUw"
       ],
       "settings": {
         "popuptext_product": "Vedi Composizione",
