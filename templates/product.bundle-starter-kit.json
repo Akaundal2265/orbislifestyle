@@ -923,6 +923,22 @@
         "button_title": "risparmia fino al 25%",
         "button_url": "#product-anchor"
       }
+    },
+    "17393485119c2f4176": {
+      "type": "apps",
+      "blocks": {
+        "loop_subscriptions_loop_widget_RggzXB": {
+          "type": "shopify://apps/loop-subscriptions/blocks/loop_widget/267a7c64-5cb3-4552-b817-5485165f0a0b",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "loop_subscriptions_loop_widget_RggzXB"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
@@ -939,6 +955,7 @@
     "pdp_faq_rYThaM",
     "17213206962c012cff",
     "pdp_props_CCWMNV",
-    "pdp_sticky_cta_x4G3pU"
+    "pdp_sticky_cta_x4G3pU",
+    "17393485119c2f4176"
   ]
 }
