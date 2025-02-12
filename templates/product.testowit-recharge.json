@@ -86,12 +86,11 @@
         "custom_UebbjN": {
           "type": "custom",
           "settings": {
-            "code": "<p class='pdp-text-above-btn'>🔥 Cerchi risultati costanti? Abbonati ora e risparmia il 20%!</p>"
+            "code": "<p class='pdp-text-above-btn'>🔥 Cerchi risultati costanti? Abbonati ora e risparmia il 15%!</p>"
           }
         },
         "buy_buttons_dAWG4b": {
           "type": "buy_buttons",
-          "disabled": true,
           "settings": {
             "show_dynamic_checkout": false,
             "surface_pickup_enable": false,
