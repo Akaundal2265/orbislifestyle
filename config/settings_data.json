@@ -281,8 +281,8 @@
           "toolbar-1": {
             "type": "announcement",
             "settings": {
-              "richtext": "<p><a href=\"/pages/octane-quiz\" title=\"👉 Scopri l’integratore perfetto per te!\">✈️ Spedizione gratis da 69€ | Fai il Quiz </a><strong>→</strong></p>",
-              "richtext_mobile": "<p><a href=\"/pages/octane-quiz\" title=\"👉 Scopri l’integratore perfetto per te!\">✈️ Spedizione gratis da 69€ | Fai il Quiz </a><strong>→</strong></p>"
+              "richtext": "<p><a href=\"/pages/octane-quiz\" title=\"👉 Scopri l’integratore perfetto per te!\">✈️ Spedizione gratis da 69€ | <span style=\"text-decoration:underline\"><strong>Fai il Quiz</strong></span> </a><strong>→</strong></p>",
+              "richtext_mobile": "<p><a href=\"/pages/octane-quiz\" title=\"👉 Scopri l’integratore perfetto per te!\">✈️ Spedizione gratis da 69€ | <span style=\"text-decoration:underline\"><strong>Fai il Quiz</strong></span> </a><strong>→</strong></p>"
             }
           },
           "announcement_8mqgpz": {
