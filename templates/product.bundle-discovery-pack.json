@@ -67,6 +67,7 @@
         },
         "text_bhi8fz": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "💡 Benefici principali:"
           }
@@ -101,6 +102,10 @@
         },
         "loop_subscriptions_loop_widget_GU6wYH": {
           "type": "shopify://apps/loop-subscriptions/blocks/loop_widget/267a7c64-5cb3-4552-b817-5485165f0a0b",
+          "settings": {}
+        },
+        "quantity_selector_FbBPcG": {
+          "type": "quantity_selector",
           "settings": {}
         },
         "buy_buttons_dAWG4b": {
@@ -159,6 +164,7 @@
         "price_DdaqzG",
         "custom_UebbjN",
         "loop_subscriptions_loop_widget_GU6wYH",
+        "quantity_selector_FbBPcG",
         "buy_buttons_dAWG4b",
         "video_jNRK4c",
         "tab_xCxdCN",
