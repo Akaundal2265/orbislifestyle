@@ -281,8 +281,8 @@
           "toolbar-1": {
             "type": "announcement",
             "settings": {
-              "richtext": "<p>✈️ Spedizione gratis da 69€ |<strong> </strong><span style=\"text-decoration:underline\"><strong>Fai il Quiz →</strong></span></p>",
-              "richtext_mobile": "<p>✈️ Spedizione gratis da 69€ |<strong> </strong><span style=\"text-decoration:underline\"><strong>Fai il Quiz →</strong></span></p>"
+              "richtext": "<p><a href=\"/pages/octane-quiz\" title=\"👉 Scopri l’integratore perfetto per te!\">✈️ Spedizione gratis da 69€ |<strong> </strong><span style=\"text-decoration:underline\"><strong>Fai il Quiz →</strong></span></a></p>",
+              "richtext_mobile": "<p><a href=\"/pages/octane-quiz\" title=\"👉 Scopri l’integratore perfetto per te!\">✈️ Spedizione gratis da 69€ |<strong> </strong><span style=\"text-decoration:underline\"><strong>Fai il Quiz →</strong></span></a></p>"
             }
           },
           "announcement_8mqgpz": {
@@ -299,7 +299,10 @@
           "toolbar-1",
           "announcement_8mqgpz"
         ],
-        "custom_css": [],
+        "custom_css": [
+          ".announcement-bar a {color: #ffffff !important; /* Mantiene il testo bianco */ text-decoration: none; /* Rimuove la sottolineatura */}",
+          ".announcement-bar a:hover {color: #ffffff !important; /* Mantiene il colore bianco anche al passaggio del mouse */}"
+        ],
         "settings": {
           "announcement_center": true,
           "toolbar_social": false,
