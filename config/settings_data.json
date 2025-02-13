@@ -280,7 +280,7 @@
           "toolbar-1": {
             "type": "announcement",
             "settings": {
-              "richtext": "<p>✈️ Spedizione gratis da 69€ |<strong> </strong><span style=\"text-decoration:underline\"><strong>Fai il Quiz →</strong></span></p>",
+              "richtext": "<p>✈️ Spedizione gratis da 69€</p>",
               "richtext_mobile": "<p>✈️ Spedizione gratis da 69€ |<strong> </strong><span style=\"text-decoration:underline\"><strong>Fai il Quiz →</strong></span></p>"
             }
           },
