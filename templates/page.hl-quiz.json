@@ -427,7 +427,7 @@
       "settings": {
         "padding_top": 14,
         "padding_bottom": 14,
-        "text": "✈️ Free Shipping From €69",
+        "text": "✈️ Spedizione Gratuita da €69",
         "link": "",
         "text_size": 14,
         "text_spacing": true,
@@ -570,7 +570,7 @@
     "pdp_sticky_cta_x4G3pU": {
       "type": "pdp-sticky-cta",
       "settings": {
-        "button_title": "risparmia fino al 25%",
+        "button_title": "Inizia il Quiz →",
         "button_url": "shopify://pages/octane-quiz"
       }
     }
