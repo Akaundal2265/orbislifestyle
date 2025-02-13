@@ -273,8 +273,8 @@
           "toolbar-0": {
             "type": "announcement",
             "settings": {
-              "richtext": "<p><span style=\"text-decoration:underline\">4,6 ★★★★★ 2K 🌎 Reso gratuito</span></p>",
-              "richtext_mobile": "<p><span style=\"text-decoration:underline\">4,6 ★★★★★ 2K 🌎 Reso gratuito</span></p>"
+              "richtext": "<p>4,6 ★★★★★ 2K 🌎 Reso gratuito</p>",
+              "richtext_mobile": "<p>4,6 ★★★★★ 2K 🌎 Reso gratuito</p>"
             }
           },
           "toolbar-1": {
