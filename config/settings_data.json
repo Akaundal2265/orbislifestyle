@@ -281,8 +281,8 @@
           "toolbar-1": {
             "type": "announcement",
             "settings": {
-              "richtext": "<p>✈️ Spedizione gratis da 69€ |<strong> </strong><a href=\"/pages/about-us\" title=\"About Us\"><span style=\"text-decoration:underline\"><strong>Fai il Quiz  →</strong></span></a></p>",
-              "richtext_mobile": "<p>✈️ Spedizione gratis da 69€ |<strong> </strong><span style=\"text-decoration:underline\"><strong>Fai il Quiz → </strong></span><a href=\"/collections/all\" title=\"All products\"><span style=\"text-decoration:underline\"><strong>😷</strong></span></a></p>"
+              "richtext": "<p>✈️ Spedizione gratis da 69€ |<strong> </strong><span style=\"text-decoration:underline\"><strong>Fai il Quiz →</strong></span></p>",
+              "richtext_mobile": "<p>✈️ Spedizione gratis da 69€ |<strong> </strong><span style=\"text-decoration:underline\"><strong>Fai il Quiz →</strong></span></p>"
             }
           },
           "announcement_8mqgpz": {
