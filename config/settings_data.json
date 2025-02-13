@@ -272,6 +272,7 @@
         "blocks": {
           "toolbar-0": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "richtext": "<p>4,6 ★★★★★ 2K 🌎 Reso gratuito</p>",
               "richtext_mobile": "<p>4,6 ★★★★★ 2K 🌎 Reso gratuito</p>"
@@ -280,12 +281,13 @@
           "toolbar-1": {
             "type": "announcement",
             "settings": {
-              "richtext": "<p>✈️ Spedizione gratis da 69€ |<strong> </strong><span style=\"text-decoration:underline\"><strong>Fai il Quiz →</strong></span></p>",
-              "richtext_mobile": "<p>✈️ Spedizione gratis da 69€ |<strong> </strong><span style=\"text-decoration:underline\"><strong>Fai il Quiz →</strong></span></p>"
+              "richtext": "<p><a href=\"https://orbislifestyle.com › pages › octane-quiz\" title=\"https://orbislifestyle.com › pages › octane-quiz\">✈️ Spedizione gratis da 69€ |<strong> </strong><span style=\"text-decoration:underline\"><strong>Fai il Quiz →</strong></span></a></p>",
+              "richtext_mobile": "<p><a href=\"https://orbislifestyle.com › pages › octane-quiz\" title=\"https://orbislifestyle.com › pages › octane-quiz\">✈️ Spedizione gratis da 69€ |<strong> </strong><span style=\"text-decoration:underline\"><strong>Fai il Quiz →</strong></span></a></p>"
             }
           },
           "announcement_8mqgpz": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "richtext": "<p>🚚 Pagamento alla consegna </p>",
               "richtext_mobile": "<p>🚚 Pagamento alla consegna </p>"
