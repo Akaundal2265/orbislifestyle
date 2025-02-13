@@ -102,6 +102,7 @@ recharge-subscription-widget {
     position: relative;
     padding-bottom: 80px;
     gap: 10px;
+    flex-direction: column;
 }
 .product-section-heylander .product-buy-wrapper .btn.btn--full.add-to-cart {
     background: #E10B17;
