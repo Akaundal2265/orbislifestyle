@@ -99,6 +99,10 @@
             "code": "<p class='pdp-text-above-btn'>Acquista di più e risparmia di più:</p>"
           }
         },
+        "loop_subscriptions_loop_widget_GU6wYH": {
+          "type": "shopify://apps/loop-subscriptions/blocks/loop_widget/267a7c64-5cb3-4552-b817-5485165f0a0b",
+          "settings": {}
+        },
         "buy_buttons_dAWG4b": {
           "type": "buy_buttons",
           "settings": {
@@ -154,6 +158,7 @@
         "additional_info_BkmQkF",
         "price_DdaqzG",
         "custom_UebbjN",
+        "loop_subscriptions_loop_widget_GU6wYH",
         "buy_buttons_dAWG4b",
         "video_jNRK4c",
         "tab_xCxdCN",
