@@ -280,8 +280,8 @@
           "toolbar-1": {
             "type": "announcement",
             "settings": {
-              "richtext": "<p>✈️ Spedizione gratis da 69€ | Inizia il Quiz →</p>",
-              "richtext_mobile": "<p>✈️ Spedizione gratis da 69€ | <span style=\"text-decoration:underline\"><strong>Inizia il Quiz →</strong></span></p>"
+              "richtext": "<p>✈️ Spedizione gratis da 69€ |<strong> </strong><span style=\"text-decoration:underline\"><strong>Fai il Quiz →</strong></span></p>",
+              "richtext_mobile": "<p>✈️ Spedizione gratis da 69€ |<strong> </strong><span style=\"text-decoration:underline\"><strong>Fai il Quiz →</strong></span></p>"
             }
           },
           "announcement_8mqgpz": {
