@@ -47,7 +47,7 @@
         "hero_bg_image": "shopify://shop_images/Group_2.jpg",
         "hero_image": "shopify://shop_images/Frame_1000005368_1.jpg",
         "hero_button_text": "Inizia il Quiz →",
-        "hero_button_url": "shopify://pages/octane-quiz",
+        "hero_button_url": "shopify://pages/scopri-l-integratore-perfetto-per-te",
         "hero_review_author": "Paolo Nuzzolillo",
         "hero_review_author_image": "shopify://shop_images/Frame_1000004096.png",
         "hero_review_number": "1",
@@ -571,7 +571,7 @@
       "type": "pdp-sticky-cta",
       "settings": {
         "button_title": "Inizia il Quiz →",
-        "button_url": "shopify://pages/octane-quiz"
+        "button_url": "shopify://pages/scopri-l-integratore-perfetto-per-te"
       }
     }
   },
