@@ -284,6 +284,7 @@
         },
         "content_FGFrwt": {
           "type": "content",
+          "disabled": true,
           "settings": {
             "features_heading": "L-Selenometionina",
             "features_text": "Supporta la salute immunitaria e la funzione antiossidante"
@@ -299,10 +300,7 @@
         "content_4aPeWP",
         "content_FGFrwt"
       ],
-      "custom_css": [
-        "/* Mobile Version */@media (max-width: 768px) {.pdp-features {display: block; padding-left: 10px; } .pdp-features__icon {display: inline-block; margin-right: 8px; vertical-align: middle; } .pdp-features__content {display: block; margin-left: 15px; }}",
-        "/* Web Version */@media (min-width: 769px) {.pdp-features {display: flex; align-items: flex-start; gap: 20px; padding: 20px; } .pdp-features__content {display: flex; align-items: center; margin-bottom: 15px; } .pdp-features__icon {margin-right: 10px; } .pdp-features__image {margin-left: 20px; }}"
-      ],
+      "custom_css": [],
       "settings": {
         "features_title": "Cosa contiene Glutadetox?",
         "features_image": "shopify://shop_images/Fronte_1_1.png"
