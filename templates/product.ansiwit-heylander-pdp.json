@@ -83,6 +83,10 @@
             "bullet_text": "Migliora il benessere mentale"
           }
         },
+        "price_cjqXXF": {
+          "type": "price",
+          "settings": {}
+        },
         "custom_UebbjN": {
           "type": "custom",
           "settings": {
@@ -142,6 +146,7 @@
         "additional_info_dP9zHP",
         "additional_info_nMn76h",
         "additional_info_BkmQkF",
+        "price_cjqXXF",
         "custom_UebbjN",
         "buy_buttons_BgEgdb",
         "video_jNRK4c",
