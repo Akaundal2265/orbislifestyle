@@ -300,10 +300,10 @@
         "content_FGFrwt"
       ],
       "custom_css": [
-        ".pdp-features {display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 100%;}",
-        ".pdp-features__content {display: flex; align-items: center; max-width: 45%;}",
-        ".pdp-features__icon {margin-right: 8px;}",
-        "@media (max-width: 768px) {.pdp-features {display: block; text-align: left; padding-left: 10px; } .pdp-features__content {display: block; margin-left: 15px; max-width: 100%; }}"
+        ".pdp-features {display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 100%; padding: 20px;}",
+        ".pdp-features__content {display: flex; align-items: center; max-width: 45%; padding: 5px 10px;}",
+        ".pdp-features__icon {margin-right: 10px; flex-shrink: 0;}",
+        "@media (max-width: 768px) {.pdp-features {display: block; text-align: left; padding: 15px; } .pdp-features__content {display: flex; align-items: center; max-width: 100%; padding: 5px; }}"
       ],
       "settings": {
         "features_title": "Cosa contiene Glutadetox?",
