@@ -300,7 +300,7 @@
         "content_FGFrwt"
       ],
       "custom_css": [
-        "@media (min-width: 769px) {.pdp-features__content {display: flex; align-items: flex-start; /* Align items to the top */ width: 45%; margin-bottom: 15px; } .pdp-features__icon {margin-right: 10px; line-height: 1.5; /* Ensure consistent vertical alignment */ }}"
+        "@media (min-width: 769px) {.pdp-features__content {display: flex; align-items: flex-start; /* Align items to the top */ width: 100%; /* Ensure full width for proper alignment */ margin-bottom: 15px; } .pdp-features__icon {margin-right: 10px; flex-shrink: 0; /* Prevent bullet points from shrinking */ } .pdp-features__content p {margin: 0; /* Remove default paragraph margins */ }}"
       ],
       "settings": {
         "features_title": "Cosa contiene Glutadetox?",
