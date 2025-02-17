@@ -299,7 +299,9 @@
         "content_4aPeWP",
         "content_FGFrwt"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "@media (min-width: 768px) {.pdp-features {display: block; padding-left: 10px;} .pdp-features__icon {display: inline-block; margin-right: 8px; vertical-align: middle;}.pdp-features__content{display: block; margin-left: 15px;}"
+      ],
       "settings": {
         "features_title": "Cosa contiene Glutadetox?",
         "features_image": "shopify://shop_images/Fronte_1_1.png"
