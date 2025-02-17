@@ -231,47 +231,48 @@
         "content_4yJjzU": {
           "type": "content",
           "settings": {
-            "features_heading": "Muira Puama",
-            "features_text": "Migliora la vitalità fisica e mentale, combattendo la stanchezza e favorendo il benessere generale."
+            "features_heading": "KSM-66® Ashwagandha",
+            "features_text": "Riduce i livelli di cortisolo e aiuta a contrastare stress e ansia in modo naturale."
           }
         },
         "content_eUCHEt": {
           "type": "content",
           "settings": {
-            "features_heading": "RedNite®",
-            "features_text": "Fornisce nitrati naturali per migliorare la circolazione sanguigna e la salute cardiovascolare."
+            "features_heading": "L-Teanina",
+            "features_text": "Promuove rilassamento e concentrazione, migliorando la qualità del sonno senza causare sonnolenza."
           }
         },
         "content_WCANKH": {
           "type": "content",
           "settings": {
-            "features_heading": "Maca",
-            "features_text": "Aumenta i livelli di energia e di forza, favorendo vitalità e resistenza."
+            "features_heading": "Estratto di Giuggiolo",
+            "features_text": "Favorisce un sonno profondo e ristoratore, riducendo i risvegli notturni."
           }
         },
         "content_xxCepE": {
           "type": "content",
           "settings": {
-            "features_heading": "KSM-66®",
-            "features_text": "Aiuta a gestire lo stress, favorendo il rilassamento e la concentrazione mentale."
+            "features_heading": "Estratto di Magnolia",
+            "features_text": "Modula il cortisolo e supporta il rilassamento, riducendo tensione e stress mentale."
           }
         },
         "content_HHKa8d": {
           "type": "content",
           "settings": {
-            "features_heading": "Fieno greco",
-            "features_text": "Favorisce l'equilibrio ormonale e migliora la salute riproduttiva degli uomini.."
+            "features_heading": "Lavanda olio essenziale",
+            "features_text": "Ha un effetto calmante e distensivo, favorendo il benessere mentale e il rilassamento."
           }
         },
         "content_4aPeWP": {
           "type": "content",
           "settings": {
-            "features_heading": "Oligopin®",
-            "features_text": "Contrasta lo stress ossidativo con potenti proprietà antiossidanti."
+            "features_heading": "Vitamina B6",
+            "features_text": "Supporta il normale funzionamento del sistema nervoso e aiuta a ridurre stanchezza e affaticamento."
           }
         },
         "content_FGFrwt": {
           "type": "content",
+          "disabled": true,
           "settings": {
             "features_heading": "Vitamine D, E, B6",
             "features_text": "Nutrienti essenziali che supportano varie funzioni corporee, tra cui la regolazione ormonale, la salute immunitaria e le difese antiossidanti."
@@ -345,7 +346,7 @@
         "marquee_FgNnPX": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_11.jpg"
+            "pdp_marquee_img": "shopify://shop_images/1AIuHUcMW.jpg"
           }
         },
         "marquee_ic7LVi": {
@@ -395,7 +396,7 @@
           "settings": {
             "pdp_reviews_text": "Prendo tre capsule di Testowit al giorno. Già dopo una settimana un notevole aumento della forza. Al momento non percepisco aumenti della libido. Unico effetto indesiderato un leggero bruciore gastrico, ma facilmente risolvibile assumendo Testowit ai pasti. Personalmente lo ritengo un ottimo prodotto!",
             "pdp_reviews_name": "Francesco V.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_product_image": "shopify://shop_images/Fronte_2.png"
           }
         },
         "slide_xdThfn": {
@@ -403,7 +404,7 @@
           "settings": {
             "pdp_reviews_text": "Il prodotto è arrivato molto in fretta e rispecchia quanto mi aspettavo. Notato incremento in energia focus e pump durante l’allenamento.",
             "pdp_reviews_name": "Giacomontanari G.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_product_image": "shopify://shop_images/Fronte_2.png"
           }
         },
         "slide_fgBnaJ": {
@@ -411,7 +412,7 @@
           "settings": {
             "pdp_reviews_text": "Forza e vigore già dopo 3 giorni di integrazione!!! Solo per i massimi e solo qualità gooooo💪🏼💪🏼💪🏼💪🏼",
             "pdp_reviews_name": "Eugenio B.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_product_image": "shopify://shop_images/Fronte_2.png"
           }
         },
         "slide_cAAXPW": {
@@ -419,7 +420,7 @@
           "settings": {
             "pdp_reviews_text": "Aumento della performance a livello sessuale e maggiore forza fisica durante l allenamento. Per le prime due settimane effetti leggeri poi aumentano esponenzialmente. Superato le aspettative come semplice integratore.",
             "pdp_reviews_name": "Nicola P.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_product_image": "shopify://shop_images/Fronte_2.png"
           }
         },
         "slide_GpgLDM": {
@@ -427,7 +428,7 @@
           "settings": {
             "pdp_reviews_text": "Testowit è Favoloso! Ho sentito subito l'efficacia del prodotto a differenza di altri! Ho già provato altri prodotti: S23 della Biaxol, Turkesterone  della FutuNatura e Ultrabolan della NuviaLab, ma Testowit è il massimo!!!",
             "pdp_reviews_name": "Vincenzo G.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_product_image": "shopify://shop_images/Fronte_2.png"
           }
         },
         "slide_yqpDTe": {
@@ -435,7 +436,7 @@
           "settings": {
             "pdp_reviews_text": "Ottimo prodotto! Comincio a sentire gli effetti dopo 2 settimane e una leggera ricomposizione corporea! Vedremo a fine ciclo!",
             "pdp_reviews_name": "Zordan A.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_product_image": "shopify://shop_images/Fronte_2.png"
           }
         }
       },
