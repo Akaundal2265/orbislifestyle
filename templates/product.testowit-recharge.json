@@ -89,18 +89,17 @@
             "code": "<p class='pdp-text-above-btn'>🔥 Cerchi risultati costanti? Abbonati ora e risparmia il 15%!</p>"
           }
         },
+        "loop_subscriptions_loop_widget_yN98yK": {
+          "type": "shopify://apps/loop-subscriptions/blocks/loop_widget/267a7c64-5cb3-4552-b817-5485165f0a0b",
+          "settings": {}
+        },
         "buy_buttons_dAWG4b": {
           "type": "buy_buttons",
-          "disabled": true,
           "settings": {
             "show_dynamic_checkout": false,
             "surface_pickup_enable": false,
             "show_gift_card_recipient": false
           }
-        },
-        "loop_subscriptions_loop_widget_yN98yK": {
-          "type": "shopify://apps/loop-subscriptions/blocks/loop_widget/267a7c64-5cb3-4552-b817-5485165f0a0b",
-          "settings": {}
         },
         "video_jNRK4c": {
           "type": "video",
@@ -147,8 +146,8 @@
         "additional_info_nMn76h",
         "additional_info_BkmQkF",
         "custom_UebbjN",
-        "buy_buttons_dAWG4b",
         "loop_subscriptions_loop_widget_yN98yK",
+        "buy_buttons_dAWG4b",
         "video_jNRK4c",
         "tab_xCxdCN",
         "tab_NRGAUB",
