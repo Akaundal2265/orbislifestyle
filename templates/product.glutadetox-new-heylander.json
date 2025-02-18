@@ -393,14 +393,12 @@
         },
         "marquee_RcgJUR": {
           "type": "marquee",
-          "disabled": true,
           "settings": {
             "pdp_marquee_img": "shopify://shop_images/image0_2_1_7_1.jpg"
           }
         },
         "marquee_QVAXCP": {
           "type": "marquee",
-          "disabled": true,
           "settings": {
             "pdp_marquee_img": "shopify://shop_images/image0_2_1_4_1.jpg"
           }
