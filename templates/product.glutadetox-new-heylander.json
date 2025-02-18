@@ -299,9 +299,7 @@
         "content_4aPeWP",
         "content_FGFrwt"
       ],
-      "custom_css": [
-        "@media (max-width: 768px) {.pdp-features {display: block; padding-left: 10px;} .pdp-features__icon {display: inline-block; margin-right: 8px; vertical-align: middle;}.pdp-features__content{display: block; margin-left: 15px;}"
-      ],
+      "custom_css": [],
       "settings": {
         "features_title": "Cosa contiene Glutadetox?",
         "features_image": "shopify://shop_images/Fronte_1_1.png"
@@ -866,7 +864,7 @@
           "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
             "only_photos": true,
-            "aggregated": true,
+            "aggregated": false,
             "limit": 20,
             "hide_thumbnails": false,
             "maxwidth": 1080,
