@@ -89,6 +89,10 @@
             "code": "<p class='pdp-text-above-btn'>🔥 Cerchi risultati costanti? Abbonati ora e risparmia il 15%!</p>"
           }
         },
+        "separator_AkRBGC": {
+          "type": "separator",
+          "settings": {}
+        },
         "buy_buttons_dAWG4b": {
           "type": "buy_buttons",
           "disabled": true,
@@ -151,6 +155,7 @@
         "additional_info_nMn76h",
         "additional_info_BkmQkF",
         "custom_UebbjN",
+        "separator_AkRBGC",
         "buy_buttons_dAWG4b",
         "loop_subscriptions_loop_widget_yN98yK",
         "separator_taVT78",
