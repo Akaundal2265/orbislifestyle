@@ -162,7 +162,7 @@
       ],
       "settings": {
         "popuptext_product": "Vedi Composizione",
-        "popupimage_product": "shopify://shop_images/Composition_cortisol_advanced.png",
+        "popupimage_product": "shopify://shop_images/Composition_cortisol_advanced_fadbc5b6-45a1-41e2-8948-3880876f95ed.png",
         "sku_enable": false,
         "image_position": "left",
         "image_container_size": "medium",
@@ -359,43 +359,49 @@
         "marquee_FgNnPX": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/Fronte_1.png"
+            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-18T182249.977.png"
           }
         },
         "marquee_ic7LVi": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/Fronte_2.png"
+            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-18T182149.275.png"
           }
         },
         "marquee_NadBpP": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/Neurowit_20Bottle_20Front_20PNG_1.png"
+            "pdp_marquee_img": "shopify://shop_images/BsmY6wdCX_mid.jpg"
           }
         },
         "marquee_RHaqJH": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/Neurowit_20Bottle_20Left_20PNG_1.png"
+            "pdp_marquee_img": "shopify://shop_images/6uA2kDhPo.jpg"
           }
         },
         "marquee_zDcbeF": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/Neurowit_Bottle_Left.png"
+            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-18T171537.573.png"
           }
         },
         "marquee_rJJh9e": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/Fronte_4.png"
+            "pdp_marquee_img": "shopify://shop_images/ifr6ahn9as_mid.jpg"
           }
         },
         "marquee_RcgJUR": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/1706176371766_1_4.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-19T181251.121.png"
+          }
+        },
+        "marquee_wgyH8g": {
+          "type": "marquee",
+          "settings": {
+            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-19T181343.310.png"
           }
         },
         "slide_ktCbMJ": {
@@ -455,6 +461,7 @@
         "marquee_zDcbeF",
         "marquee_rJJh9e",
         "marquee_RcgJUR",
+        "marquee_wgyH8g",
         "slide_ktCbMJ",
         "slide_xdThfn",
         "slide_fgBnaJ",
