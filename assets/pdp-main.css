@@ -141,7 +141,7 @@ recharge-subscription-widget {
 }
 .product-section-heylander .pdp-additional-cta-text {
     display: flex;
-    gap: 24px;
+    gap: 4px;
     align-items: center;
     justify-content: center;
     margin-top: -35px;
@@ -158,6 +158,7 @@ recharge-subscription-widget {
     }
   .product-section-heylander .pdp-additional-cta-text {
     flex-direction: row;
+    gap: 24px;
   }
     .pdp-shop__badge{
         display: block;
