@@ -109,7 +109,7 @@
         "custom_DPhyzb": {
           "type": "custom",
           "settings": {
-            "code": "<div class=\"pdp-additional-cta-text\"></p>Garanzia di <strong>Rimborso</strong> di 30 Giorni</p>\n<p>Spedizione <strong>GRATIS</strong> per ordini sopra €59</p></div>"
+            "code": "<div class=\"pdp-additional-cta-text\"><span>Garanzia di <strong>Rimborso</strong> di 30 Giorni</span>\n<span>Spedizione <strong>GRATIS</strong> per ordini sopra €59</span></div>"
           }
         },
         "video_jNRK4c": {
