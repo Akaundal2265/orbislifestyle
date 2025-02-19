@@ -83,10 +83,6 @@
             "bullet_text": "Migliora il benessere mentale"
           }
         },
-        "price_Pn3y9N": {
-          "type": "price",
-          "settings": {}
-        },
         "custom_UebbjN": {
           "type": "custom",
           "settings": {
@@ -95,6 +91,11 @@
         },
         "loop_subscriptions_loop_widget_yN98yK": {
           "type": "shopify://apps/loop-subscriptions/blocks/loop_widget/267a7c64-5cb3-4552-b817-5485165f0a0b",
+          "settings": {}
+        },
+        "price_Pn3y9N": {
+          "type": "price",
+          "disabled": true,
           "settings": {}
         },
         "buy_buttons_dAWG4b": {
@@ -149,9 +150,9 @@
         "additional_info_dP9zHP",
         "additional_info_nMn76h",
         "additional_info_BkmQkF",
-        "price_Pn3y9N",
         "custom_UebbjN",
         "loop_subscriptions_loop_widget_yN98yK",
+        "price_Pn3y9N",
         "buy_buttons_dAWG4b",
         "video_jNRK4c",
         "tab_xCxdCN",
