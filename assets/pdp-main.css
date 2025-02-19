@@ -11,7 +11,9 @@
 .product-section-heylander .product-single__meta {
     padding: 0;
 }
-
+label.loop-widget-sp-selector-label {
+    font-size: 10px !important;
+}
 .product-section-heylander .product__policies,
 .product-section-heylander .kaching-bundles__block-title {
     display: none !important;
