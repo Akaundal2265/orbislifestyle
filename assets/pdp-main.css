@@ -145,6 +145,7 @@ recharge-subscription-widget {
     align-items: center;
     justify-content: center;
     margin-top: -35px;
+    flex-direction: column;
 }
 
 .product-section-heylander .pdp-additional-cta-text span {
@@ -155,6 +156,9 @@ recharge-subscription-widget {
     .product-section-heylander .kaching-bundles__bar-title {
         font-size: 18px !important;
     }
+  .product-section-heylander .pdp-additional-cta-text {
+    flex-direction: row;
+  }
     .pdp-shop__badge{
         display: block;
      }
