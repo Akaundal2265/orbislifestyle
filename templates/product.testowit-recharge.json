@@ -106,6 +106,12 @@
             "show_gift_card_recipient": false
           }
         },
+        "custom_DPhyzb": {
+          "type": "custom",
+          "settings": {
+            "code": "<div class=\"pdp-additional-cta-text\"></p>Garanzia di <strong>Rimborso</strong> di 30 Giorni</p>\n<p>Spedizione <strong>GRATIS</strong> per ordini sopra €59</p></div>"
+          }
+        },
         "video_jNRK4c": {
           "type": "video",
           "settings": {
@@ -154,6 +160,7 @@
         "loop_subscriptions_loop_widget_yN98yK",
         "price_Pn3y9N",
         "buy_buttons_dAWG4b",
+        "custom_DPhyzb",
         "video_jNRK4c",
         "tab_xCxdCN",
         "tab_NRGAUB",
