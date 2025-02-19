@@ -136,7 +136,7 @@ recharge-subscription-widget {
 .product-section-heylander .htusb-payment-badges--medium img.htusb-payment-badges--multicolor__badge {
     height: 18px !important;
 }
-.product-section-heylander .product-9352855028041 .product__quantity {
+.product-section-heylander.product-9352855028041 .product__quantity {
     display: none;
 }
 @media (min-width: 768px) {
