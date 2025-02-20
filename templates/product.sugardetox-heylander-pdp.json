@@ -83,6 +83,10 @@
             "bullet_text": "Riduce gli attacchi di fame"
           }
         },
+        "price_4JQktR": {
+          "type": "price",
+          "settings": {}
+        },
         "custom_UebbjN": {
           "type": "custom",
           "settings": {
@@ -122,7 +126,7 @@
           "type": "tab",
           "settings": {
             "title": "Ingredienti",
-            "content": "<p>Garcinia cambogia (<em>Garcinia cambogia</em> (Gaernt) Desr.) frutti estratto secco tit. al 60% in acido idrossi-citrico (HCA); Berberina HCl (da <em>Berberis aristata</em> DC., corteccia dei rami); agente di rivestimento: idrossi-propil-metilcellulosa (involucro capsula); Acido Lipoico; ID-alG™ [Alga Bruna (<em>Ascophyllum nodosum</em> (L.) Le Jolis, pianta intera), Uva Rossa (<em>Vitis vinifera</em> L., semi)] estratto secco tit. al 35% in tannini totali e allo 0,02% in iodio (contiene <strong>solfiti)</strong>; Cardo Mariano (<em>Silybum marianum</em> (L.) Gaertn.) frutti estratto secco tit. all’80% in silimarina; agente di carica: cellulosa; Zinco L-pidolato; agente antiagglomerante: sali di magnesio degli acidi grassi; cloridrato di piridossina (Vitamina B6); L-selenometionina; picolinato di cromo.</p>",
+            "content": "<p><strong>Sugar Detox</strong> contiene Garcinia cambogia (Garcinia cambogia (Gaernt) Desr.) frutto estratto secco tit. al 60% in acido idrossicitrico (HCA); Berberina HCl (da Berberis aristata DC., corteccia dei rami); agente di rivestimento: idrossipropilmetilcellulosa (involucro della capsula); Acido Lipoico; ID-alG™ [Alghe brune (Ascophyllum nodosum (L.) Le Jolis, pianta intera), Uva rossa (Vitis vinifera L., semi)] estratto secco tit. al 35% in tannini totali e allo 0,02% in iodio (contiene solfiti); Cardo mariano (Silybum marianum (L.) Gaertn.) frutto estratto secco tit. all'80% in silimarina; agente di carica: cellulosa; Zinco L-pidolato; agente antiagglomerante: sali di magnesio degli acidi grassi; piridossina cloridrato (vitamina B6); L-selenometionina; cromo picolinato.</p>",
             "page": ""
           }
         },
@@ -141,6 +145,7 @@
         "additional_info_dP9zHP",
         "additional_info_nMn76h",
         "additional_info_BkmQkF",
+        "price_4JQktR",
         "custom_UebbjN",
         "buy_buttons_dAWG4b",
         "video_jNRK4c",
@@ -344,47 +349,49 @@
         "marquee_FgNnPX": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_11.jpg"
+            "pdp_marquee_img": "shopify://shop_images/kfly6Lm8s_mid_19b6f822-3e97-4bca-bf0b-b2736337cfcf.jpg"
           }
         },
         "marquee_ic7LVi": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_2_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Sugar_Detox_bottle_Front_PNG_3.png"
           }
         },
         "marquee_NadBpP": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_5_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/SugarDetoxbottleLeftPNG_1.png"
           }
         },
         "marquee_RHaqJH": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_12.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Energia_e_motivazione_15.png"
           }
         },
         "marquee_zDcbeF": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_6_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Energia_e_motivazione_16.png"
           }
         },
         "marquee_rJJh9e": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_3_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Energia_e_motivazione_17.png"
           }
         },
         "marquee_RcgJUR": {
           "type": "marquee",
+          "disabled": true,
           "settings": {
             "pdp_marquee_img": "shopify://shop_images/image0_2_1_7_1.jpg"
           }
         },
         "marquee_QVAXCP": {
           "type": "marquee",
+          "disabled": true,
           "settings": {
             "pdp_marquee_img": "shopify://shop_images/image0_2_1_4_1.jpg"
           }
@@ -392,45 +399,46 @@
         "slide_ktCbMJ": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Prendo tre capsule di Testowit al giorno. Già dopo una settimana un notevole aumento della forza. Al momento non percepisco aumenti della libido. Unico effetto indesiderato un leggero bruciore gastrico, ma facilmente risolvibile assumendo Testowit ai pasti. Personalmente lo ritengo un ottimo prodotto!",
-            "pdp_reviews_name": "Francesco V.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Prodotto topo come tutti quelli della linea Orbis del resto",
+            "pdp_reviews_name": "CAMERA E.",
+            "pdp_product_image": "shopify://shop_images/Sugar_Detox_bottle_Front_PNG_3.png"
           }
         },
         "slide_xdThfn": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Il prodotto è arrivato molto in fretta e rispecchia quanto mi aspettavo. Notato incremento in energia focus e pump durante l’allenamento.",
-            "pdp_reviews_name": "Giacomontanari G.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Prodotti veramente validi, come dice Ivan Martellato, se un prodotto non vedi la differenza non lo prendere. Con i prodotti ORBIS si sente proprio la differenza. CONSIGLIATISSIMO",
+            "pdp_reviews_name": "Stefano b.",
+            "pdp_product_image": "shopify://shop_images/Sugar_Detox_bottle_Front_PNG_3.png"
           }
         },
         "slide_fgBnaJ": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Forza e vigore già dopo 3 giorni di integrazione!!! Solo per i massimi e solo qualità gooooo💪🏼💪🏼💪🏼💪🏼",
-            "pdp_reviews_name": "Eugenio B.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Mi trovo bene. Poi mi fido di Ivan",
+            "pdp_reviews_name": "Danilo S.",
+            "pdp_product_image": "shopify://shop_images/Sugar_Detox_bottle_Front_PNG_3.png"
           }
         },
         "slide_cAAXPW": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Aumento della performance a livello sessuale e maggiore forza fisica durante l allenamento. Per le prime due settimane effetti leggeri poi aumentano esponenzialmente. Superato le aspettative come semplice integratore.",
-            "pdp_reviews_name": "Nicola P.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Ottimo prodotto",
+            "pdp_reviews_name": "Maurizio C.",
+            "pdp_product_image": "shopify://shop_images/Sugar_Detox_bottle_Front_PNG_3.png"
           }
         },
         "slide_GpgLDM": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Testowit è Favoloso! Ho sentito subito l'efficacia del prodotto a differenza di altri! Ho già provato altri prodotti: S23 della Biaxol, Turkesterone  della FutuNatura e Ultrabolan della NuviaLab, ma Testowit è il massimo!!!",
-            "pdp_reviews_name": "Vincenzo G.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Ottimo prodotto,mi trovo benissimo. Ne prendo 2 caplets 4/5 Min prima del pasto, colazione pranzo e cena e mi sento molto più sveglio, lucido.Dopo mangiato mi sento più \" leggero\" ,meno appesantito. Digerisco molto meglio e non ho più problemi col reflusso. Pratico palestra da quasi 40 anni con allenamenti pesanti e intensi + cardio 3volte a sett. da 15 min. Nonostante fossi comunque attento alla dieta non riuscivo ad uscire da questo \"stallo\". L'ho voluto provare, grazie a Ivan Martellato e in un mese sono riuscito a più che dimezzare lo spessore della mia pliche mantenendo costante il mio peso. Ora continuo con un altro flacone e spero di continuare verso questa direzione. Grazie mille e al prossimo aggiornamento. 💪💪👏",
+            "pdp_reviews_name": "Massimo S.",
+            "pdp_product_image": "shopify://shop_images/Sugar_Detox_bottle_Front_PNG_3.png"
           }
         },
         "slide_yqpDTe": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "pdp_reviews_text": "Ottimo prodotto! Comincio a sentire gli effetti dopo 2 settimane e una leggera ricomposizione corporea! Vedremo a fine ciclo!",
             "pdp_reviews_name": "Zordan A.",
@@ -847,8 +855,8 @@
         "loox_reviews_loox_dynamic_section_xnXkDe": {
           "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
-            "only_photos": false,
-            "aggregated": false,
+            "only_photos": true,
+            "aggregated": true,
             "limit": 20,
             "hide_thumbnails": false,
             "maxwidth": 1080,
