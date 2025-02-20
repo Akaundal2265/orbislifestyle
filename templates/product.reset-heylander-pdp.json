@@ -83,6 +83,10 @@
             "bullet_text": "Combatte lo stress ossidativo"
           }
         },
+        "price_M6tfr6": {
+          "type": "price",
+          "settings": {}
+        },
         "custom_UebbjN": {
           "type": "custom",
           "settings": {
@@ -122,7 +126,7 @@
           "type": "tab",
           "settings": {
             "title": "Ingredienti",
-            "content": "<p>Bromelina (2500 GDU/g) da Gambo d’Ananas (Ananas comosus (L.) Merr.); agente di rivestimento: idrossi-propil-metilcellulosa (involucro capsula); Boswellia (Boswellia serrata Roxb. ex Colebr.) gommo-resina estratto secco tit. al 65% in acidi boswellici; Curcuminoidi (da Curcuma longa L.); emulsionante: lecitina di girasole; Pino (Pinus sylvestris L.) corteccia estratto secco tit. al 90% in proantocianidine; agente di carica: cellulosa; estratto di <strong>soia </strong>fermentata tit. in attività della nattochinasi (20.000-28.000 FU/g); agente antiagglomerante: sali di magnesio degli acidi grassi; cloridrato di tiamina (Vit. B1).</p>",
+            "content": "<p><strong>RESET </strong>contiene Bromelina (2500 GDU/g) da gambo di Ananas (Ananas comosus (L.) Merr.); agente di rivestimento: idrossi-propil-metilcellulosa (involucro della capsula); Boswellia (Boswellia serrata Roxb. ex Colebr.) estratto secco gommo-resina tit. al 65% in acidi boswellici; Curcuminoidi (da Curcuma longa L.); emulsionante: lecitina di girasole; estratto secco di corteccia di pino (Pinus sylvestris L.) tit. 90% in proantocianidine; agente di carica: cellulosa; estratto di soia fermentata tit. attività nattokinasica (20.000-28.000 FU/g); agente antiagglomerante: sali di magnesio degli acidi grassi; cloridrato di tiamina (Vit. B1).</p>",
             "page": ""
           }
         },
@@ -141,6 +145,7 @@
         "additional_info_dP9zHP",
         "additional_info_nMn76h",
         "additional_info_BkmQkF",
+        "price_M6tfr6",
         "custom_UebbjN",
         "buy_buttons_dAWG4b",
         "video_jNRK4c",
@@ -345,47 +350,51 @@
         "marquee_FgNnPX": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_11.jpg"
+            "pdp_marquee_img": "shopify://shop_images/trrCwbxM82_mid.jpg"
           }
         },
         "marquee_ic7LVi": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_2_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Phx4dwJfv_mid.jpg"
           }
         },
         "marquee_NadBpP": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_5_1.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-20T212230.062.png"
           }
         },
         "marquee_RHaqJH": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_12.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-20T212307.141.png"
           }
         },
         "marquee_zDcbeF": {
           "type": "marquee",
+          "disabled": true,
           "settings": {
             "pdp_marquee_img": "shopify://shop_images/image0_2_1_6_1.jpg"
           }
         },
         "marquee_rJJh9e": {
           "type": "marquee",
+          "disabled": true,
           "settings": {
             "pdp_marquee_img": "shopify://shop_images/image0_2_1_3_1.jpg"
           }
         },
         "marquee_RcgJUR": {
           "type": "marquee",
+          "disabled": true,
           "settings": {
             "pdp_marquee_img": "shopify://shop_images/image0_2_1_7_1.jpg"
           }
         },
         "marquee_QVAXCP": {
           "type": "marquee",
+          "disabled": true,
           "settings": {
             "pdp_marquee_img": "shopify://shop_images/image0_2_1_4_1.jpg"
           }
@@ -393,49 +402,49 @@
         "slide_ktCbMJ": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Prendo tre capsule di Testowit al giorno. Già dopo una settimana un notevole aumento della forza. Al momento non percepisco aumenti della libido. Unico effetto indesiderato un leggero bruciore gastrico, ma facilmente risolvibile assumendo Testowit ai pasti. Personalmente lo ritengo un ottimo prodotto!",
-            "pdp_reviews_name": "Francesco V.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Ottimo prodotto ho sentito fin da subito i suoi benefici.Super consigliato",
+            "pdp_reviews_name": "Andrea G.",
+            "pdp_product_image": "shopify://shop_images/bottle_20RESET_20Front_20PNG_2b94aff8-245e-4fb6-94ec-1eed4813779b.png"
           }
         },
         "slide_xdThfn": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Il prodotto è arrivato molto in fretta e rispecchia quanto mi aspettavo. Notato incremento in energia focus e pump durante l’allenamento.",
-            "pdp_reviews_name": "Giacomontanari G.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Ottimo prodotto .",
+            "pdp_reviews_name": "El D.",
+            "pdp_product_image": "shopify://shop_images/bottle_20RESET_20Front_20PNG_2b94aff8-245e-4fb6-94ec-1eed4813779b.png"
           }
         },
         "slide_fgBnaJ": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Forza e vigore già dopo 3 giorni di integrazione!!! Solo per i massimi e solo qualità gooooo💪🏼💪🏼💪🏼💪🏼",
-            "pdp_reviews_name": "Eugenio B.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Ottimo integratore da utilizzare tutti i giorni per equilibrare i rimasugli del covid",
+            "pdp_reviews_name": "Federico F.",
+            "pdp_product_image": "shopify://shop_images/bottle_20RESET_20Front_20PNG_2b94aff8-245e-4fb6-94ec-1eed4813779b.png"
           }
         },
         "slide_cAAXPW": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Aumento della performance a livello sessuale e maggiore forza fisica durante l allenamento. Per le prime due settimane effetti leggeri poi aumentano esponenzialmente. Superato le aspettative come semplice integratore.",
-            "pdp_reviews_name": "Nicola P.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Fantastico si sentono da subito i benefici",
+            "pdp_reviews_name": "Andrea G.",
+            "pdp_product_image": "shopify://shop_images/bottle_20RESET_20Front_20PNG_2b94aff8-245e-4fb6-94ec-1eed4813779b.png"
           }
         },
         "slide_GpgLDM": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Testowit è Favoloso! Ho sentito subito l'efficacia del prodotto a differenza di altri! Ho già provato altri prodotti: S23 della Biaxol, Turkesterone  della FutuNatura e Ultrabolan della NuviaLab, ma Testowit è il massimo!!!",
-            "pdp_reviews_name": "Vincenzo G.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "ottimo prodotto continuerò a comorarlo a vita",
+            "pdp_reviews_name": "Agostino C.",
+            "pdp_product_image": "shopify://shop_images/bottle_20RESET_20Front_20PNG_2b94aff8-245e-4fb6-94ec-1eed4813779b.png"
           }
         },
         "slide_yqpDTe": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Ottimo prodotto! Comincio a sentire gli effetti dopo 2 settimane e una leggera ricomposizione corporea! Vedremo a fine ciclo!",
-            "pdp_reviews_name": "Zordan A.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Ordini super veloci professionali il top",
+            "pdp_reviews_name": "Rocco S.",
+            "pdp_product_image": "shopify://shop_images/bottle_20RESET_20Front_20PNG_2b94aff8-245e-4fb6-94ec-1eed4813779b.png"
           }
         }
       },
@@ -848,7 +857,7 @@
         "loox_reviews_loox_dynamic_section_xnXkDe": {
           "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
-            "only_photos": false,
+            "only_photos": true,
             "aggregated": false,
             "limit": 20,
             "hide_thumbnails": false,
