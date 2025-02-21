@@ -64,8 +64,8 @@
         "hero_badge": "shopify://shop_images/Frame_1000005384.svg",
         "hero_bg_image": "shopify://shop_images/NEUROWIT.gif",
         "hero_image": "shopify://shop_images/NEUROWIT.gif",
-        "hero_button_text": "Inizia il Quiz →",
-        "hero_button_url": "shopify://pages/scopri-l-integratore-perfetto-per-te",
+        "hero_button_text": "Inizia a guadagnare →",
+        "hero_button_url": "https://affiliates.socialsnowball.io/auth/affiliate/login",
         "hero_review_author": "Paolo Nuzzolillo",
         "hero_review_author_image": "shopify://shop_images/Frame_1000004096.png",
         "hero_review_number": "1",
@@ -74,6 +74,18 @@
         "hero_review_title": "Ottimi Prodotti",
         "hero_review_content": "Ottimi Prodotti, da professionista della nutrizone li consiglio spesso ai miei client!",
         "hero_review_experiance": "<p><strong>Data dell'esperienza: </strong>Dicembre 01, 2023</p>"
+      }
+    },
+    "pdp_zig_zag_NT6Bit": {
+      "type": "pdp-zig-zag",
+      "settings": {
+        "zig_zag_title": "Non sei soddisfatto?  Garantiamo il rimborso  senza fare domande!",
+        "zig_zag_image": "shopify://shop_images/Frame_650665_2_1.jpg",
+        "zig_zag_image_mob": "shopify://shop_images/Frame_650665_3_1.jpg",
+        "zig_zag_badge": "shopify://shop_images/Frame_1000005248_1.svg",
+        "zig_zag_text": "Offriamo un'esperienza di acquisto sicura con rimborsi completi entro 30 giorni, tracciabilità dettagliata dell'ordine e una varietà di opzioni di pagamento tra cui Visa, Mastercard, PayPal, contrassegno e Apple Pay. Inoltre, il nostro gentile servizio clienti è sempre pronto ad aiutarti e non ci sono costi nascosti!",
+        "zig_line_desk": "shopify://shop_images/Frame.png",
+        "zig_line_mob": "shopify://shop_images/Frame.png"
       }
     },
     "pdp_marquee_4mMELF": {
@@ -187,18 +199,6 @@
       "settings": {
         "bg_color": "#ffffff",
         "pdp_products_title": ""
-      }
-    },
-    "pdp_zig_zag_NT6Bit": {
-      "type": "pdp-zig-zag",
-      "settings": {
-        "zig_zag_title": "Non sei soddisfatto?  Garantiamo il rimborso  senza fare domande!",
-        "zig_zag_image": "shopify://shop_images/Frame_650665_2_1.jpg",
-        "zig_zag_image_mob": "shopify://shop_images/Frame_650665_3_1.jpg",
-        "zig_zag_badge": "shopify://shop_images/Frame_1000005248_1.svg",
-        "zig_zag_text": "Offriamo un'esperienza di acquisto sicura con rimborsi completi entro 30 giorni, tracciabilità dettagliata dell'ordine e una varietà di opzioni di pagamento tra cui Visa, Mastercard, PayPal, contrassegno e Apple Pay. Inoltre, il nostro gentile servizio clienti è sempre pronto ad aiutarti e non ci sono costi nascosti!",
-        "zig_line_desk": "shopify://shop_images/Frame.png",
-        "zig_line_mob": "shopify://shop_images/Frame.png"
       }
     },
     "pdp_reviews_zy7r7c": {
@@ -596,9 +596,9 @@
   "order": [
     "1740132283ce05daaf",
     "home_hero_section_kYYDCx",
+    "pdp_zig_zag_NT6Bit",
     "pdp_marquee_4mMELF",
     "pdp_products_PkNjPP",
-    "pdp_zig_zag_NT6Bit",
     "pdp_reviews_zy7r7c",
     "pdp_props_CCWMNV",
     "newsletter_PrCMUg",
