@@ -162,7 +162,7 @@
       ],
       "settings": {
         "popuptext_product": "Vedi Composizione",
-        "popupimage_product": "shopify://shop_images/Composition_cortisol_advanced_fadbc5b6-45a1-41e2-8948-3880876f95ed.png",
+        "popupimage_product": "shopify://shop_images/Composition_cortisol_basic.png",
         "sku_enable": false,
         "image_position": "left",
         "image_container_size": "medium",
@@ -303,7 +303,7 @@
       ],
       "settings": {
         "features_title": "Cosa Contiene Il Bundle?",
-        "features_image": "shopify://shop_images/Cortisol_Reset_-_Advanced.png"
+        "features_image": "shopify://shop_images/Cortisol_Reset_-_Basic.png"
       }
     },
     "pdp_products_PkNjPP": {
