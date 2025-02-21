@@ -382,16 +382,14 @@
         },
         "marquee_zDcbeF": {
           "type": "marquee",
-          "disabled": true,
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-18T171537.573.png"
+            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-21T164845.812.png"
           }
         },
         "marquee_rJJh9e": {
           "type": "marquee",
-          "disabled": true,
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/ifr6ahn9as_mid.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-21T165012.268.png"
           }
         },
         "marquee_RcgJUR": {
@@ -425,16 +423,16 @@
         "slide_fgBnaJ": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Ottimo prodotto mi sento molto più concentrato e attivo da quando lo uso",
-            "pdp_reviews_name": "Giovanni S.",
-            "pdp_product_image": "shopify://shop_images/Neurowit_20Bottle_20Front_20PNG_1.png"
+            "pdp_reviews_text": "Ottimo prodotto su di me che sono poco sensibile anche a certi farmaci ha un effetto blando Ma assolutamente apprezzabile. Sicuramente lo consiglio!!!",
+            "pdp_reviews_name": "Matteo P.",
+            "pdp_product_image": "shopify://shop_images/Fronte_2.png"
           }
         },
         "slide_cAAXPW": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Il prodotto mantiene le promesse, noto più lucidità anche a fine giornata, migliore concentrazione e conseguente meno stress",
-            "pdp_reviews_name": "Matteo P.",
+            "pdp_reviews_text": "acquistato prima ansiwit e subito dopo memowit e che dire...fanno molto bene quello che promettono!!!soprattutto nel mio caso ho sentito molto i benefici di ansiwit e ne ho subito comprato un altra scatola!",
+            "pdp_reviews_name": "vittorio s.",
             "pdp_product_image": "shopify://shop_images/Neurowit_20Bottle_20Front_20PNG_1.png"
           }
         },
