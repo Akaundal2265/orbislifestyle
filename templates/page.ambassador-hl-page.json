@@ -158,6 +158,17 @@
         "bg_slide_color": "#ffffff"
       }
     },
+    "pdp_zig_zag_NT6Bit": {
+      "type": "pdp-zig-zag",
+      "settings": {
+        "zig_zag_title": "Creati un nuovo stipendio... EXTRA!",
+        "zig_zag_image": "shopify://shop_images/Frame_650665_2_1.jpg",
+        "zig_zag_image_mob": "shopify://shop_images/Frame_650665_3_1.jpg",
+        "zig_zag_text": "Con il nostro programma di affiliazione, non si tratta solo di guadagnare una commissione su ogni singola vendita, ma anche di generare entrate ricorrenti mensili. Se porti clienti che si iscrivono al nostro servizio in abbonamento, inizierai a ricevere una parte delle loro entrate ogni mese, per ogni rinnovo dell’abbonamento. Una vera e propria opportunità di guadagno passivo che cresce con il tempo, dandoti la possibilità di creare una fonte di reddito stabile e duratura!",
+        "zig_line_desk": "shopify://shop_images/Frame.png",
+        "zig_line_mob": "shopify://shop_images/Frame.png"
+      }
+    },
     "home_hero_section_kYYDCx": {
       "type": "home-hero-section",
       "blocks": {
@@ -205,17 +216,6 @@
         "hero_review_title": "Ottimi Prodotti",
         "hero_review_content": "Ottimi Prodotti, da professionista della nutrizone li consiglio spesso ai miei client!",
         "hero_review_experiance": "<p><strong>Data dell'esperienza: </strong>Dicembre 01, 2023</p>"
-      }
-    },
-    "pdp_zig_zag_NT6Bit": {
-      "type": "pdp-zig-zag",
-      "settings": {
-        "zig_zag_title": "Non sei soddisfatto?  Garantiamo il rimborso  senza fare domande!",
-        "zig_zag_image": "shopify://shop_images/Frame_650665_2_1.jpg",
-        "zig_zag_image_mob": "shopify://shop_images/Frame_650665_3_1.jpg",
-        "zig_zag_text": "Offriamo un'esperienza di acquisto sicura con rimborsi completi entro 30 giorni, tracciabilità dettagliata dell'ordine e una varietà di opzioni di pagamento tra cui Visa, Mastercard, PayPal, contrassegno e Apple Pay. Inoltre, il nostro gentile servizio clienti è sempre pronto ad aiutarti e non ci sono costi nascosti!",
-        "zig_line_desk": "shopify://shop_images/Frame.png",
-        "zig_line_mob": "shopify://shop_images/Frame.png"
       }
     },
     "pdp_marquee_4mMELF": {
@@ -326,6 +326,7 @@
         "product_9YijLF",
         "product_Pt7ATg"
       ],
+      "disabled": true,
       "settings": {
         "bg_color": "#ffffff",
         "pdp_products_title": ""
@@ -411,6 +412,7 @@
     },
     "replo_tab_shop_section_7CAYw7": {
       "type": "replo-tab-shop-section",
+      "disabled": true,
       "settings": {
         "replo_text_6eb11980-86c9-4504-8a4b-9403bdad05f9": "<p>🥵 Stress Management</p>",
         "replo_text_ffd8e659-ed1f-4c14-a8d2-283a9092be07": "<p>Per gestire sbalzi d’umore, insonnia e altre pressioni della vita moderna.</p>",
@@ -449,6 +451,7 @@
     },
     "scrolling_text_rkqgP6": {
       "type": "scrolling-text",
+      "disabled": true,
       "settings": {
         "padding_top": 14,
         "padding_bottom": 14,
@@ -487,6 +490,7 @@
     },
     "home_blog_section_GtkCpj": {
       "type": "home-blog-section",
+      "disabled": true,
       "settings": {
         "blog": "orbis-blog",
         "blog_show_tags": false,
@@ -603,8 +607,8 @@
   "order": [
     "1740132283ce05daaf",
     "pdp_reviews_zy7r7c",
-    "home_hero_section_kYYDCx",
     "pdp_zig_zag_NT6Bit",
+    "home_hero_section_kYYDCx",
     "pdp_marquee_4mMELF",
     "pdp_products_PkNjPP",
     "pdp_props_CCWMNV",
