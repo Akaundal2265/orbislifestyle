@@ -9,6 +9,24 @@
  */
 {
   "sections": {
+    "1740132283ce05daaf": {
+      "type": "apps",
+      "blocks": {
+        "snowball_affiliate_marketing_affiliate_sign_up_dGy9kF": {
+          "type": "shopify://apps/snowball-affiliate-marketing/blocks/affiliate-sign-up/6e5feda3-ec24-4171-ae41-64028b660bc7",
+          "settings": {
+            "form_id": "f29c9912-a203-4417-996f-e02fd5523df1"
+          }
+        }
+      },
+      "block_order": [
+        "snowball_affiliate_marketing_affiliate_sign_up_dGy9kF"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
     "home_hero_section_kYYDCx": {
       "type": "home-hero-section",
       "blocks": {
@@ -44,8 +62,8 @@
         "hero_title": "Scopri l’integratore perfetto per te con il nostro quiz personalizzato!",
         "hero_subtitle": "✨ Consigliato da oltre 100 esperti del settore!",
         "hero_badge": "shopify://shop_images/Frame_1000005384.svg",
-        "hero_bg_image": "shopify://shop_images/Group_2.jpg",
-        "hero_image": "shopify://shop_images/Frame_1000005368_1.jpg",
+        "hero_bg_image": "shopify://shop_images/NEUROWIT.gif",
+        "hero_image": "shopify://shop_images/NEUROWIT.gif",
         "hero_button_text": "Inizia il Quiz →",
         "hero_button_url": "shopify://pages/scopri-l-integratore-perfetto-per-te",
         "hero_review_author": "Paolo Nuzzolillo",
@@ -573,27 +591,10 @@
         "button_title": "Inizia il Quiz →",
         "button_url": "shopify://pages/scopri-l-integratore-perfetto-per-te"
       }
-    },
-    "1740132283ce05daaf": {
-      "type": "apps",
-      "blocks": {
-        "snowball_affiliate_marketing_affiliate_sign_up_dGy9kF": {
-          "type": "shopify://apps/snowball-affiliate-marketing/blocks/affiliate-sign-up/6e5feda3-ec24-4171-ae41-64028b660bc7",
-          "settings": {
-            "form_id": "f29c9912-a203-4417-996f-e02fd5523df1"
-          }
-        }
-      },
-      "block_order": [
-        "snowball_affiliate_marketing_affiliate_sign_up_dGy9kF"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
     }
   },
   "order": [
+    "1740132283ce05daaf",
     "home_hero_section_kYYDCx",
     "pdp_marquee_4mMELF",
     "pdp_products_PkNjPP",
@@ -607,7 +608,6 @@
     "home_blog_section_GtkCpj",
     "pdp_faq_rYThaM",
     "pdp_props_jTeDTL",
-    "pdp_sticky_cta_x4G3pU",
-    "1740132283ce05daaf"
+    "pdp_sticky_cta_x4G3pU"
   ]
 }
