@@ -146,7 +146,7 @@ recharge-subscription-widget {
     gap: 4px;
     align-items: center;
     justify-content: center;
-    margin-top: -35px;
+    margin-top: -20px;
     flex-direction: column;
 }
 
