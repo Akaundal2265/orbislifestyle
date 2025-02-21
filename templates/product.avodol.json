@@ -1,1 +1,398 @@
-{"sections":{"scrolling_text_mYfykD":{"type":"scrolling-text","disabled":true,"settings":{"text":"🔬 Nuovo lotto in produzione 🚨 PREORDINA ORA","link":"shopify:\/\/products\/testowit-regolazione-ormonale-120-cps","text_size":20,"text_spacing":true,"direction":"left","speed":180,"color_scheme":"3"}},"main":{"type":"main-product","blocks":{"variant_picker":{"type":"variant_picker","disabled":true,"settings":{"variant_labels":true,"picker_type":"button","product_dynamic_variants_enable":true,"color_swatches":false}},"loox_reviews_loox_rating_bH4GHL":{"type":"shopify:\/\/apps\/loox-reviews\/blocks\/loox-rating\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e","disabled":true,"settings":{"contentSize":16,"pattern":"","hideText":true,"alignment":"left","layout":"","textColor":"","starColor":"","showAllReviews":false,"looxOpenFloatingWidget":false,"emptyRatingWidget":false}},"sales_point":{"type":"sales_point","disabled":true,"settings":{"icon":"globe","text":"EDIZIONE LIMITATA (200 pz)"}},"sales_point2":{"type":"sales_point","disabled":true,"settings":{"icon":"truck","text":"Reso gratuito per 30 giorni"}},"sales_point3":{"type":"sales_point","disabled":true,"settings":{"icon":"heart","text":"Clinicamente testato"}},"sales_point4":{"type":"sales_point","disabled":true,"settings":{"icon":"lock","text":"Pagamenti sicuri"}},"inventory_status":{"type":"inventory_status","disabled":true,"settings":{"inventory_threshold":20,"inventory_transfers_enable":true}},"loox_reviews_loox_snippets_widget_bHh6ij":{"type":"shopify:\/\/apps\/loox-reviews\/blocks\/loox-snippets-widget\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e","disabled":true,"settings":{"alignment":"left","max-width":"","color-scheme":"default","shadow":"","show-rating":true,"show-image":true,"hide-arrows-mobile":false,"font-size":14,"show-border":false,"border-radius":16,"background-color":"","text-color":"","name-color":"","rating-icon-color":"","border-color":"","shadow-color":"","reviews-limit":10}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true,"surface_pickup_enable":false,"show_gift_card_recipient":false}}},"block_order":["variant_picker","loox_reviews_loox_rating_bH4GHL","sales_point","sales_point2","sales_point3","sales_point4","inventory_status","loox_reviews_loox_snippets_widget_bHh6ij","buy_buttons"],"settings":{"sku_enable":false,"image_position":"left","image_container_size":"medium","product_image_size":"square","product_zoom_enable":true,"thumbnail_position":"beside","thumbnail_height":"flexible","thumbnail_arrows":false,"mobile_layout":"partial","enable_video_looping":true,"product_video_style":"muted"}},"sub":{"type":"product-full-width","blocks":{"description":{"type":"description","settings":{"is_tab":false}},"tab":{"type":"tab","settings":{"title":"Dose e Modo d'Uso","content":"<p>Si consiglia di assumere <span style=\"text-decoration:underline\"><strong>da 2 a 3 capsule al giorno<\/strong><\/span> con abbondante acqua.<\/p>","page":""}},"9bed2ed9-31eb-4510-95a9-7bd933c33286":{"type":"tab","settings":{"title":"Valori nutrizionali","content":"<p><strong>Tenori medi per dose massima giornaliera (3 capsule):<\/strong><\/p><ul><li><strong>PEA-m<\/strong> - 600 mg<\/li><li><strong>AvoVida®<\/strong> - 150 mg<br\/><em>pari a fitosteroli totali 45 mg<\/em><\/li><li><strong>Boswellia e.s.<\/strong> - 50 mg<br\/><em>pari ad acidi boswellici 32,5 mg<\/em><\/li><li><strong>Acido Lipoico<\/strong> - 200 mg<\/li><li><strong>Coenzima Q10<\/strong> - 100 mg<\/li><\/ul>","page":""}},"c7081fe6-d23a-4fd2-88f3-bb6e5fdcc508":{"type":"tab","settings":{"title":"Ingredienti","content":"<p>Palmitoiletanolamide micronizzata (PEA-m); agente di rivestimento: idrossi-propil-metilcellulosa (involucro capsula); Acido Lipoico; AvoVida® [estratto di <strong>soia<\/strong> (Glycine max (L.) Merr., olio dei semi) e avocado (Persea americana Mill., olio dei frutti) titolato al 30% in fitosteroli totali]; Coenzima Q10; agente di carica: cellulosa; Boswellia (Boswellia serrata Roxb. ex Colebr.) gommo-resina estratto secco tit. al 65% in acidi boswellici; agente antiagglomerante: sali di magnesio degli acidi grassi.<\/p>","page":""}},"6718643c-fffd-443f-ba1b-7aab9770fcd6":{"type":"tab","settings":{"title":"Avvertenze","content":"<p>Non superare la dose giornaliera consigliata. Gli integratori alimentari non vanno intesi come sostituti di una dieta varia ed equilibrata e di uno stile di vita sano. Tenere fuori dalla portata dei bambini di età inferiore a 3 anni.<\/p>","page":""}},"contact":{"type":"contact","disabled":true,"settings":{"title":"Facci una domanda","phone":true}},"080e4062-e4e2-48d0-830d-0961434ce031":{"type":"custom","disabled":true,"settings":{"code":"<!DOCTYPE html>\n<html>\n<head>\n    <title>Fatti Nutrizionali<\/title>\n    <style>\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th, td {\n            border: 1px solid black;\n            padding: 8px;\n            text-align: left;\n        }\n        th {\n            background-color: #f2f2f2;\n        }\n        .bold {\n            font-weight: bold;\n        }\n    <\/style>\n<\/head>\n<body>\n<br>\n<h2>Tabella Nutrizionale<\/h2>\n\n<table>\n    <tr>\n        <th>Ingredienti<\/th>\n        <th>Tenori Medi per Dose Giornaliera Massima (4cps)<\/th>\n    <\/tr>\n    <tr>\n        <td>Muira puama (Ptychopetalum olacoides Benth.) corteccia e.s. (D\/E: 4\/1)<\/td>\n        <td>600 mg<\/td>\n    <\/tr>\n    <tr>\n        <td>RedNite™ [Barbabietola Rossa (Beta vulgaris L.) radice succo polvere tit. all’1,5% in nitrati]<\/td>\n        <td>400 mg (nitrati: 6 mg)<\/td>\n    <\/tr>\n    <tr>\n        <td>Maca (Lepidium meyenii Walp.) radice e.s. tit. allo 0,5% in beta-ecdysterone<\/td>\n        <td>240 mg (Beta-ecysterone: 1,2 mg)<\/td>\n    <\/tr>\n    <tr>\n        <td>Fieno Greco (Trigonella foenum-graecum L.) semi e.s. tit. al 50% in protodioscina<\/td>\n        <td>200 mg (protodioscina: 100 mg)<\/td>\n    <\/tr>\n    <tr>\n        <td>Zinco (gluconato di zinco)<\/td>\n        <td>12 mg (<span class=\"bold\">120% VNR*<\/span>)<\/td>\n    <\/tr>\n    <tr>\n        <td>KSM-66® [Ashwagandha (Withania somnifera (L.) Dunal.) radice e.s. tit. al 5% in withanolidi]<\/td>\n        <td>80 mg (withanolidi: 4 mg)<\/td>\n    <\/tr>\n    <tr>\n        <td>Oligopin® [Pino Marittimo Francese (Pinus pinaster Ait.) corteccia e.s. tit. al 65% in procianidine oligomeriche (OPCs)]<\/td>\n        <td>40 mg (OPCs: 26 mg)<\/td>\n    <\/tr>\n    <tr>\n        <td>Uva rossa (Vitis vinifera L.) semi e.s. tit. al 95% in proantocianidine<\/td>\n        <td>16 mg (proantocianidine: 15,2 mg)<\/td>\n    <\/tr>\n    <tr>\n        <td>Vitamina D (colecalciferolo)<\/td>\n        <td>40 mcg (<span class=\"bold\">800% VNR*<\/span>)<\/td>\n    <\/tr>\n    <tr>\n        <td>Vitamina E (acetato di D-alfa-tocoferile)<\/td>\n        <td>8 mg (<span class=\"bold\">67% VNR*<\/span>)<\/td>\n    <\/tr>\n    <tr>\n        <td>Boro (acido borico)<\/td>\n        <td>2 mg<\/td>\n    <\/tr>\n    <tr>\n        <td>Rame (gluconato di rame)<\/td>\n        <td>2 mg (<span class=\"bold\">200% VNR*<\/span>)<\/td>\n    <\/tr>\n    <tr>\n        <td>Vitamina B6 (cloridrato di piridossina)<\/td>\n        <td>8 mg (<span class=\"bold\">571% VNR*<\/span>)<\/td>\n    <\/tr>\n    <tr>\n        <td>Piperina da Pepe nero (Piper nigrum L.) frutti<\/td>\n        <td>4 mg<\/td>\n    <\/tr>\n<\/table>\n\n<p><b>*VNR = Valore Nutrizionale di Riferimento<\/b><\/p>\n\n<\/body>\n<\/html>"}},"bebad4cb-7823-4457-9d9d-4e2f77405f5c":{"type":"tab","settings":{"title":"Approfondimento scientifico","content":"<p><strong>Cos'è AVODOL?<\/strong><\/p><p>AVODOL è un integratore alimentare di alta qualità, formulato con:<\/p><ul><li><strong>Palmitoiletanolamide micronizzata (PEA-m)<\/strong>: Una molecola naturale con proprietà antinfiammatorie e analgesiche, supporta la riduzione dei disagi articolari.<\/li><li><strong>AvoVida®<\/strong>: Un estratto brevettato di avocado e soia, ricco di fitosteroli che favoriscono la funzionalità articolare e il benessere delle cartilagini.<\/li><li><strong>Acido Lipoico<\/strong>: Un potente antiossidante che aiuta a combattere lo stress ossidativo e supporta il metabolismo energetico.<\/li><li><strong>Coenzima Q10<\/strong>: Essenziale per la produzione di energia cellulare, aiuta a proteggere le cellule dai danni ossidativi.<\/li><li><strong>Boswellia Serrata<\/strong>: Un estratto tradizionalmente utilizzato per ridurre l'infiammazione e il dolore articolare.<\/li><\/ul><p><strong>Modalità d'uso:<\/strong> Assumere 2-3 capsule al giorno con un bicchiere d'acqua, preferibilmente durante i pasti.<\/p><p><strong>Confezione:<\/strong> 90 capsule.<\/p>","page":""}}},"block_order":["description","tab","9bed2ed9-31eb-4510-95a9-7bd933c33286","c7081fe6-d23a-4fd2-88f3-bb6e5fdcc508","6718643c-fffd-443f-ba1b-7aab9770fcd6","contact","080e4062-e4e2-48d0-830d-0961434ce031","bebad4cb-7823-4457-9d9d-4e2f77405f5c"],"settings":{"max_width":true}},"d6351907-41fb-41bf-9b3c-bd515cfbe823":{"type":"text-and-image","settings":{"image":"shopify:\/\/shop_images\/Avodol_2520bottle_2520front_2520PNG.png","image_mask":"square","image2_mask":"none","subtitle":"","title":"Articolazioni, benessere, antiossidante, energia","heading_size":"h2","text":"<p>La <strong>PEA-m<\/strong> e la <strong>Boswellia<\/strong> lavorano in sinergia per supportare la salute articolare e ridurre l'infiammazione, mentre l'<strong>AvoVida®<\/strong> contribuisce al benessere delle cartilagini. L'<strong>Acido Lipoico<\/strong> e il <strong>Coenzima Q10<\/strong> offrono un potente effetto antiossidante, proteggendo le cellule dallo stress ossidativo e favorendo la produzione di energia cellulare. 🌱<\/p>","button_label":"","button_link":"","button_style":"primary","align_text":"left","image_width":"50","layout":"right","color_scheme":"1","show_wave":false,"divider":false,"top_padding":true,"bottom_padding":true,"lazyload_images":true}},"13ee9776-d34e-4606-a57a-d5bb73be942c":{"type":"text-and-image","settings":{"image":"shopify:\/\/shop_images\/two-avocado-slices.jpg","image_mask":"portrait","image2_mask":"none","subtitle":"","title":"Perché Sceglierlo?","heading_size":"h2","text":"<p>Diversi fattori, come l’alimentazione e lo stile di vita, possono influenzare la salute delle articolazioni e il benessere generale. Con <strong>AVODOL<\/strong>, ci prendiamo cura delle tue articolazioni e del tuo equilibrio ossidativo, così da farti sentire agile e protetto ogni giorno. 💪<\/p>","button_label":"","button_link":"","button_style":"primary","align_text":"left","image_width":"50","layout":"left","color_scheme":"none","show_wave":false,"divider":false,"top_padding":true,"bottom_padding":true,"lazyload_images":true}},"03eb9ac3-0894-4150-8014-a6823c670528":{"type":"rich-text","blocks":{"template--20355101655369__03eb9ac3-0894-4150-8014-a6823c670528-heading-1":{"type":"heading","settings":{"title":"👍 Soddisfatti o Rimborsati","heading_size":"h3"}},"template--20355101655369__03eb9ac3-0894-4150-8014-a6823c670528-text-1":{"type":"text","settings":{"enlarge_text":false,"text":"<ol><li>Rimborsati in 30gg dopo l'acquisto<\/li><li>Numero Tracking per ogni ordini<\/li><li>Pagamenti sicuri con Visa, Mastercard, PayPal, pagamento alla consegna, Apple Pay ed altri<\/li><li>Vere persone nel nostro servizio clienti<\/li><li>Nessune fee nascoste<\/li><\/ol><p>Abbiamo <strong>24\/7 Supporto per email<\/strong>. Per favore contattaci per assistenza a <strong>info@orbislifestyle.com<\/strong><\/p>"}}},"block_order":["template--20355101655369__03eb9ac3-0894-4150-8014-a6823c670528-heading-1","template--20355101655369__03eb9ac3-0894-4150-8014-a6823c670528-text-1"],"settings":{"align_text":"left","narrow_column":true,"color_scheme":"none","show_wave":false,"divider":false}},"recommendations":{"type":"product-recommendations","settings":{"product_recommendations_heading":"Spesso comprati insieme","related_count":6,"products_per_row":3}},"more-products-vendor":{"type":"more-products-vendor","disabled":true,"settings":{"products_per_row":3,"max_products":5}},"more-products-collection":{"type":"more-products-collection","disabled":true,"settings":{"products_per_row":3,"max_products":5}},"recently-viewed":{"type":"recently-viewed","settings":{}},"collection-return":{"type":"collection-return","settings":{"color_scheme":"2"}},"a59a5f8c-10d4-42bc-91c9-b34dbf6ffa87":{"type":"featured-collection","settings":{"title":"Vuoi scoprire qualcosa di nuovo?","heading_size":"h2","heading_position":"left","home_featured_products":"anti-aging","count":6,"products_per_row":4,"mobile_scrollable":true,"view_all":true,"divider":false}},"17074992252dc82cba":{"type":"apps","blocks":{"loox_reviews_loox_dynamic_section_NgEgcW":{"type":"shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e","settings":{"only_photos":false,"aggregated":false,"limit":20,"hide_thumbnails":false,"maxwidth":1080,"is_sample":true}}},"block_order":["loox_reviews_loox_dynamic_section_NgEgcW"],"disabled":true,"settings":{"full_width":false,"space_around":true}}},"order":["scrolling_text_mYfykD","main","sub","d6351907-41fb-41bf-9b3c-bd515cfbe823","13ee9776-d34e-4606-a57a-d5bb73be942c","03eb9ac3-0894-4150-8014-a6823c670528","recommendations","more-products-vendor","more-products-collection","recently-viewed","collection-return","a59a5f8c-10d4-42bc-91c9-b34dbf6ffa87","17074992252dc82cba"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "scrolling_text_mYfykD": {
+      "type": "scrolling-text",
+      "disabled": true,
+      "settings": {
+        "padding_top": 14,
+        "padding_bottom": 14,
+        "text": "🔬 Nuovo lotto in produzione 🚨 PREORDINA ORA",
+        "link": "shopify://products/testowit-regolazione-ormonale-120-cps",
+        "text_size": 20,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 180,
+        "color_scheme": "3"
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "loox_reviews_loox_rating_bH4GHL": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "disabled": true,
+          "settings": {
+            "contentSize": 16,
+            "pattern": "",
+            "hideText": true,
+            "alignment": "left",
+            "layout": "",
+            "textColor": "",
+            "starColor": "",
+            "showAllReviews": false,
+            "looxOpenFloatingWidget": false,
+            "emptyRatingWidget": false
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "icon": "globe",
+            "text": "EDIZIONE LIMITATA (200 pz)"
+          }
+        },
+        "sales_point2": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "icon": "truck",
+            "text": "Reso gratuito per 30 giorni"
+          }
+        },
+        "sales_point3": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "icon": "heart",
+            "text": "Clinicamente testato"
+          }
+        },
+        "sales_point4": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "icon": "lock",
+            "text": "Pagamenti sicuri"
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": true
+          }
+        },
+        "loox_reviews_loox_snippets_widget_bHh6ij": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-snippets-widget/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "disabled": true,
+          "settings": {
+            "alignment": "left",
+            "max-width": "",
+            "color-scheme": "default",
+            "shadow": "",
+            "show-rating": true,
+            "show-image": true,
+            "hide-arrows-mobile": false,
+            "font-size": 14,
+            "show-border": false,
+            "border-radius": 16,
+            "background-color": "",
+            "text-color": "",
+            "name-color": "",
+            "rating-icon-color": "",
+            "border-color": "",
+            "shadow-color": "",
+            "reviews-limit": 10
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "variant_picker",
+        "loox_reviews_loox_rating_bH4GHL",
+        "sales_point",
+        "sales_point2",
+        "sales_point3",
+        "sales_point4",
+        "inventory_status",
+        "loox_reviews_loox_snippets_widget_bHh6ij",
+        "buy_buttons"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_container_size": "medium",
+        "product_image_size": "square",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "Dose e Modo d'Uso",
+            "content": "<p>Si consiglia di assumere <span style=\"text-decoration:underline\"><strong>da 2 a 3 capsule al giorno</strong></span> con abbondante acqua.</p>",
+            "page": ""
+          }
+        },
+        "9bed2ed9-31eb-4510-95a9-7bd933c33286": {
+          "type": "tab",
+          "settings": {
+            "title": "Valori nutrizionali",
+            "content": "<p><strong>Tenori medi per dose massima giornaliera (3 capsule):</strong></p><ul><li><strong>PEA-m</strong> - 600 mg</li><li><strong>AvoVida®</strong> - 150 mg<br/><em>pari a fitosteroli totali 45 mg</em></li><li><strong>Boswellia e.s.</strong> - 50 mg<br/><em>pari ad acidi boswellici 32,5 mg</em></li><li><strong>Acido Lipoico</strong> - 200 mg</li><li><strong>Coenzima Q10</strong> - 100 mg</li></ul>",
+            "page": ""
+          }
+        },
+        "c7081fe6-d23a-4fd2-88f3-bb6e5fdcc508": {
+          "type": "tab",
+          "settings": {
+            "title": "Ingredienti",
+            "content": "<p>Palmitoiletanolamide micronizzata (PEA-m); agente di rivestimento: idrossi-propil-metilcellulosa (involucro capsula); Acido Lipoico; AvoVida® [estratto di <strong>soia</strong> (Glycine max (L.) Merr., olio dei semi) e avocado (Persea americana Mill., olio dei frutti) titolato al 30% in fitosteroli totali]; Coenzima Q10; agente di carica: cellulosa; Boswellia (Boswellia serrata Roxb. ex Colebr.) gommo-resina estratto secco tit. al 65% in acidi boswellici; agente antiagglomerante: sali di magnesio degli acidi grassi.</p>",
+            "page": ""
+          }
+        },
+        "6718643c-fffd-443f-ba1b-7aab9770fcd6": {
+          "type": "tab",
+          "settings": {
+            "title": "Avvertenze",
+            "content": "<p>Non superare la dose giornaliera consigliata. Gli integratori alimentari non vanno intesi come sostituti di una dieta varia ed equilibrata e di uno stile di vita sano. Tenere fuori dalla portata dei bambini di età inferiore a 3 anni.</p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Facci una domanda",
+            "phone": true
+          }
+        },
+        "080e4062-e4e2-48d0-830d-0961434ce031": {
+          "type": "custom",
+          "disabled": true,
+          "settings": {
+            "code": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Fatti Nutrizionali</title>\n    <style>\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th, td {\n            border: 1px solid black;\n            padding: 8px;\n            text-align: left;\n        }\n        th {\n            background-color: #f2f2f2;\n        }\n        .bold {\n            font-weight: bold;\n        }\n    </style>\n</head>\n<body>\n<br>\n<h2>Tabella Nutrizionale</h2>\n\n<table>\n    <tr>\n        <th>Ingredienti</th>\n        <th>Tenori Medi per Dose Giornaliera Massima (4cps)</th>\n    </tr>\n    <tr>\n        <td>Muira puama (Ptychopetalum olacoides Benth.) corteccia e.s. (D/E: 4/1)</td>\n        <td>600 mg</td>\n    </tr>\n    <tr>\n        <td>RedNite™ [Barbabietola Rossa (Beta vulgaris L.) radice succo polvere tit. all’1,5% in nitrati]</td>\n        <td>400 mg (nitrati: 6 mg)</td>\n    </tr>\n    <tr>\n        <td>Maca (Lepidium meyenii Walp.) radice e.s. tit. allo 0,5% in beta-ecdysterone</td>\n        <td>240 mg (Beta-ecysterone: 1,2 mg)</td>\n    </tr>\n    <tr>\n        <td>Fieno Greco (Trigonella foenum-graecum L.) semi e.s. tit. al 50% in protodioscina</td>\n        <td>200 mg (protodioscina: 100 mg)</td>\n    </tr>\n    <tr>\n        <td>Zinco (gluconato di zinco)</td>\n        <td>12 mg (<span class=\"bold\">120% VNR*</span>)</td>\n    </tr>\n    <tr>\n        <td>KSM-66® [Ashwagandha (Withania somnifera (L.) Dunal.) radice e.s. tit. al 5% in withanolidi]</td>\n        <td>80 mg (withanolidi: 4 mg)</td>\n    </tr>\n    <tr>\n        <td>Oligopin® [Pino Marittimo Francese (Pinus pinaster Ait.) corteccia e.s. tit. al 65% in procianidine oligomeriche (OPCs)]</td>\n        <td>40 mg (OPCs: 26 mg)</td>\n    </tr>\n    <tr>\n        <td>Uva rossa (Vitis vinifera L.) semi e.s. tit. al 95% in proantocianidine</td>\n        <td>16 mg (proantocianidine: 15,2 mg)</td>\n    </tr>\n    <tr>\n        <td>Vitamina D (colecalciferolo)</td>\n        <td>40 mcg (<span class=\"bold\">800% VNR*</span>)</td>\n    </tr>\n    <tr>\n        <td>Vitamina E (acetato di D-alfa-tocoferile)</td>\n        <td>8 mg (<span class=\"bold\">67% VNR*</span>)</td>\n    </tr>\n    <tr>\n        <td>Boro (acido borico)</td>\n        <td>2 mg</td>\n    </tr>\n    <tr>\n        <td>Rame (gluconato di rame)</td>\n        <td>2 mg (<span class=\"bold\">200% VNR*</span>)</td>\n    </tr>\n    <tr>\n        <td>Vitamina B6 (cloridrato di piridossina)</td>\n        <td>8 mg (<span class=\"bold\">571% VNR*</span>)</td>\n    </tr>\n    <tr>\n        <td>Piperina da Pepe nero (Piper nigrum L.) frutti</td>\n        <td>4 mg</td>\n    </tr>\n</table>\n\n<p><b>*VNR = Valore Nutrizionale di Riferimento</b></p>\n\n</body>\n</html>"
+          }
+        },
+        "bebad4cb-7823-4457-9d9d-4e2f77405f5c": {
+          "type": "tab",
+          "settings": {
+            "title": "Approfondimento scientifico",
+            "content": "<p><strong>Cos'è AVODOL?</strong></p><p>AVODOL è un integratore alimentare di alta qualità, formulato con:</p><ul><li><strong>Palmitoiletanolamide micronizzata (PEA-m)</strong>: Una molecola naturale con proprietà antinfiammatorie e analgesiche, supporta la riduzione dei disagi articolari.</li><li><strong>AvoVida®</strong>: Un estratto brevettato di avocado e soia, ricco di fitosteroli che favoriscono la funzionalità articolare e il benessere delle cartilagini.</li><li><strong>Acido Lipoico</strong>: Un potente antiossidante che aiuta a combattere lo stress ossidativo e supporta il metabolismo energetico.</li><li><strong>Coenzima Q10</strong>: Essenziale per la produzione di energia cellulare, aiuta a proteggere le cellule dai danni ossidativi.</li><li><strong>Boswellia Serrata</strong>: Un estratto tradizionalmente utilizzato per ridurre l'infiammazione e il dolore articolare.</li></ul><p><strong>Modalità d'uso:</strong> Assumere 2-3 capsule al giorno con un bicchiere d'acqua, preferibilmente durante i pasti.</p><p><strong>Confezione:</strong> 90 capsule.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "description",
+        "tab",
+        "9bed2ed9-31eb-4510-95a9-7bd933c33286",
+        "c7081fe6-d23a-4fd2-88f3-bb6e5fdcc508",
+        "6718643c-fffd-443f-ba1b-7aab9770fcd6",
+        "contact",
+        "080e4062-e4e2-48d0-830d-0961434ce031",
+        "bebad4cb-7823-4457-9d9d-4e2f77405f5c"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "d6351907-41fb-41bf-9b3c-bd515cfbe823": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Avodol_2520bottle_2520front_2520PNG.png",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Articolazioni, benessere, antiossidante, energia",
+        "heading_size": "h2",
+        "text": "<p>La <strong>PEA-m</strong> e la <strong>Boswellia</strong> lavorano in sinergia per supportare la salute articolare e ridurre l'infiammazione, mentre l'<strong>AvoVida®</strong> contribuisce al benessere delle cartilagini. L'<strong>Acido Lipoico</strong> e il <strong>Coenzima Q10</strong> offrono un potente effetto antiossidante, proteggendo le cellule dallo stress ossidativo e favorendo la produzione di energia cellulare. 🌱</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "13ee9776-d34e-4606-a57a-d5bb73be942c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/two-avocado-slices.jpg",
+        "image_mask": "portrait",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Perché Sceglierlo?",
+        "heading_size": "h2",
+        "text": "<p>Diversi fattori, come l’alimentazione e lo stile di vita, possono influenzare la salute delle articolazioni e il benessere generale. Con <strong>AVODOL</strong>, ci prendiamo cura delle tue articolazioni e del tuo equilibrio ossidativo, così da farti sentire agile e protetto ogni giorno. 💪</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "03eb9ac3-0894-4150-8014-a6823c670528": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20355101655369__03eb9ac3-0894-4150-8014-a6823c670528-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "👍 Soddisfatti o Rimborsati",
+            "heading_size": "h3"
+          }
+        },
+        "template--20355101655369__03eb9ac3-0894-4150-8014-a6823c670528-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<ol><li>Rimborsati in 30gg dopo l'acquisto</li><li>Numero Tracking per ogni ordini</li><li>Pagamenti sicuri con Visa, Mastercard, PayPal, pagamento alla consegna, Apple Pay ed altri</li><li>Vere persone nel nostro servizio clienti</li><li>Nessune fee nascoste</li></ol><p>Abbiamo <strong>24/7 Supporto per email</strong>. Per favore contattaci per assistenza a <strong>info@orbislifestyle.com</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20355101655369__03eb9ac3-0894-4150-8014-a6823c670528-heading-1",
+        "template--20355101655369__03eb9ac3-0894-4150-8014-a6823c670528-text-1"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Spesso comprati insieme",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "more-products-vendor": {
+      "type": "more-products-vendor",
+      "disabled": true,
+      "settings": {
+        "products_per_row": 3,
+        "max_products": 5
+      }
+    },
+    "more-products-collection": {
+      "type": "more-products-collection",
+      "disabled": true,
+      "settings": {
+        "products_per_row": 3,
+        "max_products": 5
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {}
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {
+        "color_scheme": "2"
+      }
+    },
+    "a59a5f8c-10d4-42bc-91c9-b34dbf6ffa87": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Vuoi scoprire qualcosa di nuovo?",
+        "heading_size": "h2",
+        "heading_position": "left",
+        "home_featured_products": "anti-aging",
+        "count": 6,
+        "products_per_row": 4,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "17074992252dc82cba": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_NgEgcW": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": true,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_NgEgcW"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "scrolling_text_mYfykD",
+    "main",
+    "sub",
+    "d6351907-41fb-41bf-9b3c-bd515cfbe823",
+    "13ee9776-d34e-4606-a57a-d5bb73be942c",
+    "03eb9ac3-0894-4150-8014-a6823c670528",
+    "recommendations",
+    "more-products-vendor",
+    "more-products-collection",
+    "recently-viewed",
+    "collection-return",
+    "a59a5f8c-10d4-42bc-91c9-b34dbf6ffa87",
+    "17074992252dc82cba"
+  ]
+}
