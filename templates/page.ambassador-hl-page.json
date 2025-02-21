@@ -573,6 +573,24 @@
         "button_title": "Inizia il Quiz →",
         "button_url": "shopify://pages/scopri-l-integratore-perfetto-per-te"
       }
+    },
+    "1740132283ce05daaf": {
+      "type": "apps",
+      "blocks": {
+        "snowball_affiliate_marketing_affiliate_sign_up_dGy9kF": {
+          "type": "shopify://apps/snowball-affiliate-marketing/blocks/affiliate-sign-up/6e5feda3-ec24-4171-ae41-64028b660bc7",
+          "settings": {
+            "form_id": "f29c9912-a203-4417-996f-e02fd5523df1"
+          }
+        }
+      },
+      "block_order": [
+        "snowball_affiliate_marketing_affiliate_sign_up_dGy9kF"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
@@ -589,6 +607,7 @@
     "home_blog_section_GtkCpj",
     "pdp_faq_rYThaM",
     "pdp_props_jTeDTL",
-    "pdp_sticky_cta_x4G3pU"
+    "pdp_sticky_cta_x4G3pU",
+    "1740132283ce05daaf"
   ]
 }
