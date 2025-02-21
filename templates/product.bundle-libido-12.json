@@ -296,7 +296,7 @@
       ],
       "settings": {
         "features_title": "Cosa Contiene Il Bundle?",
-        "features_image": "shopify://shop_images/Energia_e_motivazione_14.png"
+        "features_image": "shopify://shop_images/1706176371766_1.jpg"
       }
     },
     "pdp_products_PkNjPP": {
@@ -855,7 +855,7 @@
         "loox_reviews_loox_dynamic_section_xnXkDe": {
           "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
-            "only_photos": false,
+            "only_photos": true,
             "aggregated": false,
             "limit": 20,
             "hide_thumbnails": false,
