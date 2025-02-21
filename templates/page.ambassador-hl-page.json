@@ -165,21 +165,21 @@
           "type": "text",
           "settings": {
             "hero_bullet_icon": "shopify://shop_images/Frame_1000005306_b0e38bcb-772a-4233-8b85-82b0e060cb78.svg",
-            "hero_bullet_text": "<p><strong>Specifico per le tue esigenze</strong>: integratori naturali per stress, digestione e altro</p>"
+            "hero_bullet_text": "<p><strong>Guadagno immediato</strong>: ricevi commissioni per ogni vendita effettuata con il tuo codice sconto</p>"
           }
         },
         "text_zR6jnV": {
           "type": "text",
           "settings": {
             "hero_bullet_icon": "shopify://shop_images/Frame_1000005307.svg",
-            "hero_bullet_text": "<p><strong>Risultati reali</strong>: supportati dalla scienza per miglioramenti visibili.</p>"
+            "hero_bullet_text": "<p><strong>Entrate mensili</strong>: guadagna ogni mese con gli abbonamenti, un flusso di entrate ricorrenti</p>"
           }
         },
         "text_a4DyUX": {
           "type": "text",
           "settings": {
             "hero_bullet_icon": "shopify://shop_images/Frame_1000005308.svg",
-            "hero_bullet_text": "<p><strong>Acquista con facilità</strong>: spedizione gratuita, resi e ordini online.</p>"
+            "hero_bullet_text": "<p><strong>Strumenti personalizzati</strong>: link personalizzati e supporto dedicato per massimizzare i guadagni</p>"
           }
         }
       },
