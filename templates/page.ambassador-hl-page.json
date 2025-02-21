@@ -27,6 +27,131 @@
         "space_around": false
       }
     },
+    "pdp_reviews_zy7r7c": {
+      "type": "pdp-reviews",
+      "blocks": {
+        "marquee_FgNnPX": {
+          "type": "marquee",
+          "settings": {
+            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-18T140139.826_7edc6af3-0f23-4392-a42e-009a8e5ef913.png"
+          }
+        },
+        "marquee_ic7LVi": {
+          "type": "marquee",
+          "settings": {
+            "pdp_marquee_img": "shopify://shop_images/DSF64016_1_f1ef65f5-d821-4a16-805b-0d130ce81b46.jpg"
+          }
+        },
+        "marquee_NadBpP": {
+          "type": "marquee",
+          "settings": {
+            "pdp_marquee_img": "shopify://shop_images/NA2_YR0o-_mid.jpg"
+          }
+        },
+        "marquee_RHaqJH": {
+          "type": "marquee",
+          "settings": {
+            "pdp_marquee_img": "shopify://shop_images/6uA2kDhPo.jpg"
+          }
+        },
+        "marquee_zDcbeF": {
+          "type": "marquee",
+          "settings": {
+            "pdp_marquee_img": "shopify://shop_images/IMG_1655.jpg"
+          }
+        },
+        "marquee_rJJh9e": {
+          "type": "marquee",
+          "settings": {
+            "pdp_marquee_img": "shopify://shop_images/Frame_650665_3_1.jpg"
+          }
+        },
+        "marquee_RcgJUR": {
+          "type": "marquee",
+          "disabled": true,
+          "settings": {
+            "pdp_marquee_img": "shopify://shop_images/image0_2_1_7_1.jpg"
+          }
+        },
+        "marquee_QVAXCP": {
+          "type": "marquee",
+          "disabled": true,
+          "settings": {
+            "pdp_marquee_img": "shopify://shop_images/image0_2_1_4_1.jpg"
+          }
+        },
+        "slide_ktCbMJ": {
+          "type": "slide",
+          "settings": {
+            "pdp_reviews_text": "Prendo tre capsule di Testowit al giorno. Già dopo una settimana un notevole aumento della forza. Al momento non percepisco aumenti della libido. Unico effetto indesiderato un leggero bruciore gastrico, ma facilmente risolvibile assumendo Testowit ai pasti. Personalmente lo ritengo un ottimo prodotto!",
+            "pdp_reviews_name": "Francesco V.",
+            "pdp_product_image": "shopify://shop_images/image_3.png"
+          }
+        },
+        "slide_xdThfn": {
+          "type": "slide",
+          "settings": {
+            "pdp_reviews_text": "Che dire prodotti eccezionali sia per qualità che per contenuto, si sente anche solo aprendo le confezioni l'odore il profumo del prodotto naturale e di qualità oltre agli effetti già dopo pochi giorni di assunzione....ottimo.",
+            "pdp_reviews_name": "Claudio L.",
+            "pdp_product_image": "shopify://shop_images/image_4.png"
+          }
+        },
+        "slide_fgBnaJ": {
+          "type": "slide",
+          "settings": {
+            "pdp_reviews_text": "Ottimo integratore da utilizzare tutti i giorni per equilibrare i rimasugli del covid",
+            "pdp_reviews_name": "Federico F.",
+            "pdp_product_image": "shopify://shop_images/image_5_b517958b-589c-4424-9fa8-a28b4e86546e.png"
+          }
+        },
+        "slide_cAAXPW": {
+          "type": "slide",
+          "settings": {
+            "pdp_reviews_text": "Aumento della performance a livello sessuale e maggiore forza fisica durante l allenamento. Per le prime due settimane effetti leggeri poi aumentano esponenzialmente. Superato le aspettative come semplice integratore.",
+            "pdp_reviews_name": "Nicola P.",
+            "pdp_product_image": "shopify://shop_images/image_3.png"
+          }
+        },
+        "slide_GpgLDM": {
+          "type": "slide",
+          "settings": {
+            "pdp_reviews_text": "Testowit è Favoloso! Ho sentito subito l'efficacia del prodotto a differenza di altri! Ho già provato altri prodotti: S23 della Biaxol, Turkesterone  della FutuNatura e Ultrabolan della NuviaLab, ma Testowit è il massimo!!!",
+            "pdp_reviews_name": "Vincenzo G.",
+            "pdp_product_image": "shopify://shop_images/image_3.png"
+          }
+        },
+        "slide_yqpDTe": {
+          "type": "slide",
+          "settings": {
+            "pdp_reviews_text": "Ottimo prodotto! Comincio a sentire gli effetti dopo 2 settimane e una leggera ricomposizione corporea! Vedremo a fine ciclo!",
+            "pdp_reviews_name": "Zordan A.",
+            "pdp_product_image": "shopify://shop_images/image_3.png"
+          }
+        }
+      },
+      "block_order": [
+        "marquee_FgNnPX",
+        "marquee_ic7LVi",
+        "marquee_NadBpP",
+        "marquee_RHaqJH",
+        "marquee_zDcbeF",
+        "marquee_rJJh9e",
+        "marquee_RcgJUR",
+        "marquee_QVAXCP",
+        "slide_ktCbMJ",
+        "slide_xdThfn",
+        "slide_fgBnaJ",
+        "slide_cAAXPW",
+        "slide_GpgLDM",
+        "slide_yqpDTe"
+      ],
+      "settings": {
+        "bg_color": "#f4f5f7",
+        "reviews_title": "Milioni di clienti soddisfatti",
+        "rev_text": "4.7/5.0 Su Trustpilot",
+        "bg_slide_color": "#ffffff"
+      }
+    },
     "home_hero_section_kYYDCx": {
       "type": "home-hero-section",
       "blocks": {
@@ -59,8 +184,8 @@
       ],
       "settings": {
         "trustpilot_text": "<p><a href=\"#reviews-section\" title=\"#reviews-section\">Valutato <strong>“Eccellente”</strong> su</a></p>",
-        "hero_title": "Scopri l’integratore perfetto per te con il nostro quiz personalizzato!",
-        "hero_subtitle": "✨ Consigliato da oltre 100 esperti del settore!",
+        "hero_title": "Unisciti al nostro team e Inizia a Guadagnare Oggi! 💰",
+        "hero_subtitle": "✨ Unisciti a +500 di ambassador di successo che già guadagnano con noi!",
         "hero_badge": "shopify://shop_images/Frame_1000005384.svg",
         "hero_bg_image": "shopify://shop_images/NEUROWIT.gif",
         "hero_image": "shopify://shop_images/NEUROWIT.gif",
@@ -82,7 +207,6 @@
         "zig_zag_title": "Non sei soddisfatto?  Garantiamo il rimborso  senza fare domande!",
         "zig_zag_image": "shopify://shop_images/Frame_650665_2_1.jpg",
         "zig_zag_image_mob": "shopify://shop_images/Frame_650665_3_1.jpg",
-        "zig_zag_badge": "shopify://shop_images/Frame_1000005248_1.svg",
         "zig_zag_text": "Offriamo un'esperienza di acquisto sicura con rimborsi completi entro 30 giorni, tracciabilità dettagliata dell'ordine e una varietà di opzioni di pagamento tra cui Visa, Mastercard, PayPal, contrassegno e Apple Pay. Inoltre, il nostro gentile servizio clienti è sempre pronto ad aiutarti e non ci sono costi nascosti!",
         "zig_line_desk": "shopify://shop_images/Frame.png",
         "zig_line_mob": "shopify://shop_images/Frame.png"
@@ -199,129 +323,6 @@
       "settings": {
         "bg_color": "#ffffff",
         "pdp_products_title": ""
-      }
-    },
-    "pdp_reviews_zy7r7c": {
-      "type": "pdp-reviews",
-      "blocks": {
-        "marquee_FgNnPX": {
-          "type": "marquee",
-          "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_11.jpg"
-          }
-        },
-        "marquee_ic7LVi": {
-          "type": "marquee",
-          "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_2_1.jpg"
-          }
-        },
-        "marquee_NadBpP": {
-          "type": "marquee",
-          "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_5_1.jpg"
-          }
-        },
-        "marquee_RHaqJH": {
-          "type": "marquee",
-          "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_12.jpg"
-          }
-        },
-        "marquee_zDcbeF": {
-          "type": "marquee",
-          "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_6_1.jpg"
-          }
-        },
-        "marquee_rJJh9e": {
-          "type": "marquee",
-          "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_3_1.jpg"
-          }
-        },
-        "marquee_RcgJUR": {
-          "type": "marquee",
-          "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_7_1.jpg"
-          }
-        },
-        "marquee_QVAXCP": {
-          "type": "marquee",
-          "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_4_1.jpg"
-          }
-        },
-        "slide_ktCbMJ": {
-          "type": "slide",
-          "settings": {
-            "pdp_reviews_text": "Prendo tre capsule di Testowit al giorno. Già dopo una settimana un notevole aumento della forza. Al momento non percepisco aumenti della libido. Unico effetto indesiderato un leggero bruciore gastrico, ma facilmente risolvibile assumendo Testowit ai pasti. Personalmente lo ritengo un ottimo prodotto!",
-            "pdp_reviews_name": "Francesco V.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
-          }
-        },
-        "slide_xdThfn": {
-          "type": "slide",
-          "settings": {
-            "pdp_reviews_text": "Che dire prodotti eccezionali sia per qualità che per contenuto, si sente anche solo aprendo le confezioni l'odore il profumo del prodotto naturale e di qualità oltre agli effetti già dopo pochi giorni di assunzione....ottimo.",
-            "pdp_reviews_name": "Claudio L.",
-            "pdp_product_image": "shopify://shop_images/image_4.png"
-          }
-        },
-        "slide_fgBnaJ": {
-          "type": "slide",
-          "settings": {
-            "pdp_reviews_text": "Ottimo integratore da utilizzare tutti i giorni per equilibrare i rimasugli del covid",
-            "pdp_reviews_name": "Federico F.",
-            "pdp_product_image": "shopify://shop_images/image_5_b517958b-589c-4424-9fa8-a28b4e86546e.png"
-          }
-        },
-        "slide_cAAXPW": {
-          "type": "slide",
-          "settings": {
-            "pdp_reviews_text": "Aumento della performance a livello sessuale e maggiore forza fisica durante l allenamento. Per le prime due settimane effetti leggeri poi aumentano esponenzialmente. Superato le aspettative come semplice integratore.",
-            "pdp_reviews_name": "Nicola P.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
-          }
-        },
-        "slide_GpgLDM": {
-          "type": "slide",
-          "settings": {
-            "pdp_reviews_text": "Testowit è Favoloso! Ho sentito subito l'efficacia del prodotto a differenza di altri! Ho già provato altri prodotti: S23 della Biaxol, Turkesterone  della FutuNatura e Ultrabolan della NuviaLab, ma Testowit è il massimo!!!",
-            "pdp_reviews_name": "Vincenzo G.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
-          }
-        },
-        "slide_yqpDTe": {
-          "type": "slide",
-          "settings": {
-            "pdp_reviews_text": "Ottimo prodotto! Comincio a sentire gli effetti dopo 2 settimane e una leggera ricomposizione corporea! Vedremo a fine ciclo!",
-            "pdp_reviews_name": "Zordan A.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
-          }
-        }
-      },
-      "block_order": [
-        "marquee_FgNnPX",
-        "marquee_ic7LVi",
-        "marquee_NadBpP",
-        "marquee_RHaqJH",
-        "marquee_zDcbeF",
-        "marquee_rJJh9e",
-        "marquee_RcgJUR",
-        "marquee_QVAXCP",
-        "slide_ktCbMJ",
-        "slide_xdThfn",
-        "slide_fgBnaJ",
-        "slide_cAAXPW",
-        "slide_GpgLDM",
-        "slide_yqpDTe"
-      ],
-      "settings": {
-        "bg_color": "#f4f5f7",
-        "reviews_title": "Milioni di clienti soddisfatti",
-        "rev_text": "4.7/5.0 Su Trustpilot",
-        "bg_slide_color": "#ffffff"
       }
     },
     "pdp_props_CCWMNV": {
@@ -588,18 +589,18 @@
     "pdp_sticky_cta_x4G3pU": {
       "type": "pdp-sticky-cta",
       "settings": {
-        "button_title": "Inizia il Quiz →",
-        "button_url": "shopify://pages/scopri-l-integratore-perfetto-per-te"
+        "button_title": "Inizia a guadagnare →",
+        "button_url": "https://affiliates.socialsnowball.io/auth/affiliate/login"
       }
     }
   },
   "order": [
     "1740132283ce05daaf",
+    "pdp_reviews_zy7r7c",
     "home_hero_section_kYYDCx",
     "pdp_zig_zag_NT6Bit",
     "pdp_marquee_4mMELF",
     "pdp_products_PkNjPP",
-    "pdp_reviews_zy7r7c",
     "pdp_props_CCWMNV",
     "newsletter_PrCMUg",
     "replo_tab_shop_section_7CAYw7",
