@@ -167,7 +167,7 @@
       ],
       "settings": {
         "popuptext_product": "Vedi Composizione",
-        "popupimage_product": "shopify://shop_images/Kit_start_composition.png",
+        "popupimage_product": "shopify://shop_images/Composition_kit_starter.png",
         "sku_enable": false,
         "image_position": "left",
         "image_container_size": "medium",
@@ -364,49 +364,49 @@
         "marquee_FgNnPX": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/Fronte_1.png"
+            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-18T182249.977.png"
           }
         },
         "marquee_ic7LVi": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/1706176371766_1-2.jpg"
+            "pdp_marquee_img": "shopify://shop_images/BsmY6wdCX_mid.jpg"
           }
         },
         "marquee_NadBpP": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/Fronte_4.png"
+            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-21T165012.268.png"
           }
         },
         "marquee_RHaqJH": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/1706176371766_1_4.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-21T164845.812.png"
           }
         },
         "marquee_zDcbeF": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/Fronte1.png"
+            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-18T140139.826_7edc6af3-0f23-4392-a42e-009a8e5ef913.png"
           }
         },
         "marquee_rJJh9e": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/1706176371766_2_ee4594c8-167a-4f01-89ad-9a336512cfbf.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-18T140015.018_0ed5b217-1b54-457e-9b07-275507a0b801.png"
           }
         },
         "marquee_RcgJUR": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/Fronte_3.png"
+            "pdp_marquee_img": "shopify://shop_images/DSF64016_1_2c75d5e4-d11b-4697-b5ef-34207685338e.jpg"
           }
         },
         "marquee_QVAXCP": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/Bundle_4.webp"
+            "pdp_marquee_img": "shopify://shop_images/SQJgF4XHh_mid.jpg"
           }
         },
         "slide_ktCbMJ": {
