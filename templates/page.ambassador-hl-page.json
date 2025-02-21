@@ -22,6 +22,9 @@
       "block_order": [
         "snowball_affiliate_marketing_affiliate_sign_up_dGy9kF"
       ],
+      "custom_css": [
+        "#inizia-a-guadagnare {scroll-margin-top: 100px; /* Per evitare che l'header copra la sezione */}"
+      ],
       "settings": {
         "full_width": true,
         "space_around": false
@@ -204,7 +207,7 @@
         "hero_title": "Unisciti al nostro team e Inizia a Guadagnare Oggi! 💰",
         "hero_subtitle": "✨ Unisciti a +500 di ambassador di successo che già guadagnano con noi!",
         "hero_button_text": "Inizia a guadagnare →",
-        "hero_button_url": "#scopri-di-piu",
+        "hero_button_url": "#inizia-a-guadagnare",
         "hero_review_author": "Paolo Nuzzolillo",
         "hero_review_author_image": "shopify://shop_images/Frame_1000004096.png",
         "hero_review_number": "1",
@@ -597,7 +600,7 @@
       "type": "pdp-sticky-cta",
       "settings": {
         "button_title": "Inizia a guadagnare →",
-        "button_url": "https://affiliates.socialsnowball.io/auth/affiliate/login"
+        "button_url": "#inizia-a-guadagnare"
       }
     }
   },
