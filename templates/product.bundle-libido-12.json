@@ -61,26 +61,26 @@
         "description_fmb8fU": {
           "type": "description",
           "settings": {
-            "custom_descritpion": "<p><strong>L'integratore essenziale </strong>per gli uomini che vogliono\t<strong>aumentare naturalmente</strong> i livelli di testosterone.</p>",
+            "custom_descritpion": "<p>Mantieni la tua forza e vitalità per un anno intero!<br/>Con una scorta di TESTOWIT per un anno, puoi essere sicuro di avere livelli di testosterone ottimali tutto l'anno. Perfetto per coloro che vogliono sempre sentirsi al massimo delle loro prestazioni 💪.</p>",
             "is_tab": false
           }
         },
         "additional_info_dP9zHP": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta l'energia"
+            "bullet_text": "Livelli di testosterone stabili"
           }
         },
         "additional_info_nMn76h": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta la resistenza fisica"
+            "bullet_text": "Energia e vitalità per 12 mesi"
           }
         },
         "additional_info_BkmQkF": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Migliora il benessere mentale"
+            "bullet_text": "Favorisce il recupero muscolare e la resistenza"
           }
         },
         "price_gbrr3L": {
@@ -118,7 +118,7 @@
           "type": "tab",
           "settings": {
             "title": "Dose e modalità di utilizzo",
-            "content": "<p>La dose raccomandata è di 2-4 capsule di TESTOWIT e 2 capsule di GLUTADETOX al giorno, da assumere con abbondante acqua.</p>",
+            "content": "<p>2 capsule al mattino e 2 capsule dopo pranzo ogni giorno. Oppure 4 capsule in un'unica dose al mattino, prima dell'allenamento o prima di una prestazione fisica.</p>",
             "page": ""
           }
         },
@@ -126,7 +126,7 @@
           "type": "tab",
           "settings": {
             "title": "Ingredienti",
-            "content": "<p><strong>TESTOWIT</strong> contiene Muira Puama (Ptychopetalum olacoides Benth.) estratto di corteccia (D/E: 4/1), RedNite™ (succo di radice di Barbabietola rossa in polvere titolato all’1,5% in nitrati), Maca (Lepidium meyenii Walp.) estratto di radice titolato allo 0,5% in beta-ecdysterone, Fieno Greco (Trigonella foenum-graecum L.) estratto di semi titolato al 50% in protodioscina, gluconato di zinco, KSM-66® Ashwagandha (Withania somnifera) estratto di radice titolato al 5% in withanolidi, Oligopin® (estratto di corteccia di Pino Marittimo Francese titolato al 65% in procianidine oligomeriche), Estratto di semi d’Uva Rossa titolato al 95% in proantocianidine, acido borico, gluconato di rame, cloridrato di piridossina (Vitamina B6), colecalciferolo (Vitamina D3), D-alfa-tocoferil acetato (Vitamina E) e piperina da Pepe Nero (Piper nigrum L.).</p><p><strong>GLUTADETOX </strong>fornisce SETRIA® Glutatione ridotto (250 mg), N-Acetil-L-Cisteina (200 mg), Cardo Mariano (Silybum marianum) estratto di frutto titolato all’80% in silimarina, Acido Alfa-Lipoico (50 mg), Vitamina C (80 mg – 100% NRV), Vitamina E (12 mg – 100% NRV), Vitamina B2 (1,4 mg – 100% NRV) e Selenio (100 mcg – 182% NRV).</p>",
+            "content": "<p><strong>TESTOWIT</strong> contiene Muira Puama (Ptychopetalum olacoides Benth.) estratto di corteccia (D/E: 4/1), RedNite™ (succo di radice di Barbabietola rossa in polvere titolato all’1,5% in nitrati), Maca (Lepidium meyenii Walp.) estratto di radice titolato allo 0,5% in beta-ecdysterone, Fieno Greco (Trigonella foenum-graecum L.) estratto di semi titolato al 50% in protodioscina, gluconato di zinco, KSM-66® Ashwagandha (Withania somnifera) estratto di radice titolato al 5% in withanolidi, Oligopin® (estratto di corteccia di Pino Marittimo Francese titolato al 65% in procianidine oligomeriche), Estratto di semi d’Uva Rossa titolato al 95% in proantocianidine, acido borico, gluconato di rame, cloridrato di piridossina (Vitamina B6), colecalciferolo (Vitamina D3), D-alfa-tocoferil acetato (Vitamina E) e piperina da Pepe Nero (Piper nigrum L.).</p>",
             "page": ""
           }
         },
@@ -134,7 +134,7 @@
           "type": "tab",
           "settings": {
             "title": "Avvertenze",
-            "content": "<p>Non superare la dose consigliata. Gli integratori non sostituiscono una dieta varia ed equilibrata e uno stile di vita sano. Tenere fuori dalla portata dei bambini sotto i 3 anni. Conservare in un luogo fresco e asciutto, ben chiuso e lontano dalla luce. La data di scadenza si riferisce al prodotto integro e correttamente conservato. In rari casi, l’acido lipoico può causare ipoglicemia.</p>",
+            "content": "<p>Non superare la dose consigliata. Gli integratori non sostituiscono una dieta varia ed equilibrata e uno stile di vita sano. Tenere fuori dalla portata dei bambini sotto i 3 anni. Conservare in un luogo fresco e asciutto, ben chiuso e al riparo dalla luce. La data di scadenza si riferisce al prodotto integro e correttamente conservato.</p>",
             "page": ""
           }
         }
@@ -270,8 +270,8 @@
         "content_4aPeWP": {
           "type": "content",
           "settings": {
-            "features_heading": "SETRIA® Glutatione ridotto",
-            "features_text": "Un potente antiossidante che favorisce la disintossicazione, rafforza il sistema immunitario e aiuta a proteggere le cellule dallo stress ossidativo."
+            "features_heading": "Oligopin®",
+            "features_text": "Contrasta lo stress ossidativo con potenti proprietà antiossidanti."
           }
         },
         "content_FGFrwt": {
@@ -376,25 +376,25 @@
         "marquee_zDcbeF": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-18T140139.826_7edc6af3-0f23-4392-a42e-009a8e5ef913.png"
+            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-19T171442.595.png"
           }
         },
         "marquee_rJJh9e": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-18T135712.940_dc8599f5-92cf-4880-8e7a-e7bb382efcf8.png"
+            "pdp_marquee_img": "shopify://shop_images/Pvz3Pih5w_mid.jpg"
           }
         },
         "marquee_RcgJUR": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/8o27t5DD5_mid_af63f6e1-ad76-4615-9139-f5f32c64a51a.jpg"
+            "pdp_marquee_img": "shopify://shop_images/jBVz5HYQY_mid.jpg"
           }
         },
         "marquee_QVAXCP": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-18T140015.018_0ed5b217-1b54-457e-9b07-275507a0b801.png"
+            "pdp_marquee_img": "shopify://shop_images/QVG6i6-UzY_mid.jpg"
           }
         },
         "slide_ktCbMJ": {
