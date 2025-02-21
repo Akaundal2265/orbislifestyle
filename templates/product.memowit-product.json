@@ -1,1 +1,311 @@
-{"sections":{"main":{"type":"main-product","blocks":{"variant_picker":{"type":"variant_picker","settings":{"variant_labels":true,"picker_type":"button","product_dynamic_variants_enable":true,"color_swatches":false}},"loox_reviews_loox_snippets_widget_MPyiAn":{"type":"shopify:\/\/apps\/loox-reviews\/blocks\/loox-snippets-widget\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e","settings":{"alignment":"left","max-width":"","color-scheme":"default","shadow":"","show-rating":true,"show-image":true,"hide-arrows-mobile":false,"font-size":14,"show-border":false,"border-radius":16,"background-color":"","text-color":"","name-color":"","rating-icon-color":"","border-color":"","shadow-color":"","reviews-limit":10}},"price":{"type":"price","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true,"surface_pickup_enable":true,"show_gift_card_recipient":false}},"inventory_status":{"type":"inventory_status","settings":{"inventory_threshold":20,"inventory_transfers_enable":true}},"sales_point":{"type":"sales_point","settings":{"icon":"globe","text":"Consegna in 24\/48 ore lavorative"}},"sales_point2":{"type":"sales_point","settings":{"icon":"truck","text":"Reso gratuito per 30 giorni"}},"sales_point3":{"type":"sales_point","settings":{"icon":"heart","text":"Non testato sugli animali"}},"sales_point4":{"type":"sales_point","settings":{"icon":"lock","text":"Pagamenti sicuri"}}},"block_order":["variant_picker","loox_reviews_loox_snippets_widget_MPyiAn","price","buy_buttons","inventory_status","sales_point","sales_point2","sales_point3","sales_point4"],"settings":{"sku_enable":false,"image_position":"left","image_container_size":"medium","product_image_size":"square","product_zoom_enable":true,"thumbnail_position":"beside","thumbnail_height":"flexible","thumbnail_arrows":false,"mobile_layout":"partial","enable_video_looping":true,"product_video_style":"muted"}},"sub":{"type":"product-full-width","blocks":{"080e4062-e4e2-48d0-830d-0961434ce031":{"type":"custom","settings":{"code":"<!DOCTYPE html>\n<html>\n<head>\n    <title>Tabella Nutrizionale<\/title>\n    <style>\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th, td {\n            border: 1px solid black;\n            padding: 8px;\n            text-align: left;\n        }\n        th {\n            background-color: #f2f2f2;\n        }\n        .bold {\n            font-weight: bold;\n        }\n    <\/style>\n<\/head>\n<body>\n\n<h2>Tabella Nutrizionale<\/h2>\n\n<table>\n    <tr>\n        <th>Ingredienti<\/th>\n        <th>Contenuti Medi per Dose Giornaliera Massima (2 Capsule)<\/th>\n    <\/tr>\n    <tr>\n        <td>KSM-66® (equivalente a withanolidi)<\/td>\n        <td>600mg (30mg)<\/td>\n    <\/tr>\n    <tr>\n        <td>Fosfatidilserina<\/td>\n        <td>16mg<\/td>\n    <\/tr>\n    <tr>\n        <td>Resveratrolo<\/td>\n        <td>50mg<\/td>\n    <\/tr>\n    <tr>\n        <td>Bacopa estratto secco (equivalente a bacosidi)<\/td>\n        <td>50mg (10mg)<\/td>\n    <\/tr>\n    <tr>\n        <td>Eleuterococco estratto secco (equivalente a eleutherosidi)<\/td>\n        <td>40mg (0,32mg)<\/td>\n    <\/tr>\n    <tr>\n        <td>Astaxantina<\/td>\n        <td>2mg<\/td>\n    <\/tr>\n    <tr>\n        <td>Tiamina (Vitamina B1)<\/td>\n        <td>1,1mg (<span class=\"bold\">100% NRV*<\/span>)<\/td>\n    <\/tr>\n    <tr>\n        <td>Riboflavina (Vitamina B2)<\/td>\n        <td>1,4mg (<span class=\"bold\">100% NRV*<\/span>)<\/td>\n    <\/tr>\n    <tr>\n        <td>Niacina<\/td>\n        <td>16mg (<span class=\"bold\">100% NRV*<\/span>)<\/td>\n    <\/tr>\n    <tr>\n        <td>Acido Pantotenico<\/td>\n        <td>6mg (<span class=\"bold\">100% NRV*<\/span>)<\/td>\n    <\/tr>\n    <tr>\n        <td>Vitamina B6<\/td>\n        <td>1,4mg (<span class=\"bold\">182% NRV*<\/span>)<\/td>\n    <\/tr>\n    <tr>\n        <td>Acido Folico<\/td>\n        <td>200mcg (<span class=\"bold\">100% NRV*<\/span>)<\/td>\n    <\/tr>\n    <tr>\n        <td>Biotina<\/td>\n        <td>50mcg (<span class=\"bold\">100% NRV*<\/span>)<\/td>\n    <\/tr>\n    <tr>\n        <td>Vitamina B12<\/td>\n        <td>2,5mcg (<span class=\"bold\">100% NRV*<\/span>)<\/td>\n    <\/tr>\n<\/table>\n\n<b><p>*NRV = Valore Nutrizionale di Riferimento<\/p><\/b>\n\n<\/body>\n<\/html>"}},"9bed2ed9-31eb-4510-95a9-7bd933c33286":{"type":"tab","settings":{"title":"Ingredienti","content":"<p>KSM-66® (Ashwagandha (Withania somnifera (L.) Dunal) radice estratto secco tit. al 5% in withanolidi; agente di rivestimento: idrossi-propil-metilcellulosa (involucro capsula); fosfatidilserina (soia), resveratrolo da Poligono (Polygonum cuspidatum Siebold & Zucc.) radice, Bacopa (Bacopa monnieri (L.) Wettst.) parti aeree estratto secco tit. al 20% in bacosidi, Eleuterococco (Eleutherococcus senticosus (Rupr. et Maxim.) Maxim) radice estratto secco tit. allo 0,8% in eleuterosidi, astaxantina da Haematococcus pluvialis Flotow, agente di carica: cellulosa, nicotinamide (niacina), agente antiagglomerante: sali di magnesio degli acidi grassi; calcio D-pantotenato (acido pantotenico); cloridrato di piridossina (vitamina B6); riboflavina (vitamina B2); cloridrato di tiamina (vitamina B1); acido pteroil-monoglutammico (acido folico); D-biotina; cianocobalamina (vitamina B12).<\/p>","page":""}},"description":{"type":"description","settings":{"is_tab":true}},"tab":{"type":"tab","settings":{"title":"Modalita d'Uso","content":"<p>Si consiglia l’assunzione di 2 capsule al giorno, da deglutire con abbondante acqua.<\/p>","page":""}},"6718643c-fffd-443f-ba1b-7aab9770fcd6":{"type":"tab","settings":{"title":"Avvertenze","content":"<p>Non superare la dose giornaliera consigliata. Tenere fuori dalla portata dei bambini di età inferiore a 3 anni. Gli integratori alimentari non vanno intesi come sostituti di una dieta varia ed equilibrata e di uno stile di vita sano.<\/p><p>Conservare ben chiuso in luogo fresco e asciutto, al riparo dalla luce. La data di fine validità si riferisce al prodotto correttamente conservato, in confezione integra.<\/p>","page":""}},"contact":{"type":"contact","settings":{"title":"Domanda","phone":true}}},"block_order":["080e4062-e4e2-48d0-830d-0961434ce031","9bed2ed9-31eb-4510-95a9-7bd933c33286","description","tab","6718643c-fffd-443f-ba1b-7aab9770fcd6","contact"],"settings":{"max_width":true}},"d6351907-41fb-41bf-9b3c-bd515cfbe823":{"type":"text-and-image","settings":{"image":"shopify:\/\/shop_images\/Combo_7_3a6da9a0-bbd3-49e5-83b8-e5b81d63e70d.png","image_mask":"square","image2_mask":"none","subtitle":"","title":"\"Memoria, Concentrazione, Stress\"","heading_size":"h2","text":"<p><strong>MEMOWIT<\/strong> è un integratore alimentare a base di KSM-66®, un <strong>estratto brevettato<\/strong> di Ashwagandha utile come tonico in caso di <strong>affaticamento mentale<\/strong>. Con Eleutherococcus e Bacopa utili per favorire la <strong>memoria<\/strong> e le funzioni <strong>cognitive<\/strong>. Il prodotto contiene anche <strong>vitamine B<\/strong>, resveratrolo, astaxantina e fosfatidilserina.<\/p>","button_label":"","button_link":"","button_style":"primary","align_text":"left","image_width":"50","layout":"right","color_scheme":"1","show_wave":true,"divider":false,"top_padding":true,"bottom_padding":true,"lazyload_images":true}},"13ee9776-d34e-4606-a57a-d5bb73be942c":{"type":"text-and-image","settings":{"image":"shopify:\/\/shop_images\/Prospettiva_2.png","image_mask":"none","image2_mask":"none","subtitle":"","title":"Perché Sceglierlo?","heading_size":"h2","text":"<ul><li>Un estratto brevettato di Ashwagandha KSM-66®, utile come <strong>tonico in caso di affaticamento mentale<\/strong>. <\/li><li>Con Eleuterococco e Bacopa utili per <strong>favorire la memoria<\/strong> e le funzioni cognitive. <\/li><li>Il prodotto contiene anche <strong>vitamine B<\/strong>, Resveratrolo, Astaxantina e Fosfatidilserina.<\/li><\/ul>","button_label":"","button_link":"","button_style":"primary","align_text":"left","image_width":"50","layout":"left","color_scheme":"none","show_wave":false,"divider":false,"top_padding":true,"bottom_padding":true,"lazyload_images":true}},"recommendations":{"type":"product-recommendations","settings":{"product_recommendations_heading":"Potrebbero piacerti..","related_count":6,"products_per_row":3}},"more-products-vendor":{"type":"more-products-vendor","disabled":true,"settings":{"products_per_row":3,"max_products":5}},"more-products-collection":{"type":"more-products-collection","disabled":true,"settings":{"products_per_row":3,"max_products":5}},"recently-viewed":{"type":"recently-viewed","settings":{}},"collection-return":{"type":"collection-return","settings":{"color_scheme":"2"}},"a59a5f8c-10d4-42bc-91c9-b34dbf6ffa87":{"type":"featured-collection","settings":{"title":"Stavi cercando altro?","heading_size":"h2","heading_position":"left","home_featured_products":"anti-aging","count":6,"products_per_row":4,"mobile_scrollable":true,"view_all":true,"divider":false}},"1708703637aa2846b3":{"type":"apps","blocks":{"loox_reviews_loox_dynamic_section_BkbKze":{"type":"shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e","disabled":true,"settings":{"only_photos":false,"aggregated":false,"limit":20,"hide_thumbnails":false,"maxwidth":1080,"is_sample":true}}},"block_order":["loox_reviews_loox_dynamic_section_BkbKze"],"settings":{"full_width":false,"space_around":true}}},"order":["main","sub","d6351907-41fb-41bf-9b3c-bd515cfbe823","13ee9776-d34e-4606-a57a-d5bb73be942c","recommendations","more-products-vendor","more-products-collection","recently-viewed","collection-return","a59a5f8c-10d4-42bc-91c9-b34dbf6ffa87","1708703637aa2846b3"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "loox_reviews_loox_snippets_widget_MPyiAn": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-snippets-widget/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "alignment": "left",
+            "max-width": "",
+            "color-scheme": "default",
+            "shadow": "",
+            "show-rating": true,
+            "show-image": true,
+            "hide-arrows-mobile": false,
+            "font-size": 14,
+            "show-border": false,
+            "border-radius": 16,
+            "background-color": "",
+            "text-color": "",
+            "name-color": "",
+            "rating-icon-color": "",
+            "border-color": "",
+            "shadow-color": "",
+            "reviews-limit": 10
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": true
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "globe",
+            "text": "Consegna in 24/48 ore lavorative"
+          }
+        },
+        "sales_point2": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "Reso gratuito per 30 giorni"
+          }
+        },
+        "sales_point3": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "heart",
+            "text": "Non testato sugli animali"
+          }
+        },
+        "sales_point4": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "lock",
+            "text": "Pagamenti sicuri"
+          }
+        }
+      },
+      "block_order": [
+        "variant_picker",
+        "loox_reviews_loox_snippets_widget_MPyiAn",
+        "price",
+        "buy_buttons",
+        "inventory_status",
+        "sales_point",
+        "sales_point2",
+        "sales_point3",
+        "sales_point4"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_container_size": "medium",
+        "product_image_size": "square",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "080e4062-e4e2-48d0-830d-0961434ce031": {
+          "type": "custom",
+          "settings": {
+            "code": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Tabella Nutrizionale</title>\n    <style>\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th, td {\n            border: 1px solid black;\n            padding: 8px;\n            text-align: left;\n        }\n        th {\n            background-color: #f2f2f2;\n        }\n        .bold {\n            font-weight: bold;\n        }\n    </style>\n</head>\n<body>\n\n<h2>Tabella Nutrizionale</h2>\n\n<table>\n    <tr>\n        <th>Ingredienti</th>\n        <th>Contenuti Medi per Dose Giornaliera Massima (2 Capsule)</th>\n    </tr>\n    <tr>\n        <td>KSM-66® (equivalente a withanolidi)</td>\n        <td>600mg (30mg)</td>\n    </tr>\n    <tr>\n        <td>Fosfatidilserina</td>\n        <td>16mg</td>\n    </tr>\n    <tr>\n        <td>Resveratrolo</td>\n        <td>50mg</td>\n    </tr>\n    <tr>\n        <td>Bacopa estratto secco (equivalente a bacosidi)</td>\n        <td>50mg (10mg)</td>\n    </tr>\n    <tr>\n        <td>Eleuterococco estratto secco (equivalente a eleutherosidi)</td>\n        <td>40mg (0,32mg)</td>\n    </tr>\n    <tr>\n        <td>Astaxantina</td>\n        <td>2mg</td>\n    </tr>\n    <tr>\n        <td>Tiamina (Vitamina B1)</td>\n        <td>1,1mg (<span class=\"bold\">100% NRV*</span>)</td>\n    </tr>\n    <tr>\n        <td>Riboflavina (Vitamina B2)</td>\n        <td>1,4mg (<span class=\"bold\">100% NRV*</span>)</td>\n    </tr>\n    <tr>\n        <td>Niacina</td>\n        <td>16mg (<span class=\"bold\">100% NRV*</span>)</td>\n    </tr>\n    <tr>\n        <td>Acido Pantotenico</td>\n        <td>6mg (<span class=\"bold\">100% NRV*</span>)</td>\n    </tr>\n    <tr>\n        <td>Vitamina B6</td>\n        <td>1,4mg (<span class=\"bold\">182% NRV*</span>)</td>\n    </tr>\n    <tr>\n        <td>Acido Folico</td>\n        <td>200mcg (<span class=\"bold\">100% NRV*</span>)</td>\n    </tr>\n    <tr>\n        <td>Biotina</td>\n        <td>50mcg (<span class=\"bold\">100% NRV*</span>)</td>\n    </tr>\n    <tr>\n        <td>Vitamina B12</td>\n        <td>2,5mcg (<span class=\"bold\">100% NRV*</span>)</td>\n    </tr>\n</table>\n\n<b><p>*NRV = Valore Nutrizionale di Riferimento</p></b>\n\n</body>\n</html>"
+          }
+        },
+        "9bed2ed9-31eb-4510-95a9-7bd933c33286": {
+          "type": "tab",
+          "settings": {
+            "title": "Ingredienti",
+            "content": "<p>KSM-66® (Ashwagandha (Withania somnifera (L.) Dunal) radice estratto secco tit. al 5% in withanolidi; agente di rivestimento: idrossi-propil-metilcellulosa (involucro capsula); fosfatidilserina (soia), resveratrolo da Poligono (Polygonum cuspidatum Siebold & Zucc.) radice, Bacopa (Bacopa monnieri (L.) Wettst.) parti aeree estratto secco tit. al 20% in bacosidi, Eleuterococco (Eleutherococcus senticosus (Rupr. et Maxim.) Maxim) radice estratto secco tit. allo 0,8% in eleuterosidi, astaxantina da Haematococcus pluvialis Flotow, agente di carica: cellulosa, nicotinamide (niacina), agente antiagglomerante: sali di magnesio degli acidi grassi; calcio D-pantotenato (acido pantotenico); cloridrato di piridossina (vitamina B6); riboflavina (vitamina B2); cloridrato di tiamina (vitamina B1); acido pteroil-monoglutammico (acido folico); D-biotina; cianocobalamina (vitamina B12).</p>",
+            "page": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "Modalita d'Uso",
+            "content": "<p>Si consiglia l’assunzione di 2 capsule al giorno, da deglutire con abbondante acqua.</p>",
+            "page": ""
+          }
+        },
+        "6718643c-fffd-443f-ba1b-7aab9770fcd6": {
+          "type": "tab",
+          "settings": {
+            "title": "Avvertenze",
+            "content": "<p>Non superare la dose giornaliera consigliata. Tenere fuori dalla portata dei bambini di età inferiore a 3 anni. Gli integratori alimentari non vanno intesi come sostituti di una dieta varia ed equilibrata e di uno stile di vita sano.</p><p>Conservare ben chiuso in luogo fresco e asciutto, al riparo dalla luce. La data di fine validità si riferisce al prodotto correttamente conservato, in confezione integra.</p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Domanda",
+            "phone": true
+          }
+        }
+      },
+      "block_order": [
+        "080e4062-e4e2-48d0-830d-0961434ce031",
+        "9bed2ed9-31eb-4510-95a9-7bd933c33286",
+        "description",
+        "tab",
+        "6718643c-fffd-443f-ba1b-7aab9770fcd6",
+        "contact"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "d6351907-41fb-41bf-9b3c-bd515cfbe823": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Combo_7_3a6da9a0-bbd3-49e5-83b8-e5b81d63e70d.png",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "\"Memoria, Concentrazione, Stress\"",
+        "heading_size": "h2",
+        "text": "<p><strong>MEMOWIT</strong> è un integratore alimentare a base di KSM-66®, un <strong>estratto brevettato</strong> di Ashwagandha utile come tonico in caso di <strong>affaticamento mentale</strong>. Con Eleutherococcus e Bacopa utili per favorire la <strong>memoria</strong> e le funzioni <strong>cognitive</strong>. Il prodotto contiene anche <strong>vitamine B</strong>, resveratrolo, astaxantina e fosfatidilserina.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "color_scheme": "1",
+        "show_wave": true,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "13ee9776-d34e-4606-a57a-d5bb73be942c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Prospettiva_2.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Perché Sceglierlo?",
+        "heading_size": "h2",
+        "text": "<ul><li>Un estratto brevettato di Ashwagandha KSM-66®, utile come <strong>tonico in caso di affaticamento mentale</strong>. </li><li>Con Eleuterococco e Bacopa utili per <strong>favorire la memoria</strong> e le funzioni cognitive. </li><li>Il prodotto contiene anche <strong>vitamine B</strong>, Resveratrolo, Astaxantina e Fosfatidilserina.</li></ul>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Potrebbero piacerti..",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "more-products-vendor": {
+      "type": "more-products-vendor",
+      "disabled": true,
+      "settings": {
+        "products_per_row": 3,
+        "max_products": 5
+      }
+    },
+    "more-products-collection": {
+      "type": "more-products-collection",
+      "disabled": true,
+      "settings": {
+        "products_per_row": 3,
+        "max_products": 5
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {}
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {
+        "color_scheme": "2"
+      }
+    },
+    "a59a5f8c-10d4-42bc-91c9-b34dbf6ffa87": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Stavi cercando altro?",
+        "heading_size": "h2",
+        "heading_position": "left",
+        "home_featured_products": "anti-aging",
+        "count": 6,
+        "products_per_row": 4,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "1708703637aa2846b3": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_BkbKze": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_BkbKze"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "d6351907-41fb-41bf-9b3c-bd515cfbe823",
+    "13ee9776-d34e-4606-a57a-d5bb73be942c",
+    "recommendations",
+    "more-products-vendor",
+    "more-products-collection",
+    "recently-viewed",
+    "collection-return",
+    "a59a5f8c-10d4-42bc-91c9-b34dbf6ffa87",
+    "1708703637aa2846b3"
+  ]
+}
