@@ -61,26 +61,26 @@
         "description_fmb8fU": {
           "type": "description",
           "settings": {
-            "custom_descritpion": "<p><strong>L'integratore essenziale </strong>per gli uomini che vogliono\t<strong>aumentare naturalmente</strong> i livelli di testosterone.</p>",
+            "custom_descritpion": "<p><strong>Ritrova la tua bellezza naturale!</strong><br/>Con il bundle SPA E BELLEZZA avrai 10 maschere viso e 10 patch per gli occhi a base di ingredienti naturali come l'Estratto di Acmella Oleracea, che dona un effetto botox naturale alla tua pelle. Perfetto per un trattamento anti-età e un boost di idratazione 🌿.</p>",
             "is_tab": false
           }
         },
         "additional_info_dP9zHP": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta l'energia"
+            "bullet_text": "Effetto botox naturale"
           }
         },
         "additional_info_nMn76h": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta la resistenza fisica"
+            "bullet_text": "Pelle più luminosa e idratata"
           }
         },
         "additional_info_BkmQkF": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Migliora il benessere mentale"
+            "bullet_text": "Riduce segni di stanchezza e rughe sottili"
           }
         },
         "price_gbrr3L": {
@@ -117,8 +117,8 @@
         "tab_xCxdCN": {
           "type": "tab",
           "settings": {
-            "title": "Dose e modalità di utilizzo",
-            "content": "<p>La dose raccomandata è di 2-4 capsule di TESTOWIT e 2 capsule di GLUTADETOX al giorno, da assumere con abbondante acqua.</p>",
+            "title": "Uso consigliato:",
+            "content": "<p><strong>Maschera Viso:</strong> Applicare 1-2 volte alla settimana, lasciare in posa per 10-15 minuti.<br/><strong>Patch Occhi:</strong> Utilizzare ogni giorno o secondo necessità, applicando i patch sotto gli occhi e lasciandoli in posa per 15 minuti.</p>",
             "page": ""
           }
         },
