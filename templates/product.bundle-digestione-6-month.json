@@ -61,26 +61,26 @@
         "description_fmb8fU": {
           "type": "description",
           "settings": {
-            "custom_descritpion": "<p><strong>L'integratore essenziale </strong>per gli uomini che vogliono\t<strong>aumentare naturalmente</strong> i livelli di testosterone.</p>",
+            "custom_descritpion": "<p>Favorisce la digestione, riduce il gonfiore e sostiene la salute intestinale con estratti naturali.</p>",
             "is_tab": false
           }
         },
         "additional_info_dP9zHP": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta l'energia"
+            "bullet_text": "Facilita la digestione e riduce il gonfiore"
           }
         },
         "additional_info_nMn76h": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Aumenta la resistenza fisica"
+            "bullet_text": "Supporta l’equilibrio intestinale"
           }
         },
         "additional_info_BkmQkF": {
           "type": "additional_info",
           "settings": {
-            "bullet_text": "Migliora il benessere mentale"
+            "bullet_text": "Migliora l’assorbimento dei nutrienti"
           }
         },
         "price_gbrr3L": {
@@ -118,7 +118,7 @@
           "type": "tab",
           "settings": {
             "title": "Dose e modalità di utilizzo",
-            "content": "<p>La dose raccomandata è di 2-4 capsule di TESTOWIT e 2 capsule di GLUTADETOX al giorno, da assumere con abbondante acqua.</p>",
+            "content": "<p>Assumere 2 capsule al giorno con un pasto o al bisogno per supportare la digestione.</p>",
             "page": ""
           }
         },
@@ -126,7 +126,7 @@
           "type": "tab",
           "settings": {
             "title": "Ingredienti",
-            "content": "<p><strong>TESTOWIT</strong> contiene Muira Puama (Ptychopetalum olacoides Benth.) estratto di corteccia (D/E: 4/1), RedNite™ (succo di radice di Barbabietola rossa in polvere titolato all’1,5% in nitrati), Maca (Lepidium meyenii Walp.) estratto di radice titolato allo 0,5% in beta-ecdysterone, Fieno Greco (Trigonella foenum-graecum L.) estratto di semi titolato al 50% in protodioscina, gluconato di zinco, KSM-66® Ashwagandha (Withania somnifera) estratto di radice titolato al 5% in withanolidi, Oligopin® (estratto di corteccia di Pino Marittimo Francese titolato al 65% in procianidine oligomeriche), Estratto di semi d’Uva Rossa titolato al 95% in proantocianidine, acido borico, gluconato di rame, cloridrato di piridossina (Vitamina B6), colecalciferolo (Vitamina D3), D-alfa-tocoferil acetato (Vitamina E) e piperina da Pepe Nero (Piper nigrum L.).</p><p><strong>GLUTADETOX </strong>fornisce SETRIA® Glutatione ridotto (250 mg), N-Acetil-L-Cisteina (200 mg), Cardo Mariano (Silybum marianum) estratto di frutto titolato all’80% in silimarina, Acido Alfa-Lipoico (50 mg), Vitamina C (80 mg – 100% NRV), Vitamina E (12 mg – 100% NRV), Vitamina B2 (1,4 mg – 100% NRV) e Selenio (100 mcg – 182% NRV).</p>",
+            "content": "<p><strong>FERMENTCARB </strong>combina estratti naturali, enzimi e probiotici per favorire la digestione e il benessere intestinale. Contiene estratto di finocchio (0,5% olio essenziale), carbone vegetale, estratto di anice verde, estratto di melissa (2% acido rosmarinico), estratto di camomilla (0,3% apigenina), una miscela di enzimi digestivi (amilasi, proteasi, glucoamilasi, lipasi, cellulasi, lattasi, pectinasi) e Lactobacillus acidophilus SGL11. La formula aiuta a ridurre il gonfiore, favorire la digestione e migliorare l’assorbimento dei nutrienti.</p>",
             "page": ""
           }
         },
@@ -134,7 +134,7 @@
           "type": "tab",
           "settings": {
             "title": "Avvertenze",
-            "content": "<p>Non superare la dose consigliata. Gli integratori non sostituiscono una dieta varia ed equilibrata e uno stile di vita sano. Tenere fuori dalla portata dei bambini sotto i 3 anni. Conservare in un luogo fresco e asciutto, ben chiuso e lontano dalla luce. La data di scadenza si riferisce al prodotto integro e correttamente conservato. In rari casi, l’acido lipoico può causare ipoglicemia.</p>",
+            "content": "<p>Non superare la dose consigliata. Gli integratori non sostituiscono una dieta varia ed equilibrata e uno stile di vita sano. Tenere fuori dalla portata dei bambini sotto i 3 anni. Conservare in un luogo fresco e asciutto, ben chiuso e al riparo dalla luce. La data di scadenza si riferisce al prodotto integro e correttamente conservato.</p>",
             "page": ""
           }
         }
@@ -235,50 +235,50 @@
         "content_4yJjzU": {
           "type": "content",
           "settings": {
-            "features_heading": "Muira Puama",
-            "features_text": "Migliora la vitalità fisica e mentale, combattendo la stanchezza e favorendo il benessere generale."
+            "features_heading": "Estratto di finocchio",
+            "features_text": "Favorisce la digestione e riduce il gonfiore"
           }
         },
         "content_eUCHEt": {
           "type": "content",
           "settings": {
-            "features_heading": "RedNite®",
-            "features_text": "Fornisce nitrati naturali per migliorare la circolazione sanguigna e la salute cardiovascolare."
+            "features_heading": "Carbone vegetale",
+            "features_text": "Assorbe gas e tossine"
           }
         },
         "content_WCANKH": {
           "type": "content",
           "settings": {
-            "features_heading": "Maca",
-            "features_text": "Aumenta i livelli di energia e di forza, favorendo vitalità e resistenza."
+            "features_heading": "Estratto di anice verde",
+            "features_text": "Aiuta a combattere l’indigestione"
           }
         },
         "content_xxCepE": {
           "type": "content",
           "settings": {
-            "features_heading": "KSM-66®",
-            "features_text": "Aiuta a gestire lo stress, favorendo il rilassamento e la concentrazione mentale."
+            "features_heading": "Estratto di melissa",
+            "features_text": "Lenisce lo stomaco e l’intestino"
           }
         },
         "content_HHKa8d": {
           "type": "content",
           "settings": {
-            "features_heading": "Fieno greco",
-            "features_text": "Favorisce l'equilibrio ormonale e migliora la salute riproduttiva degli uomini.."
+            "features_heading": "Estratto di camomilla",
+            "features_text": "Calma i disturbi digestivi"
           }
         },
         "content_4aPeWP": {
           "type": "content",
           "settings": {
-            "features_heading": "SETRIA® Glutatione ridotto",
-            "features_text": "Un potente antiossidante che favorisce la disintossicazione, rafforza il sistema immunitario e aiuta a proteggere le cellule dallo stress ossidativo."
+            "features_heading": "Enzimi digestivi",
+            "features_text": "Scompongono gli alimenti per un migliore assorbimento"
           }
         },
         "content_FGFrwt": {
           "type": "content",
           "settings": {
-            "features_heading": "Vitamine D, E, B6",
-            "features_text": "Nutrienti essenziali che supportano varie funzioni corporee, tra cui la regolazione ormonale, la salute immunitaria e le difese antiossidanti."
+            "features_heading": "Lactobacillus acidophilus",
+            "features_text": "Supporta l’equilibrio della flora intestinale"
           }
         }
       },
@@ -352,47 +352,48 @@
         "marquee_FgNnPX": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/image0_2_1_11.jpg"
+            "pdp_marquee_img": "shopify://shop_images/SQJgF4XHh_mid.jpg"
           }
         },
         "marquee_ic7LVi": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/GFI_rzyLty_mid.jpg"
+            "pdp_marquee_img": "shopify://shop_images/DSF64016_1_f1ef65f5-d821-4a16-805b-0d130ce81b46.jpg"
           }
         },
         "marquee_NadBpP": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/0CYXuDrj6_mid.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-22T152753.956.png"
           }
         },
         "marquee_RHaqJH": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/NA2_YR0o-_mid.jpg"
+            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-22T152847.628.png"
           }
         },
         "marquee_zDcbeF": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-18T140139.826_7edc6af3-0f23-4392-a42e-009a8e5ef913.png"
+            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-22T152925.840.png"
           }
         },
         "marquee_rJJh9e": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-18T135712.940_dc8599f5-92cf-4880-8e7a-e7bb382efcf8.png"
+            "pdp_marquee_img": "shopify://shop_images/a3LSvAWqV_mid.jpg"
           }
         },
         "marquee_RcgJUR": {
           "type": "marquee",
           "settings": {
-            "pdp_marquee_img": "shopify://shop_images/8o27t5DD5_mid_af63f6e1-ad76-4615-9139-f5f32c64a51a.jpg"
+            "pdp_marquee_img": "shopify://shop_images/jwUHw61CM_mid.jpg"
           }
         },
         "marquee_QVAXCP": {
           "type": "marquee",
+          "disabled": true,
           "settings": {
             "pdp_marquee_img": "shopify://shop_images/Screenshot_-_2025-02-18T140015.018_0ed5b217-1b54-457e-9b07-275507a0b801.png"
           }
@@ -400,49 +401,49 @@
         "slide_ktCbMJ": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Prendo tre capsule di Testowit al giorno. Già dopo una settimana un notevole aumento della forza. Al momento non percepisco aumenti della libido. Unico effetto indesiderato un leggero bruciore gastrico, ma facilmente risolvibile assumendo Testowit ai pasti. Personalmente lo ritengo un ottimo prodotto!",
-            "pdp_reviews_name": "Francesco V.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Tutto come descrizione e spedizione veloce",
+            "pdp_reviews_name": "daniele b.",
+            "pdp_product_image": "shopify://shop_images/Fronte_3.png"
           }
         },
         "slide_xdThfn": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Il prodotto è arrivato molto in fretta e rispecchia quanto mi aspettavo. Notato incremento in energia focus e pump durante l’allenamento.",
-            "pdp_reviews_name": "Giacomontanari G.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Ottimo prodotto",
+            "pdp_reviews_name": "Liana D.",
+            "pdp_product_image": "shopify://shop_images/Fronte_3.png"
           }
         },
         "slide_fgBnaJ": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Forza e vigore già dopo 3 giorni di integrazione!!! Solo per i massimi e solo qualità gooooo💪🏼💪🏼💪🏼💪🏼",
-            "pdp_reviews_name": "Eugenio B.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Una roba veramente efficace",
+            "pdp_reviews_name": "Andrea P.",
+            "pdp_product_image": "shopify://shop_images/Fronte_3.png"
           }
         },
         "slide_cAAXPW": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Aumento della performance a livello sessuale e maggiore forza fisica durante l allenamento. Per le prime due settimane effetti leggeri poi aumentano esponenzialmente. Superato le aspettative come semplice integratore.",
-            "pdp_reviews_name": "Nicola P.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Digestione migliorata, meno gonfiore intestinale",
+            "pdp_reviews_name": "Andrea P.",
+            "pdp_product_image": "shopify://shop_images/Fronte_3.png"
           }
         },
         "slide_GpgLDM": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Testowit è Favoloso! Ho sentito subito l'efficacia del prodotto a differenza di altri! Ho già provato altri prodotti: S23 della Biaxol, Turkesterone  della FutuNatura e Ultrabolan della NuviaLab, ma Testowit è il massimo!!!",
-            "pdp_reviews_name": "Vincenzo G.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Ottimo prodotto, da quando lo prendo sto molto meglio, mi sento molto meno gonfia!!",
+            "pdp_reviews_name": "Nicoletta S.",
+            "pdp_product_image": "shopify://shop_images/Fronte_3.png"
           }
         },
         "slide_yqpDTe": {
           "type": "slide",
           "settings": {
-            "pdp_reviews_text": "Ottimo prodotto! Comincio a sentire gli effetti dopo 2 settimane e una leggera ricomposizione corporea! Vedremo a fine ciclo!",
-            "pdp_reviews_name": "Zordan A.",
-            "pdp_product_image": "shopify://shop_images/image_3.png"
+            "pdp_reviews_text": "Da quando prendo queste capsule sto molto meglio",
+            "pdp_reviews_name": "Gianluigi F.",
+            "pdp_product_image": "shopify://shop_images/Fronte_3.png"
           }
         }
       },
@@ -855,8 +856,8 @@
         "loox_reviews_loox_dynamic_section_xnXkDe": {
           "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
-            "only_photos": false,
-            "aggregated": false,
+            "only_photos": true,
+            "aggregated": true,
             "limit": 20,
             "hide_thumbnails": false,
             "maxwidth": 1080,
