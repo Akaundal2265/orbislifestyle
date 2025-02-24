@@ -933,46 +933,81 @@ if (console && console.log) {
         }
       },
   
-      _onSelectChange: function({srcElement}) {
-        const optionSelectElements = this.container.querySelectorAll(this.singleOptionSelector);
-  
-        // Get the best variant based on the current selection + last selected element
-        const variant = this._getVariantFromOptions({
-          index: srcElement.dataset.index,
-          value: srcElement.value
-        });
-  
-        // Update DOM option input states based on the variant that was found
-        optionSelectElements.forEach(this._updateInputState(variant, srcElement))
-  
-        // Make sure our currently selected values are up to date after updating state of DOM
-        const currentlySelectedValues = this.currentlySelectedValues = this._getCurrentOptions();
-  
-        const detail = {
-          variant,
-          currentlySelectedValues,
-          value: srcElement.value,
-          index: srcElement.parentElement.dataset.index
-        }
-  
-        this.container.dispatchEvent(new CustomEvent('variantChange', {detail}));
-        document.dispatchEvent(new CustomEvent('variant:change', {detail}));
-  
-        if (!variant) {
-          return;
-        }
-  
-        this._updateMasterSelect(variant);
-        this._updateImages(variant);
-        this._updatePrice(variant);
-        this._updateUnitPrice(variant);
-        this._updateSKU(variant);
-        this.currentVariant = variant;
-  
-        if (this.enableHistoryState) {
-          this._updateHistoryState(variant);
-        }
-      },
+_onSelectChange: function({ srcElement }) {
+    console.log("Variant selection changed:", srcElement);
+
+    const optionSelectElements = this.container.querySelectorAll(this.singleOptionSelector);
+    console.log("Option select elements:", optionSelectElements);
+
+    // Get the best variant based on the current selection + last selected element
+    const variant = this._getVariantFromOptions({
+        index: srcElement.dataset.index,
+        value: srcElement.value
+    });
+    console.log("Determined variant:", variant);
+
+    // Update DOM option input states based on the variant that was found
+    optionSelectElements.forEach(el => {
+        console.log("Updating input state for element:", el);
+        this._updateInputState(variant, srcElement, el);
+    });
+
+    // Make sure our currently selected values are up to date after updating the state of DOM
+    const currentlySelectedValues = this.currentlySelectedValues = this._getCurrentOptions();
+    console.log("Currently selected values:", currentlySelectedValues);
+
+    const detail = {
+        variant,
+        currentlySelectedValues,
+        value: srcElement.value,
+        index: srcElement.parentElement.dataset.index
+    };
+    console.log("Event detail object:", detail);
+
+    this.container.dispatchEvent(new CustomEvent('variantChange', { detail }));
+    document.dispatchEvent(new CustomEvent('variant:change', { detail }));
+    console.log("Dispatched variantChange event");
+
+    if (!variant) {
+        console.warn("No variant found, stopping execution.");
+        return;
+    }
+
+    this._updateMasterSelect(variant);
+    console.log("Updated master select:", variant);
+
+    this._updateImages(variant);
+    console.log("Updated images:", variant);
+
+    this._updatePrice(variant);
+    console.log("Updated price:", variant);
+
+    this._updateUnitPrice(variant);
+    console.log("Updated unit price:", variant);
+
+    this._updateSKU(variant);
+    console.log("Updated SKU:", variant);
+
+    this.currentVariant = variant;
+    console.log("Current variant updated:", this.currentVariant);
+
+    if (this.enableHistoryState) {
+        this._updateHistoryState(variant);
+        console.log("Updated history state:", variant);
+    }
+
+    // New addition: Handle LoopSubscriptions variant change
+    const inputElement = document.querySelector('input[name="product-id"]');
+    if (inputElement && window?.LoopSubscriptions) {
+        setTimeout(() => {
+            console.log("Updating LoopSubscriptions with product ID:", inputElement.value, "and variant ID:", variant.id);
+            window.LoopSubscriptions.handleLoopWidgetVariantIdChange(Number(inputElement.value), Number(variant.id));
+            updateSellingPlanOnVariantChange(Number(inputElement.value));
+        }, 200);
+    } else {
+        console.warn("LoopSubscriptions or inputElement not found, skipping subscription update.");
+    }
+},
   
       _updateImages: function(variant) {
         var variantImage = variant.featured_image || {};
