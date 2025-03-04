@@ -395,7 +395,8 @@ if (targetElement) {
       items: data.items
     }
     if (item !== 'undefined') {
-      cart = Object.assign(cart, item)
+      cart = Object.assign(cart, item);
+      console.log('item', item);
     }
     if (klAjax) {
        _learnq.push(['track', 'Added to Cart', cart]);
