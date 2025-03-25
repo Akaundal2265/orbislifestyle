@@ -1,1 +1,514 @@
-{"sections":{"scrolling_text_mYfykD":{"type":"scrolling-text","disabled":true,"settings":{"padding_top":14,"padding_bottom":14,"text":"🔬 Nuovo lotto in produzione 🚨 PREORDINA ORA","link":"shopify:\/\/products\/testowit-regolazione-ormonale-120-cps","text_size":20,"text_spacing":true,"direction":"left","speed":180,"color_scheme":"3"}},"main":{"type":"main-product","blocks":{"loox_reviews_loox_rating_bH4GHL":{"type":"shopify:\/\/apps\/loox-reviews\/blocks\/loox-rating\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e","disabled":true,"settings":{"contentSize":16,"pattern":"","hideText":true,"alignment":"left","layout":"","textColor":"","starColor":"","showAllReviews":false,"looxOpenFloatingWidget":false,"emptyRatingWidget":false}},"variant_picker":{"type":"variant_picker","disabled":true,"settings":{"variant_labels":true,"picker_type":"button","product_dynamic_variants_enable":true,"color_swatches":false}},"price":{"type":"price","disabled":true,"settings":{}},"sales_point":{"type":"sales_point","disabled":true,"settings":{"icon":"globe","text":"EDIZIONE LIMITATA (200 pz)"}},"sales_point2":{"type":"sales_point","disabled":true,"settings":{"icon":"truck","text":"Reso gratuito per 30 giorni"}},"sales_point3":{"type":"sales_point","disabled":true,"settings":{"icon":"heart","text":"Clinicamente testato"}},"sales_point4":{"type":"sales_point","disabled":true,"settings":{"icon":"lock","text":"Pagamenti sicuri"}},"inventory_status":{"type":"inventory_status","disabled":true,"settings":{"inventory_threshold":20,"inventory_transfers_enable":true}},"loox_reviews_loox_snippets_widget_bHh6ij":{"type":"shopify:\/\/apps\/loox-reviews\/blocks\/loox-snippets-widget\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e","settings":{"alignment":"left","max-width":"","color-scheme":"default","shadow":"","show-rating":true,"show-image":true,"hide-arrows-mobile":false,"font-size":14,"show-border":false,"border-radius":16,"background-color":"","text-color":"","name-color":"","rating-icon-color":"","border-color":"","shadow-color":"","reviews-limit":10}},"kaching_bundles_app_block_baFiFC":{"type":"shopify:\/\/apps\/kaching-bundles\/blocks\/app-block\/6c637362-a106-4a32-94ac-94dcfd68cdb8","settings":{"product":"{{product}}"}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true,"surface_pickup_enable":false,"show_gift_card_recipient":false}}},"block_order":["loox_reviews_loox_rating_bH4GHL","variant_picker","price","sales_point","sales_point2","sales_point3","sales_point4","inventory_status","loox_reviews_loox_snippets_widget_bHh6ij","kaching_bundles_app_block_baFiFC","buy_buttons"],"settings":{"sku_enable":false,"image_position":"left","image_container_size":"medium","product_image_size":"square","product_zoom_enable":true,"thumbnail_position":"beside","thumbnail_height":"flexible","thumbnail_arrows":false,"mobile_layout":"partial","enable_video_looping":true,"product_video_style":"muted"}},"sub":{"type":"product-full-width","blocks":{"description":{"type":"description","settings":{"is_tab":false}},"tab":{"type":"tab","settings":{"title":"Dose e Modo d'Uso","content":"<p>si consiglia di assumere <strong>2 capsule 3 volte al giorno<\/strong>, preferibilmente ai pasti principali, da deglutire con un bicchiere d’acqua.<\/p>","page":""}},"9bed2ed9-31eb-4510-95a9-7bd933c33286":{"type":"tab","settings":{"title":"Valori nutrizionali","content":"<p><strong>Tenori medi per dose massima giornaliera (6 capsule):<\/strong><\/p><ul><li>Garcinia Cambogia - 1350 mg (di cui acido idrossi-citrico (HCA): 810 mg)<\/li><li>Berberina HCl - 500 mg<\/li><li>Cardo Mariano - 131,25 mg (di cui silimarina: 105 mg)<\/li><li>Acido Lipoico - 300 mg<\/li><li>ID-alG™ - 300 mg (di cui tannini totali: 105 mg; iodio: 60 mcg - 40% VNR*)<\/li><li>Zinco - 5 mg (50% VNR*)<\/li><li>Selenio - 55 mcg (100% VNR*)<\/li><li>Cromo - 200 mcg (500% VNR*)<\/li><li>Vitamina B6 - 10 mg (714% VNR*)<\/li><\/ul><p>*VNR: Valori Nutritivi di Riferimento giornalieri (adulti) ai sensi del Reg. UE 1169\/2011<\/p>","page":""}},"c7081fe6-d23a-4fd2-88f3-bb6e5fdcc508":{"type":"tab","settings":{"title":"Ingredienti","content":"<p>Garcinia cambogia (<em>Garcinia cambogia<\/em> (Gaernt) Desr.) frutti estratto secco tit. al 60% in acido idrossi-citrico (HCA); Berberina HCl (da <em>Berberis aristata<\/em> DC., corteccia dei rami); agente di rivestimento: idrossi-propil-metilcellulosa (involucro capsula); Acido Lipoico; ID-alG™ [Alga Bruna (<em>Ascophyllum nodosum<\/em> (L.) Le Jolis, pianta intera), Uva Rossa (<em>Vitis vinifera<\/em> L., semi)] estratto secco tit. al 35% in tannini totali e allo 0,02% in iodio (contiene <strong>solfiti)<\/strong>; Cardo Mariano (<em>Silybum marianum<\/em> (L.) Gaertn.) frutti estratto secco tit. all’80% in silimarina; agente di carica: cellulosa; Zinco L-pidolato; agente antiagglomerante: sali di magnesio degli acidi grassi; cloridrato di piridossina (Vitamina B6); L-selenometionina; picolinato di cromo.<\/p>","page":""}},"6718643c-fffd-443f-ba1b-7aab9770fcd6":{"type":"tab","settings":{"title":"Avvertenze","content":"<p>Non superare la dose giornaliera consigliata. Per l’uso del prodotto si consiglia di sentire il parere del medico. In rari casi l’acido lipoico può dare ipoglicemia. Qualora a seguito dell’uso del prodotto insorgano dei disturbi, a carico ad es. della funzione epatica o del sistema nervoso centrale, interrompere l’assunzione e sentire il parere del medico. Gli integratori alimentari non vanno intesi come sostituti di una dieta varia ed equilibrata e di uno stile di vita sano. Tenere fuori dalla portata dei bambini di età inferiore a 3 anni. <\/p>","page":""}},"contact":{"type":"contact","settings":{"title":"Facci una domanda","phone":true}},"080e4062-e4e2-48d0-830d-0961434ce031":{"type":"custom","disabled":true,"settings":{"code":"<!DOCTYPE html>\n<html>\n<head>\n    <title>Fatti Nutrizionali<\/title>\n    <style>\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th, td {\n            border: 1px solid black;\n            padding: 8px;\n            text-align: left;\n        }\n        th {\n            background-color: #f2f2f2;\n        }\n        .bold {\n            font-weight: bold;\n        }\n    <\/style>\n<\/head>\n<body>\n<br>\n<h2>Tabella Nutrizionale<\/h2>\n\n<table>\n    <tr>\n        <th>Ingredienti<\/th>\n        <th>Tenori Medi per Dose Giornaliera Massima (4cps)<\/th>\n    <\/tr>\n    <tr>\n        <td>Muira puama (Ptychopetalum olacoides Benth.) corteccia e.s. (D\/E: 4\/1)<\/td>\n        <td>600 mg<\/td>\n    <\/tr>\n    <tr>\n        <td>RedNite™ [Barbabietola Rossa (Beta vulgaris L.) radice succo polvere tit. all’1,5% in nitrati]<\/td>\n        <td>400 mg (nitrati: 6 mg)<\/td>\n    <\/tr>\n    <tr>\n        <td>Maca (Lepidium meyenii Walp.) radice e.s. tit. allo 0,5% in beta-ecdysterone<\/td>\n        <td>240 mg (Beta-ecysterone: 1,2 mg)<\/td>\n    <\/tr>\n    <tr>\n        <td>Fieno Greco (Trigonella foenum-graecum L.) semi e.s. tit. al 50% in protodioscina<\/td>\n        <td>200 mg (protodioscina: 100 mg)<\/td>\n    <\/tr>\n    <tr>\n        <td>Zinco (gluconato di zinco)<\/td>\n        <td>12 mg (<span class=\"bold\">120% VNR*<\/span>)<\/td>\n    <\/tr>\n    <tr>\n        <td>KSM-66® [Ashwagandha (Withania somnifera (L.) Dunal.) radice e.s. tit. al 5% in withanolidi]<\/td>\n        <td>80 mg (withanolidi: 4 mg)<\/td>\n    <\/tr>\n    <tr>\n        <td>Oligopin® [Pino Marittimo Francese (Pinus pinaster Ait.) corteccia e.s. tit. al 65% in procianidine oligomeriche (OPCs)]<\/td>\n        <td>40 mg (OPCs: 26 mg)<\/td>\n    <\/tr>\n    <tr>\n        <td>Uva rossa (Vitis vinifera L.) semi e.s. tit. al 95% in proantocianidine<\/td>\n        <td>16 mg (proantocianidine: 15,2 mg)<\/td>\n    <\/tr>\n    <tr>\n        <td>Vitamina D (colecalciferolo)<\/td>\n        <td>40 mcg (<span class=\"bold\">800% VNR*<\/span>)<\/td>\n    <\/tr>\n    <tr>\n        <td>Vitamina E (acetato di D-alfa-tocoferile)<\/td>\n        <td>8 mg (<span class=\"bold\">67% VNR*<\/span>)<\/td>\n    <\/tr>\n    <tr>\n        <td>Boro (acido borico)<\/td>\n        <td>2 mg<\/td>\n    <\/tr>\n    <tr>\n        <td>Rame (gluconato di rame)<\/td>\n        <td>2 mg (<span class=\"bold\">200% VNR*<\/span>)<\/td>\n    <\/tr>\n    <tr>\n        <td>Vitamina B6 (cloridrato di piridossina)<\/td>\n        <td>8 mg (<span class=\"bold\">571% VNR*<\/span>)<\/td>\n    <\/tr>\n    <tr>\n        <td>Piperina da Pepe nero (Piper nigrum L.) frutti<\/td>\n        <td>4 mg<\/td>\n    <\/tr>\n<\/table>\n\n<p><b>*VNR = Valore Nutrizionale di Riferimento<\/b><\/p>\n\n<\/body>\n<\/html>"}},"bebad4cb-7823-4457-9d9d-4e2f77405f5c":{"type":"tab","settings":{"title":"Approfondimento scientifico","content":"<p>Il prodotto contiene 9 ingredienti attivi principali:<\/p><ul><li>✅ <strong>Garcinia Cambogia<\/strong>: favorisce il controllo del peso e aiuta a ridurre l'appetito grazie alla sua azione naturale sul metabolismo dei grassi.<\/li><li>✅ <strong>Berberina<\/strong>: supporta il metabolismo dei carboidrati e contribuisce al benessere generale, migliorando la gestione degli zuccheri nel sangue.<\/li><li>✅ <strong>Cardo Mariano<\/strong>: protegge il fegato e aiuta a eliminare le tossine, favorendo una funzione epatica sana.<\/li><li>✅ <strong>Acido Lipoico<\/strong>: potente antiossidante che contrasta lo stress ossidativo e supporta il metabolismo energetico.<\/li><li>✅ <strong>ID-alG™<\/strong>: un’esclusiva combinazione di Alga Bruna e Uva Rossa che contribuisce a ridurre l’assorbimento di grassi e zuccheri, sostenendo il metabolismo.<\/li><li>✅ <strong>Zinco<\/strong>: essenziale per il normale metabolismo dei carboidrati e per proteggere le cellule dallo stress ossidativo.<\/li><li>✅ <strong>Selenio<\/strong>: supporta il sistema immunitario e protegge le cellule dai danni causati dai radicali liberi.<\/li><li>✅ <strong>Cromo<\/strong>: aiuta a mantenere stabili i livelli di zucchero nel sangue, riducendo i picchi glicemici e il desiderio di dolci.<\/li><li>✅ <strong>Vitamina B6<\/strong>: contribuisce alla regolazione dell'attività ormonale e al metabolismo energetico, promuovendo vitalità e benessere.<\/li><\/ul>","page":""}}},"block_order":["description","tab","9bed2ed9-31eb-4510-95a9-7bd933c33286","c7081fe6-d23a-4fd2-88f3-bb6e5fdcc508","6718643c-fffd-443f-ba1b-7aab9770fcd6","contact","080e4062-e4e2-48d0-830d-0961434ce031","bebad4cb-7823-4457-9d9d-4e2f77405f5c"],"settings":{"max_width":true}},"replo_features_section_ezDVgX":{"type":"replo-features-section","disabled":true,"settings":{}},"d6351907-41fb-41bf-9b3c-bd515cfbe823":{"type":"text-and-image","settings":{"image":"shopify:\/\/shop_images\/SugarDetoxbottleFrontPNG_1.png","image_mask":"square","image2_mask":"none","subtitle":"","title":"Glicemia e Zucchero","heading_size":"h2","text":"<p><strong>SUGAR DETOX<\/strong>: il tuo alleato per il <strong>controllo del peso<\/strong> e il <strong>mantenimento dei livelli di zucchero nel sangue<\/strong>. Supporta il <strong>metabolismo dei carboidrati<\/strong> e offre un’efficace <strong>azione antiossidante<\/strong> per <strong>proteggere le cellule<\/strong> e promuovere il <strong>benessere metabolico<\/strong>.<\/p>","button_label":"","button_link":"","button_style":"primary","align_text":"left","image_width":"50","layout":"right","color_scheme":"1","show_wave":false,"divider":false,"top_padding":true,"bottom_padding":true,"lazyload_images":true}},"13ee9776-d34e-4606-a57a-d5bb73be942c":{"type":"text-and-image","settings":{"image":"shopify:\/\/shop_images\/nurse-operating-weight-apparatus.jpg","image_mask":"portrait","image2_mask":"none","subtitle":"","title":"Perché Sceglierlo?","heading_size":"h2","text":"<ul><li>Contiene <strong>Garcinia Cambogia<\/strong> per supportare il metabolismo e favorire la gestione del peso.<\/li><li>Contiene <strong>Berberina<\/strong> per migliorare il metabolismo dei carboidrati e il controllo degli zuccheri nel sangue.<\/li><li>Contiene <strong>Cardo Mariano<\/strong> per proteggere il fegato e favorire la sua naturale funzione depurativa.<\/li><li>Contiene <strong>Cromo<\/strong> per aiutare a mantenere stabili i livelli di zucchero nel sangue e ridurre i picchi glicemici.<\/li><\/ul>","button_label":"","button_link":"","button_style":"primary","align_text":"left","image_width":"50","layout":"left","color_scheme":"none","show_wave":false,"divider":false,"top_padding":true,"bottom_padding":true,"lazyload_images":true}},"525a72c6-825d-4bec-9a02-95a1eb8e9aa6":{"type":"background-image-text","settings":{"subtitle":"","title":"","heading_size":"h2","heading_position":"left","text":"<p><strong>SUGAR DETOX<\/strong> contiene <strong>Garcinia Cambogia<\/strong> e <strong>Berberina<\/strong> per <strong>supportare il metabolismo<\/strong> dei carboidrati e favorire la <strong>gestione del peso<\/strong> ⚖️. <strong>Cardo Mariano<\/strong> protegge il <strong>fegato<\/strong> 🛡️ e sostiene la sua funzione depurativa 🌿, mentre <strong>Cromo<\/strong> e <strong>Zinco<\/strong> aiutano a mantenere stabili i <strong>livelli di zucchero nel sangue<\/strong> 🩸. <strong>Acido Lipoico<\/strong> completa la formula con un’efficace <strong>azione antiossidante<\/strong> ✨ per <strong>proteggere le cellule<\/strong> e promuovere il <strong>benessere metabolico<\/strong> 💪.<\/p>","button_label":"ORDINA ORA","button_link":"https:\/\/orbislifestyle.com\/products\/testowit-per-la-regolazione-ormonale","image":"shopify:\/\/shop_images\/fitness-weight-lifting.jpg","layout":"left","height":750,"parallax":false,"parallax_direction":"top","lazyload_images":true}},"replo_ugc_section_pgHJrf":{"type":"replo-ugc-section","disabled":true,"settings":{}},"6476a1d5-8f7f-467b-a003-1ab3179925d3":{"type":"text-columns","blocks":{"template--20195761226057__6476a1d5-8f7f-467b-a003-1ab3179925d3-text_block-1":{"type":"text_block","settings":{"enable_image":true,"image":"shopify:\/\/shop_images\/Screenshot_2023-12-19_alle_17.26.08.png","image_mask":"landscape","image_width":650,"title":"Forza e Testosterone dopo l'integrazione orale","heading_size":"h3","text":"<p>Effetti dell'integrazione di KSM66®, ingrediente brevettato di TESTOWIT<\/p>","align_text":"center","button_label":"Leggi lo studio","button_link":"https:\/\/ksm66ashwagandhaa.com\/wp-content\/uploads\/2018\/02\/66814-KSM-66-Ashwagandha-Testosterone-s.pdf"}},"template--20195761226057__6476a1d5-8f7f-467b-a003-1ab3179925d3-text_block-2":{"type":"text_block","settings":{"enable_image":true,"image":"shopify:\/\/shop_images\/Screenshot_2023-12-19_alle_18.10.17.png","image_mask":"landscape","image_width":650,"title":"Spermatogenesi dopo l'integrazione orale","heading_size":"h3","text":"<p>Effetti dell'integrazione di KSM66®, ingrediente brevettato di TESTOWIT<\/p>","align_text":"center","button_label":"Leggi lo studio","button_link":"https:\/\/ksm66ashwagandhaa.com\/wp-content\/uploads\/2018\/02\/66814-KSM-66-Ashwagandha-Testosterone-s.pdf"}},"template--20195761226057__6476a1d5-8f7f-467b-a003-1ab3179925d3-text_block-3":{"type":"text_block","disabled":true,"settings":{"enable_image":true,"image":"shopify:\/\/shop_images\/3.png","image_mask":"square","image_width":650,"title":"Attività delle cellule NK dopo l'integrazione orale","heading_size":"h3","text":"<p>Activity after consistent use for 3 months<\/p>","align_text":"center","button_label":"Leggi lo studio","button_link":"https:\/\/www.setriaglutathione.com\/glutathione-studies"}}},"block_order":["template--20195761226057__6476a1d5-8f7f-467b-a003-1ab3179925d3-text_block-1","template--20195761226057__6476a1d5-8f7f-467b-a003-1ab3179925d3-text_block-2","template--20195761226057__6476a1d5-8f7f-467b-a003-1ab3179925d3-text_block-3"],"disabled":true,"settings":{"title":"Quali sono i risultati degli studi clinici pubblicati?","heading_size":"h2","align_text":"left","divider":true,"color_scheme":"2"}},"03eb9ac3-0894-4150-8014-a6823c670528":{"type":"rich-text","blocks":{"template--20355101655369__03eb9ac3-0894-4150-8014-a6823c670528-heading-1":{"type":"heading","settings":{"title":"👍 Soddisfatti o Rimborsati","heading_size":"h3"}},"template--20355101655369__03eb9ac3-0894-4150-8014-a6823c670528-text-1":{"type":"text","settings":{"enlarge_text":false,"text":"<ol><li>Rimborsati in 30gg dopo l'acquisto<\/li><li>Numero Tracking per ogni ordini<\/li><li>Pagamenti sicuri con Visa, Mastercard, PayPal, pagamento alla consegna, Apple Pay ed altri<\/li><li>Vere persone nel nostro servizio clienti<\/li><li>Nessune fee nascoste<\/li><\/ol><p>Abbiamo <strong>24\/7 Supporto per Email<\/strong>. Per favore contattaci per assistenza a <strong>info@orbislifestyle.com<\/strong><\/p>"}}},"block_order":["template--20355101655369__03eb9ac3-0894-4150-8014-a6823c670528-heading-1","template--20355101655369__03eb9ac3-0894-4150-8014-a6823c670528-text-1"],"settings":{"align_text":"left","narrow_column":true,"color_scheme":"none","show_wave":false,"divider":false}},"recommendations":{"type":"product-recommendations","settings":{"product_recommendations_heading":"Spesso comprati insieme","related_count":6,"products_per_row":3}},"more-products-vendor":{"type":"more-products-vendor","disabled":true,"settings":{"products_per_row":3,"max_products":5}},"more-products-collection":{"type":"more-products-collection","disabled":true,"settings":{"products_per_row":3,"max_products":5}},"recently-viewed":{"type":"recently-viewed","settings":{}},"collection-return":{"type":"collection-return","settings":{"color_scheme":"2"}},"a59a5f8c-10d4-42bc-91c9-b34dbf6ffa87":{"type":"featured-collection","settings":{"title":"Vuoi scoprire qualcosa di nuovo?","heading_size":"h2","heading_position":"left","home_featured_products":"anti-aging","count":6,"products_per_row":4,"mobile_scrollable":true,"view_all":true,"divider":false}},"17074992252dc82cba":{"type":"apps","blocks":{"loox_reviews_loox_dynamic_section_NgEgcW":{"type":"shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e","settings":{"only_photos":false,"aggregated":true,"limit":20,"hide_thumbnails":false,"maxwidth":1080,"is_sample":true}}},"block_order":["loox_reviews_loox_dynamic_section_NgEgcW"],"settings":{"full_width":false,"space_around":true}},"replo_comparison_section_F8wVxr":{"type":"replo-comparison-section","settings":{}},"replo_faq_section_agDpti":{"type":"replo-faq-section","settings":{}}},"order":["scrolling_text_mYfykD","main","sub","replo_features_section_ezDVgX","d6351907-41fb-41bf-9b3c-bd515cfbe823","13ee9776-d34e-4606-a57a-d5bb73be942c","525a72c6-825d-4bec-9a02-95a1eb8e9aa6","replo_ugc_section_pgHJrf","6476a1d5-8f7f-467b-a003-1ab3179925d3","03eb9ac3-0894-4150-8014-a6823c670528","recommendations","more-products-vendor","more-products-collection","recently-viewed","collection-return","a59a5f8c-10d4-42bc-91c9-b34dbf6ffa87","17074992252dc82cba","replo_comparison_section_F8wVxr","replo_faq_section_agDpti"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "scrolling_text_mYfykD": {
+      "type": "scrolling-text",
+      "disabled": true,
+      "settings": {
+        "padding_top": 14,
+        "padding_bottom": 14,
+        "text": "🔬 Nuovo lotto in produzione 🚨 PREORDINA ORA",
+        "link": "shopify://products/testowit-regolazione-ormonale-120-cps-new",
+        "text_size": 20,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 180,
+        "color_scheme": "3"
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "loox_reviews_loox_rating_bH4GHL": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "disabled": true,
+          "settings": {
+            "contentSize": 16,
+            "pattern": "",
+            "hideText": true,
+            "alignment": "left",
+            "layout": "",
+            "textColor": "",
+            "starColor": "",
+            "showAllReviews": false,
+            "looxOpenFloatingWidget": false,
+            "emptyRatingWidget": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "price": {
+          "type": "price",
+          "disabled": true,
+          "settings": {}
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "icon": "globe",
+            "text": "EDIZIONE LIMITATA (200 pz)"
+          }
+        },
+        "sales_point2": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "icon": "truck",
+            "text": "Reso gratuito per 30 giorni"
+          }
+        },
+        "sales_point3": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "icon": "heart",
+            "text": "Clinicamente testato"
+          }
+        },
+        "sales_point4": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "icon": "lock",
+            "text": "Pagamenti sicuri"
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": true
+          }
+        },
+        "loox_reviews_loox_snippets_widget_bHh6ij": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-snippets-widget/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "alignment": "left",
+            "max-width": "",
+            "color-scheme": "default",
+            "shadow": "",
+            "show-rating": true,
+            "show-image": true,
+            "hide-arrows-mobile": false,
+            "font-size": 14,
+            "show-border": false,
+            "border-radius": 16,
+            "background-color": "",
+            "text-color": "",
+            "name-color": "",
+            "rating-icon-color": "",
+            "border-color": "",
+            "shadow-color": "",
+            "reviews-limit": 10
+          }
+        },
+        "kaching_bundles_app_block_baFiFC": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_rating_bH4GHL",
+        "variant_picker",
+        "price",
+        "sales_point",
+        "sales_point2",
+        "sales_point3",
+        "sales_point4",
+        "inventory_status",
+        "loox_reviews_loox_snippets_widget_bHh6ij",
+        "kaching_bundles_app_block_baFiFC",
+        "buy_buttons"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_container_size": "medium",
+        "product_image_size": "square",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "Dose e Modo d'Uso",
+            "content": "<p>si consiglia di assumere <strong>2 capsule 3 volte al giorno</strong>, preferibilmente ai pasti principali, da deglutire con un bicchiere d’acqua.</p>",
+            "page": ""
+          }
+        },
+        "9bed2ed9-31eb-4510-95a9-7bd933c33286": {
+          "type": "tab",
+          "settings": {
+            "title": "Valori nutrizionali",
+            "content": "<p><strong>Tenori medi per dose massima giornaliera (6 capsule):</strong></p><ul><li>Garcinia Cambogia - 1350 mg (di cui acido idrossi-citrico (HCA): 810 mg)</li><li>Berberina HCl - 500 mg</li><li>Cardo Mariano - 131,25 mg (di cui silimarina: 105 mg)</li><li>Acido Lipoico - 300 mg</li><li>ID-alG™ - 300 mg (di cui tannini totali: 105 mg; iodio: 60 mcg - 40% VNR*)</li><li>Zinco - 5 mg (50% VNR*)</li><li>Selenio - 55 mcg (100% VNR*)</li><li>Cromo - 200 mcg (500% VNR*)</li><li>Vitamina B6 - 10 mg (714% VNR*)</li></ul><p>*VNR: Valori Nutritivi di Riferimento giornalieri (adulti) ai sensi del Reg. UE 1169/2011</p>",
+            "page": ""
+          }
+        },
+        "c7081fe6-d23a-4fd2-88f3-bb6e5fdcc508": {
+          "type": "tab",
+          "settings": {
+            "title": "Ingredienti",
+            "content": "<p>Garcinia cambogia (<em>Garcinia cambogia</em> (Gaernt) Desr.) frutti estratto secco tit. al 60% in acido idrossi-citrico (HCA); Berberina HCl (da <em>Berberis aristata</em> DC., corteccia dei rami); agente di rivestimento: idrossi-propil-metilcellulosa (involucro capsula); Acido Lipoico; ID-alG™ [Alga Bruna (<em>Ascophyllum nodosum</em> (L.) Le Jolis, pianta intera), Uva Rossa (<em>Vitis vinifera</em> L., semi)] estratto secco tit. al 35% in tannini totali e allo 0,02% in iodio (contiene <strong>solfiti)</strong>; Cardo Mariano (<em>Silybum marianum</em> (L.) Gaertn.) frutti estratto secco tit. all’80% in silimarina; agente di carica: cellulosa; Zinco L-pidolato; agente antiagglomerante: sali di magnesio degli acidi grassi; cloridrato di piridossina (Vitamina B6); L-selenometionina; picolinato di cromo.</p>",
+            "page": ""
+          }
+        },
+        "6718643c-fffd-443f-ba1b-7aab9770fcd6": {
+          "type": "tab",
+          "settings": {
+            "title": "Avvertenze",
+            "content": "<p>Non superare la dose giornaliera consigliata. Per l’uso del prodotto si consiglia di sentire il parere del medico. In rari casi l’acido lipoico può dare ipoglicemia. Qualora a seguito dell’uso del prodotto insorgano dei disturbi, a carico ad es. della funzione epatica o del sistema nervoso centrale, interrompere l’assunzione e sentire il parere del medico. Gli integratori alimentari non vanno intesi come sostituti di una dieta varia ed equilibrata e di uno stile di vita sano. Tenere fuori dalla portata dei bambini di età inferiore a 3 anni. </p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Facci una domanda",
+            "phone": true
+          }
+        },
+        "080e4062-e4e2-48d0-830d-0961434ce031": {
+          "type": "custom",
+          "disabled": true,
+          "settings": {
+            "code": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Fatti Nutrizionali</title>\n    <style>\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th, td {\n            border: 1px solid black;\n            padding: 8px;\n            text-align: left;\n        }\n        th {\n            background-color: #f2f2f2;\n        }\n        .bold {\n            font-weight: bold;\n        }\n    </style>\n</head>\n<body>\n<br>\n<h2>Tabella Nutrizionale</h2>\n\n<table>\n    <tr>\n        <th>Ingredienti</th>\n        <th>Tenori Medi per Dose Giornaliera Massima (4cps)</th>\n    </tr>\n    <tr>\n        <td>Muira puama (Ptychopetalum olacoides Benth.) corteccia e.s. (D/E: 4/1)</td>\n        <td>600 mg</td>\n    </tr>\n    <tr>\n        <td>RedNite™ [Barbabietola Rossa (Beta vulgaris L.) radice succo polvere tit. all’1,5% in nitrati]</td>\n        <td>400 mg (nitrati: 6 mg)</td>\n    </tr>\n    <tr>\n        <td>Maca (Lepidium meyenii Walp.) radice e.s. tit. allo 0,5% in beta-ecdysterone</td>\n        <td>240 mg (Beta-ecysterone: 1,2 mg)</td>\n    </tr>\n    <tr>\n        <td>Fieno Greco (Trigonella foenum-graecum L.) semi e.s. tit. al 50% in protodioscina</td>\n        <td>200 mg (protodioscina: 100 mg)</td>\n    </tr>\n    <tr>\n        <td>Zinco (gluconato di zinco)</td>\n        <td>12 mg (<span class=\"bold\">120% VNR*</span>)</td>\n    </tr>\n    <tr>\n        <td>KSM-66® [Ashwagandha (Withania somnifera (L.) Dunal.) radice e.s. tit. al 5% in withanolidi]</td>\n        <td>80 mg (withanolidi: 4 mg)</td>\n    </tr>\n    <tr>\n        <td>Oligopin® [Pino Marittimo Francese (Pinus pinaster Ait.) corteccia e.s. tit. al 65% in procianidine oligomeriche (OPCs)]</td>\n        <td>40 mg (OPCs: 26 mg)</td>\n    </tr>\n    <tr>\n        <td>Uva rossa (Vitis vinifera L.) semi e.s. tit. al 95% in proantocianidine</td>\n        <td>16 mg (proantocianidine: 15,2 mg)</td>\n    </tr>\n    <tr>\n        <td>Vitamina D (colecalciferolo)</td>\n        <td>40 mcg (<span class=\"bold\">800% VNR*</span>)</td>\n    </tr>\n    <tr>\n        <td>Vitamina E (acetato di D-alfa-tocoferile)</td>\n        <td>8 mg (<span class=\"bold\">67% VNR*</span>)</td>\n    </tr>\n    <tr>\n        <td>Boro (acido borico)</td>\n        <td>2 mg</td>\n    </tr>\n    <tr>\n        <td>Rame (gluconato di rame)</td>\n        <td>2 mg (<span class=\"bold\">200% VNR*</span>)</td>\n    </tr>\n    <tr>\n        <td>Vitamina B6 (cloridrato di piridossina)</td>\n        <td>8 mg (<span class=\"bold\">571% VNR*</span>)</td>\n    </tr>\n    <tr>\n        <td>Piperina da Pepe nero (Piper nigrum L.) frutti</td>\n        <td>4 mg</td>\n    </tr>\n</table>\n\n<p><b>*VNR = Valore Nutrizionale di Riferimento</b></p>\n\n</body>\n</html>"
+          }
+        },
+        "bebad4cb-7823-4457-9d9d-4e2f77405f5c": {
+          "type": "tab",
+          "settings": {
+            "title": "Approfondimento scientifico",
+            "content": "<p>Il prodotto contiene 9 ingredienti attivi principali:</p><ul><li>✅ <strong>Garcinia Cambogia</strong>: favorisce il controllo del peso e aiuta a ridurre l'appetito grazie alla sua azione naturale sul metabolismo dei grassi.</li><li>✅ <strong>Berberina</strong>: supporta il metabolismo dei carboidrati e contribuisce al benessere generale, migliorando la gestione degli zuccheri nel sangue.</li><li>✅ <strong>Cardo Mariano</strong>: protegge il fegato e aiuta a eliminare le tossine, favorendo una funzione epatica sana.</li><li>✅ <strong>Acido Lipoico</strong>: potente antiossidante che contrasta lo stress ossidativo e supporta il metabolismo energetico.</li><li>✅ <strong>ID-alG™</strong>: un’esclusiva combinazione di Alga Bruna e Uva Rossa che contribuisce a ridurre l’assorbimento di grassi e zuccheri, sostenendo il metabolismo.</li><li>✅ <strong>Zinco</strong>: essenziale per il normale metabolismo dei carboidrati e per proteggere le cellule dallo stress ossidativo.</li><li>✅ <strong>Selenio</strong>: supporta il sistema immunitario e protegge le cellule dai danni causati dai radicali liberi.</li><li>✅ <strong>Cromo</strong>: aiuta a mantenere stabili i livelli di zucchero nel sangue, riducendo i picchi glicemici e il desiderio di dolci.</li><li>✅ <strong>Vitamina B6</strong>: contribuisce alla regolazione dell'attività ormonale e al metabolismo energetico, promuovendo vitalità e benessere.</li></ul>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "description",
+        "tab",
+        "9bed2ed9-31eb-4510-95a9-7bd933c33286",
+        "c7081fe6-d23a-4fd2-88f3-bb6e5fdcc508",
+        "6718643c-fffd-443f-ba1b-7aab9770fcd6",
+        "contact",
+        "080e4062-e4e2-48d0-830d-0961434ce031",
+        "bebad4cb-7823-4457-9d9d-4e2f77405f5c"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "replo_features_section_ezDVgX": {
+      "type": "replo-features-section",
+      "disabled": true,
+      "settings": {}
+    },
+    "d6351907-41fb-41bf-9b3c-bd515cfbe823": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/SugarDetoxbottleFrontPNG_1.png",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Glicemia e Zucchero",
+        "heading_size": "h2",
+        "text": "<p><strong>SUGAR DETOX</strong>: il tuo alleato per il <strong>controllo del peso</strong> e il <strong>mantenimento dei livelli di zucchero nel sangue</strong>. Supporta il <strong>metabolismo dei carboidrati</strong> e offre un’efficace <strong>azione antiossidante</strong> per <strong>proteggere le cellule</strong> e promuovere il <strong>benessere metabolico</strong>.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "13ee9776-d34e-4606-a57a-d5bb73be942c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/nurse-operating-weight-apparatus.jpg",
+        "image_mask": "portrait",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Perché Sceglierlo?",
+        "heading_size": "h2",
+        "text": "<ul><li>Contiene <strong>Garcinia Cambogia</strong> per supportare il metabolismo e favorire la gestione del peso.</li><li>Contiene <strong>Berberina</strong> per migliorare il metabolismo dei carboidrati e il controllo degli zuccheri nel sangue.</li><li>Contiene <strong>Cardo Mariano</strong> per proteggere il fegato e favorire la sua naturale funzione depurativa.</li><li>Contiene <strong>Cromo</strong> per aiutare a mantenere stabili i livelli di zucchero nel sangue e ridurre i picchi glicemici.</li></ul>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "525a72c6-825d-4bec-9a02-95a1eb8e9aa6": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "",
+        "heading_size": "h2",
+        "heading_position": "left",
+        "text": "<p><strong>SUGAR DETOX</strong> contiene <strong>Garcinia Cambogia</strong> e <strong>Berberina</strong> per <strong>supportare il metabolismo</strong> dei carboidrati e favorire la <strong>gestione del peso</strong> ⚖️. <strong>Cardo Mariano</strong> protegge il <strong>fegato</strong> 🛡️ e sostiene la sua funzione depurativa 🌿, mentre <strong>Cromo</strong> e <strong>Zinco</strong> aiutano a mantenere stabili i <strong>livelli di zucchero nel sangue</strong> 🩸. <strong>Acido Lipoico</strong> completa la formula con un’efficace <strong>azione antiossidante</strong> ✨ per <strong>proteggere le cellule</strong> e promuovere il <strong>benessere metabolico</strong> 💪.</p>",
+        "button_label": "ORDINA ORA",
+        "button_link": "https://orbislifestyle.com/products/testowit-per-la-regolazione-ormonale",
+        "image": "shopify://shop_images/fitness-weight-lifting.jpg",
+        "layout": "left",
+        "height": 750,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "replo_ugc_section_pgHJrf": {
+      "type": "replo-ugc-section",
+      "disabled": true,
+      "settings": {}
+    },
+    "6476a1d5-8f7f-467b-a003-1ab3179925d3": {
+      "type": "text-columns",
+      "blocks": {
+        "template--20195761226057__6476a1d5-8f7f-467b-a003-1ab3179925d3-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Screenshot_2023-12-19_alle_17.26.08.png",
+            "image_mask": "landscape",
+            "image_width": 650,
+            "title": "Forza e Testosterone dopo l'integrazione orale",
+            "heading_size": "h3",
+            "text": "<p>Effetti dell'integrazione di KSM66®, ingrediente brevettato di TESTOWIT</p>",
+            "align_text": "center",
+            "button_label": "Leggi lo studio",
+            "button_link": "https://ksm66ashwagandhaa.com/wp-content/uploads/2018/02/66814-KSM-66-Ashwagandha-Testosterone-s.pdf"
+          }
+        },
+        "template--20195761226057__6476a1d5-8f7f-467b-a003-1ab3179925d3-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Screenshot_2023-12-19_alle_18.10.17.png",
+            "image_mask": "landscape",
+            "image_width": 650,
+            "title": "Spermatogenesi dopo l'integrazione orale",
+            "heading_size": "h3",
+            "text": "<p>Effetti dell'integrazione di KSM66®, ingrediente brevettato di TESTOWIT</p>",
+            "align_text": "center",
+            "button_label": "Leggi lo studio",
+            "button_link": "https://ksm66ashwagandhaa.com/wp-content/uploads/2018/02/66814-KSM-66-Ashwagandha-Testosterone-s.pdf"
+          }
+        },
+        "template--20195761226057__6476a1d5-8f7f-467b-a003-1ab3179925d3-text_block-3": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/3.png",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "Attività delle cellule NK dopo l'integrazione orale",
+            "heading_size": "h3",
+            "text": "<p>Activity after consistent use for 3 months</p>",
+            "align_text": "center",
+            "button_label": "Leggi lo studio",
+            "button_link": "https://www.setriaglutathione.com/glutathione-studies"
+          }
+        }
+      },
+      "block_order": [
+        "template--20195761226057__6476a1d5-8f7f-467b-a003-1ab3179925d3-text_block-1",
+        "template--20195761226057__6476a1d5-8f7f-467b-a003-1ab3179925d3-text_block-2",
+        "template--20195761226057__6476a1d5-8f7f-467b-a003-1ab3179925d3-text_block-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Quali sono i risultati degli studi clinici pubblicati?",
+        "heading_size": "h2",
+        "align_text": "left",
+        "divider": true,
+        "color_scheme": "2"
+      }
+    },
+    "03eb9ac3-0894-4150-8014-a6823c670528": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20355101655369__03eb9ac3-0894-4150-8014-a6823c670528-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "👍 Soddisfatti o Rimborsati",
+            "heading_size": "h3"
+          }
+        },
+        "template--20355101655369__03eb9ac3-0894-4150-8014-a6823c670528-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<ol><li>Rimborsati in 30gg dopo l'acquisto</li><li>Numero Tracking per ogni ordini</li><li>Pagamenti sicuri con Visa, Mastercard, PayPal, pagamento alla consegna, Apple Pay ed altri</li><li>Vere persone nel nostro servizio clienti</li><li>Nessune fee nascoste</li></ol><p>Abbiamo <strong>24/7 Supporto per Email</strong>. Per favore contattaci per assistenza a <strong>info@orbislifestyle.com</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20355101655369__03eb9ac3-0894-4150-8014-a6823c670528-heading-1",
+        "template--20355101655369__03eb9ac3-0894-4150-8014-a6823c670528-text-1"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Spesso comprati insieme",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "more-products-vendor": {
+      "type": "more-products-vendor",
+      "disabled": true,
+      "settings": {
+        "products_per_row": 3,
+        "max_products": 5
+      }
+    },
+    "more-products-collection": {
+      "type": "more-products-collection",
+      "disabled": true,
+      "settings": {
+        "products_per_row": 3,
+        "max_products": 5
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {}
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {
+        "color_scheme": "2"
+      }
+    },
+    "a59a5f8c-10d4-42bc-91c9-b34dbf6ffa87": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Vuoi scoprire qualcosa di nuovo?",
+        "heading_size": "h2",
+        "heading_position": "left",
+        "home_featured_products": "anti-aging",
+        "count": 6,
+        "products_per_row": 4,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "17074992252dc82cba": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_NgEgcW": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": true,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_NgEgcW"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "replo_comparison_section_F8wVxr": {
+      "type": "replo-comparison-section",
+      "settings": {}
+    },
+    "replo_faq_section_agDpti": {
+      "type": "replo-faq-section",
+      "settings": {}
+    }
+  },
+  "order": [
+    "scrolling_text_mYfykD",
+    "main",
+    "sub",
+    "replo_features_section_ezDVgX",
+    "d6351907-41fb-41bf-9b3c-bd515cfbe823",
+    "13ee9776-d34e-4606-a57a-d5bb73be942c",
+    "525a72c6-825d-4bec-9a02-95a1eb8e9aa6",
+    "replo_ugc_section_pgHJrf",
+    "6476a1d5-8f7f-467b-a003-1ab3179925d3",
+    "03eb9ac3-0894-4150-8014-a6823c670528",
+    "recommendations",
+    "more-products-vendor",
+    "more-products-collection",
+    "recently-viewed",
+    "collection-return",
+    "a59a5f8c-10d4-42bc-91c9-b34dbf6ffa87",
+    "17074992252dc82cba",
+    "replo_comparison_section_F8wVxr",
+    "replo_faq_section_agDpti"
+  ]
+}

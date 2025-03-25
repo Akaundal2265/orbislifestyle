@@ -1,1 +1,99 @@
-{"type":"header","name":"t:sections.header-group.name","sections":{"toolbar":{"type":"toolbar","blocks":{"toolbar-0":{"type":"announcement","settings":{"richtext":"<p>🔄 Reso semplice e gratuito in 30 giorni<\/p>","richtext_mobile":"<p>🔄 Reso gratuito in 30 giorni<\/p>"}},"toolbar-1":{"type":"announcement","settings":{"richtext":"<p>✈️ Spedizione gratuita a partire da €59<\/p>","richtext_mobile":"<p>✈️ Spedizione gratuita da €59<\/p>"}},"e44e32f8-44d1-4ff1-8a90-c519599a49c4":{"type":"announcement","settings":{"richtext":"<p>📦 Paga anche alla consegna<\/p>","richtext_mobile":"<p>📦 Paga alla consegna<\/p>"}}},"block_order":["toolbar-0","toolbar-1","e44e32f8-44d1-4ff1-8a90-c519599a49c4"],"settings":{"announcement_center":true,"toolbar_social":false,"show_locale_selector":true,"show_currency_selector":true,"show_currency_flags":true}},"header":{"type":"header","blocks":{"edafc6a1-2593-44df-9e43-9a0605f27e59":{"type":"logo","settings":{"logo":"{{ shop.brand.logo }}","desktop_logo_width":200,"mobile_logo_width":140}}},"block_order":["edafc6a1-2593-44df-9e43-9a0605f27e59"],"settings":{"main_menu_link_list":"main-menu","hover_menu":true,"main_menu_alignment":"left","mega_products":true,"header_sticky":true,"header_footer_menu":true,"sticky_index":false,"sticky_collection":false}},"scrolling_text_ceBigX":{"type":"scrolling-text","disabled":true,"settings":{"padding_top":14,"padding_bottom":14,"text":"🔬 Nuovo lotto in produzione 🚨 PREORDINA ORA","link":"shopify:\/\/products\/testowit-regolazione-ormonale-120-cps","text_size":20,"text_spacing":true,"direction":"left","speed":180,"color_scheme":"3"}}},"order":["toolbar","header","scrolling_text_ceBigX"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "t:sections.header-group.name",
+  "sections": {
+    "toolbar": {
+      "type": "toolbar",
+      "blocks": {
+        "toolbar-0": {
+          "type": "announcement",
+          "settings": {
+            "richtext": "<p>🔄 Reso semplice e gratuito in 30 giorni</p>",
+            "richtext_mobile": "<p>🔄 Reso gratuito in 30 giorni</p>"
+          }
+        },
+        "toolbar-1": {
+          "type": "announcement",
+          "settings": {
+            "richtext": "<p>✈️ Spedizione gratuita a partire da €59</p>",
+            "richtext_mobile": "<p>✈️ Spedizione gratuita da €59</p>"
+          }
+        },
+        "e44e32f8-44d1-4ff1-8a90-c519599a49c4": {
+          "type": "announcement",
+          "settings": {
+            "richtext": "<p>📦 Paga anche alla consegna</p>",
+            "richtext_mobile": "<p>📦 Paga alla consegna</p>"
+          }
+        }
+      },
+      "block_order": [
+        "toolbar-0",
+        "toolbar-1",
+        "e44e32f8-44d1-4ff1-8a90-c519599a49c4"
+      ],
+      "settings": {
+        "announcement_center": true,
+        "toolbar_social": false,
+        "show_locale_selector": true,
+        "show_currency_selector": true,
+        "show_currency_flags": true
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "edafc6a1-2593-44df-9e43-9a0605f27e59": {
+          "type": "logo",
+          "settings": {
+            "logo": "{{ shop.brand.logo }}",
+            "desktop_logo_width": 200,
+            "mobile_logo_width": 140
+          }
+        }
+      },
+      "block_order": [
+        "edafc6a1-2593-44df-9e43-9a0605f27e59"
+      ],
+      "settings": {
+        "main_menu_link_list": "main-menu",
+        "hover_menu": true,
+        "main_menu_alignment": "left",
+        "mega_products": true,
+        "header_sticky": true,
+        "header_footer_menu": true,
+        "sticky_index": false,
+        "sticky_collection": false
+      }
+    },
+    "scrolling_text_ceBigX": {
+      "type": "scrolling-text",
+      "disabled": true,
+      "settings": {
+        "padding_top": 14,
+        "padding_bottom": 14,
+        "text": "🔬 Nuovo lotto in produzione 🚨 PREORDINA ORA",
+        "link": "shopify://products/testowit-regolazione-ormonale-120-cps-new",
+        "text_size": 20,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 180,
+        "color_scheme": "3"
+      }
+    }
+  },
+  "order": [
+    "toolbar",
+    "header",
+    "scrolling_text_ceBigX"
+  ]
+}
